@@ -1,0 +1,5 @@
+prompts.txt
+logs/
+data_output/*test*
+.DS_Store
+config-real.py

@@ -10,52 +10,58 @@ Bandy, Jack and Nicholas Diakopoulos. "**Auditing News Curation Systems: A Case 
 ## Installation and Setup Instructions
 
 #### Install Appium
-Download appium-desktop: https://github.com/appium/appium-desktop/releases/latest
-(You can try the brew/npm installation - https://appium.io - but those releases have been buggier in my experience)
+Install Appium and the XCUITest driver via npm:
+```
+npm install -g appium
+appium driver install xcuitest
+```
 
-And the python client: `pip install Appium-Python-Client`
-
-Also, carthage (another dependency) often does not install automatically. Run `brew install carthage` to be sure.
-
+And the Python client and dependencies:
+```
+python3 -m venv .venv
+.venv/bin/pip install Appium-Python-Client selenium
+```
 
 #### Install apple-news-scraper
 After cloning this repository onto your computer,
-1. Run `instruments -s devices` in your terminal
-2. Choose a device, something like `iPhone XS Max (12.1) [XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX] (Simulator)`
-3. Open `get_stories.py` and replace the first few lines with your device information. Afterwards, it may look something like:
+1. List available simulators:
+```
+xcrun simctl list devices
+```
+2. Choose a booted (or available) simulator, e.g. `iPhone 17 Pro (XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)`
+3. Open `get_stories.py` and fill in your device info at the top:
 ```python
 # user-defined variables
-device_name_and_os = 'iPhone XS Max (12.1)'
-device_os = '12.1'
+device_name_and_os = 'iPhone 17 Pro'
+device_os = '18.0'
 udid = 'XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX'
 ```
-4. Change the output folder, where you want to save the data:
+4. Change the output folder if desired:
 ```python
-# easy relative path, keep data in repository
-output_folder = 'data_output/'
-```
-or,
-```python
-# put data in a folder on the desktop
-output_folder = '~/apple_news_data/'
+output_folder = 'data_output'
 ```
 
 
 ## Execution
-First, run the simulator of choice and open the Apple News app: `instruments -w "iPhone XS Max (12.1)"`
-
-Execution should be as easy as `python get_stories.py`
-
-To run repeatedly, I recommend cron. Just make sure you use absolute paths. For example, to run collection every five minutes, add something like this to your crontab:
+Boot the simulator and open the News app:
 ```
-*/5 * * * * /usr/local/bin/python /Users/jack/dev/apple-news-scraper/get_stories.py
+xcrun simctl boot <UDID>
+open -a Simulator
+xcrun simctl launch <UDID> com.apple.news
 ```
 
-If you're in a hurry, you can also just hack out a shell script:
+Start Appium in a separate terminal:
 ```
-while true
-do
-        python get_stories.py &
-        sleep 300
-done
+appium
 ```
+
+Then run the scraper:
+```
+.venv/bin/python get_stories.py
+```
+
+To run repeatedly, use cron. Run `crontab -e` and add:
+```
+*/5 * * * * cd /Users/jack/dev/apple-news-scraper && .venv/bin/python get_stories.py >> logs/cron.log 2>&1
+```
+Make sure `logs/` exists first: `mkdir -p logs`
