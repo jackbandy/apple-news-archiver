@@ -22,4 +22,10 @@ APP_PATH = '/path/to/your/simulator/News.app'
 MIN_STORY_CELL_HEIGHT = 60
 TAB_BAR_HEIGHT = 83   # standard iOS tab bar height in points
 SAFE_TAP_MARGIN = 30  # extra buffer above tab bar
-MAX_TOP_STORIES = 10
+MAX_TOP_STORIES = 10  # used by collect_top_stories_view (COLLECT_TOP_STORIES=True mode)
+
+# Per-section caps for collect_home_page
+MAX_TOP_HOME = 7          # total top stories including plus and audio rows
+MAX_READER_FAVORITES = 4  # reader favorites appearing before the next header
+MAX_POPULAR_STORIES = 5   # "Popular in News+" stories
+MAX_TRENDING = 4          # trending stories

@@ -11,12 +11,7 @@ from appium.options.ios.xcuitest.base import XCUITestOptions
 from appium.webdriver.common.appiumby import AppiumBy
 import xml.dom.minidom
 
-device_name_and_os = 'iPhone 17 Pro Max' 
-device_os = '26.3' 
-#udid = '735D7E9B-CA6A-49C0-A326-2C1DDD624F33'  # update via: xcrun simctl list devices 
-udid = '0C82F604-5F47-44A3-AAD3-601F101C38F6' 
-
-APP_PATH = ('/Library/Developer/CoreSimulator/Volumes/iOS_23D8133/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 26.3.simruntime/Contents/Resources/RuntimeRoot/Applications/News.app')
+from config import device_name_and_os, device_os, udid, APP_PATH
 
 options = XCUITestOptions()
 options.app = APP_PATH

@@ -1,0 +1,60 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 15px; background: #f5f5f7; color: #1d1d1f; }
+header { background: #fff; border-bottom: 1px solid #d2d2d7; padding: 18px 24px; display: flex; align-items: center; justify-content: space-between; }
+header h1 { font-size: 1.4rem; font-weight: 600; }
+header p  { color: #6e6e73; font-size: 0.85rem; margin-top: 4px; }
+#total-count { font-size: 0.82rem; color: #6e6e73; text-align: right; white-space: nowrap; }
+main { max-width: 1200px; margin: 24px auto; padding: 0 24px; }
+footer { text-align: center; padding: 24px; font-size: 0.78rem; color: #aeaeb2; }
+
+#tabs { display: flex; border-bottom: 2px solid #d2d2d7; margin-bottom: 20px; }
+.tab-btn { background: none; border: none; padding: 10px 22px; font-size: 0.9rem; font-weight: 500; color: #6e6e73; cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -2px; }
+.tab-btn:hover { color: #1d1d1f; }
+.tab-btn.active { color: #0066cc; border-bottom-color: #0066cc; }
+.tab-panel { display: none; }
+.tab-panel.active { display: block; }
+
+#controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; background: #fff; border: 1px solid #d2d2d7; border-radius: 10px; padding: 14px 18px; margin-bottom: 20px; }
+#controls label { font-size: 0.8rem; color: #6e6e73; }
+#controls select, #controls input { border: 1px solid #d2d2d7; border-radius: 6px; padding: 6px 10px; font-size: 0.85rem; background: #f5f5f7; margin-left: 4px; }
+#controls input { width: 200px; }
+#result-count { margin-left: auto; font-size: 0.82rem; color: #6e6e73; }
+
+#table-wrap { background: #fff; border: 1px solid #d2d2d7; border-radius: 10px; overflow: hidden; }
+table { width: 100%; border-collapse: collapse; }
+thead th { background: #f5f5f7; padding: 10px 14px; text-align: left; font-size: 0.78rem; font-weight: 600; color: #6e6e73; text-transform: uppercase; letter-spacing: 0.04em; border-bottom: 1px solid #d2d2d7; white-space: nowrap; }
+tbody td { padding: 10px 14px; font-size: 0.88rem; vertical-align: top; }
+#story-body tr { border-bottom: 1px solid #f0f0f0; cursor: pointer; }
+#story-body tr:last-child { border-bottom: none; }
+#story-body tr:hover { background: #f0f6ff; }
+#table-wrap thead th { cursor: pointer; user-select: none; }
+#table-wrap thead th:hover { background: #e9e9ed; }
+#table-wrap thead th.sorted-asc::after  { content: " ↑"; }
+#table-wrap thead th.sorted-desc::after { content: " ↓"; }
+td.headline { max-width: 380px; }
+td.headline a { color: #0066cc; text-decoration: none; font-weight: 500; }
+td.headline a:hover { text-decoration: underline; }
+td.pub  { color: #3a3a3c; }
+td.time { color: #86868b; white-space: nowrap; font-size: 0.82rem; }
+.count  { color: #86868b; font-size: 0.78rem; }
+.badge-edited { display: inline-block; padding: 2px 6px; border-radius: 4px; font-size: 0.72rem; font-weight: 500; background: #fff3cd; color: #7a5c00; white-space: nowrap; }
+.badge  { display: inline-block; padding: 2px 8px; border-radius: 20px; font-size: 0.75rem; font-weight: 500; }
+.badge.top              { background: #e3f0ff; color: #0050a0; }
+.badge.trending         { background: #fff0e0; color: #a04000; }
+.badge.reader_favorites { background: #edf7ed; color: #1a6b1a; }
+.badge.popular          { background: #f5eeff; color: #6000b0; }
+#message { text-align: center; padding: 48px; color: #86868b; }
+
+#visuals-placeholder { background: #fff; border: 1px solid #d2d2d7; border-radius: 10px; padding: 64px 24px; text-align: center; color: #86868b; }
+#visuals-placeholder h2 { font-size: 1.1rem; margin-bottom: 8px; color: #3a3a3c; }
+
+#modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.35); z-index: 100; align-items: center; justify-content: center; }
+#modal-overlay.open { display: flex; }
+#modal { background: #fff; border-radius: 14px; padding: 28px; max-width: 560px; width: 90%; max-height: 80vh; overflow-y: auto; box-shadow: 0 8px 40px rgba(0,0,0,0.18); position: relative; }
+#modal h2 { font-size: 1rem; font-weight: 600; margin-bottom: 4px; line-height: 1.4; }
+#modal .modal-pub { font-size: 0.82rem; color: #6e6e73; margin-bottom: 18px; }
+#modal tbody td { padding: 7px 10px; }
+#modal-close { position: absolute; top: 14px; right: 16px; background: none; border: none; font-size: 1.3rem; color: #86868b; cursor: pointer; }
+#modal-close:hover { color: #1d1d1f; }
+.modal-link { display: inline-block; margin-top: 16px; font-size: 0.82rem; color: #0066cc; text-decoration: none; }
+.modal-link:hover { text-decoration: underline; }

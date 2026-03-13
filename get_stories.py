@@ -13,6 +13,8 @@ __author__ = "Jack Bandy"
 import os
 import re
 import csv
+import json
+import fcntl
 import datetime
 import subprocess
 from time import sleep
@@ -31,10 +33,23 @@ from config import (
     output_folder, output_file,
     COLLECT_TOP_STORIES, APP_PATH,
     MIN_STORY_CELL_HEIGHT, TAB_BAR_HEIGHT, SAFE_TAP_MARGIN, MAX_TOP_STORIES,
+    MAX_TOP_HOME, MAX_READER_FAVORITES, MAX_POPULAR_STORIES, MAX_TRENDING,
 )
 
 
+LOCK_PATH = '/tmp/apple_news_scraper.lock'
+
+
 def main():
+    # Prevent overlapping runs (e.g. if a previous cron job is still running)
+    lock_fd = open(LOCK_PATH, 'w')
+    try:
+        fcntl.flock(lock_fd, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except OSError:
+        print("Another instance is already running — exiting")
+        lock_fd.close()
+        return
+
     # Terminate the app cleanly before wiping data (avoids the app rewriting
     # cache files as we delete them)
     try:
@@ -79,7 +94,8 @@ def main():
         )
     except Exception as e:
         print("Error connecting to Appium: {}".format(e))
-        exit()
+        lock_fd.close()
+        return
 
     sleep(8)  # wait for feed to fully load
 
@@ -111,6 +127,7 @@ def main():
 
         if all_stories:
             save_stories(all_stories)
+            save_json(all_stories, run_time)
             print("Saved {} story rows".format(len(all_stories)))
         else:
             print("No stories found")
@@ -131,14 +148,14 @@ def collect_home_page(driver, run_time):
     Collect stories from the Apple News home page, scrolling as needed.
 
     Layout (top to bottom):
-      - top stories: hero + several cells, section="top", ranks 1-5
-        (Apple News Plus story cells are skipped; audio/promo cells are skipped)
-      - "Trending Stories" header — used to detect section boundary
-      - trending stories: up to 4 cells, section="trending", ranks 1-4
-        (Apple News Plus trending stories are saved even if no link)
+      - "Top Stories": hero + several cells, section="top", ranks 1-5
+      - "Reader Favorites" header — collected as section="reader_favorites"
+      - "For You" / "Latest Puzzles" / "Editors' Picks" — skipped entirely
+      - "Trending Stories" header — collected as section="trending", ranks 1-4
 
-    Section is determined by the visible y-position of the "Trending Stories"
-    header element, not by the audio cell boundary (which is unreliable).
+    Section boundaries are determined by the visible y-position of the
+    corresponding header elements (XCUITest returns off-screen elements with
+    negative y, so boundaries stay active after scrolling past them).
     Cell positions are snapshotted before long-pressing to avoid stale elements.
     '''
     window_size = driver.get_window_size()
@@ -146,20 +163,47 @@ def collect_home_page(driver, run_time):
     window_width = window_size['width']
     safe_y = window_height - TAB_BAR_HEIGHT - SAFE_TAP_MARGIN
 
+    # Headers that mark sections to skip entirely (algorithmic / non-editorial).
+    # Add new section names here as they're discovered.
+    SKIP_ZONE_HEADERS = ("For You", "Editors' Picks", "Latest Puzzles")
+
     stories = []
     seen_labels = set()
-    top_rank = 0
+    top_rank = 0           # numeric rank within top section
+    top_total = 0          # total top rows collected (numeric + plus + audio), cap = MAX_TOP_HOME
+    reader_favorites_rank = 0
+    popular_rank = 0
     trending_rank = 0
     no_progress_streak = 0
-    passed_audio = False      # True once the audio cell has been seen
-    cells_after_audio = 0    # cells encountered after audio, before trending appears
 
-    for attempt in range(20):
-        if top_rank >= 5 and trending_rank >= 4:
+    for attempt in range(40):
+        if top_total >= MAX_TOP_HOME and trending_rank >= MAX_TRENDING:
             break
 
-        # Find y-position of the Trending Stories section header (if visible)
+        # Locate section header y-positions (XCUITest returns off-screen
+        # elements with negative y, so these stay active after scrolling past).
+        reader_favorites_y = None
+        for_you_y = None
+        popular_section_y = None
         trending_section_y = None
+        try:
+            el = driver.find_element(AppiumBy.ACCESSIBILITY_ID, 'Reader Favorites')
+            reader_favorites_y = el.location['y']
+        except Exception:
+            pass
+        for header in SKIP_ZONE_HEADERS:
+            try:
+                el = driver.find_element(AppiumBy.ACCESSIBILITY_ID, header)
+                y = el.location['y']
+                if for_you_y is None or y < for_you_y:
+                    for_you_y = y
+            except Exception:
+                pass
+        try:
+            el = driver.find_element(AppiumBy.ACCESSIBILITY_ID, 'Popular in News+')
+            popular_section_y = el.location['y']
+        except Exception:
+            pass
         try:
             el = driver.find_element(AppiumBy.ACCESSIBILITY_ID, 'Trending Stories')
             trending_section_y = el.location['y']
@@ -193,8 +237,8 @@ def collect_home_page(driver, run_time):
                 'label': label,
             })
 
-        print("Attempt {}: {} cells, trending_header_y={}".format(
-            attempt + 1, len(snapshots), trending_section_y))
+        print("Attempt {}: {} cells, reader_fav_y={}, for_you_y={}, popular_y={}, trending_y={}".format(
+            attempt + 1, len(snapshots), reader_favorites_y, for_you_y, popular_section_y, trending_section_y))
 
         made_progress = False
         for s in snapshots:
@@ -203,8 +247,17 @@ def collect_home_page(driver, run_time):
             if label and label in seen_labels:
                 continue
 
-            # Determine section by position relative to Trending Stories header
             in_trending = trending_section_y is not None and s['y'] > trending_section_y
+            in_popular = (popular_section_y is not None and s['y'] > popular_section_y
+                          and not in_trending)
+            in_for_you = (for_you_y is not None and s['y'] > for_you_y
+                          and not in_popular and not in_trending)
+            in_reader_favorites = (reader_favorites_y is not None and s['y'] > reader_favorites_y
+                                   and not in_for_you and not in_popular and not in_trending)
+
+            if in_for_you:
+                seen_labels.add(label)
+                continue
 
             is_plus_story = 'Apple News Plus' in label
             # Promo cell: short label containing "News+" but not an actual story
@@ -217,31 +270,43 @@ def collect_home_page(driver, run_time):
                 continue  # News+ promo tab, no story
 
             if in_trending:
-                if trending_rank >= 4:
+                if trending_rank >= MAX_TRENDING:
                     seen_labels.add(label)
                     continue
                 trending_rank += 1
                 rank = trending_rank
                 section = 'trending'
-            elif is_audio:
-                passed_audio = True
-                rank = 'audio'
-                section = 'top'
-            elif passed_audio:
-                # After audio but trending section not yet visible — skip entirely
-                cells_after_audio += 1
+            elif in_popular:
+                if popular_rank >= MAX_POPULAR_STORIES:
+                    seen_labels.add(label)
+                    continue
+                popular_rank += 1
+                rank = popular_rank
+                section = 'popular'
+            elif in_reader_favorites:
+                if reader_favorites_rank >= MAX_READER_FAVORITES:
+                    seen_labels.add(label)
+                    continue
+                reader_favorites_rank += 1
+                rank = reader_favorites_rank
+                section = 'reader_favorites'
+            elif top_total >= MAX_TOP_HOME:
+                # Top section is full — skip until a named section header appears
                 seen_labels.add(label)
                 continue
+            elif is_audio:
+                rank = 'audio'
+                section = 'top'
+                top_total += 1
             elif is_plus_story:
                 rank = 'plus'
                 section = 'top'
-            elif top_rank >= 5:
-                seen_labels.add(label)
-                continue
+                top_total += 1
             else:
                 top_rank += 1
                 rank = top_rank
                 section = 'top'
+                top_total += 1
 
             x_c = max(80, min(s['x'] + s['w'] // 2, window_width - 80))
             y_c = max(100, min(s['y'] + s['h'] // 2, safe_y - 20))
@@ -259,6 +324,16 @@ def collect_home_page(driver, run_time):
             raw, _ = long_press_copy_link(driver, x_c, y_c, window_height)
             seen_labels.add(label)
 
+            # If the long-press accidentally opened a story (0 cells visible),
+            # swipe back to the home feed before continuing.
+            if raw is None:
+                check = driver.find_elements(AppiumBy.CLASS_NAME, 'XCUIElementTypeCell')
+                if not any(c.size['height'] >= MIN_STORY_CELL_HEIGHT for c in check):
+                    print("  Navigated away from home feed, swiping back...")
+                    back_swipe(driver, window_height)
+                    sleep(2)
+                    break  # restart the outer attempt loop with a fresh cell scan
+
             link = ''
             if raw:
                 idx = raw.find('https://apple.news')
@@ -269,31 +344,34 @@ def collect_home_page(driver, run_time):
             # Plus/audio/trending rows are saved even without a link.
             if not link and section == 'top' and isinstance(rank, int):
                 top_rank -= 1
+                top_total -= 1
                 continue
 
-            stories.append((link, rank, section, run_time, pub_time, publication, headline))
-            print("  [{}/{}]{} {} | {} | {}".format(
-                section, rank,
-                ' (no link)' if not link else '',
-                publication, headline[:60], link[:50] if link else ''))
+            article_headline = get_article_headline(driver, x_c, y_c, window_height)
+
+            stories.append((link, rank, section, run_time, pub_time, publication, headline, article_headline))
+            print("  [{}/{}]{}".format(section, rank, ' (no link)' if not link else ''))
+            print("    Publisher:        {}".format(publication or '—'))
+            print("    Display Headline: {}".format(headline))
+            print("    Article Headline: {}".format(article_headline or '—'))
+            print("    Link:             {}".format(link or '—'))
             made_progress = True
 
         if not made_progress:
             no_progress_streak += 1
-            # While scrolling past post-audio filler looking for Trending,
-            # don't give up early — keep going until cells_after_audio limit.
-
-            still_searching_trending = passed_audio and trending_section_y is None
+            # Keep scrolling if we can see we're mid-feed but Trending not yet found.
+            still_searching_trending = (
+                (for_you_y is not None or reader_favorites_y is not None
+                 or popular_section_y is not None)
+                and trending_section_y is None
+            )
             if no_progress_streak >= 10 and not still_searching_trending:
                 break  # nothing new after consecutive scrolls
+            if no_progress_streak >= 20:
+                print("Trending not found after scrolling through mid-feed, stopping")
+                break
         else:
             no_progress_streak = 0
-
-        # After the audio cell, if trending still hasn't appeared after ~5
-        # sections (~40 cells) of filler, it won't — stop scrolling.
-        if passed_audio and trending_section_y is None and cells_after_audio >= 40:
-            print("Trending not found after {} cells post-audio, stopping".format(cells_after_audio))
-            break
 
         # Scroll down to reveal more content
         from_y = min(safe_y - 50, window_height - 150)
@@ -389,8 +467,14 @@ def collect_top_stories_view(driver, run_time):
             seen_this_run.add(link)
             rank += 1
 
-            stories.append((link, rank, 'top', run_time, pub_time, publication, headline))
-            print("  [top/{}] {} | {} | {}".format(rank, publication, headline[:60], link[:50]))
+            article_headline = get_article_headline(driver, x_c, y_c, window_height)
+
+            stories.append((link, rank, 'top', run_time, pub_time, publication, headline, article_headline))
+            print("  [top/{}]".format(rank))
+            print("    Publisher:        {}".format(publication or '—'))
+            print("    Display Headline: {}".format(headline))
+            print("    Article Headline: {}".format(article_headline or '—'))
+            print("    Link:             {}".format(link))
 
         # Scroll down to reveal new content
         from_y = min(window_height - 200, safe_y - 50)
@@ -410,9 +494,29 @@ def save_stories(stories):
     with open(output_file, 'a', newline='') as f:
         writer = csv.writer(f)
         if write_header:
-            writer.writerow(['link', 'rank', 'section', 'run_time', 'pub_time', 'publication', 'headline'])
+            writer.writerow(['link', 'rank', 'section', 'run_time', 'pub_time', 'publication', 'headline', 'article_headline'])
         for row in stories:
             writer.writerow(row)
+
+
+def save_json(stories, run_time):
+    '''Write a JSON file for this run to data_output/json/<run_time>.json.'''
+    json_folder = os.path.join(output_folder, 'json')
+    os.makedirs(json_folder, exist_ok=True)
+    filename = run_time.replace(':', '-').replace(' ', '_') + '.json'
+    path = os.path.join(json_folder, filename)
+
+    keys = ['link', 'rank', 'section', 'run_time', 'pub_time', 'publication', 'headline', 'article_headline']
+    records = [dict(zip(keys, row)) for row in stories]
+
+    payload = {
+        'run_time': run_time,
+        'story_count': len(records),
+        'stories': records,
+    }
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(payload, f, indent=2, ensure_ascii=False)
+    print("JSON saved to {}".format(path))
 
 
 
@@ -433,6 +537,17 @@ def swipe(driver, from_x, from_y, to_x, to_y, duration=1.0):
     actions.perform()
 
 
+def back_swipe(driver, window_height):
+    '''Quick left-edge swipe to trigger iOS back navigation.'''
+    actions = ActionChains(driver)
+    actions.w3c_actions = ActionBuilder(driver, mouse=PointerInput(interaction.POINTER_TOUCH, "touch"))
+    actions.w3c_actions.pointer_action.move_to_location(5, window_height // 2)
+    actions.w3c_actions.pointer_action.pointer_down()
+    actions.w3c_actions.pointer_action.move_to_location(200, window_height // 2)
+    actions.w3c_actions.pointer_action.release()
+    actions.perform()
+
+
 def long_press(driver, x, y, duration=1.5):
     actions = ActionChains(driver)
     actions.w3c_actions = ActionBuilder(driver, mouse=PointerInput(interaction.POINTER_TOUCH, "touch"))
@@ -441,6 +556,54 @@ def long_press(driver, x, y, duration=1.5):
     actions.w3c_actions.pointer_action.pause(duration)
     actions.w3c_actions.pointer_action.release()
     actions.perform()
+
+
+def get_article_headline(driver, x, y, window_height):
+    '''Tap a story card at (x, y), extract the article headline element
+    (XCUIElementTypeOther with traits="Header"), then tap the Back button.
+    Returns the headline string, or '' on failure.'''
+    tap(driver, x, y)
+    sleep(3)
+
+    article_headline = ''
+    try:
+        # The article ScrollView's name attribute is "Publication, Headline" —
+        # the most reliable source and avoids matching section/category labels.
+        scroll_els = driver.find_elements(
+            AppiumBy.XPATH, '//XCUIElementTypeScrollView[contains(@name, ",")]'
+        )
+        for el in scroll_els:
+            name = (el.get_attribute('name') or '').strip()
+            if len(name) > 20:
+                _, headline, _ = parse_cell_label(name)
+                if headline:
+                    article_headline = headline
+                    break
+    except Exception:
+        pass
+
+    if not article_headline:
+        try:
+            # Fallback: traits="Header" elements, skipping short category labels
+            # (e.g. "World news", "Technology") which appear before the headline.
+            els = driver.find_elements(AppiumBy.XPATH, '//XCUIElementTypeOther[@traits="Header"]')
+            for el in els:
+                val = (el.get_attribute('value') or '').strip()
+                if len(val) > 20:
+                    article_headline = val
+                    break
+        except Exception:
+            pass
+
+    try:
+        back_btn = driver.find_element(AppiumBy.ACCESSIBILITY_ID, 'BackButton')
+        tap(driver, back_btn.location['x'] + back_btn.size['width'] // 2,
+            back_btn.location['y'] + back_btn.size['height'] // 2)
+    except Exception:
+        back_swipe(driver, window_height)
+    sleep(2)
+
+    return article_headline
 
 
 def long_press_copy_link(driver, x, y, window_height):
@@ -459,7 +622,7 @@ def long_press_copy_link(driver, x, y, window_height):
         return driver.get_clipboard_text(), None
     except Exception:
         print("  No 'Copy Link' found, dismissing")
-        tap(driver, 200, 80)  # top of screen, well above any context menu
+        tap(driver, 200, 30)  # status bar — safely above all story cards
         sleep(1.5)
         return None, None
 
