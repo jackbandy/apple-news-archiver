@@ -36,9 +36,11 @@ function render() {
     const link = s.link
       ? `<a href="${s.link}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(displayHeadline)}</a>`
       : esc(displayHeadline) || '—';
+    const isEdited = s.section === 'top' && s.article_headline && s.headline !== s.article_headline;
+    const editedBadge = isEdited ? ' <span class="badge-edited">edited</span>' : '';
     tr.innerHTML = `
       <td>${badge(s.section)}</td>
-      <td class="headline">${link}${countNote}</td>
+      <td class="headline">${link}${countNote}${editedBadge}</td>
       <td class="pub">${esc(s.publication) || '—'}</td>
       <td class="time">${fmtDate(s.first_seen)}</td>
       <td class="time">${fmtDate(s.last_seen)}</td>`;
