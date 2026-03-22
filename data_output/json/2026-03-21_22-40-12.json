@@ -1,0 +1,66 @@
+{
+  "run_time": "2026-03-21 22:40:12",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AtD75lkU-Rxmce0PF0OtEWg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-21 22:40:12",
+      "pub_time": "2026-03-21 20:40:14",
+      "publication": "The Washington Post",
+      "headline": "Trump threatens to “obliterate” Iran’s power plants if Strait of Hormuz does not open",
+      "article_headline": "Trump threatens to “obliterate” Iran’s power plants if Strait of Hormuz does not open"
+    },
+    {
+      "link": "https://apple.news/AoNLkmG7wSGG4FTASS-6nKA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-21 22:40:12",
+      "pub_time": "2026-03-21 20:40:42",
+      "publication": "The Associated Press",
+      "headline": "Former FBI Director Robert Mueller, who investigated Russia-Trump campaign ties, dies at 81",
+      "article_headline": "Former FBI Director Robert Mueller, who investigated Russia-Trump campaign ties, dies"
+    },
+    {
+      "link": "https://apple.news/AITnMwO3uTByWy1p1OH9i6w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-21 22:40:12",
+      "pub_time": "2026-03-21 20:41:10",
+      "publication": "Haaretz",
+      "headline": "At least 100 wounded in southern Israel in latest wave of Iranian missile attacks",
+      "article_headline": "At least 100 wounded in southern Israel in latest wave of Iranian missile attacks"
+    },
+    {
+      "link": "https://apple.news/ApD4bLYD7TViFbOW32sCSbw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-21 22:40:12",
+      "pub_time": "2026-03-21 20:41:41",
+      "publication": "The Wall Street Journal",
+      "headline": "Trump says he’ll send ICE to airports if funding standoff continues",
+      "article_headline": "Trump says he’ll send ICE to airports if funding standoff continues"
+    },
+    {
+      "link": "https://apple.news/A65lyDvA8Q2Czj294fIqtug",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-21 22:40:12",
+      "pub_time": "2026-03-21 20:42:13",
+      "publication": "Los Angeles Times",
+      "headline": "From streets to murals, the erasure of Cesar Chavez is fast underway in California",
+      "article_headline": "From streets to murals, the erasure of Cesar Chavez is fast underway in California"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-21 22:40:12",
+      "pub_time": "2026-03-21 20:42:41",
+      "publication": "Bloomberg Businessweek",
+      "headline": "More Americans are retiring aboard residential cruise ships",
+      "article_headline": ""
+    }
+  ]
+}
