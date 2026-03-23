@@ -1,0 +1,66 @@
+{
+  "run_time": "2026-03-22 21:20:13",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/A7BIeuH8PTaWMI8RNCxmRrg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-22 21:20:13",
+      "pub_time": "2026-03-22 19:20:14",
+      "publication": "NBC News",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AZZe7oBPJSHGpLsxUdWB3bg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-22 21:20:13",
+      "pub_time": "",
+      "publication": "NPR",
+      "headline": "ICE officers set to deploy to airports as delays mount, border czar Homan confirms",
+      "article_headline": "ICE officers set to deploy to airports as delays mount, border czar Homan confirms"
+    },
+    {
+      "link": "https://apple.news/AOt6qd8xnQeeA1uhdU1v9bw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-22 21:20:13",
+      "pub_time": "2026-03-22 19:21:14",
+      "publication": "Reuters",
+      "headline": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum",
+      "article_headline": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum"
+    },
+    {
+      "link": "https://apple.news/ASv6SBtu4RAWtY-OkyILIAA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-22 21:20:13",
+      "pub_time": "2026-03-22 19:21:42",
+      "publication": "Los Angeles Times",
+      "headline": "More than half a million ballots seized by top GOP candidate in California governor’s race",
+      "article_headline": "More than half a million ballots seized by top GOP candidate in California governor’s race"
+    },
+    {
+      "link": "https://apple.news/AuGdbHLCESxOj6ZYNEKoI8w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-22 21:20:13",
+      "pub_time": "",
+      "publication": "Yahoo Sports",
+      "headline": "March Madness, Minnesota stuns Mississippi with late comeback, buzzer-beater to advance to Sweet 16",
+      "article_headline": "Minnesota stuns Mississippi with late comeback, buzzer-beater to advance to Sweet 16"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-22 21:20:13",
+      "pub_time": "2026-03-22 19:22:43",
+      "publication": "The New Yorker",
+      "headline": "A preschool worker was shot by Border Patrol — and labeled a “domestic terrorist”",
+      "article_headline": ""
+    }
+  ]
+}
