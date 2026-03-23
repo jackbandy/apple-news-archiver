@@ -1,0 +1,66 @@
+{
+  "run_time": "2026-03-22 11:20:13",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AtivcjMfXRH-U8yLmeHfn0A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-22 11:20:13",
+      "pub_time": "2026-03-22 10:20:14",
+      "publication": "Bloomberg",
+      "headline": "Trump and Iran trade war threats with Strait of Hormuz crisis building",
+      "article_headline": "Trump and Iran trade war threats with Strait of Hormuz crisis building"
+    },
+    {
+      "link": "https://apple.news/AJ8vv5i3KTjy-dge_2qg6yQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-22 11:20:13",
+      "pub_time": "2026-03-22 10:20:42",
+      "publication": "Reuters",
+      "headline": "Cuba begins recovery efforts after second grid collapse in a week",
+      "article_headline": "Cuba begins recovery efforts after second grid collapse in a week"
+    },
+    {
+      "link": "https://apple.news/AJyftcVDpRRSOg4Dz7HvtIA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-22 11:20:13",
+      "pub_time": "",
+      "publication": "Fox News",
+      "headline": "Trump says ICE will deploy to airports Monday to assist TSA amid funding standoff",
+      "article_headline": "Trump says ICE will deploy to airports Monday to assist TSA amid funding standoff"
+    },
+    {
+      "link": "https://apple.news/ATz8-7wiZQlijxUkr4ShG_g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-22 11:20:13",
+      "pub_time": "2026-03-22 10:21:42",
+      "publication": "People",
+      "headline": "Savannah Guthrie “desperately” pleads with Arizona community for mom’s return",
+      "article_headline": "Savannah Guthrie “desperately” pleads with Arizona community for mom’s return"
+    },
+    {
+      "link": "https://apple.news/Aq6YkN3BrQUG3cPN5kOgV1g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-22 11:20:13",
+      "pub_time": "",
+      "publication": "ESPN",
+      "headline": "March Madness, Ranking the remaining 32 teams in women’s March Madness",
+      "article_headline": "Ranking the remaining 32 teams in women’s March Madness"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-22 11:20:13",
+      "pub_time": "2026-03-22 10:22:43",
+      "publication": "The Wall Street Journal",
+      "headline": "A U.S. citizen now runs Mexico’s top drug cartel — and targeting him is complicated",
+      "article_headline": ""
+    }
+  ]
+}

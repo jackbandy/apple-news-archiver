@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-11 20:20:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AKRjmELugSTKcJ5WyEkuwEA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-11 20:20:13",
+      "pub_time": "2026-03-11 20:10:14",
+      "publication": "The Washington Post",
+      "headline": "Iranian school was on U.S. target list, may have been mistaken as military site, MORE COVERAGE",
+      "article_headline": "Iranian school was on U.S. target list, may have been mistaken as military site"
+    },
+    {
+      "link": "https://apple.news/AhrbSP5RIRhilqrigBeB0cg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-11 20:20:13",
+      "pub_time": "2026-03-11 20:10:46",
+      "publication": "The Wall Street Journal",
+      "headline": "Veterans Affairs to advocate for legal guardianship for some vets",
+      "article_headline": "Veterans Affairs to advocate for legal guardianship for some vets"
+    },
+    {
+      "link": "https://apple.news/AULYWGx4mSiuVAWjV4YH6fA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-11 20:20:13",
+      "pub_time": "2026-03-11 20:11:14",
+      "publication": "The Associated Press",
+      "headline": "Some states are reviving a push to tax the rich",
+      "article_headline": "Some states are reviving a push to tax the rich"
+    },
+    {
+      "link": "https://apple.news/AhrbSP5RIRhilqrigBeB0cg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-11 20:20:13",
+      "pub_time": "2026-03-11 20:09:47",
+      "publication": "The Wall Street Journal",
+      "headline": "Veterans Affairs to advocate for legal guardianship for some vets",
+      "article_headline": "Veterans Affairs to advocate for legal guardianship for some vets"
+    },
+    {
+      "link": "https://apple.news/AULYWGx4mSiuVAWjV4YH6fA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-11 20:20:13",
+      "pub_time": "2026-03-11 20:10:15",
+      "publication": "The Associated Press",
+      "headline": "Some states are reviving a push to tax the rich",
+      "article_headline": "Some states are reviving a push to tax the rich"
+    },
+    {
+      "link": "https://apple.news/AviKgdvFGQACsepjHHQQWWA",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 20:20:13",
+      "pub_time": "2026-03-11 20:10:42",
+      "publication": "The Atlantic",
+      "headline": "The research facility in remote Alaska that gets blamed for every hurricane",
+      "article_headline": "This fish has cloned itself for 100,000 years. Scientists just figured out how."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 20:20:13",
+      "pub_time": "2026-03-11 20:10:16",
+      "publication": "The Atlantic",
+      "headline": "The research facility in remote Alaska that gets blamed for every hurricane",
+      "article_headline": ""
+    }
+  ]
+}

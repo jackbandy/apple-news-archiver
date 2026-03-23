@@ -1,0 +1,66 @@
+{
+  "run_time": "2026-03-13 01:00:13",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AthVwuUnWQ5y30xByfADtgw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-13 01:00:13",
+      "pub_time": "2026-03-13 00:07:14",
+      "publication": "The Associated Press",
+      "headline": "U.S. military refueling plane goes down in Iraq; rescue efforts underway, MORE COVERAGE",
+      "article_headline": "U.S. military refueling plane goes down in Iraq; rescue efforts underway"
+    },
+    {
+      "link": "https://apple.news/A8QCeJEQWRoagczlM_tti6w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-13 01:00:13",
+      "pub_time": "2026-03-13 00:07:46",
+      "publication": "Reuters",
+      "headline": "Michigan synagogue, Virginia university targeted in unnerving day of violence",
+      "article_headline": "Michigan synagogue, Virginia university targeted in unnerving day of violence"
+    },
+    {
+      "link": "https://apple.news/A6hVLTwQsTou3_ipJkujkxA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-13 01:00:13",
+      "pub_time": "2026-03-13 00:08:13",
+      "publication": "POLITICO",
+      "headline": "Immigration detention cases decline amid Trump administration pullback from hardline tactics",
+      "article_headline": "Immigration detention cases decline amid Trump administration pullback from hardline tactics"
+    },
+    {
+      "link": "https://apple.news/A8QCeJEQWRoagczlM_tti6w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-13 01:00:13",
+      "pub_time": "2026-03-13 00:07:46",
+      "publication": "Reuters",
+      "headline": "Michigan synagogue, Virginia university targeted in unnerving day of violence",
+      "article_headline": "Michigan synagogue, Virginia university targeted in unnerving day of violence"
+    },
+    {
+      "link": "https://apple.news/A6hVLTwQsTou3_ipJkujkxA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-13 01:00:13",
+      "pub_time": "2026-03-13 00:08:14",
+      "publication": "POLITICO",
+      "headline": "Immigration detention cases decline amid Trump administration pullback from hardline tactics",
+      "article_headline": "Immigration detention cases decline amid Trump administration pullback from hardline tactics"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-13 01:00:13",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "headline": "Shai Gilgeous-Alexander breaks Wilt Chamberlain’s NBA record for consecutive 20-point games",
+      "article_headline": ""
+    }
+  ]
+}

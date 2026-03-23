@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Apple News Story Explorer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header>
+  <div id="header-left">
+    <h1>Apple News Story Explorer</h1>
+    <p>Browse and filter collected Apple News stories</p>
+  </div>
+  <div id="total-count"></div>
+</header>
+
+<main>
+  <div id="tabs">
+    <button class="tab-btn active" data-tab="data-table">Data Table</button>
+    <button class="tab-btn" data-tab="visuals">Visuals</button>
+  </div>
+
+  <div id="data-table" class="tab-panel active">
+    <div id="controls">
+      <label>Section
+        <select id="filter-section">
+          <option value="">All</option>
+          <option value="top">Top</option>
+          <option value="trending">Trending</option>
+          <option value="reader_favorites">Reader Favorites</option>
+          <option value="popular">Popular in News+</option>
+        </select>
+      </label>
+      <label>Publication <select id="filter-pub"><option value="">All</option></select></label>
+      <label>Search <input type="text" id="search" placeholder="headline, publication…" /></label>
+      <label><input type="checkbox" id="filter-edited" /> Edited headlines only</label>
+      <label><input type="checkbox" id="filter-has-link" /> Has link only</label>
+      <span id="result-count"></span>
+    </div>
+    <div id="table-wrap">
+      <div id="message">Loading data…</div>
+      <table id="story-table" style="display:none">
+        <thead><tr>
+          <th data-col="section">Section</th>
+          <th data-col="headline">Headline</th>
+          <th data-col="publication">Publication</th>
+          <th data-col="first_seen">Initial Observation</th>
+          <th data-col="last_seen">Most Recent Observation</th>
+        </tr></thead>
+        <tbody id="story-body"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div id="visuals" class="tab-panel">
+    <div id="visuals-placeholder">
+      <h2>Visuals coming soon</h2>
+      <p>Charts and graphs will appear here.</p>
+    </div>
+  </div>
+</main>
+
+<div id="modal-overlay">
+  <div id="modal">
+    <button id="modal-close">&times;</button>
+    <h2 id="modal-headline"></h2>
+    <div class="modal-pub" id="modal-pub"></div>
+    <div id="modal-headlines" style="display:none">
+      <p class="modal-headline-row"><span class="modal-headline-label">Apple News headline:</span> <span id="modal-display-headline"></span></p>
+      <p class="modal-headline-row"><span class="modal-headline-label">Article headline:</span> <span id="modal-article-headline"></span></p>
+    </div>
+    <table>
+      <thead><tr><th>Observed At</th><th>Section</th><th>Rank</th></tr></thead>
+      <tbody id="modal-body"></tbody>
+    </table>
+    <a id="modal-link" class="modal-link" target="_blank" rel="noopener">Open in Apple News &#8594;</a>
+  </div>
+</div>
+
+<footer>Apple News Story Explorer &mdash; data collected via get_stories.py</footer>
+
+<script src="js/csv.js"></script>
+<script src="js/data.js"></script>
+<script src="js/render.js"></script>
+<script src="js/modal.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

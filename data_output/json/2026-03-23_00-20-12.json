@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-23 00:20:12",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A7BIeuH8PTaWMI8RNCxmRrg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-23 00:20:12",
+      "pub_time": "2026-03-22 23:20:14",
+      "publication": "NBC News",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/ArOl7OPmNRkm1cYLsU8D1WA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-23 00:20:12",
+      "pub_time": "2026-03-22 23:20:42",
+      "publication": "The Washington Post",
+      "headline": "Trump threats, U.S. troop build-up raise specter of battle for Hormuz",
+      "article_headline": "Trump threats, U.S. troop build-up raise specter of battle for Hormuz"
+    },
+    {
+      "link": "https://apple.news/Au-EJsjmhSjGORENBWh0oSQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-23 00:20:12",
+      "pub_time": "2026-03-22 23:21:09",
+      "publication": "Reuters",
+      "headline": "As New Mexico investigates, questions are raised about Epstein’s links to the powerful",
+      "article_headline": "As New Mexico investigates, questions are raised about Epstein’s links to the powerful"
+    },
+    {
+      "link": "https://apple.news/ASv6SBtu4RAWtY-OkyILIAA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-23 00:20:12",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "headline": "More than half a million ballots seized by top GOP candidate in California governor’s race",
+      "article_headline": "More than half a million ballots seized by top GOP candidate in California governor’s race"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-23 00:20:12",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "headline": "$5 diesel is crushing truckers. It will soon be felt across the economy.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-23 00:20:12",
+      "pub_time": "2026-03-22 23:22:27",
+      "publication": "The New Yorker",
+      "headline": "A preschool worker was shot by Border Patrol — and labeled a “domestic terrorist”",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A53SMEx0wRoe4sW8ehLE_Xw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-23 00:20:12",
+      "pub_time": "2026-03-22 18:22:54",
+      "publication": "NBC News",
+      "headline": "Chappell Roan addresses security guard's encounter that left an 11-year-old fan 'in tears'",
+      "article_headline": "Chappell Roan addresses security guard's encounter that left an 11-year-old fan 'in tears'"
+    }
+  ]
+}

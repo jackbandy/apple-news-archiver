@@ -1,0 +1,6 @@
+prompts.txt
+logs/
+.DS_Store
+config_real.py
+config-real.py
+.venv/

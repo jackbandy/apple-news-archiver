@@ -1,0 +1,216 @@
+{
+  "run_time": "2026-03-11 18:50:12",
+  "story_count": 21,
+  "stories": [
+    {
+      "link": "https://apple.news/Amt_guG2EQ7GJ6gR9obXYyA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "2026-03-11 18:01:13",
+      "publication": "The Guardian",
+      "headline": "Iran escalates attacks on infrastructure and transport networks across the Gulf, MORE DETAILS",
+      "article_headline": "Iran escalates attacks on infrastructure and transport networks across the Gulf"
+    },
+    {
+      "link": "https://apple.news/AtCapPy59QF2Jz8wgfQ_5Cg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "",
+      "publication": "Fox News",
+      "headline": "Texas GOP senator reverses on filibuster stance to pass SAVE Act as Trump weighs endorsement",
+      "article_headline": "Texas GOP senator reverses on filibuster stance to pass SAVE Act as Trump weighs endorsement"
+    },
+    {
+      "link": "https://apple.news/AhrbSP5RIRhilqrigBeB0cg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "2026-03-11 18:01:23",
+      "publication": "The Wall Street Journal",
+      "headline": "Veterans Affairs to pursue legal guardianship of homeless vets",
+      "article_headline": "Veterans Affairs to pursue legal guardianship of homeless vets"
+    },
+    {
+      "link": "https://apple.news/AQWYpcniVS_ax-QJ_C7w4wA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "2026-03-11 18:01:50",
+      "publication": "NPR",
+      "headline": "DOJ quietly begins restoring gun rights to some people with felony convictions",
+      "article_headline": "DOJ quietly begins restoring gun rights to some people with felony convictions"
+    },
+    {
+      "link": "https://apple.news/A95ovU9jWSb2bcutx-5BWEw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "2026-03-11 18:02:18",
+      "publication": "The Associated Press",
+      "headline": "Lords a-leaving: Britain is ejecting hereditary nobles from Parliament after 700 years",
+      "article_headline": "Lords a-leaving: Britain is ejecting hereditary nobles from Parliament after 700 years"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "2026-03-11 18:00:51",
+      "publication": "The Atlantic",
+      "headline": "The research facility in remote Alaska that gets blamed for every hurricane",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "2026-03-11 18:00:55",
+      "publication": "The Atlantic",
+      "headline": "The research facility in remote Alaska that gets blamed for every hurricane",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "2026-03-11 18:35:24",
+      "publication": "Entertainment Weekly",
+      "headline": "Rosamund Pike feels 'lucky to have survived' this early-career bomb",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "2026-03-11 18:20:41",
+      "publication": "Rolling Stone",
+      "headline": "Lord Sear, One of Hip-Hop Radio’s Most Distinctive Voices, Dead At 53",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "2026-03-11 17:55:01",
+      "publication": "The Hollywood Reporter",
+      "headline": "Gen Z Is Here to Save Theaters",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "headline": "Americans are leaving the U.S. in record numbers, Drew Hinshaw and Joe Parkinson",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "headline": "ADHD drugs work. But not the way experts thought., Mark Johnson",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "headline": "What going off Ozempic does to your body, Sumathi Reddy",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "2026-03-11 18:12:07",
+      "publication": "The Athletic",
+      "headline": "The Iranian women soccer players who chose defection over returning to a war zone",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "2026-03-11 13:58:00",
+      "publication": "New York Magazine",
+      "headline": "Lewandowski May Have Bragged His Way Out of a Trump Pardon",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "headline": "New York Magazine, The Doctors Who Helped Epstein Keep His ‘Girls’ in Shape, E.J. Dickson",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "",
+      "publication": "Consumer Reports",
+      "headline": "CR’s Reviews of New Cars From Tesla & Toyota",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "",
+      "publication": "Consumer Reports",
+      "headline": "Best & Worst Used Cars: How to Get a Great Pre-Owned Vehicle at the Right Price",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "",
+      "publication": "ELLE Australia",
+      "headline": "Sunday Rose Kidman Urban is fashion’s newest muse — and she’s just getting started",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "",
+      "publication": "Travel + Leisure",
+      "headline": "This Adults-only, All-inclusive Resort Feels Like a Caribbean Escape—in the Florida Keys, Elizabeth Rhodes",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 18:50:12",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "headline": "Entertainment Weekly, Cowboys QB Dak Prescott’s ex-fianceé reacts to prenup rumors after they canceled their wedding last-minute, Marina Watts",
+      "article_headline": ""
+    }
+  ]
+}

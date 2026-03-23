@@ -1,0 +1,116 @@
+{
+  "run_time": "2026-03-13 12:00:12",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AkRMf3Wh_R5-MR9LzcXj0RQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-13 12:00:12",
+      "pub_time": "2026-03-13 11:27:14",
+      "publication": "BBC News",
+      "headline": "All 6 crewmembers killed after U.S. refueling plane crashes in Iraq",
+      "article_headline": "All six crew members killed after US refuelling plane crashes in Iraq"
+    },
+    {
+      "link": "https://apple.news/Ab1OwqkEhTnSCcdpVRyW5PQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-13 12:00:12",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "headline": "Economy was shakier than it appeared heading into Iran war, data shows",
+      "article_headline": "Economy was shakier than it appeared heading into Iran war, data shows"
+    },
+    {
+      "link": "https://apple.news/Au8gl4Sj3Qk-9SKnskji1SQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-13 12:00:12",
+      "pub_time": "2026-03-13 11:27:13",
+      "publication": "Haaretz",
+      "headline": "Calls mount for more security at U.S. Jewish institutions after Michigan synagogue attack",
+      "article_headline": "Calls mount for more security at U.S. Jewish institutions after Michigan synagogue attack"
+    },
+    {
+      "link": "https://apple.news/AmBLT4xWlSNCtdHZ-5lF8aw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-13 12:00:12",
+      "pub_time": "2026-03-13 11:27:41",
+      "publication": "The Associated Press",
+      "headline": "U.S. forecasts blizzard, polar vortex, heat dome, and atmospheric river all at once",
+      "article_headline": "U.S. forecasts blizzard, polar vortex, heat dome, and atmospheric river all at once"
+    },
+    {
+      "link": "https://apple.news/Au8gl4Sj3Qk-9SKnskji1SQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-13 12:00:12",
+      "pub_time": "2026-03-13 11:27:13",
+      "publication": "Haaretz",
+      "headline": "Calls mount for more security at U.S. Jewish institutions after Michigan synagogue attack",
+      "article_headline": "Calls mount for more security at U.S. Jewish institutions after Michigan synagogue attack"
+    },
+    {
+      "link": "https://apple.news/AmBLT4xWlSNCtdHZ-5lF8aw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-13 12:00:12",
+      "pub_time": "2026-03-13 11:27:41",
+      "publication": "The Associated Press",
+      "headline": "U.S. forecasts blizzard, polar vortex, heat dome, and atmospheric river all at once",
+      "article_headline": "U.S. forecasts blizzard, polar vortex, heat dome, and atmospheric river all at once"
+    },
+    {
+      "link": "https://apple.news/AYTMG2h6DT8a7e1KTTZDq6g",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-03-13 12:00:12",
+      "pub_time": "2026-03-13 11:28:08",
+      "publication": "Nebraska Public Media",
+      "headline": "Nebraska veteran becomes oldest organ donor in U.S. history at 100 years old",
+      "article_headline": "Nebraska veteran becomes oldest organ donor in U.S. history at 100 years old"
+    },
+    {
+      "link": "https://apple.news/AsVOOztwtSP2RsitNUkOjEw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-03-13 12:00:12",
+      "pub_time": "2026-03-13 11:04:13",
+      "publication": "",
+      "headline": "Sheriff gives update on Nancy Guthrie investigation: 'We believe we know why he did this', 1 hour ago, Leigh Blickley",
+      "article_headline": "Sheriff gives update on Nancy Guthrie investigation: 'We believe we know why he did this'"
+    },
+    {
+      "link": "https://apple.news/AwFd4Jfj7Sny1sHaatBy0qg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-03-13 12:00:12",
+      "pub_time": "2026-03-13 09:04:40",
+      "publication": "",
+      "headline": "The Funniest Tweets From Parents This Week, 3 hours ago, Caroline Bologna",
+      "article_headline": "The Funniest Tweets From Parents This Week"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-03-13 12:00:12",
+      "pub_time": "2026-03-12 12:05:14",
+      "publication": "",
+      "headline": "A Mushroom Is Sending Hundreds of People to the Hospital. They’re All Sharing the Same Bizarre Hallucination., Apple News Plus, 1 day ago, Jordan Smith",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A8LGuOEbORMKIwgAhKdWZ8w",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-03-13 12:00:12",
+      "pub_time": "2026-03-12 15:05:26",
+      "publication": "",
+      "headline": "I asked professional cleaners what products actually work — here are their must‑haves, 21 hours ago",
+      "article_headline": "I asked professional cleaners what products actually work — here are their must‑haves"
+    }
+  ]
+}

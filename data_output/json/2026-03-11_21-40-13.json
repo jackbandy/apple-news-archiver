@@ -1,0 +1,66 @@
+{
+  "run_time": "2026-03-11 21:40:13",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AKRjmELugSTKcJ5WyEkuwEA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-11 21:40:13",
+      "pub_time": "2026-03-11 21:00:14",
+      "publication": "The Washington Post",
+      "headline": "Iranian school was on U.S. target list, may have been mistaken as military site, MORE COVERAGE",
+      "article_headline": "Iranian school was on U.S. target list, may have been mistaken as military site"
+    },
+    {
+      "link": "https://apple.news/AFcnLpUapQsWxJjTA__48eA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-11 21:40:13",
+      "pub_time": "2026-03-11 21:00:46",
+      "publication": "Miami Herald",
+      "headline": "Trump administration asks Supreme Court to end deportation protections for 350,000 Haitians",
+      "article_headline": "Trump administration asks U.S. Supreme Court to strip over 350,000 Haitians of TPS"
+    },
+    {
+      "link": "https://apple.news/AULYWGx4mSiuVAWjV4YH6fA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-11 21:40:13",
+      "pub_time": "2026-03-11 21:01:14",
+      "publication": "The Associated Press",
+      "headline": "Some states are reviving a push to tax the rich",
+      "article_headline": "Some states are reviving a push to tax the rich"
+    },
+    {
+      "link": "https://apple.news/AFcnLpUapQsWxJjTA__48eA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-11 21:40:13",
+      "pub_time": "2026-03-11 21:00:46",
+      "publication": "Miami Herald",
+      "headline": "Trump administration asks Supreme Court to end deportation protections for 350,000 Haitians",
+      "article_headline": "Trump administration asks U.S. Supreme Court to strip over 350,000 Haitians of TPS"
+    },
+    {
+      "link": "https://apple.news/AULYWGx4mSiuVAWjV4YH6fA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-11 21:40:13",
+      "pub_time": "2026-03-11 21:01:14",
+      "publication": "The Associated Press",
+      "headline": "Some states are reviving a push to tax the rich",
+      "article_headline": "Some states are reviving a push to tax the rich"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 21:40:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "headline": "A shocking U-turn has upended the NFL offseason",
+      "article_headline": ""
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-11 17:40:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Amt_guG2EQ7GJ6gR9obXYyA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-11 17:40:13",
+      "pub_time": "2026-03-11 17:20:14",
+      "publication": "The Guardian",
+      "headline": "Iran escalates attacks on infrastructure and transport networks across the Gulf, MORE DETAILS",
+      "article_headline": "World news"
+    },
+    {
+      "link": "https://apple.news/AtCapPy59QF2Jz8wgfQ_5Cg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-11 17:40:13",
+      "pub_time": "",
+      "publication": "Fox News",
+      "headline": "Texas GOP senator reverses on filibuster stance to pass SAVE Act as Trump weighs endorsement",
+      "article_headline": "Cornyn reverses on filibuster stance to push Trump's SAVE Act in Senate"
+    },
+    {
+      "link": "https://apple.news/AhrbSP5RIRhilqrigBeB0cg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-11 17:40:13",
+      "pub_time": "2026-03-11 17:20:23",
+      "publication": "The Wall Street Journal",
+      "headline": "Veterans Affairs to pursue legal guardianship of homeless vets",
+      "article_headline": "Veterans Affairs to Pursue Legal Guardianship of Homeless Vets"
+    },
+    {
+      "link": "https://apple.news/AQWYpcniVS_ax-QJ_C7w4wA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-11 17:40:13",
+      "pub_time": "2026-03-11 17:19:50",
+      "publication": "NPR",
+      "headline": "DOJ quietly begins restoring gun rights to some people with felony convictions",
+      "article_headline": "The Trump DOJ is giving guns back to felons, including one alleged fake elector"
+    },
+    {
+      "link": "https://apple.news/A95ovU9jWSb2bcutx-5BWEw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-11 17:40:13",
+      "pub_time": "2026-03-11 17:20:18",
+      "publication": "The Associated Press",
+      "headline": "Lords a-leaving: Britain is ejecting hereditary nobles from Parliament after 700 years",
+      "article_headline": "Lords a-leaving: Britain is ejecting hereditary nobles from Parliament after 700 years"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 17:40:13",
+      "pub_time": "2026-03-11 17:19:51",
+      "publication": "National Geographic",
+      "headline": "GLP-1s don’t just quell addiction cravings. They stop them from forming, studies show.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 17:40:13",
+      "pub_time": "2026-03-11 16:43:18",
+      "publication": "Los Angeles Times",
+      "headline": "Kanye West ordered to pay former contractor $140,000 over Malibu mansion lawsuit",
+      "article_headline": ""
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "run_time": "2026-03-12 20:40:13",
+  "story_count": 23,
+  "stories": [
+    {
+      "link": "https://apple.news/AthVwuUnWQ5y30xByfADtgw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "2026-03-12 20:32:15",
+      "publication": "The Associated Press",
+      "headline": "U.S. military refueling plane goes down in Iraq; rescue efforts underway",
+      "article_headline": "U.S. military refueling plane goes down in Iraq; rescue efforts underway"
+    },
+    {
+      "link": "https://apple.news/A8QCeJEQWRoagczlM_tti6w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "2026-03-12 20:32:42",
+      "publication": "Reuters",
+      "headline": "Michigan synagogue, Virginia university targeted in unnerving day of violence",
+      "article_headline": "Michigan synagogue, Virginia university targeted in unnerving day of violence"
+    },
+    {
+      "link": "https://apple.news/A8QCeJEQWRoagczlM_tti6w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "2026-03-12 20:32:14",
+      "publication": "Reuters",
+      "headline": "Michigan synagogue, Virginia university targeted in unnerving day of violence",
+      "article_headline": "Michigan synagogue, Virginia university targeted in unnerving day of violence"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "2026-03-12 20:32:41",
+      "publication": "The Wall Street Journal",
+      "headline": "Frustrated senators dig in on DHS funding fight",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A8p58OboPTIis5Dal58d_Eg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "2026-03-12 20:32:54",
+      "publication": "The Christian Science Monitor",
+      "headline": "Syrian refugees have made a home in Sweden. Now, Sweden wants them to leave.",
+      "article_headline": "Syrian refugees have made a home in Sweden. Now, Sweden wants them to leave."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "2026-03-12 20:32:26",
+      "publication": "The Wall Street Journal",
+      "headline": "Frustrated senators dig in on DHS funding fight",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A8p58OboPTIis5Dal58d_Eg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "2026-03-12 20:32:39",
+      "publication": "The Christian Science Monitor",
+      "headline": "Syrian refugees have made a home in Sweden. Now, Sweden wants them to leave.",
+      "article_headline": "Syrian refugees have made a home in Sweden. Now, Sweden wants them to leave."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "",
+      "publication": "Vox",
+      "headline": "The eldercare solution that could transform a generation, Audio, 1 min",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "2026-02-26 20:43:56",
+      "publication": "Apple News Plus",
+      "headline": "National Geographic, What you’ve been told about eggs and cholesterol is wrong",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/K_cTtZIzpN_u-LVKWqXd5Cw?article_id=AAMI3PCvQQkW8VNQLSqr5-w",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "",
+      "publication": "",
+      "headline": "EatingWell, RECIPE, 8h 10m",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/K_cTtZIzpN_u-LVKWqXd5Cw?article_id=AAMI3PCvQQkW8VNQLSqr5-w",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "",
+      "publication": "",
+      "headline": "Simply Recipes, RECIPE, 30m",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/K_cTtZIzpN_u-LVKWqXd5Cw?article_id=AAMI3PCvQQkW8VNQLSqr5-w",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "",
+      "publication": "",
+      "headline": "Southern Living, RECIPE, 2h 30m",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "",
+      "publication": "Sports Illustrated",
+      "headline": "Why college hoops is broken if Miami (Ohio) misses the men’s NCAA tournament",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "headline": "Men’s Health, What Doctors Want You to Know About a Buzzy Sleep Apnea Pill, Korin Miller",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "headline": "Billboard, Watch Harry Styles 'Catch Feelings' for This 'SNL' Star (Even Though He 'Promised' Not To) In New Promos, Katie Atkinson",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "",
+      "publication": "ELLE DECOR",
+      "headline": "Inside Ed Ruscha’s California Dream, Lesley M.M. Blume",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "",
+      "publication": "Luxe Interiors + Design",
+      "headline": "A Waterside Wisconsin Cottage Gets A Whimsical Update",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "",
+      "publication": "MacLife",
+      "headline": "Relax and fall asleep with help from your iPhone",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "",
+      "publication": "Home Design",
+      "headline": "The incredible transformation of a run-down outbuilding into a luxury concrete-and-timber cabin",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "2026-03-12 18:49:10",
+      "publication": "New York Magazine",
+      "headline": "Donald Trump Predicts that Jake Paul Will Run for Office",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "headline": "The Washington Post, Analysis | Anyone can code now. What will you build?, Kevin Schaul",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "headline": "Travel + Leisure, The Main Differences Between Business Class vs. First Class—and Tips for Booking Each, Lydia Mansel",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 20:40:13",
+      "pub_time": "",
+      "publication": "InStyle",
+      "headline": "Oprah’s Comfortable Travel Outfit Features This Genius, Hands-Free Lululemon Bag I’d Never Take a Trip Without, Kyra Surgent",
+      "article_headline": ""
+    }
+  ]
+}

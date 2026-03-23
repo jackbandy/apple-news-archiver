@@ -1,0 +1,56 @@
+{
+  "run_time": "2026-03-11 20:00:13",
+  "story_count": 5,
+  "stories": [
+    {
+      "link": "https://apple.news/AHqRj402CSQaRIdN7ENIZ7Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-11 20:00:13",
+      "pub_time": "2026-03-11 19:00:14",
+      "publication": "Reuters",
+      "headline": "U.S. may have struck Iranian girls’ school after using outdated targeting data, sources say, MORE DETAILS",
+      "article_headline": "U.S. may have struck Iranian girls’ school after using outdated targeting data, sources say"
+    },
+    {
+      "link": "https://apple.news/AhrbSP5RIRhilqrigBeB0cg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-11 20:00:13",
+      "pub_time": "2026-03-11 19:00:46",
+      "publication": "The Wall Street Journal",
+      "headline": "Veterans Affairs to pursue legal guardianship of homeless vets",
+      "article_headline": "Veterans Affairs to pursue legal guardianship of homeless vets"
+    },
+    {
+      "link": "https://apple.news/AgD_N-tzFSK6vOoldV36YXQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-11 20:00:13",
+      "pub_time": "2026-03-11 19:01:13",
+      "publication": "AFP News",
+      "headline": "3 brothers arrested over U.S. embassy blast in Oslo",
+      "article_headline": "3 brothers arrested over U.S. embassy blast in Oslo"
+    },
+    {
+      "link": "https://apple.news/AULYWGx4mSiuVAWjV4YH6fA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-11 20:00:13",
+      "pub_time": "2026-03-11 19:01:45",
+      "publication": "The Associated Press",
+      "headline": "Some states are reviving a push to tax the rich",
+      "article_headline": "Some states are reviving a push to tax the rich"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 20:00:13",
+      "pub_time": "2026-03-11 19:02:13",
+      "publication": "National Geographic",
+      "headline": "This fish has cloned itself for 100,000 years. Scientists just figured out how.",
+      "article_headline": ""
+    }
+  ]
+}

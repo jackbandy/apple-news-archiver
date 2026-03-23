@@ -1,0 +1,276 @@
+{
+  "run_time": "2026-03-12 07:20:13",
+  "story_count": 27,
+  "stories": [
+    {
+      "link": "https://apple.news/AxUHQvAjqSaasyE5B50Svmw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-12 06:30:15",
+      "publication": "Reuters",
+      "headline": "Tankers burn near Iraq as Iran warns of $200 oil, MORE COVERAGE",
+      "article_headline": "Tankers burn near Iraq as Iran warns of $200 oil"
+    },
+    {
+      "link": "https://apple.news/AxxtHMbjwT2OfZi-Xn2jDEA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "",
+      "publication": "NBC News",
+      "headline": "Trump launches the next phase of his trade wars",
+      "article_headline": "Trump launches the next phase of his trade wars"
+    },
+    {
+      "link": "https://apple.news/AgPW6-8jBQe-LqHtPbLTpxQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-12 06:31:15",
+      "publication": "The Washington Post",
+      "headline": "How GLP-1s are changing the ways Americans buy medicine",
+      "article_headline": "How GLP-1s are changing the ways Americans buy medicine"
+    },
+    {
+      "link": "https://apple.news/AgPW6-8jBQe-LqHtPbLTpxQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-12 06:30:49",
+      "publication": "The Washington Post",
+      "headline": "How GLP-1s are changing the ways Americans buy medicine",
+      "article_headline": "How GLP-1s are changing the ways Americans buy medicine"
+    },
+    {
+      "link": "https://apple.news/AFCy7s3qtSo-w-3Psly62vQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "",
+      "publication": "NPR",
+      "headline": "The crackdown on immigrant truckers shifts into higher gear",
+      "article_headline": "The crackdown on immigrant truckers shifts into higher gear"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-12 06:31:45",
+      "publication": "Los Angeles Times",
+      "headline": "They lost their Oscar trophies in the wildfires. So what happens next?",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-12 06:31:05",
+      "publication": "Los Angeles Times",
+      "headline": "They lost their Oscar trophies in the wildfires. So what happens next?",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-12 06:31:18",
+      "publication": "The Wall Street Journal",
+      "headline": "The billion-dollar AI startup that was founded by teenagers",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Ac1TiB1r5RkO3I1liwfHnaw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "headline": "Countries turn to emergency oil supplies. It won’t buy much time.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-12 06:30:03",
+      "publication": "The Wall Street Journal",
+      "headline": "The billion-dollar AI startup that was founded by teenagers",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Ac1TiB1r5RkO3I1liwfHnaw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "headline": "Countries turn to emergency oil supplies. It won’t buy much time.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-12 06:24:52",
+      "publication": "The Wall Street Journal",
+      "headline": "The Hottest Job in Tech Isn’t Very Glamorous",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-12 06:50:10",
+      "publication": "San Francisco Chronicle",
+      "headline": "Meet the new Chronicle Wine newsletter",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-12 07:00:29",
+      "publication": "Popular Mechanics",
+      "headline": "Uh, Scientists Have Significantly Miscalculated Earth’s Sea Levels",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-12 06:51:41",
+      "publication": "Barron’s",
+      "headline": "Firefly Launches Lockheed Martin Into Space. The Stock Is Soaring.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-02-26 07:26:06",
+      "publication": "Apple News Plus",
+      "headline": "National Geographic, What you’ve been told about eggs and cholesterol is wrong",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "headline": "Ranking the quarterfinal matches in the World Baseball Classic",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-12 06:28:05",
+      "publication": "FORTUNE",
+      "headline": "Exclusive: Accounting startup Cryptio raises $45 million to help big firms keep track of digital assets",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "headline": "Fast Company, The uncomfortable valley: Microsoft Teams emoji faces have got to go",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "headline": "Bloomberg Businessweek, Cognac Makers Are Uprooting Vines. Dumping Supplies May Be Next, Angelina Rascouet",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "",
+      "publication": "New Scientist",
+      "headline": "The real reasons birth rates are declining worldwide",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "",
+      "publication": "Garden & Gun",
+      "headline": "Vendor Directory",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "",
+      "publication": "All About History",
+      "headline": "Britain's First Gangs - Criminals who terrorised the UK before the Peaky Blinders",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "",
+      "publication": "People",
+      "headline": "See 42 Actors Who Played High Schoolers When They Were Adults (and How Old They Actually Were!), Maria Yagoda, Andrea Wurzburger, and Katie Labovitz",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-12 06:46:24",
+      "publication": "Los Angeles Times",
+      "headline": "Commentary: China-backed Big Pork wants to override 63% of California voters. Even conservatives are mad",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-12 06:55:05",
+      "publication": "Business Insider",
+      "headline": "I'm an American who got a full medical checkup in Japan. In 4 hours, I learned more about my health than I would in years at home.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 07:20:13",
+      "pub_time": "2026-03-11 23:31:23",
+      "publication": "Apple News Plus",
+      "headline": "Travel + Leisure, After Moving to NYC, I Ditched These 8 Styles That Only Tourists Wear—Here’s What I Wear Instead, From $18",
+      "article_headline": ""
+    }
+  ]
+}

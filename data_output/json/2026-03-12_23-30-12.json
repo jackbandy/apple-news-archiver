@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-03-12 23:30:12",
+  "story_count": 8,
+  "stories": [
+    {
+      "link": "https://apple.news/A8QCeJEQWRoagczlM_tti6w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-12 23:30:12",
+      "pub_time": "2026-03-12 21:30:14",
+      "publication": "Reuters",
+      "headline": "Michigan synagogue, Virginia university targeted in unnerving day of violence",
+      "article_headline": "Michigan synagogue, Virginia university targeted in unnerving day of violence"
+    },
+    {
+      "link": "https://apple.news/AthVwuUnWQ5y30xByfADtgw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-12 23:30:12",
+      "pub_time": "2026-03-12 21:30:41",
+      "publication": "The Associated Press",
+      "headline": "U.S. military refueling plane goes down in Iraq; rescue efforts underway",
+      "article_headline": "U.S. military refueling plane goes down in Iraq; rescue efforts underway"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 23:30:12",
+      "pub_time": "2026-03-12 21:31:13",
+      "publication": "The Wall Street Journal",
+      "headline": "Frustrated senators dig in on DHS funding fight",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A8p58OboPTIis5Dal58d_Eg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-12 23:30:12",
+      "pub_time": "2026-03-12 21:31:26",
+      "publication": "The Christian Science Monitor",
+      "headline": "Syrian refugees have made a home in Sweden. Now, Sweden wants them to leave.",
+      "article_headline": "Syrian refugees have made a home in Sweden. Now, Sweden wants them to leave."
+    },
+    {
+      "link": "https://apple.news/ABg5C_kHiSFKmTP2wBG05FA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-12 23:30:12",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "headline": "A record heat dome is about to hit the West — in March",
+      "article_headline": "A record heat dome is about to hit the West — in March"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 23:30:12",
+      "pub_time": "",
+      "publication": "Vox",
+      "headline": "The eldercare solution that could transform a generation, Audio, 1 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AUSITXgIbQgSC9CtNylSR6Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-12 23:30:12",
+      "pub_time": "2026-03-12 23:03:55",
+      "publication": "Complex",
+      "headline": "Jack Harlow Delivers His Fourth Studio Album ‘Monica’",
+      "article_headline": "Jack Harlow Delivers His Fourth Studio Album ‘Monica’"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 23:30:12",
+      "pub_time": "2026-03-12 22:33:28",
+      "publication": "The Wall Street Journal",
+      "headline": "‘Every Brilliant Thing’ Review: Daniel Radcliffe’s Spirited Solo Show",
+      "article_headline": ""
+    }
+  ]
+}

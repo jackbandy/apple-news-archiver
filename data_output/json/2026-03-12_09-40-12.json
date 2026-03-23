@@ -1,0 +1,156 @@
+{
+  "run_time": "2026-03-12 09:40:12",
+  "story_count": 15,
+  "stories": [
+    {
+      "link": "https://apple.news/A0FxPdlUjRBKL2gtN3AiKVw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "2026-03-12 09:24:14",
+      "publication": "The Associated Press",
+      "headline": "Iran’s supreme leader says closure of Strait of Hormuz should be used as leverage",
+      "article_headline": "Iran’s supreme leader says closure of Strait of Hormuz should be used as leverage"
+    },
+    {
+      "link": "https://apple.news/AX1LCGFk9T9uTHzRvO-DaWg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "2026-03-12 09:24:41",
+      "publication": "NPR",
+      "headline": "El Niño is set to take hold this summer, driving up global temperatures",
+      "article_headline": "El Niño is set to take hold this summer, driving up global temperatures"
+    },
+    {
+      "link": "https://apple.news/AX1LCGFk9T9uTHzRvO-DaWg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "2026-03-12 09:24:14",
+      "publication": "NPR",
+      "headline": "El Niño is set to take hold this summer, driving up global temperatures",
+      "article_headline": "El Niño is set to take hold this summer, driving up global temperatures"
+    },
+    {
+      "link": "https://apple.news/A7w1hQuYjQaqFIxU9qVlZDA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "",
+      "publication": "CNBC",
+      "headline": "TSA employees miss first paycheck of shutdown as Senate bickers over DHS funding",
+      "article_headline": "TSA employees miss first paycheck of shutdown as Senate bickers over DHS funding"
+    },
+    {
+      "link": "https://apple.news/AjuVzRes_Rveef7Pcz1b4Dw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "",
+      "publication": "CBS News",
+      "headline": "Months after U.S. stopped making pennies, states grapple with a rounding problem",
+      "article_headline": "Months after U.S. stopped making pennies, states grapple with a rounding problem"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "2026-03-12 09:23:43",
+      "publication": "The Wall Street Journal",
+      "headline": "The billion-dollar AI startup that was founded by teenagers",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Ac1TiB1r5RkO3I1liwfHnaw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "headline": "Countries turn to emergency oil supplies. It won’t buy much time.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Ac1TiB1r5RkO3I1liwfHnaw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "headline": "Countries turn to emergency oil supplies. It won’t buy much time.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "2026-03-12 09:29:17",
+      "publication": "New York Magazine",
+      "headline": "Age of Attraction’s ‘Promise Room’ Is As Creepy As It Sounds",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "2026-03-12 09:06:29",
+      "publication": "Variety",
+      "headline": "Stephen Colbert's Long 'Late Show' Goodbye Has Gone From Resistance to Ego Trip",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "2026-02-26 09:44:55",
+      "publication": "Apple News Plus",
+      "headline": "National Geographic, What you’ve been told about eggs and cholesterol is wrong",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "",
+      "publication": "The New Republic",
+      "headline": "The World Cup is less than 100 days away. It’s already a total mess.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "",
+      "publication": "WIRED",
+      "headline": "Teens Are Using AI-Fueled ‘Slander Pages’ to Mock Their Teachers, Owen Carry",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "headline": "Esquire UK, Best Picture Nominee ‘F1: The Movie’ Has a Villain Problem, Matt Blake",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 09:40:12",
+      "pub_time": "",
+      "publication": "Us Weekly",
+      "headline": "Hot pics of the week: Emily Ratajkowski, Ariana Madix, Chrishell Stause, Jenn Tran, Kimora Lee, and more!, Us Weekly Staff",
+      "article_headline": ""
+    }
+  ]
+}

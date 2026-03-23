@@ -1,0 +1,166 @@
+{
+  "run_time": "2026-03-12 06:30:12",
+  "story_count": 16,
+  "stories": [
+    {
+      "link": "https://apple.news/AxUHQvAjqSaasyE5B50Svmw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "2026-03-12 05:30:13",
+      "publication": "Reuters",
+      "headline": "Oil tankers burn near Iraq as Iran warns of $200 oil, MORE COVERAGE",
+      "article_headline": "Oil tankers burn near Iraq as Iran warns of $200 oil"
+    },
+    {
+      "link": "https://apple.news/AAdYkUJYiRiGAqYG_qPYgmw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "2026-03-12 05:30:46",
+      "publication": "CBS News",
+      "headline": "Trump administration takes steps to impose new tariffs after Supreme Court ruling",
+      "article_headline": "Trump administration takes steps to impose new tariffs after Supreme Court ruling"
+    },
+    {
+      "link": "https://apple.news/A00NccnjXShqTGfey1uDn1A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "2026-03-12 05:31:14",
+      "publication": "The Associated Press",
+      "headline": "Drone strike hits school and medical center in southern Sudan, killing 17, mostly schoolgirls",
+      "article_headline": "Drone strike hits school and medical center in southern Sudan, killing 17, mostly schoolgirls"
+    },
+    {
+      "link": "https://apple.news/AWi7X7RzwQxWsM84ddn_KbQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "2026-03-12 05:31:47",
+      "publication": "NPR",
+      "headline": "The government is investigating new claims that DOGE misused Social Security data",
+      "article_headline": "The government is investigating new claims that DOGE misused Social Security data"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "headline": "Team USA advances to quarterfinals in World Baseball Classic after Italy routs Mexico",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "2026-03-12 05:32:33",
+      "publication": "The Wall Street Journal",
+      "headline": "The billion-dollar AI startup that was founded by teenagers",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Ac1TiB1r5RkO3I1liwfHnaw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "headline": "Countries turn to emergency oil supplies. It won’t buy much time.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Ac1TiB1r5RkO3I1liwfHnaw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "headline": "Countries turn to emergency oil supplies. It won’t buy much time.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AaldkvH0fTlKbUnPAMrMW0Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "2026-03-12 06:00:53",
+      "publication": "Fast Company",
+      "headline": "The X algorithm really is trying to radicalize you—researchers just proved it",
+      "article_headline": "The X algorithm really is trying to radicalize you—researchers just proved it"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "2026-03-12 06:15:26",
+      "publication": "San Francisco Chronicle",
+      "headline": "‘It’s fabulous to be out here’: Photos show Death Valley in full bloom",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "",
+      "publication": "BBC Science Focus Magazine",
+      "headline": "The hidden sleep condition that’s probably behind your tiredness",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "2026-03-12 06:14:59",
+      "publication": "San Francisco Chronicle",
+      "headline": "‘It’s fabulous to be out here’: Photos show Death Valley in full bloom",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "2026-03-12 06:17:12",
+      "publication": "Barron’s",
+      "headline": "How Tesla’s Macrohard Is Like Amazon Web Services",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "2026-03-12 06:16:30",
+      "publication": "Barron’s",
+      "headline": "How Tesla’s Macrohard Is Like Amazon Web Services",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "2026-02-26 06:35:43",
+      "publication": "Apple News Plus",
+      "headline": "National Geographic, What you’ve been told about eggs and cholesterol is wrong",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 06:30:12",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "headline": "Sports Illustrated, Men’s college basketball’s awful bubble is a case for fewer teams, not more",
+      "article_headline": ""
+    }
+  ]
+}

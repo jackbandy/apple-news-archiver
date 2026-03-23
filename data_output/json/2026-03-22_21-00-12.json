@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-22 21:00:12",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A7BIeuH8PTaWMI8RNCxmRrg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-22 21:00:12",
+      "pub_time": "2026-03-22 20:00:14",
+      "publication": "NBC News",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AZZe7oBPJSHGpLsxUdWB3bg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-22 21:00:12",
+      "pub_time": "",
+      "publication": "NPR",
+      "headline": "ICE officers set to deploy to airports as delays mount, border czar Homan confirms",
+      "article_headline": "ICE officers set to deploy to airports as delays mount, border czar Homan confirms"
+    },
+    {
+      "link": "https://apple.news/AOt6qd8xnQeeA1uhdU1v9bw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-22 21:00:12",
+      "pub_time": "2026-03-22 20:01:13",
+      "publication": "Reuters",
+      "headline": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum",
+      "article_headline": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum"
+    },
+    {
+      "link": "https://apple.news/ASv6SBtu4RAWtY-OkyILIAA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-22 21:00:12",
+      "pub_time": "2026-03-22 20:01:41",
+      "publication": "Los Angeles Times",
+      "headline": "More than half a million ballots seized by top GOP candidate in California governor’s race",
+      "article_headline": "More than half a million ballots seized by top GOP candidate in California governor’s race"
+    },
+    {
+      "link": "https://apple.news/AOt6qd8xnQeeA1uhdU1v9bw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-22 21:00:12",
+      "pub_time": "2026-03-22 19:02:14",
+      "publication": "Reuters",
+      "headline": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum",
+      "article_headline": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum"
+    },
+    {
+      "link": "https://apple.news/ASv6SBtu4RAWtY-OkyILIAA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-22 21:00:12",
+      "pub_time": "2026-03-22 19:02:41",
+      "publication": "Los Angeles Times",
+      "headline": "More than half a million ballots seized by top GOP candidate in California governor’s race",
+      "article_headline": "More than half a million ballots seized by top GOP candidate in California governor’s race"
+    },
+    {
+      "link": "https://apple.news/AuGdbHLCESxOj6ZYNEKoI8w",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-03-22 21:00:12",
+      "pub_time": "",
+      "publication": "Yahoo Sports",
+      "headline": "March Madness, Minnesota stuns Mississippi with late comeback, buzzer-beater to advance to Sweet 16",
+      "article_headline": "Minnesota stuns Mississippi with late comeback, buzzer-beater to advance to Sweet 16"
+    }
+  ]
+}

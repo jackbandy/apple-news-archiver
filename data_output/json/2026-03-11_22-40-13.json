@@ -1,0 +1,66 @@
+{
+  "run_time": "2026-03-11 22:40:13",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AgHO4EyP-Q4-yXxGpvLcOdA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-11 22:40:13",
+      "pub_time": "2026-03-11 22:37:14",
+      "publication": "The Wall Street Journal",
+      "headline": "Escalating Hormuz crisis raises specter of prolonged closure, MORE COVERAGE",
+      "article_headline": "Escalating Hormuz Crisis Raises Specter of Prolonged Closure"
+    },
+    {
+      "link": "https://apple.news/AFcnLpUapQsWxJjTA__48eA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-11 22:40:13",
+      "pub_time": "2026-03-11 22:37:46",
+      "publication": "Miami Herald",
+      "headline": "Trump administration asks Supreme Court to end deportation protections for 350,000 Haitians",
+      "article_headline": "Trump administration asks U.S. Supreme Court to strip over 350,000 Haitians of TPS"
+    },
+    {
+      "link": "https://apple.news/A00NccnjXShqTGfey1uDn1A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-11 22:40:13",
+      "pub_time": "2026-03-11 22:38:13",
+      "publication": "The Associated Press",
+      "headline": "Drone strike hits school and medical center in southern Sudan, killing 17, mostly schoolgirls",
+      "article_headline": "Drone strike hits school and medical center in southern Sudan, killing 17, mostly schoolgirls"
+    },
+    {
+      "link": "https://apple.news/AFcnLpUapQsWxJjTA__48eA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-11 22:40:13",
+      "pub_time": "2026-03-11 22:37:46",
+      "publication": "Miami Herald",
+      "headline": "Trump administration asks Supreme Court to end deportation protections for 350,000 Haitians",
+      "article_headline": "Trump administration asks U.S. Supreme Court to strip over 350,000 Haitians of TPS"
+    },
+    {
+      "link": "https://apple.news/A00NccnjXShqTGfey1uDn1A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-11 22:40:13",
+      "pub_time": "2026-03-11 22:38:14",
+      "publication": "The Associated Press",
+      "headline": "Drone strike hits school and medical center in southern Sudan, killing 17, mostly schoolgirls",
+      "article_headline": "Drone strike hits school and medical center in southern Sudan, killing 17, mostly schoolgirls"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-11 22:40:13",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "headline": "Team USA advances to quarterfinals in World Baseball Classic after Italy routs Mexico",
+      "article_headline": ""
+    }
+  ]
+}

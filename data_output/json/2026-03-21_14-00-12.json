@@ -1,0 +1,66 @@
+{
+  "run_time": "2026-03-21 14:00:12",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AoNLkmG7wSGG4FTASS-6nKA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-21 14:00:12",
+      "pub_time": "2026-03-21 13:00:14",
+      "publication": "The Associated Press",
+      "headline": "Former FBI Director Robert Mueller, who investigated Russia-Trump campaign ties, dies",
+      "article_headline": "Former FBI Director Robert Mueller, who investigated Russia-Trump campaign ties, dies"
+    },
+    {
+      "link": "https://apple.news/AcFkPFygfQqapNYzd2GuFBA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-21 14:00:12",
+      "pub_time": "2026-03-21 13:00:41",
+      "publication": "The Wall Street Journal",
+      "headline": "Iran’s attack on distant U.S.-U.K. base demonstrates growing missile range",
+      "article_headline": "As War Enters Fourth Week, Iran’s Attack on Distant U.S.-U.K. Base Demonstrates Growing Range"
+    },
+    {
+      "link": "https://apple.news/AZIaqtuo_RwWzNb3KUurI5g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-21 14:00:12",
+      "pub_time": "2026-03-21 13:01:09",
+      "publication": "Reuters",
+      "headline": "Trump threatens to put ICE agents in airports over funding impasse",
+      "article_headline": "Trump threatens to put ICE agents in airports over funding impasse"
+    },
+    {
+      "link": "https://apple.news/AzPvamfu9R12FXJ66Xbwf0Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-21 14:00:12",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "headline": "March Madness, What to know about Iowa State’s Audi Crooks as she takes her scoring show to March Madness",
+      "article_headline": "What to know about Iowa State’s Audi Crooks as she takes her scoring show to March Madness"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-21 14:00:12",
+      "pub_time": "2026-03-21 13:02:14",
+      "publication": "The Times of London",
+      "headline": "The great Saturday Night Live gamble — will Brits fall for a U.S. classic?",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-21 14:00:12",
+      "pub_time": "2026-03-21 13:02:26",
+      "publication": "Vox",
+      "headline": "These fish can cause big trouble. Why are states unleashing them by the millions?",
+      "article_headline": ""
+    }
+  ]
+}

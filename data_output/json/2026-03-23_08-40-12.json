@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-23 08:40:12",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ARh3uTrWmSSir9tzPjkHBaw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-23 08:40:12",
+      "pub_time": "2026-03-23 08:38:14",
+      "publication": "The Wall Street Journal",
+      "headline": "Trump says U.S. will postpone further strikes on Iranian energy infrastructure",
+      "article_headline": "Trump Says U.S. Will Postpone Strikes on Iranian Energy Infrastructure"
+    },
+    {
+      "link": "https://apple.news/AaRWqxH25SqiienlYqdayWg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-23 08:40:12",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "headline": "Federal immigration agents seen at Atlanta airport after Trump order amid partial shutdown",
+      "article_headline": "Federal immigration agents seen at Atlanta airport after Trump order amid partial shutdown"
+    },
+    {
+      "link": "https://apple.news/AZyKyhEuiSCufoTFvn0t0Nw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-23 08:40:12",
+      "pub_time": "2026-03-23 08:38:13",
+      "publication": "USA TODAY",
+      "headline": "Trump push on mail-in ballots hits the Supreme Court. What it means for the midterms.",
+      "article_headline": "Trump push on mail-in ballots hits the Supreme Court. What it means for the midterms."
+    },
+    {
+      "link": "https://apple.news/AbK9p1PDNQqWoTMj6F3XlQg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-23 08:40:12",
+      "pub_time": "2026-03-23 08:38:41",
+      "publication": "ABC News",
+      "headline": "2 dead, New York LaGuardia Airport closed after Air Canada plane hits runway vehicle",
+      "article_headline": "Dozens injured, 2 pilots dead in ground collision at LaGuardia; airport closed"
+    },
+    {
+      "link": "https://apple.news/AZyKyhEuiSCufoTFvn0t0Nw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-23 08:40:12",
+      "pub_time": "2026-03-23 08:37:14",
+      "publication": "USA TODAY",
+      "headline": "Trump push on mail-in ballots hits the Supreme Court. What it means for the midterms.",
+      "article_headline": "Trump push on mail-in ballots hits the Supreme Court. What it means for the midterms."
+    },
+    {
+      "link": "https://apple.news/AbK9p1PDNQqWoTMj6F3XlQg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-23 08:40:12",
+      "pub_time": "2026-03-23 08:37:42",
+      "publication": "ABC News",
+      "headline": "2 dead, New York LaGuardia Airport closed after Air Canada plane hits runway vehicle",
+      "article_headline": "Dozens injured, 2 pilots dead in ground collision at LaGuardia; airport closed"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-23 08:40:12",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "headline": "March Madness, The men’s NCAA Sweet 16 is set. Here’s a first look at the matchups.",
+      "article_headline": ""
+    }
+  ]
+}

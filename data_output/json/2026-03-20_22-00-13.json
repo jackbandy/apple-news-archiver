@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-20 22:00:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AixWVwiiBQLCp0pEGr87NHg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-20 22:00:13",
+      "pub_time": "2026-03-20 20:00:14",
+      "publication": "Reuters",
+      "headline": "U.S. sending Marines and amphibious assault ship to Middle East, officials say",
+      "article_headline": "US sending Marines and amphibious assault ship to Middle East, officials say"
+    },
+    {
+      "link": "https://apple.news/AvDmNu4H7TiuHBHN_y3sFcQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-20 22:00:13",
+      "pub_time": "2026-03-20 20:00:41",
+      "publication": "The Wall Street Journal",
+      "headline": "The Pentagon’s new press rules violate the First Amendment, judge rules",
+      "article_headline": "The Pentagon’s new press rules violate the First Amendment, judge rules"
+    },
+    {
+      "link": "https://apple.news/Ap-0BLbhGQC-TFA9Glbvamw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-20 22:00:13",
+      "pub_time": "2026-03-20 20:01:14",
+      "publication": "The Associated Press",
+      "headline": "Bill to fund Homeland Security fails again as concern grows about airport lines",
+      "article_headline": "Bill to fund Homeland Security fails again as concern grows about airport lines"
+    },
+    {
+      "link": "https://apple.news/AKU4NKFyiSiO8Qql1fUsxbw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-20 22:00:13",
+      "pub_time": "2026-03-20 20:01:41",
+      "publication": "NBC News",
+      "headline": "Thousands ordered to evacuate as Oahu floods put dam at imminent risk of failure",
+      "article_headline": "Thousands ordered to evacuate as Oahu floods put dam at imminent risk of failure"
+    },
+    {
+      "link": "https://apple.news/ANi35rh6qRIaae2oCs-RDSw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-20 22:00:13",
+      "pub_time": "2026-03-20 20:02:14",
+      "publication": "USA TODAY",
+      "headline": "An Arizona town just recorded the hottest March temperature in U.S. history",
+      "article_headline": "An Arizona town just recorded the hottest March temperature in U.S. history"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-20 22:00:13",
+      "pub_time": "",
+      "publication": "Men’s Health",
+      "headline": "He was headed to the NFL. Then a tragic accident changed everything., Audio, 1 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ADYOBHwumSUegKhbT2e4w7A",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-20 22:00:13",
+      "pub_time": "2026-03-20 14:03:08",
+      "publication": "USA TODAY",
+      "headline": "Chuck Norris died at age 86. Here's what to know about his family.",
+      "article_headline": "Chuck Norris died at age 86. Here's what to know about his family."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-23 07:20:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ARh3uTrWmSSir9tzPjkHBaw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-23 07:20:13",
+      "pub_time": "2026-03-23 07:12:14",
+      "publication": "DEVELOPING",
+      "headline": "The Wall Street Journal, Trump says U.S. will postpone further strikes on Iranian energy infrastructure",
+      "article_headline": "Trump says U.S. will postpone further strikes on Iranian energy infrastructure"
+    },
+    {
+      "link": "https://apple.news/AbK9p1PDNQqWoTMj6F3XlQg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-23 07:20:13",
+      "pub_time": "2026-03-23 07:12:41",
+      "publication": "ABC News",
+      "headline": "2 dead, New York LaGuardia Airport closed after Air Canada plane hits runway vehicle",
+      "article_headline": "Dozens injured, 2 pilots dead in ground collision at LaGuardia; airport closed"
+    },
+    {
+      "link": "https://apple.news/AbK9p1PDNQqWoTMj6F3XlQg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-23 07:20:13",
+      "pub_time": "2026-03-23 07:12:14",
+      "publication": "ABC News",
+      "headline": "2 dead, New York LaGuardia Airport closed after Air Canada plane hits runway vehicle",
+      "article_headline": "Dozens injured, 2 pilots dead in ground collision at LaGuardia; airport closed"
+    },
+    {
+      "link": "https://apple.news/AZyKyhEuiSCufoTFvn0t0Nw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-23 07:20:13",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "headline": "Trump push on mail-in ballots hits the Supreme Court. What it means for the midterms.",
+      "article_headline": "Trump push on mail-in ballots hits the Supreme Court. What it means for the midterms."
+    },
+    {
+      "link": "https://apple.news/ADhe_TI5NS5e9PDm8RlpySQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-23 07:20:13",
+      "pub_time": "2026-03-23 07:13:10",
+      "publication": "NPR",
+      "headline": "This lab that’s determined to discover new drugs isn’t where you might expect",
+      "article_headline": "This lab that’s determined to discover new drugs isn’t where you might expect"
+    },
+    {
+      "link": "https://apple.news/ADhe_TI5NS5e9PDm8RlpySQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-23 07:20:13",
+      "pub_time": "2026-03-23 07:12:43",
+      "publication": "NPR",
+      "headline": "This lab that’s determined to discover new drugs isn’t where you might expect",
+      "article_headline": "This lab that’s determined to discover new drugs isn’t where you might expect"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-23 07:20:13",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "headline": "March Madness, The men’s NCAA Sweet 16 is set. Here’s a first look at the matchups.",
+      "article_headline": ""
+    }
+  ]
+}

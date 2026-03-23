@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-03-12 22:00:13",
+  "story_count": 8,
+  "stories": [
+    {
+      "link": "https://apple.news/A8QCeJEQWRoagczlM_tti6w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-12 22:00:13",
+      "pub_time": "2026-03-12 21:00:14",
+      "publication": "Reuters",
+      "headline": "Michigan synagogue, Virginia university targeted in unnerving day of violence",
+      "article_headline": "Michigan synagogue, Virginia university targeted in unnerving day of violence"
+    },
+    {
+      "link": "https://apple.news/AthVwuUnWQ5y30xByfADtgw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-12 22:00:13",
+      "pub_time": "2026-03-12 21:00:42",
+      "publication": "The Associated Press",
+      "headline": "U.S. military refueling plane goes down in Iraq; rescue efforts underway",
+      "article_headline": "U.S. military refueling plane goes down in Iraq; rescue efforts underway"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 22:00:13",
+      "pub_time": "2026-03-12 21:01:13",
+      "publication": "The Wall Street Journal",
+      "headline": "Frustrated senators dig in on DHS funding fight",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A8p58OboPTIis5Dal58d_Eg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-12 22:00:13",
+      "pub_time": "2026-03-12 21:01:26",
+      "publication": "The Christian Science Monitor",
+      "headline": "Syrian refugees have made a home in Sweden. Now, Sweden wants them to leave.",
+      "article_headline": "Syrian refugees have made a home in Sweden. Now, Sweden wants them to leave."
+    },
+    {
+      "link": "https://apple.news/ABg5C_kHiSFKmTP2wBG05FA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-12 22:00:13",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "headline": "A record heat dome is about to hit the West — in March",
+      "article_headline": "A record heat dome is about to hit the West — in March"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 22:00:13",
+      "pub_time": "",
+      "publication": "Vox",
+      "headline": "The eldercare solution that could transform a generation, Audio, 1 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AuuEyuLV1SUSqN8JRLtdXMA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-12 22:00:13",
+      "pub_time": "2026-03-12 21:39:54",
+      "publication": "Travel Noire",
+      "headline": "Exploring The Filming Locations Of 'The Goonies'",
+      "article_headline": "Exploring The Filming Locations Of 'The Goonies'"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-12 22:00:13",
+      "pub_time": "2026-02-26 22:03:44",
+      "publication": "Apple News Plus",
+      "headline": "National Geographic, What you’ve been told about eggs and cholesterol is wrong",
+      "article_headline": ""
+    }
+  ]
+}

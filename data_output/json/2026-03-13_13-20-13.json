@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-13 13:20:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AkRMf3Wh_R5-MR9LzcXj0RQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-13 13:20:13",
+      "pub_time": "2026-03-13 13:12:15",
+      "publication": "BBC News",
+      "headline": "All 6 crewmembers killed after U.S. refueling plane crashes in Iraq",
+      "article_headline": "All six crew members killed after US refuelling plane crashes in Iraq"
+    },
+    {
+      "link": "https://apple.news/A-znuHqn9S8qsZr19lrK9XQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-13 13:20:13",
+      "pub_time": "2026-03-13 13:12:42",
+      "publication": "Miami Herald",
+      "headline": "Cuban leader Miguel Díaz-Canel confirms talks with the Trump administration",
+      "article_headline": "Cuban leader Miguel Díaz-Canel confirms talks with the Trump administration"
+    },
+    {
+      "link": "https://apple.news/Au8gl4Sj3Qk-9SKnskji1SQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-13 13:20:13",
+      "pub_time": "2026-03-13 13:13:10",
+      "publication": "Haaretz",
+      "headline": "Calls mount for more security at U.S. Jewish institutions after Michigan synagogue attack",
+      "article_headline": "Calls mount for more security at U.S. Jewish institutions after Michigan synagogue attack"
+    },
+    {
+      "link": "https://apple.news/A-znuHqn9S8qsZr19lrK9XQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-13 13:20:13",
+      "pub_time": "2026-03-13 13:11:42",
+      "publication": "Miami Herald",
+      "headline": "Cuban leader Miguel Díaz-Canel confirms talks with the Trump administration",
+      "article_headline": "Cuban leader Miguel Díaz-Canel confirms talks with the Trump administration"
+    },
+    {
+      "link": "https://apple.news/Au8gl4Sj3Qk-9SKnskji1SQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-13 13:20:13",
+      "pub_time": "2026-03-13 13:12:09",
+      "publication": "Haaretz",
+      "headline": "Calls mount for more security at U.S. Jewish institutions after Michigan synagogue attack",
+      "article_headline": "Calls mount for more security at U.S. Jewish institutions after Michigan synagogue attack"
+    },
+    {
+      "link": "https://apple.news/AmBLT4xWlSNCtdHZ-5lF8aw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-13 13:20:13",
+      "pub_time": "2026-03-13 13:12:37",
+      "publication": "The Associated Press",
+      "headline": "U.S. forecasts blizzard, polar vortex, heat dome, and atmospheric river all at once",
+      "article_headline": "U.S. forecasts blizzard, polar vortex, heat dome, and atmospheric river all at once"
+    },
+    {
+      "link": "https://apple.news/AmBLT4xWlSNCtdHZ-5lF8aw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-03-13 13:20:13",
+      "pub_time": "2026-03-13 13:12:09",
+      "publication": "The Associated Press",
+      "headline": "U.S. forecasts blizzard, polar vortex, heat dome, and atmospheric river all at once",
+      "article_headline": "U.S. forecasts blizzard, polar vortex, heat dome, and atmospheric river all at once"
+    }
+  ]
+}
