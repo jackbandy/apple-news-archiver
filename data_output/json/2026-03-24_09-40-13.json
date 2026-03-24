@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-24 09:40:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A72RQ4L5IS2OQmqW6_XxT4w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-24 09:40:13",
+      "pub_time": "2026-03-24 09:28:14",
+      "publication": "The Associated Press",
+      "headline": "Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace",
+      "article_headline": "Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace"
+    },
+    {
+      "link": "https://apple.news/AMzd_GaMYQA2Rm1tOxCQO_A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-24 09:40:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "headline": "Senators close in on deal to end DHS shutdown, fund TSA",
+      "article_headline": "Senators close in on deal to end DHS shutdown, fund TSA"
+    },
+    {
+      "link": "https://apple.news/Aj6udCMQnS6OO2imRWiJ_gA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-24 09:40:13",
+      "pub_time": "2026-03-24 09:27:14",
+      "publication": "ABC News",
+      "headline": "As Trump blocks asylum-seekers, Supreme Court to decide if U.S. must review claims",
+      "article_headline": "As Trump blocks asylum-seekers, Supreme Court to decide if U.S. must review claims"
+    },
+    {
+      "link": "https://apple.news/AIPaEfjpiSEyZeIYBQTQ9vA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-24 09:40:13",
+      "pub_time": "2026-03-24 09:27:42",
+      "publication": "CBS News",
+      "headline": "Taliban releases detained U.S. citizen Dennis Coyle",
+      "article_headline": "Taliban releases detained U.S. citizen Dennis Coyle"
+    },
+    {
+      "link": "https://apple.news/Aj6udCMQnS6OO2imRWiJ_gA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-24 09:40:13",
+      "pub_time": "2026-03-24 09:27:15",
+      "publication": "ABC News",
+      "headline": "As Trump blocks asylum-seekers, Supreme Court to decide if U.S. must review claims",
+      "article_headline": "As Trump blocks asylum-seekers, Supreme Court to decide if U.S. must review claims"
+    },
+    {
+      "link": "https://apple.news/AIPaEfjpiSEyZeIYBQTQ9vA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-24 09:40:13",
+      "pub_time": "2026-03-24 09:27:43",
+      "publication": "CBS News",
+      "headline": "Taliban releases detained U.S. citizen Dennis Coyle",
+      "article_headline": "Taliban releases detained U.S. citizen Dennis Coyle"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-24 09:40:13",
+      "pub_time": "2026-03-24 09:28:11",
+      "publication": "Vox",
+      "headline": "The world’s deadliest infectious disease is on the rise in the U.S.",
+      "article_headline": ""
+    }
+  ]
+}
