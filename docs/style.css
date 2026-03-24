@@ -89,6 +89,10 @@ td.time { color: #86868b; white-space: nowrap; font-size: 0.82rem; }
 .legend-swatch { display: inline-block; width: 12px; height: 12px; border-radius: 2px; vertical-align: middle; margin-right: 4px; }
 .legend-swatch.top { background: #8b0000; }
 .legend-swatch.trending { background: #c95000; }
+.comp-sort-tabs { display: flex; gap: 0; border-bottom: 2px solid #d2d2d7; margin-bottom: 10px; }
+.comp-sort-btn { background: none; border: none; padding: 7px 16px; font-size: 0.82rem; font-weight: 500; color: #6e6e73; cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -2px; font-family: inherit; }
+.comp-sort-btn:hover { color: #1d1d1f; }
+.comp-sort-btn.active { color: #0066cc; border-bottom-color: #0066cc; }
 .comp-group { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
 .comp-label { width: 200px; color: #3a3a3c; text-align: right; flex-shrink: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .comp-bars { flex: 1; display: flex; flex-direction: column; gap: 3px; }
