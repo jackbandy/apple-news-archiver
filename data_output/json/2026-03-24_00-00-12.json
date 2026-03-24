@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-24 00:00:12",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AhyBF90bHSJKo4i8syJICVA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-24 00:00:12",
+      "pub_time": "2026-03-23 23:00:14",
+      "publication": "Reuters",
+      "headline": "Iran denies talks with U.S. after Trump postpones strikes on power grid",
+      "article_headline": "Iran denies talks with US after Trump postpones strikes on power grid"
+    },
+    {
+      "link": "https://apple.news/AtSSOWgPFRAKYBvbIFPqF8g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-24 00:00:12",
+      "pub_time": "",
+      "publication": "NPR",
+      "headline": "Markwayne Mullin confirmed as the next secretary of Homeland Security",
+      "article_headline": "Markwayne Mullin confirmed as the next secretary of Homeland Security"
+    },
+    {
+      "link": "https://apple.news/AWAp_HeenTcuGE5n2uhpgvA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-24 00:00:12",
+      "pub_time": "2026-03-23 23:01:13",
+      "publication": "ProPublica",
+      "headline": "Trump has detained the parents of more than 11,000 U.S. citizen kids",
+      "article_headline": "Trump has detained the parents of more than 11,000 U.S. citizen kids"
+    },
+    {
+      "link": "https://apple.news/A1vEGlYMoQBuOKasmYhaQZw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-24 00:00:12",
+      "pub_time": "2026-03-23 23:01:40",
+      "publication": "AFP News",
+      "headline": "At least 66 dead after Colombia military transport plane crashes",
+      "article_headline": "At least 66 dead after Colombia military transport plane crashes"
+    },
+    {
+      "link": "https://apple.news/Aa8ZqgbnrS_qi6WN6eK1sEA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-24 00:00:12",
+      "pub_time": "2026-03-23 23:02:13",
+      "publication": "The Associated Press",
+      "headline": "Jury finds that Bill Cosby sexually assaulted woman in 1972 and awards her nearly $60 million",
+      "article_headline": "Jury finds that Bill Cosby sexually assaulted woman in 1972 and awards her nearly $60 million"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-24 00:00:12",
+      "pub_time": "2026-03-23 23:02:40",
+      "publication": "New York Magazine",
+      "headline": "Could the girls of Camp Mystic have been saved?",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A9nSFaLpATWKQU1wvamlQMw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-24 00:00:12",
+      "pub_time": "2026-03-23 17:03:07",
+      "publication": "People",
+      "headline": "Trump Unexpectedly Attacks Newsmax Reporter on Camera and Warns He Won't Last at MAGA-Aligned Network",
+      "article_headline": "Trump Unexpectedly Attacks Newsmax Reporter on Camera and Warns He Won't Last at MAGA-Aligned Network"
+    }
+  ]
+}
