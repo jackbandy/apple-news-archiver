@@ -1,0 +1,66 @@
+{
+  "run_time": "2026-03-24 03:40:12",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/Aqh3FS8NBSK2EExUWPZLZwg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-24 03:40:12",
+      "pub_time": "2026-03-24 00:40:14",
+      "publication": "Reuters",
+      "headline": "Iran sends waves of missiles into Israel, dismisses Trump’s talk of negotiations",
+      "article_headline": "Iran sends waves of missiles into Israel, dismisses Trump's talk of negotiations as 'fake news'"
+    },
+    {
+      "link": "https://apple.news/AfA368EBPQ1yvrU3Q13Kk3A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-24 03:40:12",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "headline": "Senators consider deal to fund Homeland Security but not ICE enforcement as airport lines snarl",
+      "article_headline": "Senators consider deal to fund Homeland Security but not ICE enforcement as airport lines snarl"
+    },
+    {
+      "link": "https://apple.news/AWAp_HeenTcuGE5n2uhpgvA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-24 03:40:12",
+      "pub_time": "2026-03-24 00:41:13",
+      "publication": "ProPublica",
+      "headline": "Trump has detained the parents of more than 11,000 U.S. citizen kids",
+      "article_headline": "Trump has detained the parents of more than 11,000 U.S. citizen kids"
+    },
+    {
+      "link": "https://apple.news/A1vEGlYMoQBuOKasmYhaQZw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-24 03:40:12",
+      "pub_time": "2026-03-24 00:41:40",
+      "publication": "AFP News",
+      "headline": "At least 66 dead after Colombia military transport plane crashes",
+      "article_headline": "At least 66 dead after Colombia military transport plane crashes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-24 03:40:12",
+      "pub_time": "2026-03-24 00:42:12",
+      "publication": "The Washington Post",
+      "headline": "Where summer-like heat has shattered records — and where it will spread next",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-24 03:40:12",
+      "pub_time": "2026-03-24 00:42:25",
+      "publication": "New York Magazine",
+      "headline": "Could the girls of Camp Mystic have been saved?",
+      "article_headline": ""
+    }
+  ]
+}
