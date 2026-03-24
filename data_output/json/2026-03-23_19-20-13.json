@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-23 19:20:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ARh3uTrWmSSir9tzPjkHBaw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-23 19:20:13",
+      "pub_time": "2026-03-23 18:44:15",
+      "publication": "The Wall Street Journal",
+      "headline": "Trump and Iran send conflicting signals on talks",
+      "article_headline": "Trump and Iran Send Conflicting Signals on Talks"
+    },
+    {
+      "link": "https://apple.news/A5ncoYZaZQVyYkn6Dokyocw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-23 19:20:13",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "headline": "Supreme Court appears ready to limit mail-in balloting ahead of midterms",
+      "article_headline": "Supreme Court appears ready to limit mail-in balloting ahead of midterms"
+    },
+    {
+      "link": "https://apple.news/AjABOFPVQSSis467O5Xq2Rg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-23 19:20:13",
+      "pub_time": "2026-03-23 18:44:13",
+      "publication": "Reuters",
+      "headline": "ICE agents deployed to more than a dozen airports amid staffing gaps",
+      "article_headline": "ICE agents deployed to more than a dozen airports amid staffing gaps"
+    },
+    {
+      "link": "https://apple.news/Ajbk5vMfJRY2ejh1g4iV5ZQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-23 19:20:13",
+      "pub_time": "2026-03-23 18:44:41",
+      "publication": "Los Angeles Times",
+      "headline": "Bill Cosby loses civil sex-assault lawsuit in Los Angeles County, faces $19 million judgment",
+      "article_headline": "Bill Cosby loses civil sex-assault lawsuit in Los Angeles County, faces $19 million judgment"
+    },
+    {
+      "link": "https://apple.news/AjABOFPVQSSis467O5Xq2Rg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-23 19:20:13",
+      "pub_time": "2026-03-23 18:44:14",
+      "publication": "Reuters",
+      "headline": "ICE agents deployed to more than a dozen airports amid staffing gaps",
+      "article_headline": "ICE agents deployed to more than a dozen airports amid staffing gaps"
+    },
+    {
+      "link": "https://apple.news/Ajbk5vMfJRY2ejh1g4iV5ZQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-23 19:20:13",
+      "pub_time": "2026-03-23 18:44:41",
+      "publication": "Los Angeles Times",
+      "headline": "Bill Cosby loses civil sex-assault lawsuit in Los Angeles County, faces $19 million judgment",
+      "article_headline": "Bill Cosby loses civil sex-assault lawsuit in Los Angeles County, faces $19 million judgment"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-23 19:20:13",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "headline": "March Madness, The biggest takeaways from the second round of the women’s tournament",
+      "article_headline": ""
+    }
+  ]
+}
