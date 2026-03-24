@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-24 13:20:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AfA368EBPQ1yvrU3Q13Kk3A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-24 13:20:13",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "headline": "Senators consider deal to fund Homeland Security but not ICE enforcement as airport lines snarl",
+      "article_headline": "Senators consider deal to fund Homeland Security but not ICE enforcement as airport lines snarl"
+    },
+    {
+      "link": "https://apple.news/A1B_AnJkRRvigUmqA5Gxckw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-24 13:20:13",
+      "pub_time": "2026-03-24 13:02:43",
+      "publication": "NBC News",
+      "headline": "As Trump touts diplomatic progress with Iran, a new go-between emerges",
+      "article_headline": "As Trump touts diplomatic progress with Iran, a new go-between emerges"
+    },
+    {
+      "link": "https://apple.news/AAM64qdStToqQVM04P0uQoQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-24 13:20:13",
+      "pub_time": "2026-03-24 13:03:11",
+      "publication": "Reuters",
+      "headline": "Supreme Court justices appear to lean toward Trump in asylum-processing case",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A1B_AnJkRRvigUmqA5Gxckw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-24 13:20:13",
+      "pub_time": "2026-03-24 13:02:41",
+      "publication": "NBC News",
+      "headline": "As Trump touts diplomatic progress with Iran, a new go-between emerges",
+      "article_headline": "As Trump touts diplomatic progress with Iran, a new go-between emerges"
+    },
+    {
+      "link": "https://apple.news/AAM64qdStToqQVM04P0uQoQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-24 13:20:13",
+      "pub_time": "2026-03-24 13:03:09",
+      "publication": "Reuters",
+      "headline": "Supreme Court justices appear to lean toward Trump in asylum-processing case",
+      "article_headline": "Supreme Court justices appear to lean toward Trump in asylum-processing case"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-24 13:20:13",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "headline": "Wildfires rip through unusual parts of U.S., raising fears of a brutal season",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A6Ws_FLybScKqN9zkbIVuKA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-24 13:20:13",
+      "pub_time": "2026-03-24 13:01:56",
+      "publication": "Houston Public Media",
+      "headline": "3-foot-wide, 1-ton meteor explodes over Houston — and a piece crashes into woman’s home",
+      "article_headline": "3-foot-wide, 1-ton meteor explodes over Houston — and a piece crashes into woman’s home"
+    }
+  ]
+}
