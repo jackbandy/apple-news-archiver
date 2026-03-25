@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-25 05:20:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AUE71OIgjT1m5cDfLEkkcEA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-25 05:20:13",
+      "pub_time": "2026-03-25 05:07:15",
+      "publication": "Bloomberg",
+      "headline": "U.S. awaits response to peace plan as Iran keeps up attacks",
+      "article_headline": "US Awaits Response to Peace Plan as Iran Keeps Up Attacks"
+    },
+    {
+      "link": "https://apple.news/A8NRa-OtJTOqrmk7iY9ugfA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-25 05:20:13",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "headline": "DHS funding proposal falls flat as Democrats, conservatives, and Trump raise doubts",
+      "article_headline": "DHS funding proposal falls flat as Democrats, conservatives, and Trump raise doubts"
+    },
+    {
+      "link": "https://apple.news/AMdZ-9nIMRimpFDciM_nu-g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-25 05:20:13",
+      "pub_time": "",
+      "publication": "NPR",
+      "headline": "Judge says government’s Anthropic ban looks like punishment",
+      "article_headline": "Judge says government’s Anthropic ban looks like punishment"
+    },
+    {
+      "link": "https://apple.news/ADeHVIP_gRf23O4Rv6lYQfA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-25 05:20:13",
+      "pub_time": "2026-03-25 05:06:40",
+      "publication": "The Hill",
+      "headline": "Democrats flip Florida state House district that includes Trump’s Mar-a-Lago",
+      "article_headline": "Democrats flip Florida state House district that includes Trump’s Mar-a-Lago"
+    },
+    {
+      "link": "https://apple.news/ADeHVIP_gRf23O4Rv6lYQfA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-25 05:20:13",
+      "pub_time": "2026-03-25 05:06:13",
+      "publication": "The Hill",
+      "headline": "Democrats flip Florida state House district that includes Trump’s Mar-a-Lago",
+      "article_headline": "Democrats flip Florida state House district that includes Trump’s Mar-a-Lago"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-25 05:20:13",
+      "pub_time": "2026-03-25 05:06:41",
+      "publication": "National Geographic",
+      "headline": "A Raphael masterpiece is finally back in one piece",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AvcStSDK-REW2nxZXi9kGLA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-25 05:20:13",
+      "pub_time": "2026-03-25 05:06:53",
+      "publication": "The Washington Post",
+      "headline": "Exercise can lower Alzheimer’s risk. Scientists may have discovered why.",
+      "article_headline": "Exercise can lower Alzheimer’s risk. Scientists may have discovered why."
+    }
+  ]
+}
