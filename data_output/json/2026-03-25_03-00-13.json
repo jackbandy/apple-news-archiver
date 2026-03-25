@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-25 03:00:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A6nwKYpamQemrLlHmHnFxTg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-25 03:00:13",
+      "pub_time": "2026-03-25 01:00:14",
+      "publication": "The Washington Post",
+      "headline": "Army paratroopers ordered to Middle East as U.S. weighs next move in Iran conflict, MORE COVERAGE",
+      "article_headline": "Army paratroopers ordered to Middle East as U.S. weighs next move in Iran conflict"
+    },
+    {
+      "link": "https://apple.news/A8NRa-OtJTOqrmk7iY9ugfA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-25 03:00:13",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "headline": "DHS funding proposal falls flat as Democrats, conservatives, and Trump raise doubts",
+      "article_headline": "DHS funding proposal falls flat as Democrats, conservatives, and Trump raise doubts"
+    },
+    {
+      "link": "https://apple.news/AMdZ-9nIMRimpFDciM_nu-g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-25 03:00:13",
+      "pub_time": "",
+      "publication": "NPR",
+      "headline": "Judge says government’s Anthropic ban looks like punishment",
+      "article_headline": "Judge says government’s Anthropic ban looks like punishment"
+    },
+    {
+      "link": "https://apple.news/ADeHVIP_gRf23O4Rv6lYQfA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-25 03:00:13",
+      "pub_time": "2026-03-25 01:01:46",
+      "publication": "The Hill",
+      "headline": "Democrats flip Florida state House district that includes Trump’s Mar-a-Lago",
+      "article_headline": "Democrats flip Florida state House district that includes Trump’s Mar-a-Lago"
+    },
+    {
+      "link": "https://apple.news/AGi04PqV9Rx6j-bcNrRKLjA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-25 03:00:13",
+      "pub_time": "2026-03-25 01:02:13",
+      "publication": "Video",
+      "headline": "CBS News, NASA to spend $20 billion on ambitious moon base",
+      "article_headline": "NASA to spend $20 billion on ambitious moon base"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-25 03:00:13",
+      "pub_time": "2026-03-25 01:02:47",
+      "publication": "Bloomberg Businessweek",
+      "headline": "Red Lobster is in trouble — and its young CEO is running out of time to save it",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AMoWpOaoqQ2WhGZeAwm8U4w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-25 03:00:13",
+      "pub_time": "2026-03-24 19:03:14",
+      "publication": "Video",
+      "headline": "CBS News, The national divide over dress codes",
+      "article_headline": "The national divide over dress codes"
+    }
+  ]
+}
