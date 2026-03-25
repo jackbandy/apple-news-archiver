@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-25 06:40:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AUE71OIgjT1m5cDfLEkkcEA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-25 06:40:13",
+      "pub_time": "2026-03-25 05:53:15",
+      "publication": "Bloomberg",
+      "headline": "U.S. awaits response to peace plan as Iran keeps up attacks",
+      "article_headline": "US Awaits Response to Peace Plan as Iran Keeps Up Attacks"
+    },
+    {
+      "link": "https://apple.news/A1w9fACAsQxyTNBvvRCXhew",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-25 06:40:13",
+      "pub_time": "",
+      "publication": "The Hill",
+      "headline": "Plan to fund DHS draws fire from the right and left, while shutdown drags on",
+      "article_headline": "Plan to fund DHS draws fire from the right and left, while shutdown drags on"
+    },
+    {
+      "link": "https://apple.news/AJiNr7avDT9C-weTZBUtM-g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-25 06:40:13",
+      "pub_time": "2026-03-25 05:52:15",
+      "publication": "Fox News",
+      "headline": "Democrats flip Trump’s home district in stunning Florida upset",
+      "article_headline": "Democrats flip Trump’s home district in stunning Florida upset"
+    },
+    {
+      "link": "https://apple.news/AlhjLTMdsSf-eIVTR5O4gvQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-25 06:40:13",
+      "pub_time": "2026-03-25 05:52:43",
+      "publication": "BBC News",
+      "headline": "Danish PM fails to secure majority in party’s weakest election showing since 1903",
+      "article_headline": "Danish PM fails to secure majority in party’s weakest election showing since 1903"
+    },
+    {
+      "link": "https://apple.news/AJiNr7avDT9C-weTZBUtM-g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-25 06:40:13",
+      "pub_time": "2026-03-25 05:52:15",
+      "publication": "Fox News",
+      "headline": "Democrats flip Trump’s home district in stunning Florida upset",
+      "article_headline": "Democrats flip Trump’s home district in stunning Florida upset"
+    },
+    {
+      "link": "https://apple.news/AlhjLTMdsSf-eIVTR5O4gvQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-25 06:40:13",
+      "pub_time": "2026-03-25 05:52:43",
+      "publication": "BBC News",
+      "headline": "Danish PM fails to secure majority in party’s weakest election showing since 1903",
+      "article_headline": "Danish PM fails to secure majority in party’s weakest election showing since 1903"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-25 06:40:13",
+      "pub_time": "2026-03-25 05:53:10",
+      "publication": "National Geographic",
+      "headline": "A Raphael masterpiece is finally back in one piece",
+      "article_headline": ""
+    }
+  ]
+}
