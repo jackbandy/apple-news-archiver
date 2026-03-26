@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-26 06:00:12",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/At6kUosm5QV6sLM5_kVOvdw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-26 06:00:12",
+      "pub_time": "2026-03-26 05:13:14",
+      "publication": "The Associated Press",
+      "headline": "Iran and the U.S. harden positions as Tehran keeps its grip on the Strait of Hormuz",
+      "article_headline": "Iran and the US harden their positions as Tehran keeps its grip on the Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/ApExFfOh2R1-M7rzpX8dtSQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-26 06:00:12",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "headline": "Verdicts against Meta, YouTube reshape legal protections for Big Tech",
+      "article_headline": "Verdicts against Meta, YouTube reshape legal protections for Big Tech"
+    },
+    {
+      "link": "https://apple.news/A2qgXNrFBSOi-mv1_h39PCA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-26 06:00:12",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "headline": "Despair settles over Washington as DHS deal hopes evaporate",
+      "article_headline": "Despair settles over Washington as DHS deal hopes evaporate"
+    },
+    {
+      "link": "https://apple.news/AmNJjPkXkTW-PjwjTyWWqKA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-26 06:00:12",
+      "pub_time": "2026-03-26 05:13:41",
+      "publication": "NPR",
+      "headline": "A $50 billion fund to help rural hospitals could actually lead to closures and cuts",
+      "article_headline": "A $50 billion fund to help rural hospitals could actually lead to closures and cuts"
+    },
+    {
+      "link": "https://apple.news/AmNJjPkXkTW-PjwjTyWWqKA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-26 06:00:12",
+      "pub_time": "2026-03-26 05:13:14",
+      "publication": "NPR",
+      "headline": "A $50 billion fund to help rural hospitals could actually lead to closures and cuts",
+      "article_headline": "A $50 billion fund to help rural hospitals could actually lead to closures and cuts"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-26 06:00:12",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "headline": "MLB season opener features “robot umpire” for the first time",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-26 06:00:12",
+      "pub_time": "2026-03-26 05:13:54",
+      "publication": "The Wall Street Journal",
+      "headline": "He had a full ride at Duke — until America cut him off",
+      "article_headline": ""
+    }
+  ]
+}
