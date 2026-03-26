@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-26 05:00:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A9TBFuEnGSqSy1ZGdTIwstA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-26 05:00:14",
+      "pub_time": "2026-03-26 00:00:16",
+      "publication": "Reuters",
+      "headline": "Iran says it is reviewing a U.S. ceasefire plan but has no intention of holding talks",
+      "article_headline": "Iran says it is reviewing a U.S. ceasefire plan but has no intention of holding talks"
+    },
+    {
+      "link": "https://apple.news/ApExFfOh2R1-M7rzpX8dtSQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-26 05:00:14",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "headline": "Verdicts against Meta, YouTube reshape legal protections for Big Tech",
+      "article_headline": "Verdicts against Meta, YouTube reshape legal protections for Big Tech"
+    },
+    {
+      "link": "https://apple.news/AvS72RplcTm2Wq_y5vwa9rA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-26 05:00:14",
+      "pub_time": "",
+      "publication": "ABC News",
+      "headline": "Days from recess, Democrats and Republicans blame each other for TSA chaos",
+      "article_headline": "Days from recess, Democrats and Republicans blame each other for TSA chaos"
+    },
+    {
+      "link": "https://apple.news/A8nw9NU9lS7OuKCT2bkdfvg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-26 05:00:14",
+      "pub_time": "2026-03-26 00:01:42",
+      "publication": "The Associated Press",
+      "headline": "Strike on alleged drug boat kills 4 in the Caribbean Sea, U.S. military says",
+      "article_headline": "Strike on alleged drug boat kills 4 in the Caribbean Sea, U.S. military says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-26 05:00:14",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "headline": "MLB season opener features “robot umpire” for the first time",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-26 05:00:14",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "headline": "She uncovered a terrifying lab hidden in California, with alleged ties to China, Audio, 1 min",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-26 05:00:14",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "headline": "FOOD & WINE, Where to Stay, Sip, and Feast on the Ultimate Whiskey Getaway, Sean Flynn",
+      "article_headline": ""
+    }
+  ]
+}
