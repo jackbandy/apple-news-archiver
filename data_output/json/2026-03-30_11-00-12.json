@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-03-30 11:00:12",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AWFO25boLSneSwoWZ2kaGjA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-30 11:00:12",
+      "pub_time": "2026-03-30 10:00:14",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump issues new threat to Iran’s civilian infrastructure if a ceasefire isn’t reached “shortly”",
+      "article_headline": "Trump threatens to destroy Iran's civilian infrastructure if a deal is not reached 'shortly'"
+    },
+    {
+      "link": "https://apple.news/AQ4Myel2LRXmPSF0MJzQKhg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-30 11:00:12",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "The president wants to define who is an American. Will the Supreme Court let him?",
+      "article_headline": "The president wants to define who is an American. Will the Supreme Court let him?"
+    },
+    {
+      "link": "https://apple.news/AbpCoxOKRTC6Y9kXusxIH0A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-30 11:00:12",
+      "pub_time": "2026-03-30 10:01:13",
+      "publication": "NBC News",
+      "author": "Dennis Romero, Daniel Arkin, Peter Nicholas, and Amanda Terkel",
+      "headline": "“I blame them all”: Travelers frustrated with Washington as shutdown drags on",
+      "article_headline": "“I blame them all”: Travelers frustrated with Washington as shutdown drags on"
+    },
+    {
+      "link": "https://apple.news/ABnkj33B3QNuGNL8MAXOjeA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-30 11:00:12",
+      "pub_time": "2026-03-30 10:01:40",
+      "publication": "KFF Health News",
+      "author": "Elisabeth Rosenthal",
+      "headline": "She owed her insurer a nickel, so it canceled her coverage",
+      "article_headline": "She owed her insurer a nickel, so it canceled her coverage"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-30 11:00:12",
+      "pub_time": "2026-03-30 10:02:13",
+      "publication": "The Times of London",
+      "author": "",
+      "headline": "Renoir, Matisse, and Cézanne masterpieces stolen in raid on Italian villa",
+      "article_headline": "Renoir, Matisse, and Cézanne masterpieces stolen in raid on Italian villa"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-30 11:00:12",
+      "pub_time": "2026-03-30 10:02:26",
+      "publication": "Scientific American",
+      "author": "Deni Ellis Béchard",
+      "headline": "The hacked cameras behind the wave of assassinations in Iran",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ATrt2Ex0AQWKUTabJzCshIA",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-03-30 11:00:12",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Trump sends thousands more troops to the Middle East",
+      "article_headline": ""
+    }
+  ]
+}
