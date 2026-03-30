@@ -423,7 +423,15 @@ def collect_home_page(driver, run_time):
             publication, headline, pub_time = '', '', ''
             try:
                 if section == 'trending':
-                    headline = label.strip()
+                    # Trending label format: "Headline, time ago[, Author]"
+                    # Split on the time marker so we don't include it in the
+                    # headline and can extract the author that follows it.
+                    tm = re.search(r',\s*\d+\s+(?:minute|hour|day|week|month)s?\s+ago', label)
+                    if tm:
+                        headline = label[:tm.start()].strip()
+                        publication = label[tm.end():].lstrip(', ').strip()
+                    else:
+                        headline = label.strip()
                 else:
                     publication, headline, _ = parse_cell_label(label)
                 pub_time = parse_pub_date(label)
@@ -456,7 +464,9 @@ def collect_home_page(driver, run_time):
                 top_total -= 1
                 continue
 
-            article_headline = get_article_headline(driver, x_c, y_c, window_height)
+            article_headline, article_publication = get_article_headline(driver, x_c, y_c, window_height)
+            if not publication:
+                publication = article_publication
 
             stories.append((link, rank, section, run_time, pub_time, publication, headline, article_headline))
             print("  [{}/{}]{}".format(section, rank, ' (no link)' if not link else ''))
@@ -576,7 +586,9 @@ def collect_top_stories_view(driver, run_time):
             seen_this_run.add(link)
             rank += 1
 
-            article_headline = get_article_headline(driver, x_c, y_c, window_height)
+            article_headline, article_publication = get_article_headline(driver, x_c, y_c, window_height)
+            if not publication:
+                publication = article_publication
 
             stories.append((link, rank, 'top', run_time, pub_time, publication, headline, article_headline))
             print("  [top/{}]".format(rank))
@@ -668,25 +680,36 @@ def long_press(driver, x, y, duration=1.5):
 
 
 def get_article_headline(driver, x, y, window_height):
-    '''Tap a story card at (x, y), extract the article headline element
-    (XCUIElementTypeOther with traits="Header"), then tap the Back button.
-    Returns the headline string, or '' on failure.'''
+    '''Tap a story card at (x, y), extract the publication and headline from
+    the article view, then tap the Back button.
+
+    Returns (headline, publication) — either or both may be '' on failure.
+
+    Primary source: the article ScrollView whose name attribute is
+    "Publication, Headline". This is the most reliable element and also
+    provides the publication name, which is useful for sections (e.g.
+    trending) where the cell label does not include a publication.
+
+    Fallback (headline only): XCUIElementTypeOther elements with
+    traits="Header", skipping short category labels like "World news".
+    '''
     tap(driver, x, y)
     sleep(3)
 
     article_headline = ''
+    article_publication = ''
     try:
-        # The article ScrollView's name attribute is "Publication, Headline" —
-        # the most reliable source and avoids matching section/category labels.
+        # The article ScrollView's name attribute is "Publication, Headline".
         scroll_els = driver.find_elements(
             AppiumBy.XPATH, '//XCUIElementTypeScrollView[contains(@name, ",")]'
         )
         for el in scroll_els:
             name = (el.get_attribute('name') or '').strip()
             if len(name) > 20:
-                _, headline, _ = parse_cell_label(name)
+                pub, headline, _ = parse_cell_label(name)
                 if headline:
                     article_headline = headline
+                    article_publication = pub
                     break
     except Exception:
         pass
@@ -712,7 +735,7 @@ def get_article_headline(driver, x, y, window_height):
         back_swipe(driver, window_height)
     sleep(2)
 
-    return article_headline
+    return article_headline, article_publication
 
 
 def long_press_copy_link(driver, x, y, window_height):
