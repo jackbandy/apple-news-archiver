@@ -1,0 +1,127 @@
+{
+  "run_time": "2026-03-31 00:00:12",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AB4Y476iRTPqeKd7Obr9HsQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-31 00:00:12",
+      "pub_time": "2026-03-30 23:00:14",
+      "publication": "Reuters",
+      "author": "Alexander Cornwell, Trevor Hunnicutt, and Yomna Ehab",
+      "headline": "Iran strikes oil tanker off Dubai as Trump threatens to obliterate Iran energy, oil plants",
+      "article_headline": "Giant oil tanker off Dubai hit by Iranian strike after Trump's latest threats"
+    },
+    {
+      "link": "https://apple.news/Anh9_XyS3RZSaJRDXIY_3jw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-31 00:00:12",
+      "pub_time": "2026-03-30 23:00:41",
+      "publication": "The Guardian",
+      "author": "Roque Planas",
+      "headline": "Mexican immigrant dies in detention center, marking 14 deaths in ICE custody in 2026",
+      "article_headline": "Mexican immigrant dies in detention center, marking 14 deaths in ICE custody in 2026"
+    },
+    {
+      "link": "https://apple.news/A1nvsPznVQ7eeKPWfotdNng",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-31 00:00:12",
+      "pub_time": "2026-03-30 23:01:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration sues Minnesota over transgender athletes in girls sports",
+      "article_headline": "Trump administration sues Minnesota over transgender athletes in girls sports"
+    },
+    {
+      "link": "https://apple.news/A-JofTbj6RUusvx55rLXJKQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-31 00:00:12",
+      "pub_time": "2026-03-30 23:01:51",
+      "publication": "NPR",
+      "author": "Nell Greenfieldboyce",
+      "headline": "NASA is just days away from historic Artemis II moon launch",
+      "article_headline": "NASA is just days away from historic Artemis II moon launch"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-31 00:00:12",
+      "pub_time": "2026-03-30 23:02:19",
+      "publication": "Los Angeles Times",
+      "author": "Nabih Bulos",
+      "headline": "The 30-second kidnapping — and a family’s years-long fight for the truth",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AsByuyU83RJGk4gj2MlL98Q",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-03-31 00:00:12",
+      "pub_time": "2026-03-30 13:02:37",
+      "publication": "People",
+      "author": "Ashley Vega",
+      "headline": "Girl Sets Up Camera Hoping to Catch a Leprechaun. What She Sees Instead Leaves Her Even More Surprised",
+      "article_headline": "Girl Sets Up Camera Hoping to Catch a Leprechaun. What She Sees Instead Leaves Her Even More Surprised"
+    },
+    {
+      "link": "https://apple.news/A5jTT7nnUQeGvwDI7dfbWxQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-03-31 00:00:12",
+      "pub_time": "2026-03-30 19:03:04",
+      "publication": "BuzzFeed",
+      "author": "Angelica Martinez",
+      "headline": "38 \"Hidden Features\" On Everyday Items You Probably Already Own, But Have No Idea Exist",
+      "article_headline": "38 \"Hidden Features\" On Everyday Items You Probably Already Own, But Have No Idea Exist"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-03-31 00:00:12",
+      "pub_time": "2026-03-30 22:03:38",
+      "publication": "",
+      "author": "Carol Lee",
+      "headline": "Let Me Deinfluence You From Getting a Blepharoplasty",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AtnEkqoWXT6G3XSWdXJ28-g",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-03-31 00:00:12",
+      "pub_time": "2026-03-30 16:03:50",
+      "publication": "TheStreet",
+      "author": "Tony Owusu and Celine Provini",
+      "headline": "5 popular SUVs to avoid, and 5 safer options, Consumer Reports says",
+      "article_headline": "5 popular SUVs to avoid, and 5 safer options, Consumer Reports says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-31 00:00:12",
+      "pub_time": "",
+      "publication": "Gourmet Traveller",
+      "author": "",
+      "headline": "Meet the Gin-a-Colada: A Fresh Twist on a Classic",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-31 00:00:12",
+      "pub_time": "",
+      "publication": "Gourmet Traveller",
+      "author": "",
+      "headline": "How Coda Turned Sweets into a Michelin-Star Experience",
+      "article_headline": ""
+    }
+  ]
+}
