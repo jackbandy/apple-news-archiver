@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-03-31 16:00:12",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A2T1MluCrTEWrdHYkGu0haA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-31 16:00:12",
+      "pub_time": "",
+      "publication": "The Colorado Sun",
+      "author": "",
+      "headline": "Supreme Court strikes down Colorado law banning conversion therapy for gay, transgender minors",
+      "article_headline": "Supreme Court strikes down Colorado law banning conversion therapy for gay, transgender minors"
+    },
+    {
+      "link": "https://apple.news/AbI04SwEqRr-u38L-XY0oIg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-31 16:00:12",
+      "pub_time": "2026-03-31 15:00:41",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Jonathan Edwards",
+      "headline": "Judge halts construction on Trump’s White House ballroom",
+      "article_headline": "Judge halts construction on Trump’s White House ballroom"
+    },
+    {
+      "link": "https://apple.news/AI7plhKGiTruo5S54aaEJ6A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-31 16:00:12",
+      "pub_time": "2026-03-31 15:01:08",
+      "publication": "Fox News",
+      "author": "Efrat Lachter",
+      "headline": "More key allies restrict U.S. military flights as Iran war rift with Trump widens",
+      "article_headline": "More key allies restrict U.S. military flights as Iran war rift with Trump widens"
+    },
+    {
+      "link": "https://apple.news/A5IczTRRPQG-G_YTxnQqbnA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-31 16:00:12",
+      "pub_time": "2026-03-31 15:01:40",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Citing First Amendment, federal judge blocks Trump order to end funding for NPR and PBS",
+      "article_headline": "Citing First Amendment, federal judge blocks Trump order to end funding for NPR and PBS"
+    },
+    {
+      "link": "https://apple.news/AuL0HIr4PT3GmxsoLs07xxA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-31 16:00:12",
+      "pub_time": "2026-03-31 15:02:12",
+      "publication": "NBC News",
+      "author": "Yuliya Talmazan",
+      "headline": "As Putin takes Russia off the grid, there are growing signs of discontent",
+      "article_headline": "As Putin takes Russia off the grid, there are growing signs of discontent"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-31 16:00:12",
+      "pub_time": "2026-03-31 15:02:39",
+      "publication": "The Wall Street Journal",
+      "author": "Alistair Macdonald",
+      "headline": "America downs cheap drones with million-dollar missiles. A fix is in the works.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Aca4QDKs0R-yf4CGGtr_MHQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-31 16:00:12",
+      "pub_time": "2026-03-10 16:02:57",
+      "publication": "Serious Eats",
+      "author": "Laura Kiniry",
+      "headline": "The real reason grocery-store rotisserie chicken is so cheap",
+      "article_headline": "The real reason grocery-store rotisserie chicken is so cheap"
+    }
+  ]
+}
