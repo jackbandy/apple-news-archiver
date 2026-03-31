@@ -1,0 +1,72 @@
+{
+  "run_time": "2026-03-31 03:40:13",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AB4Y476iRTPqeKd7Obr9HsQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-31 03:40:13",
+      "pub_time": "2026-03-31 00:40:14",
+      "publication": "Reuters",
+      "author": "Alexander Cornwell, Trevor Hunnicutt, and Yomna Ehab",
+      "headline": "Iran strikes giant oil tanker off Dubai after Trump’s latest threats",
+      "article_headline": "Giant oil tanker off Dubai hit by Iranian strike after Trump's latest threats"
+    },
+    {
+      "link": "https://apple.news/ACKosQttBShCgn8PJdUNBYg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-31 03:40:13",
+      "pub_time": "2026-03-31 00:40:42",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Political tensions soar as Iran says its expelled ambassador won’t leave Lebanon",
+      "article_headline": "Political tensions soar as Iran says its expelled ambassador won’t leave Lebanon"
+    },
+    {
+      "link": "https://apple.news/ABM3EbKKcTTetZbrjmuPj2w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-31 03:40:13",
+      "pub_time": "",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "Trump urging Congress to cut recess short to end DHS shutdown, White House says",
+      "article_headline": "Trump urging Congress to cut recess short to end DHS shutdown, White House says"
+    },
+    {
+      "link": "https://apple.news/AD_tMc8R5RiCuAycQKdMJaQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-31 03:40:13",
+      "pub_time": "2026-03-31 00:41:42",
+      "publication": "POLITICO",
+      "author": "Josh Gerstein",
+      "headline": "Judge appears skeptical of Pentagon’s latest press restrictions",
+      "article_headline": "Judge appears skeptical of Pentagon’s latest press restrictions"
+    },
+    {
+      "link": "https://apple.news/ASh54pQo-R5uRwYxFrJTx2g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-31 03:40:13",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "March Madness, The women’s Final Four is set, and there’s a historic feat behind the matchups",
+      "article_headline": "First look at the Final Four: Who has the edge? South Carolina or UConn? Texas or UCLA?"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-31 03:40:13",
+      "pub_time": "2026-03-31 00:42:43",
+      "publication": "Los Angeles Times",
+      "author": "Nabih Bulos",
+      "headline": "The 30-second kidnapping — and a family’s years-long fight for the truth",
+      "article_headline": ""
+    }
+  ]
+}
