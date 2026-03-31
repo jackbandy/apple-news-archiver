@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-03-31 05:20:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AFDFigRTbReKc1CPn79SmeA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-31 05:20:13",
+      "pub_time": "2026-03-31 05:11:14",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. strikes city of Iranian nuclear sites, while Tehran hits fully loaded oil tanker off Dubai coast",
+      "article_headline": "US strikes a city home to an Iranian nuclear site while Tehran hits oil tanker off Dubai coast"
+    },
+    {
+      "link": "https://apple.news/ABM3EbKKcTTetZbrjmuPj2w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-31 05:20:13",
+      "pub_time": "",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "White House urging Congress to cut recess short to end DHS shutdown, White House says",
+      "article_headline": "White House urging Congress to cut recess short to end DHS shutdown, White House says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-31 05:20:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "New Heart Association diet advice contradicts government recommendations",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-31 05:20:13",
+      "pub_time": "2026-03-31 05:11:25",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Trump releases first renderings of massive Miami high-rise presidential library",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ASh54pQo-R5uRwYxFrJTx2g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-31 05:20:13",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "March Madness, The women’s Final Four is set, and there’s a historic feat behind the matchups",
+      "article_headline": "First look at the Final Four: Who has the edge? South Carolina or UConn? Texas or UCLA?"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-31 05:20:13",
+      "pub_time": "2026-03-31 05:12:12",
+      "publication": "The Atlantic",
+      "author": "Henry Grabar",
+      "headline": "How to keep the suburbs tenant-free",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A1MfHiP37SS2CCr6bYkfWpA",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-03-31 05:20:13",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "NASA’s $100 billion bet on the moon is about to launch",
+      "article_headline": ""
+    }
+  ]
+}
