@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-03-31 12:40:12",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ao4mF3eCaR8KgS6KLPX5qKA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-31 12:40:12",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Supreme Court rules against Colorado’s ban on conversion therapy aimed at LGBTQ+ youth",
+      "article_headline": "Supreme Court rules against Colorado’s ban on conversion therapy aimed at LGBTQ+ youth"
+    },
+    {
+      "link": "https://apple.news/AM30YM9U3QDW00blh7DSlug",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-31 12:40:12",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Gas prices eclipse $4 a gallon in the U.S., the highest since 2022",
+      "article_headline": "Gas prices eclipse $4 a gallon in the U.S., the highest since 2022"
+    },
+    {
+      "link": "https://apple.news/AKiR63qiZT4-soJyz3vK-8Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-31 12:40:12",
+      "pub_time": "2026-03-31 11:56:13",
+      "publication": "POLITICO",
+      "author": "Josh Gerstein",
+      "headline": "The man behind Trump’s push to end birthright citizenship",
+      "article_headline": "The man behind Trump’s push to end birthright citizenship"
+    },
+    {
+      "link": "https://apple.news/AVbVgoxkbQKGwlb6DAwi1fA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-31 12:40:12",
+      "pub_time": "2026-03-31 11:56:41",
+      "publication": "Reuters",
+      "author": "Doyinsola Oladipo",
+      "headline": "LaGuardia controller staffing may have violated procedures on night of collision, document shows",
+      "article_headline": "LaGuardia controller staffing may have violated procedures on night of collision, document shows"
+    },
+    {
+      "link": "https://apple.news/AKiR63qiZT4-soJyz3vK-8Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-31 12:40:12",
+      "pub_time": "2026-03-31 11:56:14",
+      "publication": "POLITICO",
+      "author": "Josh Gerstein",
+      "headline": "The man behind Trump’s push to end birthright citizenship",
+      "article_headline": "The man behind Trump’s push to end birthright citizenship"
+    },
+    {
+      "link": "https://apple.news/AVbVgoxkbQKGwlb6DAwi1fA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-31 12:40:12",
+      "pub_time": "2026-03-31 11:56:42",
+      "publication": "Reuters",
+      "author": "Doyinsola Oladipo",
+      "headline": "LaGuardia controller staffing may have violated procedures on night of collision, document shows",
+      "article_headline": "LaGuardia controller staffing may have violated procedures on night of collision, document shows"
+    },
+    {
+      "link": "https://apple.news/ACXsIZMKbTEm-o7h6CV21rg",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-03-31 12:40:12",
+      "pub_time": "2026-03-31 11:57:09",
+      "publication": "The Telegraph",
+      "author": "Victoria Ward",
+      "headline": "King Charles’s first state visit to U.S. will go ahead despite Iran tensions",
+      "article_headline": "King Charles’s first state visit to U.S. will go ahead despite Iran tensions"
+    }
+  ]
+}
