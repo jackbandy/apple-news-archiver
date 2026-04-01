@@ -28,7 +28,7 @@ function computeSectionStats(section, slots) {
   // Overall dataset date range (same observation window for all sections)
   let minT = Infinity, maxT = -Infinity;
   stories.forEach(s => s.appearances.forEach(a => {
-    const t = new Date(a.run_time).getTime();
+    const t = new Date(a.run_time.replace(' ', 'T')).getTime();
     if (t < minT) minT = t;
     if (t > maxT) maxT = t;
   }));
@@ -38,7 +38,7 @@ function computeSectionStats(section, slots) {
   const durations = sectionStories.map(s => {
     const times = s.appearances
       .filter(a => a.section === section)
-      .map(a => new Date(a.run_time).getTime());
+      .map(a => new Date(a.run_time.replace(' ', 'T')).getTime());
     return Math.max(...times) - Math.min(...times);
   });
   const avgDurationHrs = durations.reduce((a, b) => a + b, 0) / durations.length / 36e5;
@@ -213,7 +213,7 @@ function renderHourChart(containerId, section, title, fillColor) {
   stories.forEach(s => {
     const apps = s.appearances.filter(a => a.section === section);
     if (!apps.length) return;
-    const hour = new Date(apps[0].run_time).getHours();
+    const hour = new Date(apps[0].run_time.replace(' ', 'T')).getHours();
     if (hour >= 0 && hour < 24) { counts[hour]++; total++; }
   });
   if (!total) return;
@@ -286,7 +286,7 @@ function renderPaperTable() {
   // Observation period (shared across both sections)
   let minT = Infinity, maxT = -Infinity;
   stories.forEach(s => s.appearances.forEach(a => {
-    const t = new Date(a.run_time).getTime();
+    const t = new Date(a.run_time.replace(' ', 'T')).getTime();
     if (t < minT) minT = t;
     if (t > maxT) maxT = t;
   }));

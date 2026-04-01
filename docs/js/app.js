@@ -121,7 +121,7 @@ document.addEventListener('click', e => {
 // ── Data load ────────────────────────────────────────────────
 fetch('../data_output/stories.csv')
   .then(r => { if (!r.ok) throw new Error(r.statusText); return r.text(); })
-  .then(text => { stories = dedup(parseCSV(text)); populateFilters(); initDateSlider(); renderCharts(); render(); })
+  .then(text => { stories = dedup(parseCSV(text)); populateFilters(); initDateSlider(); renderCharts(); renderCoverage(); render(); })
   .catch(err => {
     document.getElementById('message').textContent =
       'Could not load data. Run a local server (e.g. python3 -m http.server) from the repo root. (' + err.message + ')';

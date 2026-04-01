@@ -66,8 +66,8 @@ td.time { color: #86868b; white-space: nowrap; font-size: 0.82rem; }
 .badge  { display: inline-block; padding: 2px 8px; border-radius: 20px; font-size: 0.75rem; font-weight: 500; }
 .badge.top              { background: #fde8e8; color: #8b0000; }
 .badge.trending         { background: #fff2e0; color: #c95000; }
-.badge.reader_favorites { background: #f0f0f0; color: #1d1d1f; }
-.badge.popular          { background: #f5eeff; color: #6000b0; }
+.badge.reader_favorites { background: #f0f0f0; color: #6e6e73; }
+.badge.popular          { background: #f0f0f0; color: #6e6e73; }
 #message { text-align: center; padding: 48px; color: #86868b; }
 
 .chart-card { background: #fff; border: 1px solid #d2d2d7; border-radius: 10px; padding: 22px 26px; margin-bottom: 24px; }
@@ -120,6 +120,20 @@ td.time { color: #86868b; white-space: nowrap; font-size: 0.82rem; }
 .ohw-details summary { cursor: pointer; color: #0066cc; font-size: 0.82rem; user-select: none; }
 .ohw-details summary:hover { text-decoration: underline; }
 .ohw-list { column-count: 3; column-gap: 24px; margin-top: 8px; padding-left: 18px; font-size: 0.78rem; color: #3a3a3c; line-height: 1.7; }
+
+.cv-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
+.cv-meta { font-size: 0.78rem; color: #86868b; }
+.cv-scroll { overflow-x: auto; border: 1px solid #d2d2d7; border-radius: 10px; background: #fff; }
+.cv-table { border-collapse: collapse; font-size: 0.78rem; }
+.cv-table th, .cv-table td { border: 1px solid #f0f0f0; }
+.cv-row-label { padding: 6px 14px; background: #f5f5f7; color: #3a3a3c; font-weight: 600; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; white-space: nowrap; position: sticky; left: 0; z-index: 1; border-right: 1px solid #d2d2d7; }
+.cv-cell { width: 22px; height: 22px; text-align: center; font-size: 0.72rem; cursor: default; }
+.cv-miss { background: #f5f5f7; color: transparent; }
+.cv-hit.cv-top              { background: #fde8e8; color: #8b0000; }
+.cv-hit.cv-trending         { background: #fff2e0; color: #c95000; }
+.cv-hit.cv-reader_favorites { background: #f0f0f0; color: #6e6e73; }
+.cv-hit.cv-popular          { background: #f0f0f0; color: #6e6e73; }
+.cv-empty { text-align: center; padding: 48px; color: #86868b; }
 
 #modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.35); z-index: 100; align-items: center; justify-content: center; }
 #modal-overlay.open { display: flex; }
