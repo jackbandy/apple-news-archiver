@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-03-31 19:20:12",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AB4Y476iRTPqeKd7Obr9HsQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-31 19:20:12",
+      "pub_time": "2026-03-31 18:51:13",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "U.S. says Iran war at decisive moment, Tehran threatens businesses in region, MORE DETAILS",
+      "article_headline": "US says Iran war at decisive moment, Tehran threatens US businesses in region"
+    },
+    {
+      "link": "https://apple.news/AxWjOr4HhQE6ZowvKeHzEkQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-31 19:20:12",
+      "pub_time": "",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "Trump signs order on mail-in ballots and federally run voter lists",
+      "article_headline": "Trump signs order on mail-in ballots and federally run voter lists"
+    },
+    {
+      "link": "https://apple.news/AxWjOr4HhQE6ZowvKeHzEkQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-31 19:20:12",
+      "pub_time": "2026-03-31 18:52:13",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Jonathan Edwards",
+      "headline": "Judge halts construction on Trump’s ballroom, says Congress must decide",
+      "article_headline": "Trump signs order on mail-in ballots and federally run voter lists"
+    },
+    {
+      "link": "https://apple.news/AbI04SwEqRr-u38L-XY0oIg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-31 19:20:12",
+      "pub_time": "2026-03-31 18:51:46",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Jonathan Edwards",
+      "headline": "Judge halts construction on Trump’s ballroom, says Congress must decide",
+      "article_headline": "Judge halts construction on Trump’s ballroom, says Congress must decide"
+    },
+    {
+      "link": "https://apple.news/ArnYrtwWYRtmw70DL5m_WJA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-31 19:20:12",
+      "pub_time": "2026-03-31 18:52:14",
+      "publication": "MPR News",
+      "author": "",
+      "headline": "Three-quarters of people arrested by ICE in Minnesota had no criminal record, data shows",
+      "article_headline": "Three-quarters of people arrested by ICE in Minnesota had no criminal record, data shows"
+    },
+    {
+      "link": "https://apple.news/ARTc3rQ1WTLC644USNKFEBw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-31 19:20:12",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Tiger Woods is stepping away from golf to seek treatment",
+      "article_headline": "Tiger Woods stepping away from golf to seek treatment"
+    },
+    {
+      "link": "https://apple.news/AbI04SwEqRr-u38L-XY0oIg",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-03-31 19:20:12",
+      "pub_time": "2026-03-31 18:52:15",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Jonathan Edwards",
+      "headline": "Judge halts construction on Trump’s ballroom, says Congress must decide",
+      "article_headline": "Judge halts construction on Trump’s ballroom, says Congress must decide"
+    }
+  ]
+}

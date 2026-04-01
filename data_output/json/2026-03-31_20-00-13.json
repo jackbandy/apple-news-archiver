@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-03-31 20:00:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AB4Y476iRTPqeKd7Obr9HsQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-31 20:00:13",
+      "pub_time": "2026-03-31 19:00:14",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "U.S. says Iran war at decisive moment, Tehran threatens businesses in region, MORE DETAILS",
+      "article_headline": "U.S. says Iran war at decisive moment, Tehran threatens businesses in region"
+    },
+    {
+      "link": "https://apple.news/AxWjOr4HhQE6ZowvKeHzEkQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-31 20:00:13",
+      "pub_time": "",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "Trump signs order on mail-in ballots and federally run voter lists",
+      "article_headline": "Trump signs order on mail-in ballots and federally run voter lists"
+    },
+    {
+      "link": "https://apple.news/AxWjOr4HhQE6ZowvKeHzEkQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-31 20:00:13",
+      "pub_time": "2026-03-31 19:01:13",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Jonathan Edwards",
+      "headline": "Judge halts construction on Trump’s ballroom, says Congress must decide",
+      "article_headline": "Trump signs order on mail-in ballots and federally run voter lists"
+    },
+    {
+      "link": "https://apple.news/ArnYrtwWYRtmw70DL5m_WJA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-31 20:00:13",
+      "pub_time": "2026-03-31 19:01:47",
+      "publication": "MPR News",
+      "author": "",
+      "headline": "Three-quarters of people arrested by ICE in Minnesota had no criminal record, data shows",
+      "article_headline": "Three-quarters of people arrested by ICE in Minnesota had no criminal record, data shows"
+    },
+    {
+      "link": "https://apple.news/ARTc3rQ1WTLC644USNKFEBw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-31 20:00:13",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Tiger Woods is stepping away from golf to seek treatment",
+      "article_headline": "Tiger Woods stepping away from golf to seek treatment"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-31 20:00:13",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "The former spy who helped stop Iran from getting a nuclear bomb, Audio, 1 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Aca4QDKs0R-yf4CGGtr_MHQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-31 20:00:13",
+      "pub_time": "2026-03-10 20:03:05",
+      "publication": "Serious Eats",
+      "author": "Laura Kiniry",
+      "headline": "The real reason grocery-store rotisserie chicken is so cheap",
+      "article_headline": "The real reason grocery-store rotisserie chicken is so cheap"
+    }
+  ]
+}
