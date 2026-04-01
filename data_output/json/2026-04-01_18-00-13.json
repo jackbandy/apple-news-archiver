@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-01 18:00:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AVnqXgZTVQm-7_z0a3IuSfQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-01 18:00:13",
+      "pub_time": "2026-04-01 17:38:14",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Republican leaders in Congress announce plan to end Homeland Security shutdown",
+      "article_headline": "Republican leaders in Congress announce plan to ending Homeland Security shutdown"
+    },
+    {
+      "link": "https://apple.news/AoDcuyyCkRiyY6ylp42ho5Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-01 18:00:13",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "ABC News, Watch live: Artemis II launches mission to the moon",
+      "article_headline": "Artemis II live updates: Artemis II crew lifts off, crosses boundary into space"
+    },
+    {
+      "link": "https://apple.news/AmbzYWVUvQ3S4q637L0kx9w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-01 18:00:13",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Supreme Court justices appear skeptical of Trump’s birthright-citizenship order",
+      "article_headline": "Supreme Court justices appear skeptical of Trump’s birthright-citizenship order"
+    },
+    {
+      "link": "https://apple.news/Aw8uFLQM4QeG6GcaUzzdAWg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-01 18:00:13",
+      "pub_time": "2026-04-01 17:38:42",
+      "publication": "The Washington Post",
+      "author": "Cleve R. Wootson Jr., Victoria Craw, and Sammy Westfall",
+      "headline": "Trump prepares to address nation on Iran after vowing to end war in “weeks”",
+      "article_headline": "Trump prepares to address nation on Iran after vowing to end war in “weeks”"
+    },
+    {
+      "link": "https://apple.news/Aw8uFLQM4QeG6GcaUzzdAWg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-01 18:00:13",
+      "pub_time": "2026-04-01 17:38:15",
+      "publication": "The Washington Post",
+      "author": "Cleve R. Wootson Jr., Victoria Craw, and Sammy Westfall",
+      "headline": "Trump prepares to address nation on Iran after vowing to end war in “weeks”",
+      "article_headline": "Trump prepares to address nation on Iran after vowing to end war in “weeks”"
+    },
+    {
+      "link": "https://apple.news/ArLPnw7RtRFyxD7aJHCZUGg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-01 18:00:13",
+      "pub_time": "2026-04-01 17:38:43",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "U.S. removes sanctions on Venezuela’s interim president, Delcy Rodríguez, amid reset",
+      "article_headline": "U.S. removes sanctions on Venezuela’s interim president, Delcy Rodríguez, amid reset"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-01 18:00:13",
+      "pub_time": "",
+      "publication": "Popular Mechanics",
+      "author": "",
+      "headline": "The fight to save a U.S. nuclear submarine after a deadly crash, Audio, 1 min",
+      "article_headline": ""
+    }
+  ]
+}
