@@ -119,13 +119,29 @@ document.addEventListener('click', e => {
 });
 
 // ── Data load ────────────────────────────────────────────────
-fetch('../data_output/stories.csv')
-  .then(r => { if (!r.ok) throw new Error(r.statusText); return r.text(); })
-  .then(text => { stories = dedup(parseCSV(text)); populateFilters(); initDateSlider(); renderCharts(); renderCoverage(); render(); })
-  .catch(err => {
-    document.getElementById('message').textContent =
-      'Could not load data. Run a local server (e.g. python3 -m http.server) from the repo root. (' + err.message + ')';
+let trendingSources = {};
+
+Promise.all([
+  fetch('../data_output/stories.csv').then(r => { if (!r.ok) throw new Error(r.statusText); return r.text(); }),
+  fetch('../data_output/trending_sources_bandaid.json').then(r => r.ok ? r.json() : {}).catch(() => ({}))
+]).then(([csvText, bandaid]) => {
+  trendingSources = bandaid;
+  stories = dedup(parseCSV(csvText));
+  // apply band-aid sources to trending stories missing a publication
+  stories.forEach(s => {
+    if (s.section === 'trending' && !s.publication && s.link && trendingSources[s.link]) {
+      s.publication = trendingSources[s.link];
+    }
   });
+  populateFilters();
+  initDateSlider();
+  renderCharts();
+  renderCoverage();
+  render();
+}).catch(err => {
+  document.getElementById('message').textContent =
+    'Could not load data. Run a local server (e.g. python3 -m http.server) from the repo root. (' + err.message + ')';
+});
 
 // ── Clear filters ────────────────────────────────────────────
 function isFiltered() {

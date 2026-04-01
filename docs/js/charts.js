@@ -124,8 +124,8 @@ function renderCharts() {
 
   const topCounts   = countBySection('top');
   const trendCounts = countBySection('trending');
-  const topTotal    = Object.values(topCounts).reduce((a, b) => a + b, 0);
-  const trendTotal  = Object.values(trendCounts).reduce((a, b) => a + b, 0);
+  const topUnique   = stories.filter(s => s.appearances.some(a => a.section === 'top')).length;
+  const trendUnique = stories.filter(s => s.appearances.some(a => a.section === 'trending')).length;
 
   const topData = Object.entries(topCounts)
     .filter(([pub]) => !NOT_A_SOURCE.has(pub))
@@ -134,77 +134,126 @@ function renderCharts() {
     .slice(0, 20);
 
   const trendData = Object.entries(trendCounts)
+    .filter(([pub]) => !NOT_A_SOURCE.has(pub))
     .map(([pub, count]) => ({ pub, count }))
     .sort((a, b) => b.count - a.count)
     .slice(0, 20);
 
   const allPubs = new Set([...Object.keys(topCounts), ...Object.keys(trendCounts)]);
-  const compData = [...allPubs]
+  const compDataFull = [...allPubs]
+    .filter(pub => !NOT_A_SOURCE.has(pub))
     .map(pub => ({
       pub,
       topCount:   topCounts[pub]   || 0,
       trendCount: trendCounts[pub] || 0,
-      topRate:    ((topCounts[pub]   || 0) / topTotal)   * 100,
-      trendRate:  ((trendCounts[pub] || 0) / trendTotal) * 100,
-    }))
-    .sort((a, b) => (b.topCount + b.trendCount) - (a.topCount + a.trendCount))
-    .slice(0, 20);
-
-  const compMaxRate = Math.max(...compData.map(d => Math.max(d.topRate, d.trendRate)), 1);
+    }));
 
   renderPaperTable();
-  renderSingleChart('chart-top-sources',      topData,   'top',      'Top Stories: Sources');
-  renderSingleChart('chart-trending-sources', trendData, 'trending', 'Trending: Sources');
-  renderCompChart(  'chart-comparison',       compData,  compMaxRate);
+  renderSingleChart('chart-top-sources',      topData,   'top',      'Top Stories: Sources',  topUnique);
+  renderSingleChart('chart-trending-sources', trendData, 'trending', 'Trending: Sources',     trendUnique);
+  renderCompChart(  'chart-comparison',       compDataFull, topUnique, trendUnique);
   renderHourChart('chart-top-hour',      'top',      'Top Stories: Hour of First Appearance',      '#8b0000');
   renderHourChart('chart-trending-hour', 'trending', 'Trending: Hour of First Appearance',         '#c95000');
 }
 
-function renderSingleChart(id, data, cls, title) {
+function renderSingleChart(id, data, cls, title, sectionTotal) {
   const maxCount = data[0]?.count || 1;
+  const sectionLabel = cls === 'top' ? 'Top Stories' : 'Trending';
   document.getElementById(id).innerHTML = `
     <div class="chart-card">
       <h3 class="chart-title">${title}</h3>
       <p class="chart-sub">Unique stories per source &mdash; top ${data.length}, sorted by count</p>
-      ${data.map(({ pub, count }) => `
-        <div class="bar-row" data-tip="${count} stor${count === 1 ? 'y' : 'ies'} from ${esc(pub)}" data-pub="${esc(pub)}">
+      ${data.map(({ pub, count }) => {
+        const pct = sectionTotal ? (count / sectionTotal * 100).toFixed(1) : '?';
+        const tip = `${count} stor${count === 1 ? 'y' : 'ies'} (${pct}% of all ${sectionLabel}) from ${esc(pub)}`;
+        return `
+        <div class="bar-row" data-tip="${tip}" data-pub="${esc(pub)}">
           <span class="bar-label">${esc(pub)}</span>
           <div class="bar-track">
             <div class="bar-fill ${cls}" style="width:${(count / maxCount * 100).toFixed(1)}%"></div>
           </div>
           <span class="bar-count">${count}</span>
-        </div>`).join('')}
+        </div>`;
+      }).join('')}
     </div>`;
 }
 
-function renderCompChart(id, data, maxRate) {
-  document.getElementById(id).innerHTML = `
+const COMP_SORTS = [
+  {
+    key:   'minimum',
+    label: 'Minimum',
+    desc:  'Ranked by the smaller of the two counts — sources only rank high if they have meaningful presence in both sections.',
+    sort:  data => [...data].sort((a, b) => Math.min(b.topCount, b.trendCount) - Math.min(a.topCount, a.trendCount)),
+  },
+  {
+    key:   'geometric',
+    label: 'Geometric Mean',
+    desc:  'Ranked by \u221a(top \u00d7 trending) — rewards balanced cross-section presence; any zero drops a source to the bottom.',
+    sort:  data => [...data].sort((a, b) => Math.sqrt(b.topCount * b.trendCount) - Math.sqrt(a.topCount * a.trendCount)),
+  },
+  {
+    key:   'both-only',
+    label: 'Both Sections Only',
+    desc:  'Only sources that appeared in both sections, ranked by combined total — no zeros.',
+    sort:  data => [...data].filter(d => d.topCount > 0 && d.trendCount > 0)
+                            .sort((a, b) => (b.topCount + b.trendCount) - (a.topCount + a.trendCount)),
+  },
+];
+
+function renderCompChart(id, data, topUnique, trendUnique) {
+  const container = document.getElementById(id);
+  container.innerHTML = `
     <div class="chart-card">
-      <h3 class="chart-title">Comparing Source Rates in Top &amp; Trending</h3>
-      <p class="chart-sub">% of stories in each section from each source &mdash; top 20 by combined total</p>
+      <h3 class="chart-title">Comparing Source Counts in Top &amp; Trending</h3>
+      <div class="comp-sort-tabs">
+        ${COMP_SORTS.map(s => `<button class="comp-sort-btn${s.key === 'minimum' ? ' active' : ''}" data-sort="${s.key}">${s.label}</button>`).join('')}
+      </div>
+      <p class="chart-sub comp-sort-desc"></p>
       <div class="chart-legend">
         <span class="legend-swatch top"></span> Top Stories
         <span class="legend-swatch trending"></span> Trending
       </div>
-      ${data.map(({ pub, topCount, trendCount, topRate, trendRate }) => `
-        <div class="comp-group" data-pub="${esc(pub)}">
-          <span class="comp-label">${esc(pub)}</span>
-          <div class="comp-bars">
-            <div class="comp-bar-row" data-tip="${topCount} stor${topCount === 1 ? 'y' : 'ies'} from ${esc(pub)} in Top Stories">
-              <div class="bar-track">
-                <div class="bar-fill top" style="width:${(topRate / maxRate * 100).toFixed(1)}%"></div>
-              </div>
-              <span class="bar-count">${topCount}</span>
-            </div>
-            <div class="comp-bar-row" data-tip="${trendCount} stor${trendCount === 1 ? 'y' : 'ies'} from ${esc(pub)} in Trending">
-              <div class="bar-track">
-                <div class="bar-fill trending" style="width:${(trendRate / maxRate * 100).toFixed(1)}%"></div>
-              </div>
-              <span class="bar-count">${trendCount}</span>
-            </div>
-          </div>
-        </div>`).join('')}
+      <div class="comp-bars-container"></div>
     </div>`;
+
+  function drawBars(sortKey) {
+    const def = COMP_SORTS.find(s => s.key === sortKey);
+    container.querySelector('.comp-sort-desc').textContent = def.desc;
+    const sorted = def.sort(data).slice(0, 20);
+    const maxCount = Math.max(...sorted.map(d => Math.max(d.topCount, d.trendCount)), 1);
+    container.querySelector('.comp-bars-container').innerHTML = sorted.map(({ pub, topCount, trendCount }) => {
+      const topPct   = topUnique   ? (topCount   / topUnique   * 100).toFixed(1) : '?';
+      const trendPct = trendUnique ? (trendCount / trendUnique * 100).toFixed(1) : '?';
+      return `
+      <div class="comp-group" data-pub="${esc(pub)}">
+        <span class="comp-label">${esc(pub)}</span>
+        <div class="comp-bars">
+          <div class="comp-bar-row" data-tip="${topCount} stor${topCount === 1 ? 'y' : 'ies'} (${topPct}% of all Top Stories) from ${esc(pub)}">
+            <div class="bar-track">
+              <div class="bar-fill top" style="width:${(topCount / maxCount * 100).toFixed(1)}%"></div>
+            </div>
+            <span class="bar-count">${topCount}</span>
+          </div>
+          <div class="comp-bar-row" data-tip="${trendCount} stor${trendCount === 1 ? 'y' : 'ies'} (${trendPct}% of all Trending) from ${esc(pub)}">
+            <div class="bar-track">
+              <div class="bar-fill trending" style="width:${(trendCount / maxCount * 100).toFixed(1)}%"></div>
+            </div>
+            <span class="bar-count">${trendCount}</span>
+          </div>
+        </div>
+      </div>`;
+    }).join('');
+  }
+
+  container.querySelectorAll('.comp-sort-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      container.querySelectorAll('.comp-sort-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      drawBars(btn.dataset.sort);
+    });
+  });
+
+  drawBars('minimum');
 }
 
 function renderHourChart(containerId, section, title, fillColor) {
