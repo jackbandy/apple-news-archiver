@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-01 01:40:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AlCeacaKvRcC1D4-XuM5XTg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-01 01:40:13",
+      "pub_time": "2026-04-01 00:40:14",
+      "publication": "Reuters",
+      "author": "Nandita Bose, Steven Scheer, and Yomna Ehab",
+      "headline": "U.S. eyes a swift end to war as fresh attacks hit Gulf states and Iran",
+      "article_headline": "U.S. eyes a swift end to war as fresh attacks hit Gulf states and Iran"
+    },
+    {
+      "link": "https://apple.news/AyoO9wBLfQgON9_UlCp-DPA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-01 01:40:13",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump signs order to restrict mail-in voting and create national voter list",
+      "article_headline": "Trump signs order to restrict mail-in voting and create national voter list"
+    },
+    {
+      "link": "https://apple.news/A1eCOe0UnQbGHWN9aV9Owqg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-01 01:40:13",
+      "pub_time": "2026-04-01 00:41:14",
+      "publication": "Philadelphia Inquirer",
+      "author": "Susan Snyder",
+      "headline": "Judge rules University of Pennsylvania must provide list of Jewish employees to Trump administration",
+      "article_headline": "Judge rules University of Pennsylvania must provide list of Jewish employees to Trump administration"
+    },
+    {
+      "link": "https://apple.news/ACl8XPq3oT_adH80dPlXW4g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-01 01:40:13",
+      "pub_time": "2026-04-01 00:41:41",
+      "publication": "The Washington Post",
+      "author": "Scott Nover and Mustafa Salim",
+      "headline": "American journalist Shelly Kittleson kidnapped in Baghdad",
+      "article_headline": "American journalist Shelly Kittleson kidnapped in Baghdad"
+    },
+    {
+      "link": "https://apple.news/AQsVLflLqT8ulS0k6wOntQA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-01 01:40:13",
+      "pub_time": "2026-04-01 00:42:14",
+      "publication": "NBC News",
+      "author": "Denise Chow, Jay Blackman, and Al Roker",
+      "headline": "These astronauts may soon travel farther from Earth than any human has before",
+      "article_headline": "Going the farthest: Meet the four astronauts on NASA's Artemis II moon mission"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-01 01:40:13",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "The former spy who helped stop Iran from getting a nuclear bomb, Audio, 1 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Aca4QDKs0R-yf4CGGtr_MHQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-01 01:40:13",
+      "pub_time": "2026-03-11 01:42:59",
+      "publication": "Serious Eats",
+      "author": "Laura Kiniry",
+      "headline": "The real reason grocery-store rotisserie chicken is so cheap",
+      "article_headline": "The real reason grocery-store rotisserie chicken is so cheap"
+    }
+  ]
+}
