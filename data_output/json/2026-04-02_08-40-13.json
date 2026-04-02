@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-02 08:40:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ay_YuLntjTD2RHSAhbGBMVQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-02 08:40:13",
+      "pub_time": "2026-04-02 08:32:15",
+      "publication": "Reuters",
+      "author": "Steve Holland and Enas Alashray",
+      "headline": "Oil prices surge, allies discuss securing Strait of Hormuz, after Trump vows to step up Iran attacks",
+      "article_headline": "Oil prices surge, allies discuss securing Strait of Hormuz, after Trump vows to step up Iran attacks"
+    },
+    {
+      "link": "https://apple.news/AgC047p_bSPSXvB59EGMryg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-02 08:40:13",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Deal to end Homeland Security shutdown reached, GOP leaders say",
+      "article_headline": "Deal to end Homeland Security shutdown reached, GOP leaders say"
+    },
+    {
+      "link": "https://apple.news/AxhAY4WsVS9G5rUTTbz2psw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-02 08:40:13",
+      "pub_time": "2026-04-02 08:32:15",
+      "publication": "The Washington Post",
+      "author": "Jonathan Edwards and Dan Diamond",
+      "headline": "Ballroom commission changed documents at White House’s request, records show",
+      "article_headline": "Ballroom commission changed documents at White House’s request, records show"
+    },
+    {
+      "link": "https://apple.news/AkLklCbs4S3Gu3XK-Ju8r0A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-02 08:40:13",
+      "pub_time": "2026-04-02 08:32:43",
+      "publication": "NPR",
+      "author": "Scott Horsley",
+      "headline": "Have Trump’s tariffs worked? This is where things stand a year after “Liberation Day.”",
+      "article_headline": "Have Trump’s tariffs worked? This is where things stand a year after “Liberation Day.”"
+    },
+    {
+      "link": "https://apple.news/AxhAY4WsVS9G5rUTTbz2psw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-02 08:40:13",
+      "pub_time": "2026-04-02 08:32:16",
+      "publication": "The Washington Post",
+      "author": "Jonathan Edwards and Dan Diamond",
+      "headline": "Ballroom commission changed documents at White House’s request, records show",
+      "article_headline": "Ballroom commission changed documents at White House’s request, records show"
+    },
+    {
+      "link": "https://apple.news/AkLklCbs4S3Gu3XK-Ju8r0A",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-02 08:40:13",
+      "pub_time": "2026-04-02 08:32:44",
+      "publication": "NPR",
+      "author": "Scott Horsley",
+      "headline": "Have Trump’s tariffs worked? This is where things stand a year after “Liberation Day.”",
+      "article_headline": "Have Trump’s tariffs worked? This is where things stand a year after “Liberation Day.”"
+    },
+    {
+      "link": "https://apple.news/AahHVJr-6SKmO7sXa8I2mvw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-02 08:40:13",
+      "pub_time": "2026-04-02 08:33:11",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Artemis II is in orbit. What happens next?",
+      "article_headline": "Artemis II is in orbit. What happens next?"
+    }
+  ]
+}
