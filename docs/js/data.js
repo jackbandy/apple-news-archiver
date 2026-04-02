@@ -1,6 +1,7 @@
 let stories = [];
 let sortCol = 'last_seen', sortDir = -1;
 let dateDays = [], dateMinIdx = 0, dateMaxIdx = 0;
+let filterRunTime = '', filterRunSection = '';
 
 function parseReaderAuthor(headline) {
   // "., Author" pattern — period-comma split (e.g. "Story., Katharine Chan, MSc, BSc, PMP")
@@ -114,6 +115,11 @@ function headlinesWordDiffer(appleHeadline, articleHeadline, publication) {
 }
 
 function getFiltered() {
+  if (filterRunTime) {
+    return stories.filter(s =>
+      s.appearances.some(a => a.run_time === filterRunTime && a.section === filterRunSection)
+    );
+  }
   const section  = document.getElementById('filter-section').value;
   const pub      = document.getElementById('filter-pub').value;
   const q        = document.getElementById('search').value.toLowerCase();

@@ -10,9 +10,9 @@ const COVERAGE_COL_LABELS = {
 
 const COVERAGE_COL_ORDER = ['date', 'top', 'trending', 'reader_favorites', 'popular'];
 
-let cvSortCol = 'date';
 let cvSortDir = -1;  // -1 = descending (newest first), 1 = ascending
 let cvJumpDate = '';
+let cvFilterSection = '';
 
 function buildCoverageRows() {
   const runSection = {};
@@ -31,16 +31,9 @@ function buildCoverageRows() {
 }
 
 function sortedCoverageRows(rows) {
-  return rows.slice().sort((a, b) => {
-    let av, bv;
-    if (cvSortCol === 'date') {
-      av = a.run; bv = b.run;
-      return av < bv ? cvSortDir : av > bv ? -cvSortDir : 0;
-    }
-    av = a[cvSortCol]; bv = b[cvSortCol];
-    if (av !== bv) return (bv - av) * -cvSortDir;
-    return a.run < b.run ? -1 : a.run > b.run ? 1 : 0;
-  });
+  return rows.slice().sort((a, b) =>
+    a.run < b.run ? cvSortDir : a.run > b.run ? -cvSortDir : 0
+  );
 }
 
 function fmtCvDate(run) {
@@ -49,19 +42,27 @@ function fmtCvDate(run) {
 }
 
 function renderCoverageInner(sorted) {
-  const rows = cvJumpDate ? sorted.filter(r => r.run.slice(0, 10) === cvJumpDate) : sorted;
+  let rows = cvJumpDate ? sorted.filter(r => r.run.slice(0, 10) === cvJumpDate) : sorted;
+  if (cvFilterSection) rows = rows.filter(r => r[cvFilterSection] > 0);
 
   const hdrs = COVERAGE_COL_ORDER.map(col => {
-    const active = cvSortCol === col;
-    const arrow = active ? (cvSortDir === -1 ? ' ↓' : ' ↑') : '';
-    return `<th class="cv2-th${active ? ' cv2-sorted' : ''}" data-col="${col}">${COVERAGE_COL_LABELS[col]}${arrow}</th>`;
+    if (col === 'date') {
+      const arrow = cvSortDir === -1 ? ' ↓' : ' ↑';
+      return `<th class="cv2-th cv2-sorted" data-col="date">${COVERAGE_COL_LABELS.date}${arrow}</th>`;
+    }
+    const active = cvFilterSection === col;
+    return `<th class="cv2-th${active ? ' cv2-sorted' : ''}" data-col="${col}">${COVERAGE_COL_LABELS[col]}${active ? ' ✕' : ''}</th>`;
   }).join('');
 
   const trs = rows.map(row => {
     const cells = COVERAGE_COL_ORDER.map(col => {
       if (col === 'date') return `<td class="cv2-date">${fmtCvDate(row.run)}</td>`;
       const n = row[col];
-      return `<td class="cv2-check${n > 0 ? ` cv2-hit cv2-${col}` : ' cv2-miss'}">${n > 0 ? '✓' : ''}</td>`;
+      if (n > 0) {
+        const tip = `Click to view ${COVERAGE_COL_LABELS[col]} stories from this run in the Data Table`;
+        return `<td class="cv2-check"><button class="cv2-pill cv2-${col}" data-section="${col}" data-run="${row.run}" title="${tip}">✓</button></td>`;
+      }
+      return `<td class="cv2-check"></td>`;
     }).join('');
     return `<tr>${cells}</tr>`;
   }).join('');
@@ -94,10 +95,18 @@ function renderCoverage() {
   container.querySelectorAll('.cv2-th').forEach(th => {
     th.addEventListener('click', () => {
       const col = th.dataset.col;
-      if (cvSortCol === col) cvSortDir *= -1;
-      else { cvSortCol = col; cvSortDir = -1; }
+      if (col === 'date') {
+        cvSortDir *= -1;
+      } else {
+        cvFilterSection = cvFilterSection === col ? '' : col;
+      }
       renderCoverage();
     });
+  });
+
+  document.getElementById('cv2-scroll').addEventListener('click', e => {
+    const cell = e.target.closest('.cv2-pill');
+    if (cell) jumpFromCoverage(cell.dataset.section, cell.dataset.run);
   });
 
   const jumpEl = document.getElementById('cv2-jump');

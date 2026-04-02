@@ -145,7 +145,8 @@ Promise.all([
 
 // ── Clear filters ────────────────────────────────────────────
 function isFiltered() {
-  return document.getElementById('filter-section').value ||
+  return filterRunTime ||
+         document.getElementById('filter-section').value ||
          document.getElementById('filter-pub').value ||
          document.getElementById('search').value ||
          document.getElementById('filter-edited').checked ||
@@ -158,6 +159,7 @@ function updateClearBtn() {
 }
 
 function clearFilters() {
+  filterRunTime = ''; filterRunSection = '';
   document.getElementById('filter-section').value = '';
   document.getElementById('filter-pub').value = '';
   document.getElementById('search').value = '';
@@ -192,6 +194,19 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
     document.getElementById(btn.dataset.tab).classList.add('active');
   });
 });
+
+// ── Coverage → Data Table ────────────────────────────────────
+function jumpFromCoverage(section, run) {
+  filterRunTime = run;
+  filterRunSection = section;
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  document.querySelector('.tab-btn[data-tab="data-table"]').classList.add('active');
+  document.getElementById('data-table').classList.add('active');
+  updateClearBtn();
+  render();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
 
 // ── Chart source → Data Table ─────────────────────────────────
 function jumpToSource(pub) {

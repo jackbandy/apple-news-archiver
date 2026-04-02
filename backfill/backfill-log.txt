@@ -1,0 +1,3998 @@
+jackb@Jacks-MacBook-Air apple-news-scraper % python3 backfill_links_desktop.py --confirm
+Rows missing a link: 2136/6805
+Unique searchable headlines: 987
+
+Mode: WRITE
+
+[1/987] 'GLP-1s don’t just quell addiction cravings. They stop them from formin'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A7t8CoFSFRs2s4lUmkhihFA (2 rows)
+[2/987] 'Kanye West ordered to pay former contractor $140,000 over Malibu mansi'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A6PXpW7ZnTfKFLlI3EXSWhg (1 rows)
+[3/987] '400 million barrels of oil to be released from strategic reserves as I'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AOrN1F2siTJS61gkvzE91nQ (1 rows)
+[4/987] 'A massive oceanic creature has been caught on film in the South China '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T53EkVgARRIiK5g17be6ZGw (5 rows)
+[5/987] 'Exercise isn’t the key to burning fat. Here’s what is.'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (4 rows)
+[6/987] 'She drank 2.5 liters of water a day. Here’s how it changed her skin an'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A95d1yPhOQLuQ6nxQQ91udA (4 rows)
+[7/987] 'Teen charged in teacher’s death from prank gone wrong speaks out'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AoZgqNlGfRX6vNhMezlac6g (1 rows)
+[8/987] 'The Slate Truck Is an EV for the Rest of Us, Apple News Plus'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TNnh_aJ5aRwq5kNA_RjE9iA (1 rows)
+[9/987] 'Veterans Affairs to pursue legal guardianship of homeless vets'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (2 rows)
+[10/987] "Chelsea Handler Hard Launches Her 'Hot' New Relationship and Reveals t"
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> found with down_count=4
+  -> https://apple.news/TpSq6-TTXRq2-MJYZrB50zg (1 rows)
+[11/987] 'Putting the ‘Cars’ in Oscars'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ARsHYQXtUQmWnPoGrD6BpXw (1 rows)
+[12/987] 'Five nearly universal truths about affairs, according to a psychologis'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TBZ438glCQYOklK2fiXOQaQ (3 rows)
+[13/987] 'Leggings are out. Here’s what’s replacing them. , Alexis Bennett Parke'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TkMV-DnVXQ0Sz3sjP3zUk5A (4 rows)
+[14/987] 'Five subtle signs you’re in a wealthy person’s home, Faran Krentcil'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9tnuRM9LRXixXnLb29FaLw (4 rows)
+[15/987] '35m, Cheesy Lasagna Beans, RECIPE'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Agvfuq7DJQTeoDgkSihIMeg (2 rows)
+[16/987] 'The Iranian women footballers who chose defection over returning to a '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T-HSVuYKlQ3uMXjRV1tD94A (1 rows)
+[17/987] 'The Obvious Is Taking Its Revenge on Trump'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AkhL77KMmQQ6tMukUNqOflg (1 rows)
+[18/987] "Entertainment Weekly, Candace Cameron Bure recounts 'shameful' moment "
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TCTEIU79mREeGb-BqyDPWzQ (1 rows)
+[19/987] 'Just in from our photographers'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AeKO3GvdyTxC_0fobRYLHaQ (1 rows)
+[20/987] 'What intermittent fasting really does for your body and brain, Daryl A'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLqZBDR6cRBWQ6VMxXmcveg (1 rows)
+[21/987] 'Worshipping at the Altar of Robyn, Cat Zhang'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ARfPq_hPDR6WkRmHnbORPpQ (1 rows)
+[22/987] 'Most & Least Reliable Cars: Use Our Data to Find a Ride You Can Count '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AKS3XJGWYQt2Nv-_zXarFlQ (1 rows)
+[23/987] 'FORTUNE, ‘Proceed with caution’: Elon Musk offers warning after Amazon'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A8l6l0LIcQPenJf6SLmnnIg (1 rows)
+[24/987] 'Outside, Our Best Utah National Park (Plus Grand Canyon) Road Trip'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ARAjugvYyQTGEvfSFtK5mXg (1 rows)
+[25/987] 'For Spring, Designers Latched On to an Enduring Trope: The Madonna-Who'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T_jvhxiuhQki2FvfcWbvORA (3 rows)
+[26/987] 'The research facility in remote Alaska that gets blamed for every hurr'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9rjlxm95TtTn3RWUl4SFiw (46 rows)
+[27/987] 'Detroit Teen Killed in ATV Crash Just Moments After Argument with His '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ax9ah-wy_QhqhjabzsxGR3Q (1 rows)
+[28/987] 'A tech reporter tested a Chinese electric car. Now she doesn’t want to'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TBofB4uiTS3KdIa6B6r83kA (1 rows)
+[29/987] 'An early-warning sign for one of the most lethal cancers, HANNAH MILLI'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AuANxRFFoTcOP4roj6MVOvg (3 rows)
+[30/987] 'How Lululemon leggings lost their cool factor, Chantal Fernandez'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TMmVk8o1PTYi7OZxMOP11lg (2 rows)
+[31/987] 'Beloved singer dead at 26 after being bitten by snake in her sleep, Ap'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Anz5moJGuTtaHm-dgozQO4g (1 rows)
+[32/987] "Elton John's husband David Furnish gives update on singer's health: 'H"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Abh2NMe_YQhiP__G4jUZ7zg (1 rows)
+[33/987] 'Ye Hit With $140,000 Verdict in Malibu Mansion Construction Worker’s I'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AnN-_YNBZSuWy0YmMVuYtkA (1 rows)
+[34/987] 'Yamaha is leaving California after nearly 50 years'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AAaKLfVdNTDSeWlozBizDpQ (1 rows)
+[35/987] 'Hawaii’s Kilauea volcano erupts, blasting lava 1,000 feet into the sky'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AK0fm6MIMSOmhg6-GGgDkVQ (1 rows)
+[36/987] 'How ‘Heated Rivalry’ Stars Took Over the Fashion World, By Anna Tingle'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[37/987] 'Is Ozempic a lifelong commitment? New research sheds light on the answ'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AxbH6KguoQDe1u4kQjdRCtQ (1 rows)
+[38/987] 'Retired and moving closer to your adult child? Think again. , Francine'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T6evGx76MSqqkG3Y-55usxQ (4 rows)
+[39/987] 'Keep waking up at 3 a.m.? Here’s what your body might be trying to tel'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AaegvGRwESDKc6erhObN5pA (5 rows)
+[40/987] 'The Iranian women soccer players who chose defection over returning to'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T-HSVuYKlQ3uMXjRV1tD94A (11 rows)
+[41/987] "People, Who Is Jimmy Buffett's Wife? All About Jane Slagsvol (and Her "
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AG2QKF1vAQvGNgI2s2UARng (1 rows)
+[42/987] '61 black mambas captured in African city. Here’s what was found in the'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A0QK0EiGKQgy_an9F402Wbg (1 rows)
+[43/987] 'Adult kids are getting their inheritances sooner. Here’s why parents a'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/THPmSrSBBTaWifTWsZ9j00A (4 rows)
+[44/987] 'Are you financially ahead or behind? Americans’ average net worth by a'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AnJAh_ODPS4CHD8p6Xsir2A (3 rows)
+[45/987] 'How much you need to retire comfortably in each U.S. state, Stacey Lea'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[46/987] 'The Wall Street Journal, President Trump’s Head-Spinning Pivot on an E'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AgvpnbH6tTWSHRKTUrT2e4w (1 rows)
+[47/987] 'BBC Wildlife Magazine, 61 black mambas captured in African city. Here’'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A0QK0EiGKQgy_an9F402Wbg (1 rows)
+[48/987] 'We Rated 31 Automakers to Find the Brand that Makes the Best Cars'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AP9H8hnb5Sha3PyBy_X4e_A (1 rows)
+[49/987] 'New Car Ratings: Use This List to Find the Best New Cars—and Avoid the'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[50/987] "Rosamund Pike feels 'lucky to have survived' this early-career bomb"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9tnuRM9LRXixXnLb29FaLw (1 rows)
+[51/987] 'Lord Sear, One of Hip-Hop Radio’s Most Distinctive Voices, Dead At 53'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A5fIGj0usTEW62vCLnvc2Kw (1 rows)
+[52/987] 'Gen Z Is Here to Save Theaters'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AKnGyQGXEQ9KOkWwzVqwkag (1 rows)
+[53/987] 'Americans are leaving the U.S. in record numbers, Drew Hinshaw and Joe'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A0DUPUtsyRHaYj0JiJQQGHA (1 rows)
+[54/987] 'ADHD drugs work. But not the way experts thought., Mark Johnson'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A25k2jrvUTdehxbSy-xBcpA (1 rows)
+[55/987] 'What going off Ozempic does to your body, Sumathi Reddy'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Tgc8ORFHPRE6qDru5b-DZ4g (1 rows)
+[56/987] 'Lewandowski May Have Bragged His Way Out of a Trump Pardon'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A4_NRcqK-TLa9dlQGZ6qkSw (1 rows)
+[57/987] 'New York Magazine, The Doctors Who Helped Epstein Keep His ‘Girls’ in '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AVCPtrtA0Sl-QoAl_vrN7Pg (1 rows)
+[58/987] 'CR’s Reviews of New Cars From Tesla & Toyota'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AV-vmRkuhRX-ruAOj3Hbdlg (1 rows)
+[59/987] 'Best & Worst Used Cars: How to Get a Great Pre-Owned Vehicle at the Ri'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ase5zjkKDTcqW0sCch6umDA (1 rows)
+[60/987] 'Sunday Rose Kidman Urban is fashion’s newest muse — and she’s just get'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TkmfPsV5zRuiu3K4CKJxMIA (1 rows)
+[61/987] 'This Adults-only, All-inclusive Resort Feels Like a Caribbean Escape—i'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AkhW_4SeDQUCNImzn35YeHA (1 rows)
+[62/987] 'Entertainment Weekly, Cowboys QB Dak Prescott’s ex-fianceé reacts to p'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AjgZX3jAqQ0mOmJgEdEILsw (1 rows)
+[63/987] "Jamie Lee Curtis and Christopher Guest's Cutest Photos Throughout the "
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A3h9UUlFpT_-MIEcg191SnQ (1 rows)
+[64/987] "People, Lauren Sánchez Bezos Reveals Why She Was 'Bawling' at Wedding "
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TOlw-P8soQtSmdSbzN24LKg (1 rows)
+[65/987] 'CAR, These are the 5 absolute best SUVs on the market'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AtnEkqoWXT6G3XSWdXJ28-g (1 rows)
+[66/987] 'Here’s an Early Look at the Most Anticipated Models for Next Year From'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AnHXZiZYsSnGNYHCSZSJcUA (1 rows)
+[67/987] 'This Workout Plan Can Help You Finally Get in the Best Shape of Your L'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A1UkT_Ty_S4-WQfzQDmchcQ (1 rows)
+[68/987] 'Scientists put a camera on a whale. They never expected to see this'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AzKeb63vMQD2tV3O_9_0XMw (1 rows)
+[69/987] 'These are the most narcissistic countries in the world, according to s'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AgG1ecXngTUeq0exwn3jFCw (1 rows)
+[70/987] "Los Angeles Times, $5 to sign a ballot petition with someone else's na"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A-kzE0pDWR7qxRROUxum3Kg (1 rows)
+[71/987] 'Cowboys QB Dak Prescott’s ex-fianceé reacts to prenup rumors after the'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Tgc8ORFHPRE6qDru5b-DZ4g (1 rows)
+[72/987] 'Travel + Leisure, One of the Best All-inclusive Resorts in the World I'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ay4ADlaczRFyicyzYa49qUg (1 rows)
+[73/987] 'How Colleen Hoover Became a Box Office Force, By Rebecca Rubin'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ALZhB8Z6NRZ6_1ozHW20_WA (1 rows)
+[74/987] 'Billboard, Katy Perry vs. Katie Perry Trademark Fight Continues After '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ADaVxkxoBQrOY_SJONi2vsw (1 rows)
+[75/987] 'Texas Monthly, This Dallas Aesthetician Knows the “Clean Girl” Look Is'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Ti7Xj3DMJSH-MFw4kxph0lw (1 rows)
+[76/987] 'These Common U.S. Medications Are Banned Overseas—What to Know Before '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AiirDDxq8ScC0IDm_QvViWw (1 rows)
+[77/987] 'Five Years Of ‘Teach Us Consent’: What’s Changed — And What Hasn’t'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A7aARbaCUT5Kg0h_vNS4Cag (1 rows)
+[78/987] 'The Billion-Dollar AI Startup That Was Founded by Teenagers, Suzanne V'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TCVDMZPthSbGRMk8fvR6PtA (1 rows)
+[79/987] 'One of the Best All-inclusive Resorts in the World Is Hiding in the Ar'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ASAWuqt8pT_OgFnJM7gh5cg (1 rows)
+[80/987] 'New York Magazine, The Gen-Z Founders Trying to Get Guys to Stop Watch'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AzAU6_UbTS0egDUuISgxMZg (1 rows)
+[81/987] 'Business Insider, I lost 120 pounds in less than a year — these 5 smal'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A8p6TkNH3S7CStFgEINVTZg (1 rows)
+[82/987] 'Entrepreneur, Friends Said His Business Idea Was the ‘Stupidest Thing.'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AS9aS1d5RRfmsaZ0evgABYQ (2 rows)
+[83/987] "Peso Pluma & Tito Double P's New Deluxe 'Dinastía' Songs Hit Charts"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AGrT2OxkVRGGiQaQpVs5zaw (1 rows)
+[84/987] 'BBC Wildlife Magazine, 10 most dangerous animals you REALLY don’t want'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AVydSz3hERxKBeaORMvokxg (1 rows)
+[85/987] '“I’m Actually Really Trying Not to Die.” Charlize Theron on Her Upcomi'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TCVDMZPthSbGRMk8fvR6PtA (1 rows)
+[86/987] 'Cars Worth Waiting For'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A33DQJg49TCi252TUuqe5vQ (1 rows)
+[87/987] 'Mickey Rourke’s rental agreement canceled by California court after ac'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T4Op1eGneR3KoGo1Bh0LyIw (1 rows)
+[88/987] "Condé Nast Traveler, I Love Joshua Tree's “Invisible House” Airbnb So "
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AF6qXKJEUQWyEnr5sLXdU0g (1 rows)
+[89/987] 'I lost 120 pounds in less than a year — these 5 small habits kept my w'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A8p6TkNH3S7CStFgEINVTZg (1 rows)
+[90/987] 'GQ, 12 Deeply Underrated Watches That Belong on Every Collector’s Wish'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AeMMua0APRcGI0XRYJmZJ-g (1 rows)
+[91/987] 'Fast Company, BYD just killed your EV argument with a battery that com'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A8DCk8JM7Q56rTlJKgmTIyQ (3 rows)
+[92/987] '2 cohosts collapse on air during The View broadcast'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AVgwX6rONSwGAchiMouNvAw (1 rows)
+[93/987] 'U.S. Plan to Unblock Strait of Hormuz Collides With Realities of Globa'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ah2VIFuhxTRK-rQkK23RPqg (1 rows)
+[94/987] 'Entrepreneur, How Online Side Hustles Helped Me Pay Off $60K in Debt i'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9tnuRM9LRXixXnLb29FaLw (1 rows)
+[95/987] 'Cosmopolitan, Sydney Sweeney Created This Moment. But Does It Belong t'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A5xiw-0S6Rh2Z7AUX6PkM5Q (1 rows)
+[96/987] 'Why you should warm up your feet before bed, BY ANGELA HAUPT'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A_B-FP1dSQIK5tJm2_78B-Q (1 rows)
+[97/987] 'Lesbos: An inside look at lesbian paradise on the Greek island, Phebe '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A2FlbHyT1SBi4_pRgMqglow (1 rows)
+[98/987] 'When Coyotes Threatened Livestock on Central Texas Ranches, the Soluti'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Af6g5rqbzR_-oxZbOjunUeg (1 rows)
+[99/987] "2026 Buyer's Guide to Ultimate Luxury Sports Cars"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AO9NB78oaReG-px8DzX6CrA (1 rows)
+[100/987] 'The Washington Post, White House takes first step toward permanent fix'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AL3lLP2sjQSe945DlgbEErA (1 rows)
+[101/987] 'New York Magazine, Corey Parker, Will & Grace Actor, Dead at 60, Aleja'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aqyk-arzlRt6pFV6hezmukw (1 rows)
+[102/987] 'Travel + Leisure, This Is the Worst Thing to See on Your Boarding Pass'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AxvPVvjgTRlCiadu48S69Sg (1 rows)
+[103/987] 'Vox, More young women are dying from heart disease — and people are mi'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AssEn5LBUQ3WtSTXdQYSWTQ (2 rows)
+[104/987] 'The Basement Yard Talks Sexiest Podcast on Late Night'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A_QdV6lOxSFenJYOB1RFCvA (1 rows)
+[105/987] 'One of Grammarly’s ‘experts’ is suing the company over its identity-st'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[106/987] 'Volkswagen Dealers Revolt Over Plan to Sell a New Brand of SUV Directl'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AzJLxkrDiSIOE-wO5sqvjpA (1 rows)
+[107/987] 'Consumer Reports, Top Picks: 10 Vehicles That Set the Standard in Our '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A8a3doir3RP-5ZE8SapbZHw (1 rows)
+[108/987] 'Opinion: Fashion needs to find its way back to feminism'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ANAPZXqiaQ4OiqNnkp8RF8A (1 rows)
+[109/987] "Have you seen Korea's new off-road supercar? Here's what the internet "
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TiA1BeSRfPYOGauvlm-NXBQ (1 rows)
+[110/987] 'CR’s Reviews of New Cars From Polestar, Porsche, Ram, Rivian & Subaru'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AKU8HuUh-TKOKVlU_on6egg (1 rows)
+[111/987] 'Laughter the Best Medicine'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AE7AnGQaWSHmumYmhfyaDbg (1 rows)
+[112/987] 'The Washington Post, Satellite companies restrict access to Middle Eas'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AaexZfQd7R9Op6oA1rB4rqw (1 rows)
+[113/987] "People, Beauty Influencer 'Unable to Recognize' Herself After Developi"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ADcpRQ-HqTn2gedllro_rmw (1 rows)
+[114/987] 'Travel + Leisure, 3 Things Flight Attendants Say You Should Never Eat '
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  -> found with down_count=5
+  -> https://apple.news/AivBb_mXpTa-MCm-pClsBHw (1 rows)
+[115/987] 'These Are the Must-Have Jackets for Spring, According to Menswear Pros'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AK2dxG1LoRo6_CYfHhHusZg (1 rows)
+[116/987] 'This fish has cloned itself for 100,000 years. Scientists just figured'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AviKgdvFGQACsepjHHQQWWA (7 rows)
+[117/987] "Selena Quintanilla's Sister Sues Shein Over Knockoff Merch Bearing Lat"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLLBaRMNhRXy7zHCeypQcGA (1 rows)
+[118/987] 'Bill Simmons, Kendal Marcy & Chris DuBois Form Domain Artist Managemen'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aw75_RdA1SNW0oh0cZZ1Ubw (1 rows)
+[119/987] 'BBC Science Focus Magazine, 8 jaw-dropping images from around the worl'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AmOs6uEc_TsK4wMVPILi1Zw (1 rows)
+[120/987] 'The brainchild of Baroness Ariane de Rothschild, the new 105-foot Gita'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (1 rows)
+[121/987] 'More young women are dying from heart disease — and people are missing'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AssEn5LBUQ3WtSTXdQYSWTQ (1 rows)
+[122/987] 'Shower screens, walls or curtains? What works best'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A43xKgXSnSUC0pXwR38eNLQ (1 rows)
+[123/987] 'These are the 5 hottest sports cars on the planet this month'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AVGGLqppWSmijHYfzVJG73Q (1 rows)
+[124/987] 'Iran Is Losing Drone Dominance, Hegseth Says. What to Know About Its F'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A2WxSgzBkQmKhbYfAbtAs0Q (1 rows)
+[125/987] 'What U.S. Travelers Should Know About Visiting Mexico Right Now'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ADz3ElRORQfafPCz8btGTcQ (1 rows)
+[126/987] "Doctors have long said cartilage can’t regenerate. They're now rethink"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AT61CnaZITo6H_qCpLnmjOw (2 rows)
+[127/987] 'What the Nominees Are Doing Next, BY MIA GALUPPO AND BORYS KIT'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ACUEQajR1TvCFe185-mRKtQ (1 rows)
+[128/987] 'Islamic schools excluded from Texas’s $1 billion voucher program'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A_89_FlzVTYGJGAR1A7eT2g (1 rows)
+[129/987] 'belle, A French-Inspired Home with Its Own Champagne Bar'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TYTpptYW5SKeNMwVBR40C7Q (1 rows)
+[130/987] "Andrew Gunn, producer of Disney's 'Freaky Friday' and 'Cruella,' dies "
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AWfgysIu0RA-Q8Tc6rFAyXQ (1 rows)
+[131/987] 'One in a million: The new Factor One truly stands apart'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AJqDbHSqGSFeDWVNIDZt0cA (2 rows)
+[132/987] 'How This Florida Cottage Got a Bold, Beautiful Palm Beach Makeover, Bl'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ATPLUNZgTSLKSM9kjLFtW_g (2 rows)
+[133/987] 'Slate, America’s New No. 1 Song Just Did What Even Taylor Swift Couldn'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AVQkLqs6ORgO45jGzWmsT-A (2 rows)
+[134/987] 'Trump administration asks Supreme Court to end deportation protections'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Tgc8ORFHPRE6qDru5b-DZ4g (2 rows)
+[135/987] 'A shocking U-turn has upended the NFL offseason'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (11 rows)
+[136/987] 'Hawaii’s Kīlauea volcano erupts, shooting lava 1,300 feet into the air'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TnQZcxwfPSwOTq7ZyjBiQDg (1 rows)
+[137/987] 'A Hollywood Power Couple Built a Dream Home for Their Cocktail Party L'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TBofB4uiTS3KdIa6B6r83kA (1 rows)
+[138/987] 'My Mom, 68, Walked 109,050 Steps in the Nicole Kidman- and Podiatrist-'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[139/987] 'Team USA advances to quarterfinals in World Baseball Classic after Ita'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AtKzj1HTYRr-5o5hZ5SdumQ (40 rows)
+[140/987] 'Strategy Lookalikes Loaded Up on Crypto—and Their Stocks Collapsed. Wh'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AYQuwX76NSCC9_9mt8WjY7w (1 rows)
+[141/987] 'A Mushroom Is Sending Hundreds of People to the Hospital. They’re All '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AXvjfXG_RTQW2-MbPpN_XfQ (1 rows)
+[142/987] "'Love Is Blind' Couple Reveals They Broke Up 4 Months After Wedding, N"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TXDje-TpKR_ecm8DPrcXDjw (1 rows)
+[143/987] 'Sports Illustrated, Men’s college basketball’s awful bubble is a case '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AXNtbIN61QPSptiduxr20Lw (26 rows)
+[144/987] 'Houston Chronicle, Five Texas billionaires join Forbes 2026 list of wo'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Am9PvGX3eSuWr99lV2vMZdA (1 rows)
+[145/987] 'Newsweek, She quit doomscrolling for 50 days—here’s what it did to her'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ApSmH65_8RB2TwtB-nauPJg (1 rows)
+[146/987] 'She thought she had a pimple on her nose, then came a life-changing di'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AhTaiJWL0SbSDFxkd1ZfIlw (1 rows)
+[147/987] '5 calm dog breeds for laid-back owners'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ADEswggIDRrOfi42HkXjBOg (1 rows)
+[148/987] 'Exposed: how Toyota deliberately made the new Prius a terrible Uber ta'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ApWnpob5WTr6kBLwDPX79CA (1 rows)
+[149/987] 'Toyota Breaks off GR Into Its Own Brand with the Twin-Turbo V-8 Hybrid'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[150/987] 'The Wall Street Journal, FDA Warns Novo Nordisk of Unreported Side Eff'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AVm-4PWs8SOSwOn2iMPclsA (1 rows)
+[151/987] 'Police say Jan. 6 plaque is unlawfully hidden from public at U.S. Capi'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[152/987] 'Have You Considered a Pink Watch?, Lukas Wassmann'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ae61G-yt8RdGdYZbHigtuaQ (3 rows)
+[153/987] 'Jack Osbourne Welcomes Baby Girl Named After Late Father Ozzy'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A9ovhimMiQY-QL5CjkBZb2A (1 rows)
+[154/987] 'Democratic Senators Hatch Plans to End Income Taxes for Millions of Am'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ai43y2viWRAiGQVGuusvhTA (1 rows)
+[155/987] 'Entrepreneur, For 47 Years, This Brand Has Kept Up With McDonalds and '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A5uxrOxzeQueZhh43sDGH8w (1 rows)
+[156/987] 'The Biggest Animated Movie in the World, Jason kehe'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AqTv5-jwxRmaC9VpPJuHzJQ (1 rows)
+[157/987] 'Not Working, Not Studying, Not Happy: Meet the NEETs'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AfIeDmZF2S3O_f9HpTmNHkg (1 rows)
+[158/987] 'Why on Earth Did Maggie Gyllenhaal Make This Movie?, David Sims'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AmUkn42ARRNmPsdKjj3UwTQ (1 rows)
+[159/987] 'Forbes, The World’s Youngest Billionaires'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AohMrRV7dRcK2C1nQgQoR6A (3 rows)
+[160/987] 'People, Bristol Palin Is Considering Plastic Surgery or Botox to Fix H'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AdJqv3nIjStu10AWuza91tw (3 rows)
+[161/987] 'Naseeruddin Shah, Nana Patekar, Sanjay Kapoor Lead Indian Streamer Ama'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TGZrXYjEmTdOtVrhVEViDCA (1 rows)
+[162/987] 'Camila Alves McConaughey and Daughter Vida, 16, Make Fans See Double i'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[163/987] 'Newsweek, A baby girl was born with the most beautiful eyes, then came'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A0DwJq1DXRHeiKBkHAMWUXA (1 rows)
+[164/987] 'Boomers at 80: Why the “great wealth transfer” may never come, ALISS H'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TQLEsS-zCQUK1JxLls0FDeA (1 rows)
+[165/987] 'The 70 most uncool cars ever… is yours in there? Hope not'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AufXppKN7T8m-mjHnAvZbYg (1 rows)
+[166/987] '11 Movies You Shouldn’t Miss on Netflix This Month, Brian Tallerico'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ASlloM5VPSeut5fQBgCxnzg (1 rows)
+[167/987] 'Ending Iran War Quickly Carries Big Risks for the U.S. and Allies'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AXG8f_NnkS8u3PJUsdNHC5Q (1 rows)
+[168/987] 'Newsweek, Experts issue warning on Ebola-like virus that has already r'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A8118s2rpTXKV74oqqYVqgA (1 rows)
+[169/987] 'United Airlines Is Taking a Stand on Flight Etiquette, Rachel King'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AHRv6XuJ9S4eH8miWBfPxhg (2 rows)
+[170/987] "WIRED, China's AI Boyfriend Boom, Johanna M. Costigan"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AWEbqoKt7SrmOmfYt6CXRrw (3 rows)
+[171/987] 'Does Trump Know His Favorite Shoe Company Is Suing Him?, Margaret Hart'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRDkR9QPbS0yoKyV5iQSW5g (1 rows)
+[172/987] 'People, Katy Perry and Justin Trudeau Are Growing Closer as Their Fami'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ak1ixpn0lQ0ykpyxFT19QyA (1 rows)
+[173/987] 'A new mom told an elderly stranger her baby’s name—her reply went vira'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A5NRzry9AS_Obu6GnfZzm9w (1 rows)
+[174/987] 'Budget Breakdown: To Stay in the Bay Area, He Renovated a Former Marke'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AipoYiW1IQ6OM_3PGOaXWPQ (1 rows)
+[175/987] 'A Lush Backyard Designed for Wonder and Discovery, Elias Grouhi'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AxPqqiqOSR6y6bSxjaK_ebg (1 rows)
+[176/987] 'Need New Gear for Lifting, Running, Walking, and Recovering? MH Editor'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[177/987] 'Inc., The Hidden Advantage of Being Over 50 in the Age of AI, JOEL COM'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AHJg4kzT3ROW1ah5OBK9kew (1 rows)
+[178/987] 'I spent my 45th birthday traveling alone on the other side of the worl'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AfNGqIHksTHSA42z2vDmEsw (2 rows)
+[179/987] 'Newsweek, “I was diagnosed with cancer at 14. The next diagnosis is th'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AhtbS3dAmQW-UzeVzRv8O2A (1 rows)
+[180/987] 'The Verge, Meet your new phone away from phone, Allison Johnson'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AgPvwsB-HQjaBzmJ_crOudw (3 rows)
+[181/987] 'Vox, The surprising gender gap at the heart of America’s baby bust, Se'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (1 rows)
+[182/987] "W Magazine, L.A. Is the Status Anxiety Capital of the World. Here's Wh"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ago_ByvYbSmOQCF3rvXrTdw (1 rows)
+[183/987] "2026 Buyer's Guide to Sports Cars"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AmSUKXNRvRG6jmFDiY_iZ1g (1 rows)
+[184/987] 'How I Lost My Life Savings in 76 Days'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aq2VGdUrNQtG90b7QlGIrGQ (1 rows)
+[185/987] 'A Coastal Bungalow Transformed into a Light-Filled Retreat'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AKMgJknVtRk2ClbzZrLZbrA (1 rows)
+[186/987] "Alex Warren Explains What Led Up to 'Horrifying' Grammy Performance Mi"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AC9FTdtbuRIOZqUpk0oe42w (1 rows)
+[187/987] 'Houston Chronicle, 18 Houston billionaires and 1 icon make 2026 Forbes'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (2 rows)
+[188/987] 'Slate, The Timothée Chalamet Backlash Has Been Building. This Was the '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AfqZa8d17QGCYJd9X978kVA (2 rows)
+[189/987] 'Starbucks, Amgen, and CVS Help This Income Fund Shine'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[190/987] 'The Wall Street Journal, The Billionaire Whose Ships Are Braving Missi'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (3 rows)
+[191/987] 'Target Shopper Boycott Over DEI Changes Is Winding Down'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AeHynKLtSQTKACVnzowabBA (1 rows)
+[192/987] 'Entrepreneur, This Secret Pattern Predicts What’s Next in Your Market.'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9rjlxm95TtTn3RWUl4SFiw (1 rows)
+[193/987] 'The Rikers Interview, BY MAER ROSHAN'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T4Op1eGneR3KoGo1Bh0LyIw (1 rows)
+[194/987] 'This Hotel Brand Is Known for Its Signature California Style—Here’s th'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ANXlUu3WcTfuH8pEFpzCCMw (1 rows)
+[195/987] "Pangolins are one of the world's most endangered mammals. These images"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ACdz6VGcfRaGsCKvLmTieCw (1 rows)
+[196/987] 'Studiojos Transforms a Vaucluse Home with Effortless Cool'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AYFqJYFAVRuGmH0rUADic1Q (1 rows)
+[197/987] 'The Wall Street Journal, Admiral Cooper, the Warrior Diplomat Running '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[198/987] 'Health, 4 Supplements That Don’t Mix Well With Vitamin D'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ALA2qliUhSZSpaMhHAIKxMw (1 rows)
+[199/987] 'Popeyes restaurant closures: See the updated list of doomed locations '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AjdayMsWHR82pf5Rw3sYf1Q (1 rows)
+[200/987] 'Fast Company, Millennials don’t want to quit. They want to get laid of'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A-25Df-lsTVCVWdCj8ShF3A (1 rows)
+[201/987] "CAR, This is a car you'd trust your life with: Epic off-roader gets an"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AKGzVug-bTAWZSQzGp_7yjg (1 rows)
+[202/987] 'Check before you flush. What your poo says about your liver, gut and e'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ARlJUqA4MRmukNCOjHmISFA (1 rows)
+[203/987] 'Marco Meneguzzi Revives a 1980s Architectural Gem'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AHaObuvzuTtOh7RDbiiW1jA (1 rows)
+[204/987] 'We asked you to caption this hilarious photo'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TCVDMZPthSbGRMk8fvR6PtA (1 rows)
+[205/987] '‘If This Doesn’t Do Better Numbers Than Marvel, It’s a Failure’, BY SE'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRT5Dro4FQ5KU3V5QSf65tw (2 rows)
+[206/987] 'A Police Report About a House Candidate Surprised the White House'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AOg2VTKmxQ-OwtQHdVn_oLw (2 rows)
+[207/987] 'The laid-off lawyers and PhDs training AI to steal their careers, Audi'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AzBBoD8baQLGP_mjxnVcJjw (1 rows)
+[208/987] 'The Atlantic, A Police Report About a House Candidate Surprised the Wh'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AOg2VTKmxQ-OwtQHdVn_oLw (1 rows)
+[209/987] 'A single course of antibiotics may reshape the gut microbiome for year'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AMt_0aFrBT7qQY79qkoJaEQ (1 rows)
+[210/987] 'America’s “most luxurious ski town” is tearing itself apart, Audio, 1 '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AmTSjLeLrTACpZEPo34r27Q (3 rows)
+[211/987] 'Can exercise offset the health risks of alcohol? , Hannah Singleton'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (4 rows)
+[212/987] 'The women who secretly regret having children, Bindu Bansinath'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TZwNV5uGFQlSx5DZodDWgiA (3 rows)
+[213/987] 'National Geographic, What you’ve been told about eggs and cholesterol '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AGxfUDmmvQge4bZUbkzj-zg (90 rows)
+[214/987] "People, Woody Harrelson's 3 Kids: All About Zoe, Deni and Makani, Jess"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AyWB8-tpqRfOoAkbyvq8VmA (1 rows)
+[215/987] 'After Using This Water Pitcher That Filters Out Forever Chemicals, I’l'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AV4t5HsdISiGglOvgoSioaQ (1 rows)
+[216/987] 'Emily Gillis Blends Heritage and Modern with Seamless Grace'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AsFELlYYVTJyjOG6LxSiGHA (1 rows)
+[217/987] '“The huge polar bear was heading straight for us. All I had to defend '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLqZBDR6cRBWQ6VMxXmcveg (1 rows)
+[218/987] 'Iran War: The Economic Impact in 5 Charts'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AfJ-sIPBMT7mo_PUOgjZOeQ (1 rows)
+[219/987] 'The money tip adults wish they could give their younger selves'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/An9C7X1jpRE2hmZlEQ3884g (3 rows)
+[220/987] 'How doctors can tell if you’re drinking more than you admit, Jill Fost'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AtFRchwT0Tl-X-anZQVYURQ (3 rows)
+[221/987] 'A physicist claims heaven has a physical location. Scientists are resp'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AljsxQ8nIS0eAmYJmEPIczA (3 rows)
+[222/987] 'Nearly 40% of California produce contains PFAS pesticides, report find'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A7fPXllJkTGqagr3jSK868w (1 rows)
+[223/987] 'The Wall Street Journal, Trump Steps Up Effort to Oust Rep. Thomas Mas'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AOej85cVGStqtH0r-jPHkwA (1 rows)
+[224/987] "Los Angeles Times, Viral backlash over Timothée Chalamet's ballet and "
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ALbykXswERxGWm8MQzMjhrg (1 rows)
+[225/987] 'Simone Pérèle’s smoothing new lingerie blends wearability and sensuali'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AG63QWHz2SXi6KIHmdDH8-g (1 rows)
+[226/987] 'The price-slashed new Tesla is... nowhere near the $25k bargain Elon p'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TpSq6-TTXRq2-MJYZrB50zg (1 rows)
+[227/987] 'Where Is the Iran War Headed?, Robin Wright'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AISp8x0n6RX2Z-iEgd0bbDw (1 rows)
+[228/987] 'Scientists Rebooted This Forgotten Battery—And It Recharges in Seconds'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[229/987] 'TIME, How will we take the news of alien life?, BY JEFFREY KLUGER'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AV0RBydBNSKaY8ezuwlzToQ (1 rows)
+[230/987] 'Harvey Weinstein reveals surprising reaction to Adrien Brody thanking '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Tgc8ORFHPRE6qDru5b-DZ4g (1 rows)
+[231/987] 'Better Sunscreen Is on the Way, Charlotte Palermino'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[232/987] 'Try this kettlebell workout to blitz body fat and ensure a full-body p'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AwnqNoV3ESbK2aheRtjI67g (1 rows)
+[233/987] 'Inside the Nazi mind: why did millions of ordinary people embrace Hitl'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AsGkyMxYsRVWF9wFxfaHUFg (1 rows)
+[234/987] 'New York Magazine, Girls Who Love Boys Who Love Boys, E. Alex Jung'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T-HSVuYKlQ3uMXjRV1tD94A (2 rows)
+[235/987] 'Stock Market Today: Oil Price Briefly Tops $100; Dow Futures Fall'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTMcp-VaGTWqy_wUpdR2R1g (1 rows)
+[236/987] "Travel + Leisure, 10 Things You're Doing That Annoy Flight Attendants,"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TCVDMZPthSbGRMk8fvR6PtA (1 rows)
+[237/987] 'She Invited Homeless Men to Run. That Instinct Fueled Her $100M Busine'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A7_75tWDVQbSYz3Tv7zbSuQ (1 rows)
+[238/987] 'A Beachside Bathroom with Open-Sky Connection'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ap7RtPF0EQ1ehNUMLEVM4OA (1 rows)
+[239/987] 'Judge orders Perplexity to stop AI agents from shopping on Amazon, Emm'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[240/987] 'Construction Diary: They Lived in a Yurt for Six Years as They DIYed T'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AXMrXk59vSJeZ7Jyk1FmBmQ (1 rows)
+[241/987] 'The Free Press, There Is No MAGA Split on Iran'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Av30YFg5GS9qROsfGP3QgcA (1 rows)
+[242/987] 'The Hollywood Reporter, Yes, I Did Say That!, COMPILED BY MIKEY O’CONN'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TBofB4uiTS3KdIa6B6r83kA (1 rows)
+[243/987] 'Slate, Trump’s Most Dangerous Policy Dream Is Spreading From State to '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AEx6HoXYfTOOMyuaN0_YLPg (1 rows)
+[244/987] 'The Verge, The uncomfortable truth about hybrid vehicles, Andrew J. Ha'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/At7PNy3PfSfqA7u2EoGo9GA (3 rows)
+[245/987] 'Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Down; Iran Shippi'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AhipGbodOTfq-X4-75cOi6w (1 rows)
+[246/987] "People, Madison Beer Wishes Boyfriend Justin Herbert Happy Birthday: '"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRGFIPVNxQragqbKeLyZGzA (1 rows)
+[247/987] '“I went on a cortisol ‘detox’ to tackle my spiralling anxiety – here’s'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRT5Dro4FQ5KU3V5QSf65tw (1 rows)
+[248/987] "This Is the Worst Thing to See on Your Boarding Pass—and No, It's Not "
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AxvPVvjgTRlCiadu48S69Sg (1 rows)
+[249/987] 'These everyday foods are causing your belly fat. Here’s what to do abo'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ADi5Jf87VScKIgc8aHPV_XQ (1 rows)
+[250/987] 'Channel Texan Cool with These Luxe Buys'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Ta6epcpzJRO2iWCPWRQYcoQ (1 rows)
+[251/987] 'Health, 5 Supplements You Should Never Take Together, Jillian Kubala, '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AGoDVZAjSRkiiqC703HFsfQ (1 rows)
+[252/987] 'How to Build the Perfect Warm-Weather Wardrobe, Samuel Hine and Yang-Y'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[253/987] 'Business Insider, China rushed to use OpenClaw. Now, some stressed-out'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aj58k4DeCRZmuUimWq3bf_Q (2 rows)
+[254/987] 'Honda Motor Expects Up to $15.7 Billion Hit From EV Strategy Reassessm'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AQeoYfa_rSN6YJ4M3O1vv6w (1 rows)
+[255/987] 'Evo, New cars are expensive, annoying and heavy. Buy these used five-s'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ArErdb4FzTxK93n-pVSGX5A (1 rows)
+[256/987] 'These science-backed strategies will help you calm your mind, reset yo'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TkMV-DnVXQ0Sz3sjP3zUk5A (1 rows)
+[257/987] 'Why Can’t These Grown Men Stop Playing with Toy Cars?, Rosael Torres-D'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Abahf2RA5TK6NW7pdalNzsw (1 rows)
+[258/987] 'Tour the Cozy Colorado Getaway Designed by Joanna Gaines, Joanna Gaine'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Akr08cUflRVKo3BmlXhM2Ow (1 rows)
+[259/987] 'Quite possibly the scariest film ever made –\xa0this is the thriller that'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ADc-UjTaaQEqcizq9z9dfQA (1 rows)
+[260/987] 'The Atlantic, I Recognize the Look on Liam Ramos’s Face'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AKZm2LROCRourNAy3zHLB-A (1 rows)
+[261/987] 'Donna Kelce Breaks Silence on her Modest Home Renovation'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TYTpptYW5SKeNMwVBR40C7Q (1 rows)
+[262/987] 'New York Magazine, Eating With My Daughter and My Zepbound, Jason Diam'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AEap0jDpkQMKhHpqeiMbcKQ (3 rows)
+[263/987] 'The Wall Street Journal, Have You Considered a Pink Watch?, Lukas Wass'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ae61G-yt8RdGdYZbHigtuaQ (1 rows)
+[264/987] 'Travel + Leisure, These Are the First Places Thieves Look for Valuable'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[265/987] 'The Washington Post, How GLP1s are changing the ways Americans buy med'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AS2a6-VNaSeKndsjCzsfWpQ (1 rows)
+[266/987] 'Outside, How Much Does it Cost to Climb Everest in 2026?'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AMvVz_PP_TYSzqVEN3VpmDg (1 rows)
+[267/987] 'Japan’s hot-tub monkeys do one of the strangest things in the primate '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (1 rows)
+[268/987] 'Once a year, these weird frogs suddenly turn blue. Here’s what’s going'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AR7utNl6tRjmudmehyPZ1Ow (1 rows)
+[269/987] 'How the Iran war could hit gas prices, airfare and everyday costs, Rac'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TANGKEeffQ3afyYgnUGUuvQ (1 rows)
+[270/987] 'Knoxville News Sentinel, Where do Jimmy and Bill Haslam rank on the Fo'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A7zOgeFopReyVp3RI_UGY4g (3 rows)
+[271/987] 'What channel is Tennessee basketball vs Auburn on today? Time, TV sche'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AyxO61xG7TQCmF3u8KnKYAw (1 rows)
+[272/987] 'Oak Ridge helps US move uranium from other countries. What about Iran?'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AZMMxrFu3SsyTOTeq32frAg (1 rows)
+[273/987] 'Where do Jimmy and Bill Haslam rank on the Forbes billionaires list?'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TAHxDJi2TTmSXaqCov1Tt6A (1 rows)
+[274/987] 'Bassmaster Classic taking over Knoxville for a fun, free weekend'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AMjeTFnnGTDu9nnEJwu2J4g (1 rows)
+[275/987] 'HGTV Magazine, Gorgeous Homes in Memphis with Curb Appeal Ideas to Ste'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AyR5jPv9OSeK3fhLc88Eh-A (1 rows)
+[276/987] "2026 Buyer's Guide to Mid-Size Luxury SUVs"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AC6jX-GUfTpSqs10Q5zsoSw (1 rows)
+[277/987] 'A Waterside Masterpiece by Mathieson Architects'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9tnuRM9LRXixXnLb29FaLw (1 rows)
+[278/987] 'Eight watches built for front-runners, JOHNNY DAVIS'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AHdUzPNLrRO-9BMwWgwosyA (1 rows)
+[279/987] 'Make Pages documents look more “pro”'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AcD8e8HZJSEmiXS8wr4v3zg (1 rows)
+[280/987] 'Trump’s War Lacks a Marketing Plan'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AEk0S6OfCQOW3mAoEWww1wg (1 rows)
+[281/987] 'Slate, It Was a Sexy, Smart, Acclaimed Book. Now the Star-Studded Netf'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AkVTnZSYzQjqhmYY2qT-hUA (2 rows)
+[282/987] 'They stop the world from filling with corpses, dismantling the dead wi'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AqAP_OIzzTMOywY9K6zD0zg (1 rows)
+[283/987] "Car and Driver, 2026 Buyer's Guide to Exotics and Hypercars"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AG8ejbkCJTACvXC3oYqZrAA (1 rows)
+[284/987] "CR's Reviews of New Cars From Land Rover, Lexus, Lincoln & Lucid"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AE54o0BkKTeOnUInNT54O4Q (2 rows)
+[285/987] 'Silicon Valley’s New Obsession: Watching Bots Do Their Grunt Work'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TiA1BeSRfPYOGauvlm-NXBQ (1 rows)
+[286/987] 'Investors trying to make money on the Iran conflict are gambling blind'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AXuKq9-xLTEeZAN9blf9w0A (1 rows)
+[287/987] 'Popular Mechanics, The Wild—and Weirdly Dark—History of One of America'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A4W-FYws3Tmehl0yms7peSw (1 rows)
+[288/987] "2026 Buyer's Guide to Ultimate Luxury Cars"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AA76-XDw3Sd-ELaCVecD7ig (1 rows)
+[289/987] 'Why ‘Burnout’ Feminism Is Replacing the Girlboss, Lean In Era, Alice R'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[290/987] 'David Guetta Welcomes Baby No. 4, His Second Child With Jessica Ledon'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AG3DCxmBYT96DdfVSEgg5Jg (1 rows)
+[291/987] "Business Insider, I was laid off in my 60s and can't find a job after "
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AIlkOT1zbT1O2P6pC1XSy-w (1 rows)
+[292/987] 'Newsweek, How Cameroon is using early screening to fight kidney diseas'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ayht7CwWfQey0Es7KcXasYQ (1 rows)
+[293/987] 'Aliens From the Fourth Dimension May Be Invading Our World—And We Don’'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A0jd8U_a4TWiybJrzXYhVYw (1 rows)
+[294/987] "Here's how to check TSA wait times before your flight, Pete Syme"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A99DTgN3dSC6TMo-m2LqasQ (1 rows)
+[295/987] 'Travel + Leisure, After Moving to NYC, I Ditched These 8 Styles That O'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AByKy6XTxRYC1tscXN8Pj1A (3 rows)
+[296/987] "'Immortal Flowers,' a Documentary About Underground Rave Culture in Uk"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ACE3O4rKIRweXgFFGRSzFgg (1 rows)
+[297/987] "Exhausted, nature-deprived viewers flock to 'Slow TV' animal cams"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AeFmsAsK0SeOfielAgg-YAw (1 rows)
+[298/987] "Variety, 'Leviticus' Star Joe Bird Joins Catherine Laga'aia in Austral"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TOQJ_oLOgRq-wwLTs1lHncg (1 rows)
+[299/987] 'The Pussycat Dolls Reunite as Trio With New Single, Global Tour, Lily '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ALcplF38wSlSWJ8FClFpCAA (1 rows)
+[300/987] 'Frailty sets in far earlier than you’d expect, but you can reverse it'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A3NYtzKNaRWaCab79Fe4IOQ (1 rows)
+[301/987] 'Can magnesium supplements improve sleep, energy and concentration?'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AvpDYHN-jTw6ys-wQ3GUmJA (1 rows)
+[302/987] 'They lost their Oscars in the wildfires. What happens next?, Josh Rott'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AQXNRpdQISW-39ejnaicDzA (1 rows)
+[303/987] 'San Antonio Express-News, Buc-ee’s gets F rating from Better Business '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A2Q0K_uSKQvmLThbOny7x4g (1 rows)
+[304/987] 'The billion-dollar AI startup that was founded by teenagers'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> found with down_count=5
+  -> https://apple.news/Aa7aLaBCZRBGfCiEyYQIyMg (32 rows)
+[305/987] 'Why a Peruvian mountain is becoming an ‘impossible’ particle detector'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> found with down_count=5
+  -> https://apple.news/AHxTrN8JOSfaH9epTUlPKzw (1 rows)
+[306/987] 'The Wall Street Journal, Ex-Starbucks CEO Howard Schultz Pays $44 Mill'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A5OgN95RXRFeD5P8HY5N71w (1 rows)
+[307/987] 'Outside, A Murder in Paradise Is Raising Questions About Costa Rica’s '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9rjlxm95TtTn3RWUl4SFiw (1 rows)
+[308/987] 'The 10 Biggest Mistakes to Avoid at Check-in (and Checkout) at a Hotel'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[309/987] "This Florida City Known As 'Venice of America’ Was Just Named the Most"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A5MhF0nKySW2cwetX2Ay46A (1 rows)
+[310/987] 'This ‘sick’ ’90s singer is being accused of sexual assault – so why is'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AI86OZRN4QweDCzw-GhC4sw (1 rows)
+[311/987] 'Everything Christina Applegate and Sebastian Bach have said about thei'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AmbbhsgF0TBOxmLBz82W1GA (1 rows)
+[312/987] "Los Angeles Times, Cuba is 'ready to engage' in talks with U.S. amid e"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ayc9dHlTGTnKXNG58zj2EnA (1 rows)
+[313/987] "5 Painful Shoe Mistakes Travelers Don't Even Know They're Making—Plus,"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRIfVXHN_Qzy4FhDLcBMG-Q (1 rows)
+[314/987] 'Fast Company, This genius helmet sticker helps protect athletes’ brain'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ai8OH4Ta3TWqrZ9aJCwAL-A (1 rows)
+[315/987] 'Atlassian to Cut 10% of Jobs Citing AI. But Its CEO Used a Human Touch'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (1 rows)
+[316/987] 'How a midlife tune-up could help prepare you for a healthy old age'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Adv4vXM-XSNKSa7fe2FfUTQ (2 rows)
+[317/987] 'Scientists just discovered the largest ever human organ – and we all h'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AJmV9EIm_T8CdC0cRgL0y0Q (1 rows)
+[318/987] 'Forbes, The World’s Richest Sports Team Owners 2026'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ATA8IuIOPQnyLauNsID1frg (1 rows)
+[319/987] 'People, I Was a Seat Filler for a Major Award Show. Here’s What You Do'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A2BL2udJhQQWFGwDTTPnU_w (1 rows)
+[320/987] "Kelly Clarkson says she never got car prize for winning 'American Idol"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A94MF0u3aRUalIXfd2KHzXw (1 rows)
+[321/987] "Misty Copeland, ballerina who promoted 'Marty Supreme,' reacts to Timo"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AeYl3blHUQ5C2LLwiUeGF7Q (1 rows)
+[322/987] 'How to spot the hidden sociopaths in your life'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AVYnVoP_MToygSQgHaRiplQ (1 rows)
+[323/987] 'The best position to sleep in to prevent wrinkles, according to scienc'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9rjlxm95TtTn3RWUl4SFiw (1 rows)
+[324/987] 'Colman Domingo Shares His No. 1 Fashion Rule, Red Flags and More'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  -> found with down_count=5
+  -> https://apple.news/AuueiJLY2RY2wVV-6YK_Z0g (2 rows)
+[325/987] 'CT Insider, One of Connecticut’s largest malls is now for sale'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A-YNN09zQSfCeULTho5cDNg (1 rows)
+[326/987] 'Variety, Misty Copeland Says Timothée Chalamet ‘Wouldn’t Be an Actor’ '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AnkA-V_5OQKyEvQ9IIyvslQ (1 rows)
+[327/987] 'The world’s weirdest animal pee is stranger than you’d ever guess'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TkmfPsV5zRuiu3K4CKJxMIA (1 rows)
+[328/987] 'Meet your new phone away from phone, Allison Johnson'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AgPvwsB-HQjaBzmJ_crOudw (1 rows)
+[329/987] "Enormous 'mega-blob' discovered under Hawaii, plus more incredible new"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AiQukDlhtS7uw4yiOQ3l_0g (1 rows)
+[330/987] 'Palm Beach Heritage Meets Earthy Elegance'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AZ9wMgvJ8Q2SbHm54A7IHNA (1 rows)
+[331/987] '‘It’s fabulous to be out here’: Photos show Death Valley in full bloom'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AmImyFSP_RuGKCwJYEdAaWQ (2 rows)
+[332/987] 'The hidden sleep condition that’s probably behind your tiredness'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TVSD1_D-yQLS9e9_gg8BFvg (1 rows)
+[333/987] 'How Tesla’s Macrohard Is Like Amazon Web Services'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ARY0Ws_3eRG2g8XfvoktQ0Q (2 rows)
+[334/987] 'They lost their Oscar trophies in the wildfires. So what happens next?'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (18 rows)
+[335/987] 'Iran-linked cyber attack targets US medtech giant Stryker'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AW0a-sHutQOWsldcoIZtUaQ (1 rows)
+[336/987] 'The Athletic, Team USA advances, avoids disaster in World Baseball Cla'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AtKzj1HTYRr-5o5hZ5SdumQ (2 rows)
+[337/987] 'Projects by ‘Honeyland,’ ‘Cleveland Versus Wall Street’ Directors Amon'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AcUb6iirzRfCY-FLuVsCRHw (1 rows)
+[338/987] 'Men’s college basketball’s awful bubble is a case for fewer teams, not'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AXNtbIN61QPSptiduxr20Lw (1 rows)
+[339/987] 'The Washington Post, We asked 1,000 Americans if U.S. strikes on Iran '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ah_l5DtNRQRGzNDIXT_irMA (1 rows)
+[340/987] 'Cosmopolitan UK, ‘What happened when my best friend fell in love with '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AhBuklA2MTliw7kM0v8uD_w (1 rows)
+[341/987] '‘Shrill’ Creator Lindy West Says Colleagues Made Her Feel ‘Weird and I'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AZ6AKI8uvSMOStw5R7mxNXQ (1 rows)
+[342/987] 'Actually, That’s a Wig, Chantal Fernandez'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AMndUphZGQOuGeuqZYdfB8A (1 rows)
+[343/987] 'This Texas Home Feels Historic but Is Brand New, Jessica Dailey'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A2Bd9Wu66TOWUe3UAqWGR1Q (1 rows)
+[344/987] "CR's Reviews of New Cars From Honda, Hyundai & Infiniti"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AkoCNdJ6kSmGp07_xoadbLw (1 rows)
+[345/987] 'FORTUNE, Billionaires Elon Musk and Mark Zuckerberg used mortgages to '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ACfClZRNSQ5aNqGYJrhnSYA (1 rows)
+[346/987] 'Taylor Swift Fans Could Get Vancouver Concert Ticket Refunds From Stub'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AModxmJiCQC61K6xX-CPXvQ (1 rows)
+[347/987] 'How to Dress for the Office in 2026, Avidan Grossman and Yang-Yi Goh'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AxxP2k2MjToW5XXMiiitDqw (1 rows)
+[348/987] 'New York Magazine, The ‘Last 20 Pounds’ Pill, Angelina Chapin'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AtYxRt8kISzarosSf_awsXw (1 rows)
+[349/987] 'Fast Company, The uncomfortable valley: Microsoft Teams emoji faces ha'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (2 rows)
+[350/987] "The cast of 'Law & Order', then and now: See Sam Waterston and his cos"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[351/987] 'Influential Casting Director Bonnie Timmermann Set for Career Honor Fr'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AM6M1OrgjQkmO6tcK-LS32g (1 rows)
+[352/987] 'Archaeologists Found a Holy Box That Could Finally Unravel Centuries o'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A6k4ypBhRT9aAhr1WBXhJeA (1 rows)
+[353/987] 'The Hottest Job in Tech Isn’t Very Glamorous'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AleBOgSeTQa2WP1EBXs8bNA (1 rows)
+[354/987] 'Meet the new Chronicle Wine newsletter'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ATnY3Zm6bTKCBOMvFXIk1LQ (1 rows)
+[355/987] 'Uh, Scientists Have Significantly Miscalculated Earth’s Sea Levels'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AOP0ZWXlcQ6SSj6GdJKniaQ (1 rows)
+[356/987] 'Firefly Launches Lockheed Martin Into Space. The Stock Is Soaring.'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AzaTl8qYMSI6asixtLQBF8Q (1 rows)
+[357/987] 'Ranking the quarterfinal matches in the World Baseball Classic'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AvumdYnZJSSStzAoBVocqAw (1 rows)
+[358/987] 'Exclusive: Accounting startup Cryptio raises $45 million to help big f'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AujYQRd4uQnqeqAsSujCNeA (1 rows)
+[359/987] 'Bloomberg Businessweek, Cognac Makers Are Uprooting Vines. Dumping Sup'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TkMV-DnVXQ0Sz3sjP3zUk5A (1 rows)
+[360/987] 'The real reasons birth rates are declining worldwide'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A3Iia_o3dQrGaH-vbC6NFeQ (1 rows)
+[361/987] 'Vendor Directory'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AJs22zqBoRhybmmFvmTGdyg (1 rows)
+[362/987] "Britain's First Gangs - Criminals who terrorised the UK before the Pea"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T-HSVuYKlQ3uMXjRV1tD94A (1 rows)
+[363/987] 'See 42 Actors Who Played High Schoolers When They Were Adults (and How'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T-HSVuYKlQ3uMXjRV1tD94A (1 rows)
+[364/987] 'Commentary: China-backed Big Pork wants to override 63% of California '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TBgZYd7RSQeGdNgULTbpabw (1 rows)
+[365/987] "I'm an American who got a full medical checkup in Japan. In 4 hours, I"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ath1QfZCiRbiXgeaHDuCOsQ (3 rows)
+[366/987] 'This Is the 1 Cabin Upgrade Trick Travel Advisors Use for Cruises—and '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Add_Q69kRRCmD3laSPE9zJg (1 rows)
+[367/987] 'Quantum-Centric Supercomputing Is Already Here. IBM Shows How It Could'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AwUiBQT-2QYW3556yw1kVBA (1 rows)
+[368/987] 'Ranking the quarterfinal matchups in the World Baseball Classic'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AvumdYnZJSSStzAoBVocqAw (6 rows)
+[369/987] 'Business Insider, Oil spikes are pushing airlines to hike ticket price'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TkMV-DnVXQ0Sz3sjP3zUk5A (1 rows)
+[370/987] 'This Israeli cyber startup is launching with $40 million in funding du'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AigKG6g_tRJOW67tLp2x2aw (1 rows)
+[371/987] 'Golf Digest, For high-flying bombs off the tee, get this one grip posi'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AP8R1ZNCDTXOhBNhFFNEPEw (1 rows)
+[372/987] 'I Asked I Asked 3 Chefs To Name the Best Hot Dog Brand—Their Top Pick '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AHw9DdTifSY6vqwq3envpuA (1 rows)
+[373/987] 'Escape To A Fresh Yet Classic North Carolina Mountain Home, Jennifer B'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRT5Dro4FQ5KU3V5QSf65tw (1 rows)
+[374/987] 'Old World Meets Ranch In This Haute Houston Home, Laura Fenton'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AWt3ykeRMSeixA0CcTfgKoA (1 rows)
+[375/987] 'Robb Report, This new wash bag might be the last one you ever buy—if y'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AAZgwibhdSHy5tvIJgq5F8g (1 rows)
+[376/987] 'Recalls From Ford, Toyota, Lexus & Subaru'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AXJYpn691Stun23JNpXjOSA (1 rows)
+[377/987] '“I knew I just needed to get as fat as possible and as fit as possible'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AotDCEREcTiCo8rRPsLsavw (1 rows)
+[378/987] 'Why A2IM Started an RIAA-Style Sales Certification Program for Indie A'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AaH4k865_QCuz78jpLGmhkQ (1 rows)
+[379/987] "Hollywood's top films were less diverse in 2025: 'Studios have relapse"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ATbUDpgPCRhKO_P2Km-Wwgw (1 rows)
+[380/987] 'Houston Chronicle, Katy area will have more retail stores, restaurant '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TGPoBrGKSTlGwz5ppDbvfew (2 rows)
+[381/987] 'National Geographic History, Who really wrote the Old Testament?, Javi'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A5ZsOCPhmTeaNbVP9GCEixg (1 rows)
+[382/987] 'Evo, Has the 911 finally been beaten? Mercedes-AMG’s GT55 squares up t'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AuO6vnMdoS6Wl0RI24mw2eQ (1 rows)
+[383/987] 'This might be Hollywood’s most perfect casting... and we’re ready for '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[384/987] 'U.K.-based Automotive Artisans has reimagined one of the most coveted '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (1 rows)
+[385/987] 'A Serene Florida Home Designed for Barefoot Living and Ocean Views, Pa'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AwYRAW1kwT1myhe4w6NjbjA (1 rows)
+[386/987] 'Harry Styles Nails Dreamy Cover of ‘80s Tears For Fears Pop Smash in B'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AVzu_H0uaRMeJoBbU6i70_Q (1 rows)
+[387/987] "Who Is 'Secret Lives of Mormon Wives' Star Layla Taylor's Ex-Boyfriend"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AsUK0dc5AQnuB7OBe23gQhA (1 rows)
+[388/987] 'The Best TV Shows of 2026 (So Far), Eric Francisco and Josh Rosenberg'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AcM-C3jH7RKaDenBeguPzQw (1 rows)
+[389/987] 'Auto Express, We put our most hardcore driver in a Toyota Prius hybrid'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[390/987] 'Who really wrote the Old Testament?, Javier Alonso López'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A5ZsOCPhmTeaNbVP9GCEixg (1 rows)
+[391/987] "Why it's time to re-rack your hybrids"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aywwz_iszTlSMXd0xUG3JOQ (1 rows)
+[392/987] "2026 Buyer's Guide to Large SUVs"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Al-mCDo5BQqCVp2GYyL5OPg (1 rows)
+[393/987] "CR's Reviews of New Cars From Maserati, Mazda, Mercedes & Mitsubishi"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AeRvgqP0FSZOvhKylq2rRsw (1 rows)
+[394/987] 'Two new Democratic bills would cut income taxes for millions of Americ'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AoxJSPP99Tx6YBQC7uLbxuQ (1 rows)
+[395/987] 'Health, Pomegranate vs. Cranberry Juice: Which Should You Drink for Bl'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A-gY4R39rQsu5oLpGEkxHig (1 rows)
+[396/987] 'This genius helmet sticker helps protect athletes’ brains'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ai8OH4Ta3TWqrZ9aJCwAL-A (1 rows)
+[397/987] 'Why Jennifer Garner Was the First Person Rachel Zoe Called After She S'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AlsXzJpSnSkumz-g5Ze_AzA (1 rows)
+[398/987] 'All the Ways Trump Has Said When the Iran War Will End'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A7_GXU67_RNW56qPAkSBkfA (1 rows)
+[399/987] 'Barron’s, Why a Big Stock Market Selloff Could Be Coming, Teresa Rivas'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Air-5STw7QgeaND59ZROI-g (1 rows)
+[400/987] 'These Are the Scams to Avoid in 2026'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A1fBO2BpZQ5mWqaG5XD-tzg (1 rows)
+[401/987] 'The Optimized Home, Sophia Herring'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TYTpptYW5SKeNMwVBR40C7Q (1 rows)
+[402/987] 'Inside JFK Jr. and Daryl Hannah’s on-and-off romance (and what those c'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aedxo-kmJRECfuqtra4Tvow (1 rows)
+[403/987] 'AI Isn’t Lightening Workloads. It’s Making Them More Intense., Ray A. '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TsDxWbYPmQaSlDI6_qnOXOg (1 rows)
+[404/987] 'WIRED, Why Is Alexa+ So Bad?, Reece Rogers'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TzRGX4fLySMmdhdTH-IkB8A (1 rows)
+[405/987] 'Jennifer Aniston Shares Her Workout Playlist — and Who Curates It (Exc'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AIz7Y-l0-StmFBdi5KtqJxA (1 rows)
+[406/987] 'Oscars Ramp Up Security Amid Iran Drone Attack Concerns'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/APsUvuuGuQAKA1f0bmAlxGg (1 rows)
+[407/987] "'Imperfect Women' Review: Elisabeth Moss, Kerry Washington and Kate Ma"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TtYnXu1XkRKKajAcg0g_ezw (1 rows)
+[408/987] "Kevin Williamson Discusses the Evolution of 'Scream' and a Fond Memory"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (1 rows)
+[409/987] 'Karen Petrou, the Blind Banking Analyst Who Saw the Future of Finance,'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[410/987] 'The Verge, Anthropic doesn’t trust the Pentagon, and neither should yo'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AdWB6jraVTSGQ2WwzH4sqMA (1 rows)
+[411/987] 'BBC Science Focus Magazine, Japanese people still aren’t having sex. A'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AwuIVIH2YSmWUFDWnwKv27g (1 rows)
+[412/987] 'Newsweek, A superfood may do what no vaccine can—block norovirus'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AMR_FNg3HTy-qd_SSCS9cSQ (1 rows)
+[413/987] 'This NC City is among the best foodie destinations in the US, TripAdvi'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A4X_fsN8SQjiUwv5TtSgwuQ (1 rows)
+[414/987] "9 billionaires from SW Florida make Forbes' list. See where they rank"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AnEB64n5kSAmF2UFpFMrw9w (1 rows)
+[415/987] 'Travel + Leisure, The Airport Hack That Gets Your Luggage Out Before E'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AlzUOh6FMS2a2U-J-nRTJKw (1 rows)
+[416/987] "2026 Buyer's Guide to Mid-Size Luxury Electric SUVs"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AGYs6Vm99QMStMrARihLGUw (1 rows)
+[417/987] 'The Coffee-Table Books Designers Swear By'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AeBHkz6SPRPWn1X4nnARjdg (1 rows)
+[418/987] 'A Wellness-Focused Apartment Transformation'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AiXZGopeHS1OYEpbaNAY6HQ (2 rows)
+[419/987] 'Wise Ones: Dean Karnazes'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[420/987] 'Age of Attraction’s ‘Promise Room’ Is As Creepy As It Sounds'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A5k6Ipa68Q2ivBT2Dg2wBSQ (1 rows)
+[421/987] "Stephen Colbert's Long 'Late Show' Goodbye Has Gone From Resistance to"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AXBJvFcNjThOH2qhsx442Lw (1 rows)
+[422/987] 'The World Cup is less than 100 days away. It’s already a total mess.'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TkmfPsV5zRuiu3K4CKJxMIA (12 rows)
+[423/987] 'Teens Are Using AI-Fueled ‘Slander Pages’ to Mock Their Teachers, Owen'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AKnwVziJ9Qmu2wIP4NaNcNg (1 rows)
+[424/987] 'Esquire UK, Best Picture Nominee ‘F1: The Movie’ Has a Villain Problem'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AvbfSCBe5RgWmrSn_AUksJA (1 rows)
+[425/987] 'Hot pics of the week: Emily Ratajkowski, Ariana Madix, Chrishell Staus'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Af3cs4RzZRvKdi8vH1a6MoQ (1 rows)
+[426/987] 'New York Magazine, Jack Osbourne Named His New Baby After His Dad'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aky5KAd78RiCxR24OvUMbFA (1 rows)
+[427/987] 'Barron’s, Honda to Write Off $15.7 Billion as EV Winter Arrives. What '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AJQeTE__wRNSFrQIExl8VTw (1 rows)
+[428/987] 'Entertainment Weekly, Viola Davis suffered wardrobe malfunction during'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Tgm-mOQw4SKKEKFycxcVdVQ (1 rows)
+[429/987] 'Who Cares If AI Brings Down the Economy?, Lila Shroff'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AxCvwjejvR1mRPXknJSWTXA (1 rows)
+[430/987] 'Analysis | It’s already too late for Timothée Chalamet to win an Oscar'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ako34kbIoQt-eVArc_d2TKA (1 rows)
+[431/987] 'Pussycat Dolls Are Reuniting With New Song and World Tour, Jason P. Fr'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AKwdr9fmvTZem38cfu_oi7Q (1 rows)
+[432/987] 'This Raised-14-Feet Beach Cottage Balances Beauty With Resilience, Pat'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AK1P_EfeZR22g0JmY8e6MHQ (1 rows)
+[433/987] 'Pro wrestling champs create art on another canvas at Miami art museum'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T_jvhxiuhQki2FvfcWbvORA (1 rows)
+[434/987] "Business Insider, I'm an American who got a full medical checkup in Ja"
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[435/987] "Mexico's Vive Latino Festival Welcomes Salsa for the First Time With E"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ApXawUFuyTqy8B0kJkzEMFg (1 rows)
+[436/987] "Alexa Ray Joel Talks Dad Billy Joel's Touring Future Amid Brain Disord"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AWlTn4wbYQjujnYfcvaxyHA (1 rows)
+[437/987] 'Honda cancels Zero Series EVs, citing ‘extremely challenging’ situatio'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T6MVgiYluRQad9J1alphcng (1 rows)
+[438/987] 'California’s tech billionaires are abandoning the Golden State for Flo'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Al1c2R3BOQkKyHlKNFE18dQ (18 rows)
+[439/987] 'Dyson’s new stain-spotting AI robovac is now available'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ARPBawLTZQZuhW4-eV2mYBA (1 rows)
+[440/987] 'Rivian R2 prices revealed: you’re going to have to wait longer for tha'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A2t5sbcN4QvCGM3THkCaonQ (1 rows)
+[441/987] "Guillermo del Toro's 'Frankenstein' ending explained: How the movie's "
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AEQ3UEadsQvCo4mJF6qn07g (1 rows)
+[442/987] 'Us Weekly, Hot pics of the week: Emily Ratajkowski, Ariana Madix, Chri'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Af3cs4RzZRvKdi8vH1a6MoQ (1 rows)
+[443/987] 'What If Gravity ‘Creates’ Time? This Theory Could Upend How You Experi'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Akga4qeTER4ex0qqT27ogXw (1 rows)
+[444/987] "Terrence Howard says he 'passed' on chance to date Beyoncé"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AXssdLbMYQySeZ2viaKkqxQ (1 rows)
+[445/987] 'Naomi Watts Reveals Her Daughter Kai, 17, Gave Her an "Unsolicited" Cr'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TVaEDQi_EQt6I9eCX9wxOuA (1 rows)
+[446/987] "'Mam' Director Nan Feix and Chef Jerald Head on the San Sebastián-Winn"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AHMDwan7ATOe81a6wa4-zeg (2 rows)
+[447/987] 'It’s a Big Day for Rivian R2 EVs. The Stock Is Down.'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[448/987] "John Lennon, Yoko Ono Concert Film 'Power to the People' Heads to Cine"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A418TV1FwRfCZdTl6K30hBA (1 rows)
+[449/987] 'Opinion | Trump’s Old-Fashioned War'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AG1SxAXGvS0iZvBpzu1x2CA (1 rows)
+[450/987] "Bad Gyal Talks About How 'Más Cara' is a Statement For Dreams That Cam"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A8jqohlQHTB-hq8zCPo1UYw (1 rows)
+[451/987] "'These People Are So Stupid': Live Nation Employees Boast About High F"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TSMQIG3hYSwOsrErbR-530Q (1 rows)
+[452/987] 'From poisonous lookalikes to hidden laws: what beginners get wrong abo'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T-HSVuYKlQ3uMXjRV1tD94A (1 rows)
+[453/987] "How you might know the actor who plays Clay, Virgin River's dangerous "
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[454/987] 'The Washington Post, U.S. sailors injured in fire aboard aircraft carr'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AwY_E2M9YQuucG_7CUaPDGg (1 rows)
+[455/987] 'The xAI exodus: Another cofounder gone, and one more has told people h'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[456/987] 'Rivian is fulfilling its promise to launch a $45,000 EV, but there’s a'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRT5Dro4FQ5KU3V5QSf65tw (1 rows)
+[457/987] 'The Hollywood Reporter, Oscars 2026: Who Will Win Vs. Who Should Win, '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AEZwaVfqsQsyxyw3tDQl-SQ (1 rows)
+[458/987] 'Why drug overdose deaths have suddenly plummeted in the US'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AKM4GE_myT6-THF5QE-W9Tg (2 rows)
+[459/987] 'We found the city’s most expensive gas station. It’s disgusting driver'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aog2efRahTlmUVyOl4Nw2ew (2 rows)
+[460/987] 'La Roux Remembers Kanye West Sexually Assaulting Jennifer An'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AtWiaKmQoTj64LHeAo8sBLg (2 rows)
+[461/987] "Isla Fisher Says She Feels 'So Liberated' at 50, 9 Months After Finali"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A67E3v2n9QyWNW_HP30NkPw (1 rows)
+[462/987] "Los Angeles Times, New Iranian leader Khamenei vows 'never ending' rev"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AOfbYdPbDSEGKeeTgoTbgiQ (1 rows)
+[463/987] "Rolling Stone, Morrissey Cancels Gig: Lack of Sleep Left Him in a 'Cat"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AqDqMoyUzS0KJKb_QYllRjQ (1 rows)
+[464/987] 'People, Dakota Mortensen Claims He Slept with Taylor Frankie Paul the '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/APnTEdufURUi2xDphduyzVw (1 rows)
+[465/987] "Ed Sheeran Definitely Enjoyed His Legendary 'Game of Thrones' Cameo, B"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A38PMqGT9QZi2Tx1Yz1hlKA (1 rows)
+[466/987] 'Jack Osbourne welcomes his fifth baby girl, and names her after dad Oz'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AExL4JGpyTUmK8DIZURdE7g (1 rows)
+[467/987] 'Concord Acquires Ninja Tune, Adding Iconic Dance Catalog and Publishin'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AbjqeJJZzS8KyoSvBcZndsQ (1 rows)
+[468/987] "Where Are Bri and Connor from 'Love Is Blind' Now? Inside Their Lives "
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[469/987] "2 major 'Virgin River' actors exit series ahead of planned season 8"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ANW6N1Kt5QeKoIq5iYjtjtA (1 rows)
+[470/987] 'Eminem Pays Tribute to Late DJ, Radio Host Lord Sear: ‘He Made the Wor'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T6hYbqHecSHGtbb1M-9mgcw (2 rows)
+[471/987] "Feid Launches Record Label Grabaciones Los Poderosos: 'It's Always Bee"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TZB80-QdjS1mg1tsY9B7XyQ (1 rows)
+[472/987] 'Iran appears to have conducted a significant cyberattack against a U.S'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AmUqAovbOQYe_o_HnMT5WNg (1 rows)
+[473/987] 'Analysis | Why Investors Aren’t Fleeing to Safe-Haven Stocks, Apple Ne'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AVxI6cU-BQsy7f37puwZffA (1 rows)
+[474/987] 'How Director Will Ropp Shot His SXSW High School Comedy ‘Brian’ in Onl'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ac-IkO5k3Re2ka3XnV0Kj6w (1 rows)
+[475/987] 'Oscars’ Youngest Winners: “Where Do I Go From Here?”'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AO4r6Bl02QhaaJ1Ok6idKTw (2 rows)
+[476/987] "Who Is Mikayla Matthews' Estranged Husband? All About Jace Terry and T"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A1LpXmwykSsayU3Ma2Dkb4w (1 rows)
+[477/987] 'Missile alerts and a safe haven tested: Dubai 12 days into the Iran co'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[478/987] 'Forbes’ new billionaires list is out. How many are in North Texas?'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ACEbx5JnZTuGImju9RGywOg (1 rows)
+[479/987] 'Smaller fields, bigger purses, more match play: how the PGA Tour is ch'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T4FN5Wjc_TSi0DL4N-wYZvQ (7 rows)
+[480/987] 'New York Magazine, 8 Scarily Stupid Moments From Trump’s Kentucky Rall'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A7l-QMsRUR5SFsI9yBMP5Cg (1 rows)
+[481/987] 'Jaden Smith Gives a Tour of His ‘Insanely Detailed’ $47,000 House-Shap'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ACG0V9nrGTnShRgEjDPdhhA (1 rows)
+[482/987] 'The new Google Maps redesign aims to keep your eyes on the road, not y'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ai_VN1PofSV2KvqmYvPbPgg (1 rows)
+[483/987] 'Who Do You Think You Are?, My father-in-law was a Nazi child soldier a'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TkMV-DnVXQ0Sz3sjP3zUk5A (1 rows)
+[484/987] 'He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ac2HtjYPtQh2akK5S37N2KA (1 rows)
+[485/987] 'BMW’s brilliant, 492-mile-range iX3 faces its toughest test: the UK’s '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AIug92iyzRbCT0tgNUrMyug (1 rows)
+[486/987] 'Sunday Rose Kidman Urban Sets The Mood For Spring Beauty'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A5rzYI_5VTd2JIn3hrImvIA (1 rows)
+[487/987] 'Business Insider, Tinder wants you to meet people offline. Its CEO tel'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AuP_KiLtiTaCfjR_8TXiLFg (1 rows)
+[488/987] 'Business Insider, Tips to catch your flight as TSA lines stretched for'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T3hmvOvv-RqGNKiCi9WtPNA (1 rows)
+[489/987] 'New Scientist, Why drug overdose deaths have suddenly plummeted in the'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AKM4GE_myT6-THF5QE-W9Tg (1 rows)
+[490/987] '‘The Life and Death of Peter Sellers’ Review: Wickedly Funny'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AAuuJlWiUSAaiCYH4aAHDtQ (1 rows)
+[491/987] 'How worried should you be about your BMI?'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[492/987] 'How a species evolved fast enough to save itself from extinction'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ar7H9JMVbSEGecgyCxF2UXQ (1 rows)
+[493/987] 'The Wall Street Journal, UFC Fighters to Hold Training Event for FBI A'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A6hK2GTPpQNm0SsMv3GDXFg (1 rows)
+[494/987] "Quincy Jones' Estate Sells Catalog, Including Stake in Michael Jackson"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TNnh_aJ5aRwq5kNA_RjE9iA (1 rows)
+[495/987] 'Natural History Museum, How a mysterious species of ancient human is s'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ATmWvHnyGRVegYt386x2NGQ (1 rows)
+[496/987] 'A Woollahra Kitchen Designed for Seamless Living'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AjCEyy4SpTDmeN9ILs-mrhQ (1 rows)
+[497/987] 'Inside the Las Vegas Neighborhood Where Midcentury Preservation Is Pri'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AHJV2-offRdq6raMlWnipyg (1 rows)
+[498/987] 'The Best & Worst Lists: Our Experts’ Curated Selections Will Help You '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AOqsaFsCBQR-V_wmg3nCeyg (1 rows)
+[499/987] 'The shocking truth about your body’s ‘hidden’ belly fat – and 11 ways '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aee4TC2RiTVa29Ya7fRglbg (1 rows)
+[500/987] 'Nina Dobrev On Skinny Jeans and Why She Doesn’t Believe in ‘Dressing Y'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ASIef00ntQjehCLBBpKS9yA (5 rows)
+[501/987] 'Airfares Have Doubled on Some Flights. The Sticker Shock for Spring Tr'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TWnoJEyylRkqOFV6TfyhUnA (2 rows)
+[502/987] 'The Oscars Needs Sinners'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AbGX_DEWRR_eHQPTHppSAYg (1 rows)
+[503/987] 'Oscars 2026: Inside the A-List Parties and Events (Updating)'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AK1bh7FgkTlmThLSbmxmjAA (1 rows)
+[504/987] 'In major blow to arts scene, one of L.A.’s most vital dance troupes to'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AYwHkUKDdRW-uHh0oLblEqg (1 rows)
+[505/987] 'All the Pop Queens Are in the Studio Right Now'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Am_iZydk-SCaEf57ZJcGevA (1 rows)
+[506/987] "Entertainment Weekly, 'Age of Attraction' contestant hints she didn't "
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ARYUEcLrYQqu8wYH3bq6TMQ (1 rows)
+[507/987] 'FORTUNE, Jensen Huang runs the world’s most valuable chip company. His'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AgKR9STGYQn-4ujC_9gw6-A (1 rows)
+[508/987] 'JetBlue is betting more on Fort Lauderdale airport. Check the new flig'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ABEM6LQ3FQQSufYJkHIx5tg (1 rows)
+[509/987] 'Iran’s supreme leader stays off camera to issue defiant statement'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A1p3QrboMRz-cjNp5yU7_Vg (1 rows)
+[510/987] "How Old Are the 'Age of Attraction' Cast Members? Find Out Every Coupl"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ADqBi5FdfROeStU_EgGxWew (1 rows)
+[511/987] "Is Demi Engemann Still in MomTok? Here's Where the Mormon Wives Star S"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AiFJiSZi0Tfy_LAPT_R3img (1 rows)
+[512/987] 'Anthropic lost the Pentagon but won over America'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AeilfYzEwRBq-jR23garHww (26 rows)
+[513/987] 'Chase Stokes, Marsai Martin, Milo Manheim, more to attend 2026 Oscars '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aya4mQZO3Q9KKuZ6kFwv20w (1 rows)
+[514/987] 'Barron’s, Senate Passes Bill That Would Ban Some Rental Home Investors'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TCVDMZPthSbGRMk8fvR6PtA (1 rows)
+[515/987] 'FORTUNE, Inside the Binance accounts internal investigators say helped'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A3669JuxgQN-6QgOtTkBb0w (1 rows)
+[516/987] 'Amazon puts humans back in the loop as its retail website crashes from'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AmoCj-ZgSQ7GGzWuDKuR7dg (1 rows)
+[517/987] "'KPop Demon Hunters Sequel' Officially Confirmed at Netflix Ahead of O"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AU7UMpNPGTru2-iWGtFLmOg (1 rows)
+[518/987] 'Gemini’s task automation is here and it’s wild'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AejSHNGjhTKCW1w9ckab7YA (1 rows)
+[519/987] 'Diamondback Energy Has Soared During the Iran War. Execs Made Millions'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[520/987] 'Former Child Star Mariel Hemingway, 64, Opens Up About Aging and Share'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ABJCzh5XiSsCC25b8F4grsA (1 rows)
+[521/987] 'Popular Mechanics, Aliens From the Fourth Dimension May Be Invading Ou'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A0jd8U_a4TWiybJrzXYhVYw (1 rows)
+[522/987] 'From Trail to Tarmac, Here’s the Best Running Gear This Year'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A8VBZsq9XQE2O3_-4XD39sg (1 rows)
+[523/987] 'Plan your year ahead with Timescape'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AaLnEDs0BSoqVdHGys3fTQA (1 rows)
+[524/987] 'Boss Level, BY T. EDWARD NICKENS'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TwH5K4CYXQD6Bf-oY-nnU4g (1 rows)
+[525/987] 'A clever paint palette sets the mood in this NSW home'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/APjV7Ps92RwWQZYUQAsrQvw (1 rows)
+[526/987] 'People, See the Best Pics of All the Celebs Chatting at the DVF Pre-Os'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (1 rows)
+[527/987] 'Trump Tariff ‘Plan B’ Begins With New Probe. What It Means for Importe'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TiA1BeSRfPYOGauvlm-NXBQ (1 rows)
+[528/987] 'Quince copied its way to a $10 billion empire. Now it’s looking for a '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A0lcKAaaqQr-bMpR3A2_F7g (1 rows)
+[529/987] "Kiss' Gene Simmons stuck his tongue 'almost down' Adam Sandler's throa"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Af3Dp2ZbhTPGxPHu8OSG5Fw (1 rows)
+[530/987] "Who Is Jessica Barrett's New Boyfriend? All About Her 'Love Is Blind' "
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AYiOOHsWAQfe8QVjd4_mpOg (2 rows)
+[531/987] 'Dominic Fike Just Scored the Biggest Viral Hit of His Career With a So'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A1I5tfd_aT_SWeVApq1qerA (2 rows)
+[532/987] 'Lord Sear, DJ and hip-hop radio host, dies at 52'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ai3hw4THRSgmm7pdeD4Ztfg (1 rows)
+[533/987] 'The men’s NCAA tournament bubble is collapsing fast — and these teams '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRDkR9QPbS0yoKyV5iQSW5g (10 rows)
+[534/987] "Real Fashion Junkies Will Recognize the Looks in the New 'Devil Wears "
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[535/987] 'Entertainment Weekly, Kacey Musgraves reacts to Miranda Lambert feud r'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Tgc8ORFHPRE6qDru5b-DZ4g (1 rows)
+[536/987] "China's AI Boyfriend Boom, Johanna M. Costigan"
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[537/987] 'Fribourg Film Festival Sidebars Spotlight Colombia, Mothers in Film an'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AGtDm2YO4S-OEIhDaU08bmw (1 rows)
+[538/987] 'The Crossword: Tuesday, March 3, 2026, Patrick Berry'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AF8pXJltkTJOcF5CrUZF-pw (2 rows)
+[539/987] 'Inside Eco Outdoor’s Elevated Sydney Workspace'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TQPK-T-JCRl-TyqcEqKANsg (3 rows)
+[540/987] 'Knoxville News Sentinel, Tennessee Buc‑ee’s stores receive F rating fr'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T1E_0QouyTbuivyiETREbdA (2 rows)
+[541/987] "Eiichiro Oda's ‘One Piece’ Vol. 114 Tops Billboard Japan Book Hot 100"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AUkZYPVoER1-ucvll-y_PVw (1 rows)
+[542/987] 'Fribourg Film Festival Sidebars Spotlight Colombia, Mothers in Film an'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TNnh_aJ5aRwq5kNA_RjE9iA (1 rows)
+[543/987] 'Miami Herald, Florida College Student Gave Birth, Placed Her Baby in D'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AsElGXzSbS1KXwQ-3C0QPGw (1 rows)
+[544/987] 'For her groovy pleasure palace in Hollywood, musician Scout Willis bri'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A7mAERa_JQsSjujy5eXZ6JQ (1 rows)
+[545/987] 'The Answers with... Sid Mashburn: Meeting a Vogue editor named Ann Dag'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRT5Dro4FQ5KU3V5QSf65tw (2 rows)
+[546/987] 'Esquire, There’s a Right-Wing ‘Game of Thrones’ and It’s as Terrible a'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (1 rows)
+[547/987] 'A New Sign of Stress in the Shaky Private Credit Market'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AGZlg0UkmRvSSKcpQ8zrAZA (1 rows)
+[548/987] 'Taylor Frankie Paul Had Brief Romance with TikTok Musician Ben Lambert'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AUJNN-kgWRLCAvkztYQdxrA (1 rows)
+[549/987] 'There’s a Right-Wing ‘Game of Thrones’ and It’s as Terrible as You’d T'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ay2LV8Q6eQbOizxn2dzs6cQ (1 rows)
+[550/987] 'Canadian Geographic, In a snap: Magical macro shots'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AMBvrJevTR7W80vmkEjoFsg (1 rows)
+[551/987] 'The war-torn village keeping Aramaic alive'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ABQNo9Z4JSPuVBug4UuangQ (1 rows)
+[552/987] 'A Playful Jack and Jill Bathroom with Designer Flair'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AT4hAH9kZQq-646FbYjLlGw (1 rows)
+[553/987] 'Rolex Land-Dweller: A Watch Built For Tomorrow, Chris Hall'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AKvq8bd9MTY2Euxlz2BJX6g (1 rows)
+[554/987] 'The Washington Post, In anti-Muslim post, Tuberville suggests New York'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A99a5T5gQT4eXAhnU3bDphQ (1 rows)
+[555/987] 'Investor who lost everything in private credit wishes several thousand'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9rjlxm95TtTn3RWUl4SFiw (1 rows)
+[556/987] 'Bianca Censori, Uncensored: For the First Time, Kanye West’s Wife Is S'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AuZ3Jvr48TUSKiMnRnMCw6g (1 rows)
+[557/987] "'Love Is Blind's Jordan Reveals He Has a New Girlfriend After Revealin"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AIJCWtlyjQRKPSG2Fr5oeVQ (2 rows)
+[558/987] 'A Tequila Billionaire’s Balinese-Style Hawaii Home Lists for $32.5 Mil'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AydZk7EFpQziB5a4Yf4nEwA (1 rows)
+[559/987] 'Collin County suburbs seek to carve out a niche as North Texas booms'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AswNdLmvMRQ-T9xInzVvR7A (2 rows)
+[560/987] 'The Bride!’s Immense Failures Are Fun, Actually'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AcKrHvJoFQoyUZSpnhEBpwQ (1 rows)
+[561/987] 'Maybe we don’t need restaurants like Noma'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A0g1xHKdrQHuXrbjVlfsXYQ (1 rows)
+[562/987] 'Beabadoobee Recruits The Marías for Dramatic New Song ‘All I Did Was D'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AmYf2O5EAROWmJQUYQHoHAA (1 rows)
+[563/987] "Harrison Ford Says 'Of Course' He's Had Sex While Listening to His Own"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (1 rows)
+[564/987] 'A New Bigfoot Documentary Helps Explain Our Conspiracy-Minded Era'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AcQw1OVa4RZuiqziwXHHtvg (1 rows)
+[565/987] 'Mikayla Matthews and Jace Terry Have Separated'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AJi_CQ1LyQSanT8xX1YTD8w (1 rows)
+[566/987] 'From Soccer Field to Safe House: The Iranian Women Who Defied Tehran'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TH_bGW9BaQASfv7hRxVqX-A (1 rows)
+[567/987] '‘God, It’s Terrifying’: How the Pentagon Got Hooked on AI War Machines'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Az9Zcxi3TTR2Df2qjw9eFpw (2 rows)
+[568/987] "'These People Are So Stupid': Live Nation Ticketing Directors Bragged "
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9tnuRM9LRXixXnLb29FaLw (1 rows)
+[569/987] 'Retail Investors Are Selling Hard. Here’s What They’re Still Buying.'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AX3fSqJ63S9-zleNRxZt0HA (1 rows)
+[570/987] "'Back to the Future II' actress reveals her stunt double crashed durin"
+  Right-clicking at (861, 214)
+^[[B
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+^[[B^[[B^[[B^[[B
+^[[B^[[B^[[B^[[B  -> not found
+[571/987] 'H5N1 bird flu spreads to sea otters and sea lions along San Mateo coas'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AeCz1UstBR82fMhso8Jo8Fg (1 rows)
+[572/987] 'The U.S. assembled an all-time baseball lineup. It’s barely surviving '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A9kMUwoe8T0-o-Eh9lWQysQ (3 rows)
+[573/987] "Morrissey Cancels Show After Being Left in 'Catatonic State' by Valenc"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AtSzlDZkfTwK2lOrsBzmRaQ (1 rows)
+[574/987] "Zendaya Wears Carrie Bradshaw's Iconic 'Sex and the City' Dress and Fl"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TUKgA_OjuTe20v1ndDwQjxQ (1 rows)
+[575/987] 'The Dallas Morning News, Dallas officials feared WFAA-TV would leave d'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A7fA5j55YS6S7Emuu6DsQBQ (1 rows)
+[576/987] 'The Power of Restraint in This Minimalist Darlinghurst Kitchen'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9rjlxm95TtTn3RWUl4SFiw (1 rows)
+[577/987] 'Stylish Sauna Essentials, BY HASKELL HARRIS'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T4Op1eGneR3KoGo1Bh0LyIw (1 rows)
+[578/987] 'The Art of Curation: A masterclass in soulful spaces and emotional res'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[579/987] 'Planning a summer trip? JetBlue adds new flights out of Fort Lauderdal'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TiA1BeSRfPYOGauvlm-NXBQ (1 rows)
+[580/987] '‘Anima’ Review: The Odd-Couple Road Trip Takes Rewarding Detours in an'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A7myKiBWLT0WAL5EanwaCmA (2 rows)
+[581/987] "'Baby/Girls' Review: Doc Paints a Bleak but Judgment-Free Portrait of "
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T28TLWnufQzCSz0NXDfnKCA (2 rows)
+[582/987] 'Can the Hulcan Bros Relight Matches?'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AfVo-nD1gRDevG286bSmFfg (2 rows)
+[583/987] '‘Baby/Girls’ Review: A Gentle Documentary on Teen Pregnancy With Some '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AMjfMJDQTScaWcJT9P5GulA (1 rows)
+[584/987] "Hank Azaria revives beloved character Agador to celebrate 'The Birdcag"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ANMMBBrJSTd2NnSyne2v_jg (1 rows)
+[585/987] 'Quincy Jones Estate Sells Select Music & Non-Music Assets to Harbourvi'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TlKyQjgpEQcevrWOhun95Tw (1 rows)
+[586/987] 'Rolling Stone, Kim Kardashian Denies Involvement in Sex Tape Release. '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9rjlxm95TtTn3RWUl4SFiw (1 rows)
+[587/987] 'New York Magazine, ‘Mormon Wives’ Star Mikayla Matthews Separates From'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AXGN3Xb7iTlOgWyswcCL5qQ (1 rows)
+[588/987] 'Zendaya Had a Carrie Bradshaw Moment, Olivia Craighead'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ax1NGbE1-QQqTVtgh5lbleg (1 rows)
+[589/987] 'Henry VIII’s sex hunts: how the king’s infidelities sent Anne Boleyn i'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[590/987] 'Beware the placeholder relationship, BY MEEHIKA BARUA'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AjP9zWQlkQvW8HOuncz-7xg (1 rows)
+[591/987] 'The Beginner’s Guide to Raised-Bed Gardens'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AImj20SrjRZOi7zRpiCHQ8g (1 rows)
+[592/987] 'Verywell, Some GLP-1 Users May Be at Risk of Vitamin D Deficiency'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Az_O3BU3LQEOV9-b-CR4yOA (1 rows)
+[593/987] 'The Sacramento Bee, Citrus Heights advances ‘catalyst’ sports complex '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TqvMN44iLSiaVhkE041LQ2Q (1 rows)
+[594/987] '3 Ways to Grow Your Practice By Moving Out of Your Comfort Zone'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AS3Uvv956T1CY4HtdPYYdCQ (1 rows)
+[595/987] 'Nurse practitioners are rushing in to fill the gaps in US health care'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AzSBhn3w_RXaB5mPuVMBFow (1 rows)
+[596/987] '‘Undertone’ Review: A Podcaster in Peril'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AB5-Wyw60RfCPXE6GhZ0f9w (1 rows)
+[597/987] 'An Exodus of Money Endangers Wall Street’s Private-Credit Craze'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  -> found with down_count=5
+  -> https://apple.news/AWzHlKnhrThq8Rowb3Xezbw (1 rows)
+[598/987] 'Citrus Heights advances ‘catalyst’ sports complex project at Sunrise M'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TR1SJjwQuQYus5YuqKZJSCA (1 rows)
+[599/987] 'Monster, Palantir, and Other Stocks That Can Weather the Market Storm'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A_njnBmlYQiqTkyOKa15USA (7 rows)
+[600/987] '‘Capturing Bigfoot’ Review: Cultural Mystery Meets Family History in a'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ac1piL_xaSneccOGKZNMM9w (7 rows)
+[601/987] 'How Much Will it Cost to Thru-Hike a Long Trail in 2026?'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/APgVI0HClQNud_RYBBj6uUg (1 rows)
+[602/987] 'Report: OpenAI signs new S.F. lease, pushing its office space in the c'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Afd_KfOdvSpaASJ_6orSyJg (1 rows)
+[603/987] 'San Francisco Chronicle, A flying taxi crossed the Golden Gate. Could '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TzWk0onohSImD9To0RdSnCg (1 rows)
+[604/987] "Entertainment Weekly, Dennis Quaid thought Lindsay Lohan 'was 2 people"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T-w3sq75cQMOH9QoRONxz-g (1 rows)
+[605/987] 'Budget Breakdown: Their $1.2M Berkshires Cabin Is Tiny—But It Has a Ma'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AZ92zaA4ATZ-i1mmX6MdOHQ (1 rows)
+[606/987] "2026 Buyer's Guide to Mid-Size SUVs"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AlhmW8cj5SbaICQzCIS_bHA (1 rows)
+[607/987] 'Cadillac makes a statement with a freaking humongous car., JARED GALL'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ah_XD3LWsR6CyOjm3dSg5mQ (1 rows)
+[608/987] 'Mid-century modern meets Earthy chic'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T2BJuTjFiS8ia4hwt_sIVMg (1 rows)
+[609/987] 'Why Are Pakistan and Afghanistan at War?'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> found with down_count=5
+  -> https://apple.news/Aa7aLaBCZRBGfCiEyYQIyMg (1 rows)
+[610/987] 'ELLE, Zendaya Channels Carrie Bradshaw—and Whitney Houston—in One Dres'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> found with down_count=5
+  -> https://apple.news/AHxTrN8JOSfaH9epTUlPKzw (1 rows)
+[611/987] 'Fast-tracked asylum hearings for Somali refugees being held in secret'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLqZBDR6cRBWQ6VMxXmcveg (19 rows)
+[612/987] 'The elder-care solution that could transform a generation, Audio, 1 mi'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRT5Dro4FQ5KU3V5QSf65tw (5 rows)
+[613/987] 'Why college hoops is broken if Miami (Ohio) misses the men’s NCAA tour'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aku6ouMDuQqWQm2CWN4h9Vw (17 rows)
+[614/987] 'For Americans to Stomach Pocketbook Pain, Trump Needs to Sell Them On '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AlNO8c6PxSBuwg4bBS0RnMw (1 rows)
+[615/987] 'Consumer Reports, CR’s Reviews of New Cars From Acura, Alfa & Audi'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TiA1BeSRfPYOGauvlm-NXBQ (1 rows)
+[616/987] 'Buying Guide Masthead'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AxacOXSiWTlGWrGAUMzrjCQ (1 rows)
+[617/987] 'Essential Finds to Copy Our Cover Look in Your Home'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AUteH3CEKRt2zK3daW_cKYQ (1 rows)
+[618/987] 'GLP-1s and running - the uncomfortable truth about weight-loss drugs a'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/APj49oQfvT-W2sVSqWjMRXQ (1 rows)
+[619/987] '16 Best All-inclusive Resorts in Mexico, Meagan Drillinger'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9rjlxm95TtTn3RWUl4SFiw (1 rows)
+[620/987] 'Jack White Responds After Uproar Over Taylor Swift Songwriting Comment'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9tnuRM9LRXixXnLb29FaLw (1 rows)
+[621/987] 'Hate your Gmail address? Google is finally letting you change it, Hans'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TkmfPsV5zRuiu3K4CKJxMIA (1 rows)
+[622/987] 'Real Simple, What Happens to Your Brain When You Don’t Eat Enough Heal'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ASJRg7hZgRRaNFKbBEFiquA (2 rows)
+[623/987] 'The Charlotte Observer, Rain, sleet and low pay: Charlotte Douglas air'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ajkgp_dskTI6WS0lUZNsiFQ (1 rows)
+[624/987] 'National Geographic History, This pre-Inca tomb was found fully intact'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A5WqF9qh6TCyZEvXnujGK7A (1 rows)
+[625/987] 'An Immersive Bathroom Designed for Daily Ritual'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A15UIdMoEQIOyQdYg_2KUUQ (1 rows)
+[626/987] 'Finds: This month’s favourites from the design world, Chelsea Dolan'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AxeR3Hod-Q-Khg9MjmSN1mg (1 rows)
+[627/987] 'From London to Australia: Craig Linke’s Design Evolution'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AWVpSJN50SEKbZgoldMVesw (1 rows)
+[628/987] "2026 Buyer's Guide to Compact SUVs"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Tgc8ORFHPRE6qDru5b-DZ4g (1 rows)
+[629/987] 'Sarah Michelle Gellar Celebrates Husband Freddie Prinze Jr.’s Mileston'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AKDErwIbUQVCkze7vu8JQUQ (1 rows)
+[630/987] 'The Washington Post, Trump names new head for VOA parent after court r'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AIR14SjOmTkKnGJ7E2jxGpQ (1 rows)
+[631/987] 'Newsweek, The overlooked link between ADHD and heart health'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AgTglCbXdQm-i37xvSrUfUQ (1 rows)
+[632/987] 'The 10 Best Coastal Towns to Move to in 2026, Tracey Minkin'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A7T9-jMo6RkKIp3hC6GlgKQ (2 rows)
+[633/987] 'Kylie Supreme! A Makeup Mogul Enters Her Hollywood Era'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AM9rUkYmiTmWrseboeKi46Q (1 rows)
+[634/987] "Taylor Swift Fans in Vancouver May Receive Refunds for Undisclosed 'Ob"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AT7VkaCw0Tv2HopgIUHRA1Q (1 rows)
+[635/987] 'Dakota Johnson Is Reportedly "Playing the Field" Months After Breaking'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[636/987] 'People, Conan O’Brien Reveals Friend Rob Reiner Will Receive ‘a Very P'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AN3-KLevzRjqh3Pefc2NVIA (1 rows)
+[637/987] '‘Sesame Street’ Producer Sues SeaWorld Parent Over Unpaid Royalties, J'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AtV3hScUpR4G0_bb2D9hsog (1 rows)
+[638/987] 'Gabourey Sidibe and Brandon Frankel Celebrate 5 Years of Marriage, Mad'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AnvPs0jOmQwa91GUuhXJIRQ (1 rows)
+[639/987] "2026 Buyer's Guide to Large Luxury SUVs"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AWjVuHqggRrGBxNYp9p02Fg (1 rows)
+[640/987] 'The 10 Best New Restaurants in Texas, Paula Forbes'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AKhQebXSXTGaQjpCP44hzAA (1 rows)
+[641/987] 'Zendaya Channels Carrie Bradshaw—and Whitney Houston—in One Dress'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AID2V924bQFm_bsOJ53Hgyw (1 rows)
+[642/987] 'WIRED, How to Responsibly Dispose of Your Electronics, Simon Hill'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AR0wAgIvFTNCvZByS_y9C9Q (3 rows)
+[643/987] 'Opinion | Iran’s Islamic Republic 2.0 is coming — and it won’t be pret'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[644/987] 'BBC Top Gear Magazine, This obscure F1 game only sold 150 copies, and '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ASnhGzIPCSJqMuFbZLM574A (1 rows)
+[645/987] 'This Helmet Kept an Air Force Pilot Safe as She Was Soaring Through th'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AqpqJ_Q4WSS68hcEwwX5DVQ (1 rows)
+[646/987] 'Unrestored Gullwing to record-breaking GTO: the auction results that t'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ajk_zpQerSOCSP35aZRzxEg (1 rows)
+[647/987] 'What’s hot in interiors right now'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AeVsq4NqjS_S7mRHQCwro5A (1 rows)
+[648/987] 'Scientists Analyzed Air Bubbles Frozen in Ice. They’re Full of Warning'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9rjlxm95TtTn3RWUl4SFiw (1 rows)
+[649/987] 'Man dead after ramming car into Michigan synagogue, authorities say'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AUI14hKoEQCuc1aF3j--dEw (2 rows)
+[650/987] 'David Gilmour’s ‘Black Strat’ Sells for $12.1 Million, Becoming the Mo'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TAmrHLACGTTumXuFN0FhFyA (1 rows)
+[651/987] 'Stryker Says Cyberattack Disruption Is Continuing'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  -> found with down_count=5
+  -> https://apple.news/AoNWzPUq3TWi7aJF3TxO8tg (1 rows)
+[652/987] 'Maclean’s, Modern Living: Flight of the Snowbirds'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AfgzhCXMyQ2eIVE7gGJsAXg (2 rows)
+[653/987] 'The eldercare solution that could transform a generation, Audio, 1 min'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ANVgFOkwBRNS-Brp2hChllw (21 rows)
+[654/987] 'Coconut Milk vs. Coconut Water: Which Is More Hydrating?'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[655/987] "'I Love Boosters' Review: Keke Palmer Takes Charge in Boots Riley's Pl"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AageFNHYXTLaR2gsy9Zfmyg (1 rows)
+[656/987] 'Iconic Malibu restaurant poised to reopen 14 months after Palisades fi'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Tgc8ORFHPRE6qDru5b-DZ4g (2 rows)
+[657/987] 'Review & Preview: Economic Fallout'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[658/987] "U.S. is in the dark on Mojtaba Khamenei's views on the bomb, Apple New"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A2PIdLlkkQW-B512FJSwxdQ (1 rows)
+[659/987] "Column: Trump's recklessness endangers the nation, Apple News Plus"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[660/987] "California attorney general vows to scrutinize Paramount's deal for Wa"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A4VklaXg9Rg6w02oXTA4h5A (1 rows)
+[661/987] 'Nicole Kidman on Oscars, ‘Practical Magic 2’ and Hiring Female Directo'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T_jvhxiuhQki2FvfcWbvORA (1 rows)
+[662/987] "Entertainment Weekly, Entertainment Weekly's 2026 Preview Issue, Patri"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AvjdZJNDcSyOqbPyWHBtOYg (1 rows)
+[663/987] 'Bored of million-bhp supercars and pricey restomods? This is the sport'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A1WFKl8gqQDyZHQYqCiuKHg (1 rows)
+[664/987] 'Character Runs Deep In This Modern Austin Escape, Lara Hallock'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AFUl-5V8zQUGwWBeTB22CJg (1 rows)
+[665/987] 'Budget Breakdown: They Turned a B.C. Corner Store Into a Home—and Just'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ak-vIm7bFSnOQ7FY85m-a-g (1 rows)
+[666/987] 'The best running headphones of 2026 for a sweat-proof, skip-free worko'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AVfbBi0tdSUy2qbje-EMLkA (1 rows)
+[667/987] 'Scientific American, Your daily steps may depend on your zip code more'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AO94GMWatT3WTe6xEgFrPDA (1 rows)
+[668/987] 'New York City’s $30 Minimum-Wage Proposal Rattles Small Businesses'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AOiWnlSCrQUWwyiLfMpnvBg (1 rows)
+[669/987] 'Uncomfortably Numb: My Life with a Desensitized Penis, Kyle MacNeill'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Tc-HLcFY-RhKIP_30_BQOKg (1 rows)
+[670/987] "'Tyler Perry's The Oval' Star Nick Barrotta Signs With Untitled Entert"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A6r_eQQE1T4eoSlA8RCEOhg (1 rows)
+[671/987] 'The Wall Street Journal, U.S. Air Force Refueling Plane Crashes in Ira'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AdVvF_SJaSxebUNGPj9dEYg (2 rows)
+[672/987] 'An Arizona Home Frames The Desert Landscape As Living Art, Kathryn O’s'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A6n2-jGkARLy1ibtYVdFXug (1 rows)
+[673/987] 'New gear: Campagnolo Super Record X'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TfIf8_lFyS9aS1cN4JLFQHg (1 rows)
+[674/987] 'Alexander &Co Bring Theatrical Flair to Emerald House'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A_hpL1mfQRD-QWgDYsbW7bw (1 rows)
+[675/987] 'Stuffy noses are miserable. These nasal congestion treatments actually'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TkMV-DnVXQ0Sz3sjP3zUk5A (1 rows)
+[676/987] 'Entertainment Weekly, Raven-Symoné reveals her Disney Channel Mount Ru'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T53EkVgARRIiK5g17be6ZGw (1 rows)
+[677/987] 'MotorTrend’s 2026 Truck of the Year Is …'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ak-XL4EWtQT2tQlZHMOD69A (1 rows)
+[678/987] 'The magic of our vast and growing interstate system., A.J. BAIME'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[679/987] 'These are the top 4 watches designed to age gracefully'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ak-dXRBRARGqIDU-D9grB8Q (1 rows)
+[680/987] 'Old Hollywood Meets Modern Function in This Kitchen Revival'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ao1Aen3OITd2anReioD5b1g (1 rows)
+[681/987] 'FORTUNE, Ripple valued at $50 billion after $750 million share buyback'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AaY2328EASqC8E4bKkyXXsw (1 rows)
+[682/987] 'Bella Hadid Shares Her Revolve Favorites and the Story Behind Her New '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AefhAn0CmSEezQMSMdKxcag (1 rows)
+[683/987] 'Health, 4 Common Medications That Can Mess With Your Gut Health, Steph'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AAAPfRar7SGimQk12v8LE7Q (1 rows)
+[684/987] 'The Main Differences Between Business Class vs. First Class—and Tips f'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TwXlMRfx_RZiVCEpg9DNieA (1 rows)
+[685/987] 'How the Iran War Unraveled the Gulf’s Image as a Luxurious Safe Haven'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[686/987] 'Star Magazine, Star Shots: The Hottest Celeb Photos'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AkN6MsbG1SvKtFSBUGNRpsw (1 rows)
+[687/987] 'We polled the most stylish guys we know on how they’re updating their '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AG_UDt5zGSe-bcGGN4aCagw (1 rows)
+[688/987] 'Get Gift-Giving Ideas for Nature Lovers'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T4Op1eGneR3KoGo1Bh0LyIw (1 rows)
+[689/987] 'Lifestyle Updates Worth Knowing This Month'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AExEv1BCdQemGemeCwTGJUA (1 rows)
+[690/987] 'House & Home of the Month: A designer’s home gets a European-style mak'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A2tAUhwUdRjCO9Jb4IDYcsg (1 rows)
+[691/987] 'The Classic Ballet Flat Looks Totally Different Right Now, Aemilia Mad'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TWnoJEyylRkqOFV6TfyhUnA (1 rows)
+[692/987] 'Entertainment Weekly, Pussycat Dolls reunite for first world tour in 1'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AA-imLq-7Q06CGIDdwMuLKA (1 rows)
+[693/987] 'HGTV Magazine, The Ultimate High/Low Shopping List'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A7VA7TW5VTeq81zEGV7moDA (1 rows)
+[694/987] 'Strokes Are Rising (Fast) In Young Women—Doctors Are Racing to Figure '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRDkR9QPbS0yoKyV5iQSW5g (1 rows)
+[695/987] 'Private Jets Make Strange Bedfellows, Andrew Zucker'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AOWAEHtomS1u3LyilACMBdg (1 rows)
+[696/987] 'Greg Natale Goes West in a Striking Oklahoma Home'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ATIq4FhOZS2ORYH2HE5Gifw (1 rows)
+[697/987] 'Forge 2-person FAR Infrared Sauna'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TwGKun04mTteckLTZJRRZQQ (1 rows)
+[698/987] 'How to Responsibly Dispose of Your Electronics, Simon Hill'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AR0wAgIvFTNCvZByS_y9C9Q (1 rows)
+[699/987] 'Health, Bodyweight Exercises vs. Weightlifting: Which Is More Effectiv'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Tipc61zfnTXqSo6R7vLNcxg (2 rows)
+[700/987] 'Travel + Leisure, The Main Differences Between Business Class vs. Firs'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AwU85Twl0TIagd7NkOL9Lkw (2 rows)
+[701/987] 'Why the hip thrust movement is the best way to build your backside'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[702/987] 'The Secret Lives of Mormon Wives Recap: Having It All'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AGlaMxZpJRvazcirWMgTQWw (1 rows)
+[703/987] 'Wine Enthusiast, It Doesn’t Get More ‘Limited Edition’ Than This Cult-'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AAVihfqhERtuQCKJkxd8lKw (1 rows)
+[704/987] 'Spring 2026 Shoe Buyer’s Guide'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TxBQht-_ETUWW1Top8sfATw (1 rows)
+[705/987] 'This Gold Coast home channels the charm of Italian villas'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Az8Gjps5nTKGJZ-61CNKKBg (1 rows)
+[706/987] 'Frustrated senators dig in on DHS funding fight'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ARQwkO4RnT9qc6kClXbsfzQ (20 rows)
+[707/987] 'Men’s Health, What Doctors Want You to Know About a Buzzy Sleep Apnea '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A0jNtbxjZTfC1pvTFWy4WkQ (1 rows)
+[708/987] "Billboard, Watch Harry Styles 'Catch Feelings' for This 'SNL' Star (Ev"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLqZBDR6cRBWQ6VMxXmcveg (1 rows)
+[709/987] 'Inside Ed Ruscha’s California Dream, Lesley M.M. Blume'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Auu36shN_QwqfQUCEiZJB8w (1 rows)
+[710/987] 'A Waterside Wisconsin Cottage Gets A Whimsical Update'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A1KMhTrgkTLqwpYI6iMg_sA (1 rows)
+[711/987] 'Relax and fall asleep with help from your iPhone'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A06svuPl4T72wGi9jqsVCSQ (1 rows)
+[712/987] 'The incredible transformation of a run-down outbuilding into a luxury '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (1 rows)
+[713/987] 'Donald Trump Predicts that Jake Paul Will Run for Office'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AUGwG6GUfTUy9iyogCY4JdQ (1 rows)
+[714/987] 'The Washington Post, Analysis | Anyone can code now. What will you bui'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A4G6dKlO3TDWSKSKfwP-L1Q (3 rows)
+[715/987] 'Oprah’s Comfortable Travel Outfit Features This Genius, Hands-Free Lul'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T53EkVgARRIiK5g17be6ZGw (1 rows)
+[716/987] 'Opinion | To Squeeze Iran, Trump Reaches Into the Geoeconomic Toolkit'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[717/987] 'Rivian’s Make-or-Break Car Arrives at the Worst Possible Moment for EV'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AmXGEXekZT0ajcKJVWorj9A (1 rows)
+[718/987] 'Prince Edward’s Journey From Discreet Royal to Key Figure in King Char'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AeqMdFHZ2RPyTfBYFko8WGw (1 rows)
+[719/987] 'The Electric Grid Needs Huge Upgrades. No One Knows Who Will Pay for T'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Af1waybW8Ra-8BCdfcwUq5Q (2 rows)
+[720/987] 'New York Magazine, They Thought It Was Burnout or Aging. It Was ADHD.,'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ASB47RSSTTXW8jmI42LEuvA (1 rows)
+[721/987] 'belle, A Luxe Shade of Pale: Glossy Neutrals to Wear Now'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ASXfLcvfGQq-Ce0rCq9CFoQ (1 rows)
+[722/987] 'Our pick of the latest and greatest from the design world'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A_09ttoOfRv-az3y4P6Yhqg (1 rows)
+[723/987] 'How to create a garden that flows with its surroundings'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AIqLNl5clSYqpwe9upJQ6nQ (1 rows)
+[724/987] 'The White Shirt Is Having Its Moment, And We’re Not Surprised. Here’s '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AWYM-CdgzTvGmx-9u70HJKw (1 rows)
+[725/987] '“Do I care enough about my athletic performance to stab myself in the '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AtURmYhsGSMSzHTIqQatSRQ (1 rows)
+[726/987] 'Tig Notaro Calls Cheryl Hines’s MAGA Turn ‘Very Strange’, Alejandra Gu'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AhcxQbUphTnqXWXzZXVMpxQ (1 rows)
+[727/987] 'MarketWatch, Investor who lost everything in private credit wishes sev'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T-HSVuYKlQ3uMXjRV1tD94A (2 rows)
+[728/987] 'Love Story Recap: Mrs. American Dream'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TveHp0EHGTXenwIFMSprU9g (1 rows)
+[729/987] 'The AI Trade That’s Separating Wall Street’s Winners and Losers'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ajgu6joFtSL-QLNdzJAw28g (1 rows)
+[730/987] 'A Tennis Star’s Guide to the French Riviera, From Secret Beaches to Se'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A1VLo1yszTgScdHr9-YNESA (1 rows)
+[731/987] 'CAR, Jaguar is back! We drive the car that broke the internet, and...,'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AJf_oorsGR_u_WK8Rsk1rCw (1 rows)
+[732/987] 'Bunny Mellon’s Nantucket Fantasy by the Sea, Cate La Farge Summers'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[733/987] 'Where Burgundy Marble Steals the Show'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/APl7a1rBjSJmftKWNojhKAg (1 rows)
+[734/987] 'Why Plunge Pools Are the Backyard Upgrade Everyone Wants, Kathy Barnes'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aqn6z6wwHTQegtTPAw9lZzQ (1 rows)
+[735/987] 'Another San Francisco grocery store is closing, this time near USF'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AMHAlkuy_QgGAiN8ci7dVXA (1 rows)
+[736/987] 'Emboldened by Oil Shock, Iran’s Leaders Play Diplomatic Hardball'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  -> found with down_count=5
+  -> https://apple.news/AqrCHnligQE2DHtOnqBVFzw (1 rows)
+[737/987] 'Nvidia Stock Faces Broadcom Threat. Why Micron’s a Winner Either Way.'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AjGO-LArPQ7qCJHs654txnA (1 rows)
+[738/987] 'San Francisco is already looking for the next Union Square café tenant'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[739/987] 'Texas Monthly, One Man’s Quest for the End of the World Started on a R'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (1 rows)
+[740/987] "Not Converse, Not Sambas—I'm Betting This Katie Holmes- and Bella Hadi"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TCVDMZPthSbGRMk8fvR6PtA (1 rows)
+[741/987] 'Home Beautiful, How to design a kitchen that never goes out of style'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLFYdS7ayRQGtZ3ZekLZDkQ (1 rows)
+[742/987] 'When You Check in for a Flight Matters—Here’s Why, Katie Jackson'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A5siKXRz-SOaBY9iD1eOrNg (1 rows)
+[743/987] 'One Man’s Quest for the End of the World Started on a Ranch in Texas, '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AVy690QGjRauOyoHZ_-tKgQ (1 rows)
+[744/987] 'She asked a robot about race. The answer scared her, Deni Ellis Béchar'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[745/987] 'How I used tech to drop 40 lbs, shrink my belly fat and what gadgets d'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Tgc8ORFHPRE6qDru5b-DZ4g (1 rows)
+[746/987] 'New York Magazine, Daniel Radcliffe and I Are Married Now'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ABGR0MNLDTISHPiGKFI9VIg (1 rows)
+[747/987] 'Ahead of the 2026 Oscars, Take a Look Back at (Almost) Every Best Actr'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AofzuSoX8Toijq2AiayPNCg (1 rows)
+[748/987] 'China’s ByteDance Gets Access to Top Nvidia AI Chips'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AWMInsRH7SzKrWBm3rzk11w (1 rows)
+[749/987] 'Shai Gilgeous-Alexander breaks Wilt Chamberlain NBA record for consecu'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TlEkFg64DShO-nxTcAQVpsg (1 rows)
+[750/987] 'Vox, The honest conversation about antidepressants I wish my psychiatr'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9rjlxm95TtTn3RWUl4SFiw (1 rows)
+[751/987] 'Analysis | Anyone can code now. What will you build?, Kevin Schaul'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A4G6dKlO3TDWSKSKfwP-L1Q (1 rows)
+[752/987] "'I Love Boosters' Review: Keke Palmer and Demi Moore in Boots Riley's "
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (2 rows)
+[753/987] 'Apple Cuts App Store Commission Fees in China'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[754/987] 'Kerry Washington Bought a Heated Rivalry Themed Candle'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A2UnzzKGvRICOjxXllUnFng (1 rows)
+[755/987] 'See Inside a Fashion Designer’s 43,000-Square-Foot Venetian Palazzo, L'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ALPMmP7LkRYWWPyOhieyMrQ (1 rows)
+[756/987] "Annette Bening Debunks 'Love Story' Scene Where Carolyn Bessette Dress"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A-PYnESRxRUaVruguQ_WoeA (1 rows)
+[757/987] 'MacLife, Detox your Mac – great ways to spring clean your machine, and'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AgJq-H54mQN2DoPCtZ7DK_A (1 rows)
+[758/987] 'The Ultimate Outdoor Shift: Smart strategies for creating a connected,'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AP5ym3oXITZiP5iCQmsRp3w (1 rows)
+[759/987] 'The Rising Studio Reimagining Modern Housing'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AaW_keCKqRN6znzc1u6n7Kg (1 rows)
+[760/987] "Symptoms of Parkinson's Disease You Should Not Ignore, Heidi Moawad an"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A3lvNcYleSAuJzsRHkHD02w (1 rows)
+[761/987] '‘Every Brilliant Thing’ Review: Daniel Radcliffe’s Spirited Solo Show'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TtYnXu1XkRKKajAcg0g_ezw (1 rows)
+[762/987] 'This 1 Travel Mistake Got My Phone Stolen Abroad—and Here’s How I Avoi'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ARDjhavXWQmes8JiVoxf9Lg (1 rows)
+[763/987] 'Business Insider, The US is temporarily lifting sanctions on Russian o'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TdBoH5or6Q0afHo2MxaGA6A (1 rows)
+[764/987] 'Gathered, 21 bizarre things that happen to your body during sex (numbe'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TCVDMZPthSbGRMk8fvR6PtA (1 rows)
+[765/987] 'It’s the size of 6.5 tennis courts, has 178 entrances and nearly 1km o'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AQa9KJgg1SWymWWogvsvpug (1 rows)
+[766/987] "Johnny Knoxville: 'The older you get, the less people want to see your"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ANFcw-5KHRrCu4AfNWSmhow (1 rows)
+[767/987] '“I braved India’s 50ºC heat to photograph this deadly predator. These '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TWnoJEyylRkqOFV6TfyhUnA (1 rows)
+[768/987] 'Charlize Theron vs Taron Egerton vs Australia: This isn’t your average'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AXPHGdp9qSUqe-7MSnXNagw (1 rows)
+[769/987] 'People, This Body Horror Film Kept Making People Puke. Now, the Hair a'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AnNJtkkuOSECCQNhwrAfA6w (1 rows)
+[770/987] 'Scientific American, The reason the Middle East has so much oil is the'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AaH_DTokqSHmTkpU5Gf-lXQ (1 rows)
+[771/987] 'Travel + Leisure, After Moving to NYC, I Ditched These 8 Styles That O'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AByKy6XTxRYC1tscXN8Pj1A (1 rows)
+[772/987] 'Verywell, What Happens to Your Digestion When You Take Magnesium and G'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AF-ydfheFT4qdTR5HNG-EMg (1 rows)
+[773/987] 'New York Magazine, The Lawyers and Scientists Training AI to Steal The'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T8DrF3Bh5SHCSfJ2qlK1scA (1 rows)
+[774/987] 'Shai Gilgeous-Alexander breaks Wilt Chamberlain’s NBA record for conse'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AmTo9ND4mT9SxIcxEvs65qg (6 rows)
+[775/987] 'They were blinded in accidents. Now they can see again.'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AbQVeWsnsRp2-CVCZAzqQMA (1 rows)
+[776/987] "Sienna Spiro Reveals Meaning Behind Gorgeous New Single 'The Visitor':"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTrRMHWenRFWh40d02XGPRw (1 rows)
+[777/987] 'The Collapse of the American Condo'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A_tz7q0MiSdiO_7m9CKl3lg (1 rows)
+[778/987] 'Great Places: Our annual list of the most interesting destinations'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AbusTtVc6QlWcyDhM2pOmPQ (1 rows)
+[779/987] 'PSA: Don’t buy a $4,400 gray market Samsung TriFold on eBay'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AN-byuJttSn2nADw7i_vicA (1 rows)
+[780/987] 'Sports Illustrated, Why Kyler Murray makes perfect sense for the Vikin'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TwaVb2XzIQ1SDd8NFXG6dIg (1 rows)
+[781/987] 'Travel + Leisure, This Is Why You Should Never Put Your Phone in the T'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AEjKqCm__RU-nv5DP_5-R6g (1 rows)
+[782/987] 'BBC Wildlife Magazine, Oregon’s biggest city was drowning in crow poop'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AuIYmb6jwS_Cu_QCFtt6GKg (1 rows)
+[783/987] '19 weird signs you’re more attractive that you think'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AW90atVu_TE2cCMFOa1DK7w (1 rows)
+[784/987] 'Astounding macro shots of the cutest little killers you’ll ever see'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (1 rows)
+[785/987] 'Tim Bradford’s cartoon: Stop the world, Tim Bradford'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AhFgqLLjDQYuPla1vsmg2Jg (1 rows)
+[786/987] 'First drone passengers may be combat casualties and criminals'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AGzOMDPSnTmeAbTyBNXa4pg (1 rows)
+[787/987] 'Cuba Acknowledges Negotiations With Washington'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TWnoJEyylRkqOFV6TfyhUnA (2 rows)
+[788/987] 'Warnings issued as millions in 13 states told to avoid windows for 12 '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9rjlxm95TtTn3RWUl4SFiw (2 rows)
+[789/987] 'Calls mount for more security at U.S. Jewish institutions after Michig'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TQLEsS-zCQUK1JxLls0FDeA (1 rows)
+[790/987] 'Russia lures recruits from Africa to feed its Ukraine war machine'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aqh9h68QVTyqQUEz5HmjxOg (6 rows)
+[791/987] 'A Mushroom Is Sending Hundreds of People to the Hospital. They’re All '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AXvjfXG_RTQW2-MbPpN_XfQ (1 rows)
+[792/987] 'Your resting heart rate can tell you a lot about your health. Here’s w'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aows4M6mFRUicqw-03hASmQ (3 rows)
+[793/987] 'Cuban leader Miguel Díaz-Canel confirms talks with the Trump administr'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TgANKPINjQA2kOyozfMjMSw (7 rows)
+[794/987] '“Rampant evil”: Gov. Whitmer condemns antisemitism in wake of Michigan'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AhEg_xlj4Sc6WQkcY3PhIuQ (1 rows)
+[795/987] 'There’s an information void at the heart of the Iran war'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ad8a0JiafQjGq3-D8F-5dLQ (3 rows)
+[796/987] 'There might be three different types of ADHD, new brain research sugge'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/APk-R-FXRQP6vPLQ9-PF_sw (1 rows)
+[797/987] 'The toxic relationships that can make you age faster, Kathleen Felton'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TkMV-DnVXQ0Sz3sjP3zUk5A (1 rows)
+[798/987] 'Here’s what the autism spectrum really looks like, Apple News Plus, Al'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (9 rows)
+[799/987] 'The Week in Shopping: Alo Yoga’s Flight Path'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AjXNo-uFaQBGj3EI5bMj7Jg (1 rows)
+[800/987] "Chuck Norris' Kids Danilee and Dakota Speak Out After Their Dad's 'Sud"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[801/987] 'House of the Week: A New Jersey Mansion Built for a Revolutionary War '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A1UuSKXH4SVSgd8QiwuROvw (1 rows)
+[802/987] 'The Pentagon’s new press rules violate the First Amendment, judge rule'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/APxCmEiuDQ3qA6gPyFXYDXQ (1 rows)
+[803/987] 'He was headed to the NFL. Then a tragic accident changed everything., '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (19 rows)
+[804/987] 'The Trillion Dollar Race to Automate Our Entire Lives'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AWEnKMV_HS3S2WVAS4HrxVQ (1 rows)
+[805/987] 'Retail giant Walmart issues economic warning, 12 hours ago, Daniel Kli'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TN_FB-D9GRxKZAP09pI8n5g (1 rows)
+[806/987] 'Why Gene Hackman wasn’t featured in the ’In Memoriam’ segment at the O'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9rjlxm95TtTn3RWUl4SFiw (1 rows)
+[807/987] 'The quiet American: How Pope Leo is pushing back against Trump'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AzuUjqSgJSXWQP3aa47UL5g (32 rows)
+[808/987] 'Men’s March Madness 2026 takeaways: Tennessee squashes Miami (Ohio)’s '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TJDbqWUFuTY64oqSw8ocMmg (1 rows)
+[809/987] 'Royal Caribbean Reportedly Cancels More Than 20 Cruises, Days After Ca'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A061cSoeNRdqFtbEq8z9Dbw (1 rows)
+[810/987] 'Trump administration lifts sanctions on millions of barrels of Iranian'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AQ6L1wQ1kRd6RhnCLJ8DkUg (1 rows)
+[811/987] 'What’s Behind the Selloff in Gold and Silver, Apple News Plus, 1 day a'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TNnh_aJ5aRwq5kNA_RjE9iA (1 rows)
+[812/987] '‘I Was a Stay-at-Home-Mom. Then I Got Divorced.’, Apple News Plus, 1 d'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TQLEsS-zCQUK1JxLls0FDeA (1 rows)
+[813/987] 'These fish can cause big trouble. Why are states unleashing them by th'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A3XADO7eATN-0XvOhb-tLjw (8 rows)
+[814/987] "This Sneaky App Is Probably Sucking Up Your iPhone Storage. Here's How"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AVvKxjNlmTdC4PkcqxwtJOg (1 rows)
+[815/987] 'Royal Caribbean Reportedly Cancels More Than 20 Cruises, Days After Ca'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A061cSoeNRdqFtbEq8z9Dbw (1 rows)
+[816/987] 'The great Saturday Night Live gamble — will Brits fall for a U.S. clas'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AXnmeXImpSLWVogtKbkZztQ (11 rows)
+[817/987] 'Iran’s Attack on Distant U.S.-U.K. Base Demonstrates Growing Range'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TvOMxhxbqTUuDcdVf9ywQPQ (3 rows)
+[818/987] 'Royal Caribbean Reportedly Cancels More Than 20 Cruises, Days After Ca'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T-n3tUuOVSoWCqtmbzPu_Wg (1 rows)
+[819/987] 'What are they building at West Temple and 400 South? Renderings show w'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[820/987] 'The making of a $7 million cat burglar, Audio, 1 min'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (2 rows)
+[821/987] 'I Found Something in My Late Husband’s Things That Unveiled a Decade-L'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9rjlxm95TtTn3RWUl4SFiw (1 rows)
+[822/987] 'Six life-changing habits for lasting happiness'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLqZBDR6cRBWQ6VMxXmcveg (3 rows)
+[823/987] 'A one-minute workout can transform your body, Hannah Singleton'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TKJQ9PTM3SQ6mKS7LcvrcDA (3 rows)
+[824/987] 'The 12 symptoms endocrinologists say you should never ignore'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AqJExAes8RAOwIJctAvaJTQ (3 rows)
+[825/987] 'The vaccines that lower the risk of dementia, stroke, and more, Allyso'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A1gxPPP40QSW5DALxhvtW_Q (3 rows)
+[826/987] 'The hidden risks of America’s most popular prescription painkiller, Be'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TJ5ys6tHgSHmIehniwAf7sA (4 rows)
+[827/987] 'Trump threatens to deploy ICE to airports as TSA shortages drive delay'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/As6RMbhiFQJCTZOyrfPqDbA (2 rows)
+[828/987] 'The single word that can destroy a friendship'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AVHAXocPLRNKKJF75kQafDQ (3 rows)
+[829/987] 'The Wall Street Journal, Iran’s Houthi allies lie in wait on another k'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A9_CjowKyQRSCgt2WTcylAw (1 rows)
+[830/987] 'More Americans are retiring aboard residential cruise ships'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AIjpKdaIqO0GkePeZT7DluA (25 rows)
+[831/987] 'How Elon Musk has transformed online discourse.,  Play Now \u200930 min'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Tjb8HmnuyR56DexR0fVqdxg (2 rows)
+[832/987] 'A gigantic iceberg broke free in Antarctica, revealing a strange, ghos'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AeotyzG7zTNWUJ-KGo3nuWg (1 rows)
+[833/987] 'What intermittent fasting really does to your body, Daryl Austin'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AywP52XDvTg6wX6JIOoTixQ (1 rows)
+[834/987] 'He ordered steak from Temu. This is his story.'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TEey5Z4QVRE2aS5_T0KOLPg (1 rows)
+[835/987] '“A stranger sat next to me on a flight. I couldn’t believe what he sai'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AcMcb4Rm8QciNANT93pAzZw (2 rows)
+[836/987] 'From 4-day weeks to AC bans, the world is scrambling to save energy'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AsWdd33zAT9i6mGFIYOLYnQ (24 rows)
+[837/987] 'Royal Caribbean Reportedly Cancels More Than 20 Cruises, Days After Ca'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T-n3tUuOVSoWCqtmbzPu_Wg (1 rows)
+[838/987] 'People Harry Styles Table of Contents'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AoFCCkOKnSaSE36ch72PNHA (1 rows)
+[839/987] '10 Plants That Thrive When You Add Coffee Grounds To Their Soil, 20 ho'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AEujuI6cgS2O3IeH6wAN_ZA (1 rows)
+[840/987] 'My Child Just Had a Terrifying Medical Crisis. I’m Shocked by My Best '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AppGWTwS9QEClzD0fF1XGNA (1 rows)
+[841/987] "Guthrie family thanks Tucson, asks people to not forget mother's case,"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Al86ohHEyQNqz_O8MAbBAVw (1 rows)
+[842/987] 'So you owe the IRS a lot of money? Here’s what to do., Julia Sullivan'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AXyyYJFJPQWKKVlDO1nneLw (2 rows)
+[843/987] 'Men’s March Madness 2026 takeaways: Texas stuns Gonzaga; Nebraska, Ark'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AOdZzk-AyRGWabDD_gRDWWw (1 rows)
+[844/987] 'A U.S. citizen now runs Mexico’s top drug cartel — and targeting him i'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AtTv-jt2ISYuovfEMiz3BVg (7 rows)
+[845/987] 'March Madness, The long-awaited showdown between Rick Pitino and Bill '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AGA_DjjG5TdevjVV3sq7Euw (9 rows)
+[846/987] "Your showering routine should change as you age—here's why, Apple News"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Awc3V7t6fT0yLaNIrkBM-tg (1 rows)
+[847/987] 'A preschool worker was shot by Border Patrol — and labeled a “domestic'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T4Op1eGneR3KoGo1Bh0LyIw (11 rows)
+[848/987] '$5 diesel is crushing truckers. It will soon be felt across the econom'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ANhJjCdsZR6yqK2qvXuBUAg (15 rows)
+[849/987] 'Their Home Wouldn’t Sell, So They Became America’s Latest Accidental L'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TzRGX4fLySMmdhdTH-IkB8A (1 rows)
+[850/987] 'March Madness, The men’s NCAA Sweet 16 is set. Here’s a first look at '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AeT_TjBejSo-jlLcJWBOv2Q (12 rows)
+[851/987] 'Their Home Wouldn’t Sell, So They Became America’s Latest Accidental L'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TzRGX4fLySMmdhdTH-IkB8A (4 rows)
+[852/987] 'A Vegas gambler, a Hollywood power player, and the legal fight roiling'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AnV1RF8ShRZKVCj4wSyrNbQ (1 rows)
+[853/987] 'How the Midwest became the place to move'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ARYuUtgUMToe6hTRGrr3KAg (6 rows)
+[854/987] 'Living on the outskirts of Atlanta is about to be pricier than living '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AwsrvCHPSTyKEBoefCQ7Jpw (3 rows)
+[855/987] 'Could the girls of Camp Mystic have been saved?'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AFmuN37-JRo6B0FtzFzVldA (22 rows)
+[856/987] 'March Madness, The biggest takeaways from the second round of the wome'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Anc72GtHWT0-FiN1SngqcQQ (10 rows)
+[857/987] 'Where summer-like heat has shattered records — and where it will sprea'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A5cGXhMnqRCObHavcyJEZ9Q (19 rows)
+[858/987] 'What a 55,000-year-old fetus reveals about the decline of Neanderthals'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Alb4NPcx-SZSyclaZlZOuxA (1 rows)
+[859/987] 'Deploying AI to identify wildfires before they spread out of control'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ApZT1WT5hQAK6Dn_lrEvFsQ (1 rows)
+[860/987] 'Senators close in on deal to end DHS shutdown, fund TSA'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AMzd_GaMYQA2Rm1tOxCQO_A (1 rows)
+[861/987] "Travis Kelce's Chiefs contract comes with a unique twist, 11 hours ago"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRT5Dro4FQ5KU3V5QSf65tw (1 rows)
+[862/987] "Nvidia CEO Jensen Huang says 'I think we've achieved AGI', Apple News "
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AuIrxcjmTTAKiOwKAWygUKQ (1 rows)
+[863/987] 'The world’s deadliest infectious disease is on the rise in the U.S.'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ANkqUqVi_RqWDi9lPnN0Pww (10 rows)
+[864/987] 'The economy cabin on airplanes keeps on shrinking'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AxAk9QvaET1e4MA0gVtxX9Q (5 rows)
+[865/987] 'Spending the night in an Atlanta airport TSA line'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AQb1uS7vqQVuLsD8JmfGm0g (1 rows)
+[866/987] 'What it’s like to spend the night in an Atlanta airport TSA line'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AQb1uS7vqQVuLsD8JmfGm0g (9 rows)
+[867/987] 'The most important Picasso you cannot see is in Iran'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AEcEybeDpQ569b2UTX3M6-g (6 rows)
+[868/987] "A 'Possible UFO Metal' Went to a National Lab—Here's What The Tests Re"
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TYBN0JfZEQi-5MgQhYroZ-w (1 rows)
+[869/987] '11 Celebs Who Spend A Lot Of Money And 11 More Who Live A Surprisingly'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/As5B4r6awRY2lJh3HqmFijg (1 rows)
+[870/987] 'Wildfires rip through unusual parts of U.S., raising fears of a brutal'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Agi9PU9u6TCSkdWBx-JGcKg (6 rows)
+[871/987] 'Minnesota sues Trump administration for evidence in Good, Pretti killi'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AfglccLcUQI-F4Bhf43QZhA (2 rows)
+[872/987] 'Finding the Best Place to Work: A Look at Careers at More Than 1,700 C'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AOv4bpBHDS-CeNtwpTL1ygQ (1 rows)
+[873/987] 'What a 55,000-year-old fetus reveals about the decline of Neanderthals'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Alb4NPcx-SZSyclaZlZOuxA (5 rows)
+[874/987] 'SEC Penalizes Ally Financial for Failing to Disclose It Profits From ‘'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TEpn8K9qrTluxUx_gxq43dA (1 rows)
+[875/987] 'Delta cuts Congress off from VIP-style treatment during Houston airpor'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ADl0-_JyPRPioM392ck0vCg (1 rows)
+[876/987] 'NASA wants to put a $20 billion base on the Moon'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AZPeUyyZ4SWmFCUpA307MJw (1 rows)
+[877/987] 'Block CFO Says Deep Job Cuts From AI Are an Inevitability for Companie'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A0zDd6uVmSbuuTDz81h1vWQ (1 rows)
+[878/987] 'Red Lobster is in trouble — and its young CEO is running out of time t'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A63QRHabJSc24M1O1w9Etuw (19 rows)
+[879/987] 'My Husband’s DNA Test Triggered a Series of Unfortunate Events. Someho'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AD4koJhFmQha91dLefOYQ0A (2 rows)
+[880/987] "Sheriff in Nancy Guthrie case says investigators 'believe that somethi"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A2HiyprkqTfejDAymETxBPA (1 rows)
+[881/987] "Stop teaching kids skills that will be outdated in 10 years—how I'm ra"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AEpBQcfmPRUuvGU8Hir129Q (1 rows)
+[882/987] 'They’re Rich but Not Famous—and They’re Suddenly Everywhere, Apple New'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AJ5BoHIukR1SWNvoHkz6nHQ (1 rows)
+[883/987] 'OpenAI will shut down its Sora tool, Apple News Plus, 6 hours ago, Sam'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TNnh_aJ5aRwq5kNA_RjE9iA (1 rows)
+[884/987] 'A Raphael masterpiece is finally back in one piece'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AmeNL1TVLTwOw81o9Sy3jfw (9 rows)
+[885/987] 'Exercise can lower Alzheimer’s risk. Scientists may have discovered wh'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AvcStSDK-REW2nxZXi9kGLA (10 rows)
+[886/987] 'There’s one clear winner from the long TSA wait times at airports'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AbT5G9o8cQ_an_9MCYo4b1g (18 rows)
+[887/987] 'If you have this coin minted in 1999 it could be worth $10,000, Apple '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AnuwmSDwjTOWV70RM1l5GFg (2 rows)
+[888/987] 'Your body is betraying your right to privacy'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A-yaFux7kT3yCaMZhAq3jLg (7 rows)
+[889/987] 'OpenAI will shut down its Sora tool, Apple News Plus, 14 hours ago, Sa'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TNnh_aJ5aRwq5kNA_RjE9iA (1 rows)
+[890/987] 'Palantir’s billionaire CEO says only two kinds of people will succeed '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AlDTP3JeXQNasF2oLcjvGkA (2 rows)
+[891/987] 'Crime has plunged in Venezuela, once home to the world’s murder capita'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AI03bY4p2SIqQnjgyFGXUsA (3 rows)
+[892/987] 'The Wall Street Journal Spring 2026 — The Women’s Fashion Issue Table '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[893/987] 'They’re Rich but Not Famous—and They’re Suddenly Everywhere, Apple New'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[894/987] 'They’re Rich but Not Famous—and They’re Suddenly Everywhere, Apple New'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[895/987] 'White House holds off on CDC pick as search for permanent chief contin'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ADT0CfuBuTdy9ptzGjHOVBQ (2 rows)
+[896/987] 'She uncovered a terrifying lab hidden in California, with alleged ties'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aj8tM2_zXRves-S1RGpC4xg (26 rows)
+[897/987] 'FOOD & WINE, Tropical Snack Mix'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TbkfxbmE8RCuUJfianJ5Mmg (1 rows)
+[898/987] 'Southern Living, Top 10 Legendary Restaurants, Symiah Dorsey'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AqCXmqfZPST28DKmIxOU_YQ (1 rows)
+[899/987] 'ICE has left Minneapolis. The economic hangover hasn’t.'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A0mCV-tCQRAqAOBaxTiHVUQ (9 rows)
+[900/987] 'Allrecipes, 6 Chef Secrets to Make Instant Ramen Taste Homemade'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[901/987] 'olive, Try this ultimate entertaining menu for any spring special occa'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AezqLuG41SB2jrD0tCM5yRA (1 rows)
+[902/987] 'Allrecipes, We Asked 4 Bakers to Rank Cookie Dough—They All Picked the'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/At-pukkmlStiGuEVJngPzqA (1 rows)
+[903/987] 'Allrecipes, I Asked 6 Chefs for the Best Fast Food Fried Chicken—One C'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A4WVHhamzR-C4VHYbjxd1oQ (1 rows)
+[904/987] 'MLB season opener features “robot umpire” for the first time'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AlCt2UlwNQPGZUyKUVRT88A (19 rows)
+[905/987] 'olive, This 30-minute South Korean classic is perfect for a quick week'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aomy1r194RbCnh8HgBIELfQ (1 rows)
+[906/987] 'Southern Living, 12 of the Most Iconic Southern Recipes of All Time'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AcdOdF2QkTIi0s8oz6w0JxQ (2 rows)
+[907/987] 'Popular medications to reconsider — or even toss, Trisha Pasricha'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Tgc8ORFHPRE6qDru5b-DZ4g (2 rows)
+[908/987] 'Mysterious symptoms of endometriosis are finally being confirmed by sc'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AbZRsMnJ6Q6SgKdOyeEOleQ (2 rows)
+[909/987] 'This culinary mushroom can cause hallucinations. People report seeing '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRd0Un1hNQiqpuwG6TC-1PA (1 rows)
+[910/987] 'Gourmet Traveller, The Best Tomato Sauces to Stock Right Now'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A2GalT4kQS0GzHCMhTkDS7g (1 rows)
+[911/987] 'Allrecipes, The Store-Bought Chicken Noodle Soup 3 Chefs Swear By, Kar'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AfjPJ5G_iROW24-JWIkZQqA (1 rows)
+[912/987] 'Southern Living, The Ultimate Backyard Cookout Recipes for Summer Gath'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AaqLspdzXSQ67yOTDOXibdg (1 rows)
+[913/987] 'Southern Living, Fresh Peas With Feta And Mint'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ALqmVZvSkSh-L8vFNHNm2Aw (1 rows)
+[914/987] 'Eat Well, Tarragon Artemisia dracunculus var. sativa, Tagetes lucida'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AbnEWRdAkSxiGqisKSugGPw (1 rows)
+[915/987] 'FOOD & WINE, Where to Stay, Sip, and Feast on the Ultimate Whiskey Get'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AA7VpRlqnQxaZkheCi5tU_A (1 rows)
+[916/987] 'He had a full ride at Duke — until America cut him off'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AKKsHbVNxTY2_16gabVgmRA (15 rows)
+[917/987] 'Census report shows America’s fastest-growing and fastest-shrinking ci'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLFYdS7ayRQGtZ3ZekLZDkQ (13 rows)
+[918/987] 'Most Reliable Cars Of All Time: These 5 Just Won’t Die, 18 hours ago, '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/Tre9uuzUIT7KcM-bDssUGFA (1 rows)
+[919/987] 'Two Radio Operators Tapped Into a Soviet Frequency. Did They Hear a Wo'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AzCnFc394R2-VGWP34lVRYA (1 rows)
+[920/987] "The Habits A GP Says Separates People Who Age Well From Those Who Don'"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AOHTijAd_R7uCyFQ4nAQAkQ (1 rows)
+[921/987] 'They’re Rich but Not Famous—and They’re Suddenly Everywhere, Apple New'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AJ5BoHIukR1SWNvoHkz6nHQ (1 rows)
+[922/987] 'Gen Z is the loneliest generation. Here’s what can help.'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AtQcFBx1cQDymH3baQtkG6Q (8 rows)
+[923/987] 'Trump’s move to send ICE to airports fails to break impasse or end lon'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AaJCZkNJATi-ZSU-JK8Q6sg (8 rows)
+[924/987] '“Dire situation”: why some airports could be forced to shut down'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ASu2Hepo9Qry0KN-zdrnh2Q (1 rows)
+[925/987] "Stephen Colbert Announces Post-'Late Show' Dream Gig: 'I Could Not Be "
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AvA5Nob6ES0GsEiVB0nARnQ (1 rows)
+[926/987] 'Five Guys CEO gives $1.5M to employees after botched BOGO deal'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ADUqZzdIYRiym6W13tSE_3A (1 rows)
+[927/987] 'Your Consciousness Shifts to a Parallel Universe When You Die, Bold Th'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRT5Dro4FQ5KU3V5QSf65tw (1 rows)
+[928/987] 'A major hacking tool has leaked online, putting millions of iPhones at'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TDeEFCni8Qf2zde3hjCsw-Q (1 rows)
+[929/987] 'Renoir, Matisse, and Cézanne masterpieces stolen in raid on Italian vi'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A4OX_ftQISti9_JKd8T4ywA (10 rows)
+[930/987] 'This Is the Worst Place to Keep Your Passport at the Airport—and How Y'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AgiQgtUdER5eiC4ihQWMChw (2 rows)
+[931/987] 'Where the U.S. is growing — and shrinking — in charts'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AJ4s9mL63Q0KwqoMiVCN0MA (2 rows)
+[932/987] "Here's How Long You Should Be Able To Balance On 1 Leg — And What It M"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AGwKvbA4mSV28zkVYyGZJSQ (1 rows)
+[933/987] 'The man who was once the world’s youngest billionaire now says he’s so'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AB28q45hDQlS-is3nKMXnAA (1 rows)
+[934/987] 'It’s Taking Over the Lives of Wealthy, Elderly Men. It Could Be Coming'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[935/987] 'The hacked cameras behind the wave of assassinations in Iran'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A_u58-6HzRRiBHDJKPSVg1Q (4 rows)
+[936/987] 'When My Career Stalled, I Got A Job At Olive Garden. I Was Shocked By '
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AZeRQPx-PTuSrGbVzdaxvOA (1 rows)
+[937/987] 'America’s fanciest restaurant enters the fight over affordable housing'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ayq48nQDvQCiU-vkxJRdQ8g (1 rows)
+[938/987] 'How Working in America Became So Joyless'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ax6KWakRKR_eL7WincUle2A (1 rows)
+[939/987] 'The Wall Street Journal, Israel hits new Iranian targets as Middle Eas'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLZKrjVHNQX6EU84bXaUU4w (1 rows)
+[940/987] 'Japan Is Placing a Multibillion-Dollar Bet on the U.S. Housing Market'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AxksJBGUBQR-0zeK3bldRgg (3 rows)
+[941/987] 'The 30-second kidnapping — and a family’s years-long fight for the tru'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TP_ozH2ehSSyUjEtB3INMiw (20 rows)
+[942/987] 'The Hidden Risks Behind Snorkeling in Hawaii—and Why Tourists Are Dyin'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[943/987] 'A Bright and Easy Lemon Pudding Cake Anyone Can Make'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[944/987] 'FOOD & WINE, Barista-Level Latte Art Starts With Perfectly Steamed Mil'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TNf7r9Dc3Tda5LPPkM3eNUg (1 rows)
+[945/987] 'Serious Eats, 15 Make-Ahead Passover Desserts for an Easy, Stress-Free'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TLqZBDR6cRBWQ6VMxXmcveg (1 rows)
+[946/987] 'Simply Recipes, The Only Canned Tomatoes Worth Buying, According to Ch'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AkpXcME2oToidnul_YUia6g (1 rows)
+[947/987] 'Eat Well, These clever meals are designed to save time'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Auz8XXjETT4myRKNVx-0cDQ (1 rows)
+[948/987] 'Let Me Deinfluence You From Getting a Blepharoplasty'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TRT5Dro4FQ5KU3V5QSf65tw (4 rows)
+[949/987] 'Meet the Gin-a-Colada: A Fresh Twist on a Classic'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A5tKofpk7T8iBnThg7Yv1aw (1 rows)
+[950/987] 'How Coda Turned Sweets into a Michelin-Star Experience'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[951/987] 'March Madness, The women’s Final Four is set, and there’s a historic f'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ABiBC3rP5SC-Jxy3uxouyDw (1 rows)
+[952/987] 'The women’s Final Four is set, and there’s a historic feat behind the '
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[953/987] 'New Heart Association diet advice contradicts government recommendatio'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T2P92CxcGRPuUiWyjs7XD6A (2 rows)
+[954/987] 'How to keep the suburbs tenant-free'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A0BwnQ-rNQZWYz2qL0U7hEw (11 rows)
+[955/987] 'Trump releases first renderings of massive Miami high-rise presidentia'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> found with down_count=5
+  -> https://apple.news/Aa7aLaBCZRBGfCiEyYQIyMg (10 rows)
+[956/987] 'Is it wrong to send your kid to private school?'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> found with down_count=5
+  -> https://apple.news/AHxTrN8JOSfaH9epTUlPKzw (2 rows)
+[957/987] 'Trump slams allies after Italy blocks U.S. use of air base for Iran wa'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/A3Qn0pJNiTW6uuNfYMMvs1Q (1 rows)
+[958/987] '10 Things Even Frequent Travelers Forget to Do Before Leaving for a Tr'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AwXfUV-65SrS0v-KW2U2P3Q (1 rows)
+[959/987] 'How the Artemis II rocket will get NASA astronauts to the moon and bac'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[960/987] 'Should You Take a Statin? A 10-Minute Scan Can Help You Decide'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AelxyAAB2QbWHA32xW1IFFA (3 rows)
+[961/987] 'America downs cheap drones with million-dollar missiles. A fix is in t'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ab_JtWTSzRQaeXAT46Zey-A (1 rows)
+[962/987] 'Eight cars you should never buy,\xa0according to experts'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ahl6LaDixSZ2FKWiF1TDmkA (1 rows)
+[963/987] 'The jobs most (and least) threatened by AI, Kevin Schaul and Shira Ovi'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TTFHRZCR3Myu5lJNRDdaYEw (1 rows)
+[964/987] 'The real reason grocery-store rotisserie chicken is so cheap'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aca4QDKs0R-yf4CGGtr_MHQ (3 rows)
+[965/987] 'The No. 1 diet to cut your risk of dementia, Sarah Klein'
+  Right-clicking at (861, 214)
+  Right-clicking at (861, 294)
+  Right-clicking at (861, 374)
+  -> not found
+[966/987] 'The former spy who helped stop Iran from getting a nuclear bomb, Audio'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AkWmvYiltQsC95tdCJPyZsA (21 rows)
+[967/987] 'American journalist Shelly Kittleson kidnapped in Baghdad'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/T9rjlxm95TtTn3RWUl4SFiw (2 rows)
+[968/987] 'The Highs and Lows of My $939 Upgrade to United Business Class'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AHwAd5EzlSwekTNf_q6DBew (1 rows)
+[969/987] 'Cook’s Illustrated, Okonomiyaki: Japan’s Anytime Meal'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ah560rhoiRtyE6ILhc8wNxQ (1 rows)
+[970/987] "FOOD & WINE, Coffee Lovers' Home Brews 'Always Taste Better' Than Coff"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AQALDIC4yTnis6KQz2SSVrA (1 rows)
+[971/987] 'Cook’s Illustrated, French Strawberry Cake'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TbkfxbmE8RCuUJfianJ5Mmg (2 rows)
+[972/987] 'Taste of Home, Build a Board: Waffles Your Way'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AZNzZL9QrRzilhYT1O9JGNg (1 rows)
+[973/987] 'Bon Appétit, A Funky Spin on Italian American Hits'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/ANE8bJhjqRIqAR0H2oYhb-g (2 rows)
+[974/987] '6 New Movies You Can Finally Watch at Home Right Now'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AC_6dwXGOQOCLyUCMO_0THA (1 rows)
+[975/987] 'If You Need a Laptop, Buy It Now'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AdvTcfuUsRk6NDJJD74Q5bg (3 rows)
+[976/987] 'America is going back to the moon'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AtFkbmtCvRWKPuneGhCyxGA (4 rows)
+[977/987] 'The 322-foot tall rocket for NASA’s moon flyby'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AgTENHCeJQK2ZaoPI18A5BA (2 rows)
+[978/987] 'Tensions are boiling over at American synagogues, Eyal Press'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AwUHwBcehR06bWU-NXrZ-_A (1 rows)
+[979/987] "London Mayor Distances City Government From Kanye West's First U.K. Co"
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AF1TK8CwvSLu-29aRfAAO9A (1 rows)
+[980/987] 'This Is the Safest Place to Retire in 2026'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AQ7ac7cOAQL6l7zbH38PWPw (1 rows)
+[981/987] 'Simply Recipes, 1 hour, 30 minutes'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Ani_6lsL8R56gQQG_6NO8zw (2 rows)
+[982/987] 'The fight to save a U.S. nuclear submarine after a deadly crash, Audio'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AAB-kI0c1RSiXCtEljgTMfw (2 rows)
+[983/987] 'How Trump’s $400 million ballroom plans came to a halt'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AxW6PH4XCRYWR2x3g21N7TQ (1 rows)
+[984/987] 'Yes, You Can Get Healthier as You Age—and This Habit Makes It Possible'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/AmoHYdgtOR2STiF00fEFx2g (1 rows)
+[985/987] 'Real Simple, 8 Calming Foods That Help Fight Stress Naturally, Accordi'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TJqI6kAXvQbC_r1m31wUPJQ (1 rows)
+[986/987] 'I Asked 4 Chefs to Upgrade Frozen Fries—They All Gave the Same Tip'
+  Right-clicking at (861, 214)
+  -> found with down_count=4
+  -> https://apple.news/TXDje-TpKR_ecm8DPrcXDjw (1 rows)
+[987/987] '12 Paint Colors That Instantly Make Any Room Feel More Peaceful, Accor'
+  Right-clicking at (861, 214)
+  -> found with down_count=5
+  -> https://apple.news/Aq8enunI6SI-pXru_-YiUOA (1 rows)
+
+970/987 resolved
+Would update 2103 rows.
+Backing up data_output/stories.csv -> data_output/stories.csv.bak
+Done. Updated 2103 rows.
+

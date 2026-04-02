@@ -3,8 +3,12 @@ debug_ui.py
 
 Dumps the current accessibility tree from the running Appium session.
 Run this while the Apple News app is open to inspect available elements.
-Usage: .venv/bin/python debug_ui.py
+Usage: .venv/bin/python util/debug_ui.py
 '''
+
+import os
+import sys
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
 from appium import webdriver
 from appium.options.ios.xcuitest.base import XCUITestOptions
