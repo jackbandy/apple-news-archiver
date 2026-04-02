@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-02 08:00:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ay_YuLntjTD2RHSAhbGBMVQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-02 08:00:13",
+      "pub_time": "2026-04-02 07:00:15",
+      "publication": "Reuters",
+      "author": "Steve Holland and Enas Alashray",
+      "headline": "Hopes dim for swift end to war in Iran after Trump’s speech",
+      "article_headline": "Hopes dim for swift end to war in Iran after Trump’s speech"
+    },
+    {
+      "link": "https://apple.news/AxhAY4WsVS9G5rUTTbz2psw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-02 08:00:13",
+      "pub_time": "2026-04-02 07:00:43",
+      "publication": "The Washington Post",
+      "author": "Jonathan Edwards and Dan Diamond",
+      "headline": "Ballroom commission changed documents at White House’s request",
+      "article_headline": "Ballroom commission changed documents at White House’s request"
+    },
+    {
+      "link": "https://apple.news/AgC047p_bSPSXvB59EGMryg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-02 08:00:13",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Deal to end Homeland Security shutdown reached, GOP leaders say",
+      "article_headline": "Deal to end Homeland Security shutdown reached, GOP leaders say"
+    },
+    {
+      "link": "https://apple.news/A4tcmfGhBQ3OrBsbBtBZ3-w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-02 08:00:13",
+      "pub_time": "2026-04-02 07:01:43",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "DNA testing confirms new victim of serial killer Ted Bundy, a Utah teen in 1974",
+      "article_headline": "DNA testing confirms new victim of serial killer Ted Bundy, a Utah teen in 1974"
+    },
+    {
+      "link": "https://apple.news/A3RfL7AHhSDC7xEiA5uMIXw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-02 08:00:13",
+      "pub_time": "2026-04-02 07:02:17",
+      "publication": "NPR",
+      "author": "Brendan Byrne",
+      "headline": "In a thunderous launch, Artemis II astronauts leave Earth. Here’s what’s next.",
+      "article_headline": "In a thunderous launch, Artemis II astronauts leave Earth. Here’s what’s next."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-02 08:00:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The sudden fall of OpenAI’s most hyped product since ChatGPT",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AOARrjr9DTE-ei75tyzUADA",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-02 08:00:13",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "The takeaways from Trump’s national address on Iran",
+      "article_headline": ""
+    }
+  ]
+}
