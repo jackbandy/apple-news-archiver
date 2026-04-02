@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-01 23:00:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A9Mh6ezUqS0e58dyMm9jl0g",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-01 23:00:14",
+      "pub_time": "2026-04-01 22:39:15",
+      "publication": "The Washington Post",
+      "author": "Cleve R. Wootson Jr. and Karen DeYoung",
+      "headline": "Trump defends decision to attack Iran, says conflict is “nearing completion”",
+      "article_headline": "Trump says Iran conflict ‘nearing completion’ as he seeks to calm economic worries"
+    },
+    {
+      "link": "https://apple.news/AAw8mEUfFTMmCHG5p69ugiA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-01 23:00:14",
+      "pub_time": "",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "NASA’s Artemis II rocket launches astronauts on historic moon mission",
+      "article_headline": "NASA’s Artemis II rocket launches astronauts on historic moon mission"
+    },
+    {
+      "link": "https://apple.news/A5NHEpbOzSfqdSeiGOi4j9w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-01 23:00:14",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Democrats sue Trump administration over mail-in-voting order",
+      "article_headline": "Democrats sue Trump administration over mail-in-voting order"
+    },
+    {
+      "link": "https://apple.news/ABoF00qO_QnmvWRBFRGxKnQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-01 23:00:14",
+      "pub_time": "2026-04-01 22:38:43",
+      "publication": "The Guardian",
+      "author": "Lok Darjee",
+      "headline": "Death of Rohingya refugee left in parking lot by U.S. border agents ruled a homicide",
+      "article_headline": "Death of Rohingya refugee left in parking lot by U.S. border agents ruled a homicide"
+    },
+    {
+      "link": "https://apple.news/ABoF00qO_QnmvWRBFRGxKnQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-01 23:00:14",
+      "pub_time": "2026-04-01 22:38:16",
+      "publication": "The Guardian",
+      "author": "Lok Darjee",
+      "headline": "Death of Rohingya refugee left in parking lot by U.S. border agents ruled a homicide",
+      "article_headline": "Death of Rohingya refugee left in parking lot by U.S. border agents ruled a homicide"
+    },
+    {
+      "link": "https://apple.news/AhihBwwafRJOQpa0BE247_Q",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-01 23:00:14",
+      "pub_time": "",
+      "publication": "STAT",
+      "author": "",
+      "headline": "FDA approves a second GLP-1 weight-loss pill",
+      "article_headline": "FDA approves a second GLP-1 weight-loss pill"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-01 23:00:14",
+      "pub_time": "",
+      "publication": "Vanity Fair",
+      "author": "",
+      "headline": "Inside the succession drama roiling the maker of the world’s favorite gun, Audio, 1 min",
+      "article_headline": ""
+    }
+  ]
+}
