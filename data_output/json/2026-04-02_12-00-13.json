@@ -1,0 +1,28 @@
+{
+  "run_time": "2026-04-02 12:00:13",
+  "story_count": 2,
+  "stories": [
+    {
+      "link": "https://apple.news/AcW_ly5TZSZiV_pxxaP9mPw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-02 12:00:13",
+      "pub_time": "2026-04-02 11:47:15",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. oil tops $110 a barrel as volatility again hits Wall Street",
+      "article_headline": "U.S. oil tops $110 a barrel as volatility again hits Wall Street"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-02 12:00:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump says he will sign executive order to pay all DHS employees",
+      "article_headline": ""
+    }
+  ]
+}

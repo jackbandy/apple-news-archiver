@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-02 11:40:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AcW_ly5TZSZiV_pxxaP9mPw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-02 11:40:13",
+      "pub_time": "2026-04-02 10:54:15",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Oil jumps and Wall Street wavers after Trump vows to escalate attacks on Iran",
+      "article_headline": "Oil jumps and Wall Street wavers after Trump vows to escalate attacks on Iran"
+    },
+    {
+      "link": "https://apple.news/A6Pz9gMCHTL2WFO9IoQK9Kg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-02 11:40:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump says he will sign executive order to pay all DHS employees",
+      "article_headline": "Trump says he will sign executive order to pay all DHS employees"
+    },
+    {
+      "link": "https://apple.news/AkLklCbs4S3Gu3XK-Ju8r0A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-02 11:40:13",
+      "pub_time": "2026-04-02 10:54:15",
+      "publication": "NPR",
+      "author": "Scott Horsley",
+      "headline": "Have the tariffs worked? This is where things stand a year after so-called “Liberation Day.”",
+      "article_headline": "Have the tariffs worked? This is where things stand a year after so-called “Liberation Day.”"
+    },
+    {
+      "link": "https://apple.news/AOpVOLht9Rcu-Lpv2gIVolg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-02 11:40:13",
+      "pub_time": "2026-04-02 10:54:42",
+      "publication": "The Colorado Sun",
+      "author": "",
+      "headline": "Colorado appeals court overturns county clerk’s sentence in election-security breach case",
+      "article_headline": "Colorado appeals court overturns county clerk’s sentence in election-security breach case"
+    },
+    {
+      "link": "https://apple.news/AkLklCbs4S3Gu3XK-Ju8r0A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-02 11:40:13",
+      "pub_time": "2026-04-02 10:54:15",
+      "publication": "NPR",
+      "author": "Scott Horsley",
+      "headline": "Have the tariffs worked? This is where things stand a year after so-called “Liberation Day.”",
+      "article_headline": "Have the tariffs worked? This is where things stand a year after so-called “Liberation Day.”"
+    },
+    {
+      "link": "https://apple.news/AOpVOLht9Rcu-Lpv2gIVolg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-02 11:40:13",
+      "pub_time": "2026-04-02 10:54:43",
+      "publication": "The Colorado Sun",
+      "author": "",
+      "headline": "Colorado appeals court overturns county clerk’s sentence in election-security breach case",
+      "article_headline": "Colorado appeals court overturns county clerk’s sentence in election-security breach case"
+    },
+    {
+      "link": "https://apple.news/AahHVJr-6SKmO7sXa8I2mvw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-02 11:40:13",
+      "pub_time": "2026-04-02 10:55:10",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Artemis II is in orbit. What happens next?",
+      "article_headline": "Artemis II is in orbit. What happens next?"
+    }
+  ]
+}
