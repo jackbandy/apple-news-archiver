@@ -47,6 +47,7 @@ BACKUP_PATH = CSV_PATH + '.verify_bak'
 MATCH_THRESHOLD = 0.45
 OPEN_WAIT_SECS  = 6.0   # wait after `open -a Safari` for redirect to settle
 NEWS_LOAD_SECS  = 4.0   # wait after Share → Open in News / open -a News
+MIN_SLEEP_SECS  = 5    # minimum pause between links (rate-limit protection)
 
 STATUS_MISSING    = 'M'
 STATUS_UNVERIFIED = 'U'
@@ -103,11 +104,7 @@ def best_headline(row):
 
 
 def strip_title_prefix(title):
-    '''
-    Remove the Apple News profile prefix from a Safari page title.
-    Safari shows titles as "PROFILE — Article Headline", e.g. "UIC — Some Story".
-    Strips everything up to and including the first em dash separator.
-    '''
+    '''Strip a short "PROFILE — " prefix from a Safari page title, if present.'''
     for sep in (' \u2014 ', ' \u2013 ', ' - '):   # em dash, en dash, hyphen
         idx = title.find(sep)
         if idx != -1:
@@ -132,13 +129,7 @@ def run_applescript(script, timeout=20):
 
 
 def check_accessibility():
-    '''
-    Verify that the running process has Accessibility (assistive access) permission
-    by trying an operation that actually requires it: reading a window count from
-    a running process via System Events.
-    Returns True if access is granted, False otherwise.
-    '''
-    # Finder is always running — use it as the accessibility probe
+    '''Return True if this process has Accessibility permission (probed via Finder).'''
     _, err, code = run_applescript('''
 tell application "System Events"
     tell process "Finder"
@@ -165,10 +156,7 @@ end tell''')
 # ---------------------------------------------------------------------------
 
 def resolve_url_with_curl(link):
-    '''
-    Follow the apple.news redirect chain with curl and return the final URL.
-    Returns '' if it stays on an apple domain or resolution fails.
-    '''
+    '''Follow the apple.news redirect chain and return the final non-Apple URL, or \'\'.'''
     try:
         result = subprocess.run(
             ['curl', '-s', '-L', '-o', '/dev/null', '-w', '%{url_effective}',
@@ -191,55 +179,28 @@ def resolve_url_with_curl(link):
 # ---------------------------------------------------------------------------
 
 def get_safari_url():
-    '''
-    Return the current URL from Safari using multiple fallback methods.
-    apple.news redirects can leave the tab in various states (full article URL,
-    apple-news:// redirect that blanks the tab, or an interstitial page).
-    Requires Terminal to have Automation access to Safari in System Settings.
-    '''
-    candidates = []
-
-    # Method 1: URL of document 1
+    '''Return the current URL from Safari, trying document URL, tab URL, and JS href in order.'''
     out, _, code = run_applescript('''
 tell application "Safari"
     if (count of documents) > 0 then
-        return URL of document 1
-    end if
-    return ""
-end tell''', timeout=10)
-    if code == 0 and out.strip():
-        candidates.append(out.strip())
-
-    # Method 2: URL of current tab
-    out2, _, code2 = run_applescript('''
-tell application "Safari"
-    if (count of windows) > 0 then
-        if (count of tabs of front window) > 0 then
-            return URL of current tab of front window
-        end if
-    end if
-    return ""
-end tell''', timeout=10)
-    if code2 == 0 and out2.strip():
-        candidates.append(out2.strip())
-
-    # Method 3: JavaScript href (survives some redirect states)
-    out3, _, code3 = run_applescript('''
-tell application "Safari"
-    if (count of windows) > 0 then
+        try
+            set u to URL of document 1
+            if u is not "" then return u
+        end try
+        try
+            if (count of windows) > 0 and (count of tabs of front window) > 0 then
+                set u to URL of current tab of front window
+                if u is not "" then return u
+            end if
+        end try
         try
             return (do JavaScript "window.location.href" in current tab of front window)
         end try
     end if
     return ""
-end tell''', timeout=10)
-    if code3 == 0 and out3.strip():
-        candidates.append(out3.strip())
-
-    for url in candidates:
-        if url and url not in ('about:blank', 'undefined', ''):
-            return url
-    return ''
+end tell''', timeout=15)
+    url = out.strip() if code == 0 else ''
+    return url if url not in ('about:blank', 'undefined', '') else ''
 
 
 def get_safari_title():
@@ -266,22 +227,13 @@ end tell''', timeout=15)
 
 
 def is_apple_news_only(page_text):
-    '''
-    Return True only when the page is a dead-end interstitial that cannot open
-    in News.app (e.g. a channel "get the app" page).
-    Does NOT reject based on URL domain — News+ articles legitimately load at
-    apple.news and still have a real "Open" button we can click.
-    '''
+    '''Return True if the page is a dead-end "open in app" interstitial (not a News+ article page).'''
     pt_lower = page_text.lower()
     return any(m in pt_lower for m in APPLE_NEWS_ONLY_MARKERS)
 
 
 def click_safari_open_button():
-    '''
-    Click the blue "Open" button on an apple.news article page in Safari to
-    launch the article in News.app. Uses JavaScript to find the button by text.
-    Returns True if the button was found and clicked.
-    '''
+    '''Click the "Open" / "Open in News" button on an apple.news page. Returns True if clicked.'''
     out, _, code = run_applescript('''
 tell application "Safari"
     if (count of windows) > 0 then
@@ -392,17 +344,7 @@ end tell''', timeout=10)
 
 
 def get_news_article_texts():
-    '''
-    Return (y, text) pairs from the front News.app window.
-
-    Reads:
-      1. The title of every open News window (AXTitle).
-      2. Descriptions and values of UI elements 2 levels deep from window 1.
-      3. Static text elements from window 1 (direct children only).
-
-    Going 2 levels deep is slower than a flat search but necessary because
-    the article title is often buried inside a toolbar group or scroll view.
-    '''
+    '''Return (y, text) pairs from the front News.app window, sorted by y position.'''
     texts = []
     seen = set()
 
@@ -412,7 +354,6 @@ def get_news_article_texts():
             seen.add(t)
             texts.append((y, t))
 
-    # 1. Titles of all windows — the front window (index 1) gets priority via y=10
     out, _, code = run_applescript('''
 tell application "System Events"
     tell process "News"
@@ -420,82 +361,40 @@ tell application "System Events"
         repeat with i from 1 to count of windows
             try
                 set t to title of window i
-                if t is not "" then
-                    set output to output & (i * 10) & "|" & t & linefeed
-                end if
+                if t is not "" then set output to output & (i * 10) & "|" & t & linefeed
             end try
         end repeat
-        return output
-    end tell
-end tell''', timeout=15)
-    if code == 0:
-        for line in out.splitlines():
-            if '|' in line:
-                try:
-                    y_str, text = line.split('|', 1)
-                    add(int(y_str.strip()), text.strip())
-                except (ValueError, IndexError):
-                    pass
-
-    # 2. Two-level element walk on window 1 — descriptions and values
-    out2, _, code2 = run_applescript('''
-tell application "System Events"
-    tell process "News"
-        set output to ""
         try
             set w to window 1
             repeat with el in every UI element of w
                 try
-                    set d to description of el
                     set pos to position of el
                     set py to item 2 of pos
-                    if d is not "" then
-                        set output to output & py & "|" & d & linefeed
-                    end if
+                    try
+                        set d to description of el
+                        if d is not "" then set output to output & py & "|" & d & linefeed
+                    end try
                     try
                         set v to value of el
-                        if v is not "" and v is not d then
-                            set output to output & py & "|" & v & linefeed
-                        end if
+                        if v is not "" and v is not d then set output to output & py & "|" & v & linefeed
                     end try
                     repeat with el2 in every UI element of el
                         try
-                            set d2 to description of el2
                             set pos2 to position of el2
                             set py2 to item 2 of pos2
-                            if d2 is not "" then
-                                set output to output & py2 & "|" & d2 & linefeed
-                            end if
+                            try
+                                set d2 to description of el2
+                                if d2 is not "" then set output to output & py2 & "|" & d2 & linefeed
+                            end try
                             try
                                 set v2 to value of el2
-                                if v2 is not "" and v2 is not d2 then
-                                    set output to output & py2 & "|" & v2 & linefeed
-                                end if
+                                if v2 is not "" and v2 is not d2 then set output to output & py2 & "|" & v2 & linefeed
                             end try
                         end try
                     end repeat
                 end try
             end repeat
-        end try
-        return output
-    end tell
-end tell''', timeout=25)
-    if code2 == 0:
-        for line in out2.splitlines():
-            if '|' in line:
-                try:
-                    y_str, text = line.split('|', 1)
-                    add(int(y_str.strip()), text.strip())
-                except (ValueError, IndexError):
-                    pass
-
-    # 3. Static text elements from window 1 (catches any text the above missed)
-    out3, _, code3 = run_applescript('''
-tell application "System Events"
-    tell process "News"
-        set output to ""
-        try
-            repeat with t in every static text of window 1
+            repeat with t in every static text of w
                 try
                     set v to value of t
                     if v is not "" then
@@ -507,9 +406,10 @@ tell application "System Events"
         end try
         return output
     end tell
-end tell''', timeout=15)
-    if code3 == 0:
-        for line in out3.splitlines():
+end tell''', timeout=40)
+
+    if code == 0:
+        for line in out.splitlines():
             if '|' in line:
                 try:
                     y_str, text = line.split('|', 1)
@@ -617,6 +517,25 @@ def print_status_counts(rows):
 
 
 # ---------------------------------------------------------------------------
+# Pacing
+# ---------------------------------------------------------------------------
+
+def adaptive_sleep(links_done, total_links, end_time):
+    '''Pace remaining links evenly to end_time with random jitter. No-op if end_time is None.'''
+    if end_time is None:
+        return
+    links_remaining = total_links - links_done
+    secs_remaining = end_time - time.time()
+    if links_remaining <= 0 or secs_remaining <= 0:
+        return
+    target = secs_remaining / links_remaining
+    sleep_secs = max(MIN_SLEEP_SECS, random.uniform(target * 0.5, target * 1.5))
+    print('  Sleeping {:.0f}s (target {:.0f}s | {:.1f}h left for {} links)'.format(
+        sleep_secs, target, secs_remaining / 3600, links_remaining))
+    time.sleep(sleep_secs)
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -634,6 +553,8 @@ def main():
                         help='Add/populate link_status and resolved_link columns and exit')
     parser.add_argument('--debug-news', action='store_true',
                         help='Dump the News.app accessibility tree and exit')
+    parser.add_argument('--duration-hours', type=float, default=None,
+                        help='Spread links evenly across this many hours with random sleep between each')
     args = parser.parse_args()
 
     if not check_accessibility():
@@ -687,6 +608,9 @@ def main():
 
     results = {}  # link -> {'status': V|M|U, 'resolved_link': str}
 
+    end_time    = time.time() + args.duration_hours * 3600 if args.duration_hours else None
+    total_links = len(unique_links)
+
     try:
         for idx, (link, row_indices) in enumerate(unique_links, 1):
             headline = max(
@@ -727,6 +651,7 @@ def main():
                 close_safari_window()
                 results[link] = {'status': STATUS_MISSING, 'resolved_link': '',
                                  'web_headline': ''}
+                adaptive_sleep(idx, total_links, end_time)
                 continue
 
             # --- Determine resolved_link and how to open in News ---
@@ -763,6 +688,7 @@ def main():
                 results[link] = {'status': STATUS_UNVERIFIED,
                                  'resolved_link': resolved_link,
                                  'web_headline': web_headline}
+                adaptive_sleep(idx, total_links, end_time)
                 continue
 
             # Check for channel page (Sections button) before reading full text
@@ -771,6 +697,7 @@ def main():
                 results[link] = {'status': STATUS_MISSING, 'resolved_link': '',
                                  'web_headline': ''}
                 close_news_front_window()
+                adaptive_sleep(idx, total_links, end_time)
                 continue
 
             texts = get_news_article_texts()
@@ -802,6 +729,7 @@ def main():
                                  'web_headline': ''}
 
             close_news_front_window()
+            adaptive_sleep(idx, total_links, end_time)
 
     except KeyboardInterrupt:
         print('\nInterrupted.')
