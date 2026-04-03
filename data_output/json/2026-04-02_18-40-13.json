@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-02 18:40:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Al_XxvILRSMqs3K5t0BTIXA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-02 18:40:13",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump ousts Attorney General Pam Bondi",
+      "article_headline": "Trump ousts Attorney General Pam Bondi"
+    },
+    {
+      "link": "https://apple.news/ApaDwtSysTb2Vq8ePY-ZSgA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-02 18:40:13",
+      "pub_time": "2026-04-02 18:05:42",
+      "publication": "The Guardian",
+      "author": "Dan Sabbagh",
+      "headline": "Trump warns Tehran “more to follow” after strike destroys Iran’s largest bridge",
+      "article_headline": "Trump warns Tehran “more to follow” after strike destroys Iran’s largest bridge"
+    },
+    {
+      "link": "https://apple.news/AUsKH8mmxTPGsZffmT1WxbA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-02 18:40:13",
+      "pub_time": "2026-04-02 18:06:10",
+      "publication": "CBS News",
+      "author": "Jennifer Jacobs, Eleanor Watson, and James LaPorta",
+      "headline": "Hegseth forces out Army’s top general",
+      "article_headline": "Hegseth ousts Army Chief of Staff Gen. Randy George"
+    },
+    {
+      "link": "https://apple.news/ApaDwtSysTb2Vq8ePY-ZSgA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-02 18:40:13",
+      "pub_time": "2026-04-02 18:05:43",
+      "publication": "The Guardian",
+      "author": "Dan Sabbagh",
+      "headline": "Trump warns Tehran “more to follow” after strike destroys Iran’s largest bridge",
+      "article_headline": "Trump warns Tehran “more to follow” after strike destroys Iran’s largest bridge"
+    },
+    {
+      "link": "https://apple.news/AUsKH8mmxTPGsZffmT1WxbA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-02 18:40:13",
+      "pub_time": "2026-04-02 18:06:11",
+      "publication": "CBS News",
+      "author": "Jennifer Jacobs, Eleanor Watson, and James LaPorta",
+      "headline": "Hegseth forces out Army’s top general",
+      "article_headline": "Hegseth ousts Army Chief of Staff Gen. Randy George"
+    },
+    {
+      "link": "https://apple.news/AyTTPhWcKTkqipe8KjWd0wA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-02 18:40:13",
+      "pub_time": "2026-04-02 18:05:39",
+      "publication": "The Washington Post",
+      "author": "David J. Lynch and Dan Diamond",
+      "headline": "Trump sets 100% drug tariffs on companies that haven’t lowered prices",
+      "article_headline": "Trump sets 100% drug tariffs on companies that haven’t lowered prices"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-02 18:40:13",
+      "pub_time": "2026-04-02 18:06:07",
+      "publication": "The Wall Street Journal",
+      "author": "Micah Maidenberg",
+      "headline": "The toilet’s working again: Artemis II astronauts’ first day in space",
+      "article_headline": ""
+    }
+  ]
+}
