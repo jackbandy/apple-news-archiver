@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-03 08:20:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AePTFD_z4TbyNDcGDRa7d_Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-03 08:20:13",
+      "pub_time": "2026-04-03 07:48:15",
+      "publication": "Bloomberg",
+      "author": "Patrick Sykes and Arsalan Shahla",
+      "headline": "Iran strikes Gulf energy sites as Trump warns of further attacks",
+      "article_headline": "Iran Strikes Gulf Energy Sites as Trump Warns of Further Attacks"
+    },
+    {
+      "link": "https://apple.news/AQUglwTU3QcSRtCUY1E7MuQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-03 08:20:13",
+      "pub_time": "2026-04-03 07:48:43",
+      "publication": "ABC News",
+      "author": "Max Zahn",
+      "headline": "Jobs report shows strong hiring in March, despite oil shock set off by Iran war",
+      "article_headline": "Jobs report shows strong hiring in March, despite oil shock set off by Iran war"
+    },
+    {
+      "link": "https://apple.news/AQUglwTU3QcSRtCUY1E7MuQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-03 08:20:13",
+      "pub_time": "2026-04-03 07:48:16",
+      "publication": "ABC News",
+      "author": "Max Zahn",
+      "headline": "Jobs report shows strong hiring in March, despite oil shock set off by Iran war",
+      "article_headline": "Jobs report shows strong hiring in March, despite oil shock set off by Iran war"
+    },
+    {
+      "link": "https://apple.news/AzEwhNvVLR4mo_SQ5JkjSZw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-03 08:20:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "“I think it’s time”: the inside story of Pam Bondi’s ouster",
+      "article_headline": "“I think it’s time”: the inside story of Pam Bondi’s ouster"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-03 08:20:13",
+      "pub_time": "2026-04-03 07:49:12",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Cuba to release more than 2,000 prisoners amid escalation of tensions with the U.S.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-03 08:20:13",
+      "pub_time": "2026-04-03 07:48:30",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Cuba to release more than 2,000 prisoners amid escalation of tensions with the U.S.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AayD_fosPSF2KNcILO9GhWA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-03 08:20:13",
+      "pub_time": "2026-04-03 07:48:43",
+      "publication": "Fox News",
+      "author": "Michael Sinkewicz",
+      "headline": "Artemis II crew describes life aboard Orion spacecraft on historic journey to the moon and back",
+      "article_headline": "Artemis II crew describes life aboard Orion spacecraft on historic journey to the moon and back"
+    }
+  ]
+}
