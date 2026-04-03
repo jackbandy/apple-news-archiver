@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-03 06:20:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AePTFD_z4TbyNDcGDRa7d_Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-03 06:20:13",
+      "pub_time": "2026-04-03 05:59:14",
+      "publication": "Bloomberg",
+      "author": "Patrick Sykes and Arsalan Shahla",
+      "headline": "Iran strikes Gulf energy sites as Trump warns of further attacks",
+      "article_headline": "Iran Strikes Gulf Energy Sites as Trump Warns of Further Attacks"
+    },
+    {
+      "link": "https://apple.news/AzEwhNvVLR4mo_SQ5JkjSZw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-03 06:20:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "“I think it’s time”: the inside story of Pam Bondi’s ouster",
+      "article_headline": "“I think it’s time”: the inside story of Pam Bondi’s ouster"
+    },
+    {
+      "link": "https://apple.news/AUZ68GvKnRTWlfu_RuPnofw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-03 06:20:13",
+      "pub_time": "2026-04-03 05:59:14",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "White House to release Trump’s 2027 budget with possible $1.5 trillion defense request",
+      "article_headline": "White House to release Trump’s 2027 budget with possible $1.5 trillion defense request"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-03 06:20:13",
+      "pub_time": "2026-04-03 05:59:41",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Cuba to release over 2,000 prisoners amid escalation of tensions with the U.S.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A_0CU_oEPRPi2qOK-VNbl7A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-03 06:20:13",
+      "pub_time": "2026-04-03 05:59:59",
+      "publication": "ABC News",
+      "author": "Leah Sarnoff",
+      "headline": "“You look amazing”: Artemis II crew shares first words on the way to the moon",
+      "article_headline": "“You look amazing”: Artemis II crew shares first words on the way to the moon"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-03 06:20:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Nursing is the surefire new path to American prosperity",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-03 06:20:13",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Pam Bondi was a Trump loyalist. He fired her anyway.",
+      "article_headline": ""
+    }
+  ]
+}
