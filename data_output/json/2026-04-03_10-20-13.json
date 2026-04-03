@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-03 10:20:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AePTFD_z4TbyNDcGDRa7d_Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-03 10:20:13",
+      "pub_time": "2026-04-03 10:14:15",
+      "publication": "Bloomberg",
+      "author": "Patrick Sykes and Arsalan Shahla",
+      "headline": "Iran strikes Gulf energy sites as Trump warns of further attacks",
+      "article_headline": "Iran Strikes Gulf Energy Sites as Trump Warns of Further Attacks"
+    },
+    {
+      "link": "https://apple.news/A6BxvO9rgSn-oAIGk7Ww16Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-03 10:20:13",
+      "pub_time": "2026-04-03 10:14:43",
+      "publication": "The Washington Post",
+      "author": "Alex Horton and Tara Copp",
+      "headline": "DEVELOPING, U.S. fighter jet crashes in Iran; search launched for 2 crew members",
+      "article_headline": "U.S. fighter jet crashes in Iran; search launched for 2 crew members"
+    },
+    {
+      "link": "https://apple.news/A6BxvO9rgSn-oAIGk7Ww16Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-03 10:20:13",
+      "pub_time": "2026-04-03 10:14:17",
+      "publication": "The Washington Post",
+      "author": "Alex Horton and Tara Copp",
+      "headline": "DEVELOPING, U.S. fighter jet crashes in Iran; search launched for 2 crew members",
+      "article_headline": "U.S. fighter jet crashes in Iran; search launched for 2 crew members"
+    },
+    {
+      "link": "https://apple.news/AJphmzMrdQTGGbhOfbPP_kg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-03 10:20:13",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Job growth shatters expectations in March, in boost to Trump",
+      "article_headline": "Job growth shatters expectations in March, in boost to Trump"
+    },
+    {
+      "link": "https://apple.news/AzEwhNvVLR4mo_SQ5JkjSZw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-03 10:20:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "“I think it’s time”: the inside story of Pam Bondi’s ouster",
+      "article_headline": "“I think it’s time”: the inside story of Pam Bondi’s ouster"
+    },
+    {
+      "link": "https://apple.news/AayD_fosPSF2KNcILO9GhWA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-03 10:20:13",
+      "pub_time": "2026-04-03 10:14:46",
+      "publication": "Fox News",
+      "author": "Michael Sinkewicz",
+      "headline": "Artemis II crew describes life aboard Orion spacecraft on historic journey to the moon and back",
+      "article_headline": "Artemis II crew describes life aboard Orion spacecraft on historic journey to the moon and back"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-03 10:20:13",
+      "pub_time": "2026-04-03 10:14:14",
+      "publication": "WIRED",
+      "author": "Ruchi Kumar",
+      "headline": "The broken system that keeps shipping crews stranded in the Strait of Hormuz",
+      "article_headline": ""
+    }
+  ]
+}
