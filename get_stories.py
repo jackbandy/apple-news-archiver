@@ -40,6 +40,7 @@ from config import (
 
 
 LOCK_PATH = '/tmp/apple_news_scraper.lock'
+PENDING_PATH = '/tmp/get_stories_pending'  # signals verify_links_desktop.py to pause
 
 # Path where Appium stores the compiled WDA xctest bundle.
 _WDA_DERIVED_DATA_PATTERN = os.path.expanduser(
@@ -133,14 +134,36 @@ def clear_wda_derived_data():
 
 
 def main():
-    # Prevent overlapping runs (e.g. if a previous cron job is still running)
+    # Signal verify_links_desktop.py to finish its current link and pause.
+    open(PENDING_PATH, 'w').close()
+
+    # Acquire exclusive lock.  verify_links_desktop.py holds LOCK_SH only during
+    # brief CSV writes, so we retry for up to 60 s before giving up.  A true
+    # overlapping get_stories run would hold the lock for ~15 min, well past 60 s.
+    import time as _time
     lock_fd = open(LOCK_PATH, 'w')
+    deadline = _time.time() + 60
+    while True:
+        try:
+            fcntl.flock(lock_fd, fcntl.LOCK_EX | fcntl.LOCK_NB)
+            break
+        except OSError:
+            if _time.time() >= deadline:
+                print("Another instance is already running — exiting")
+                lock_fd.close()
+                try:
+                    os.unlink(PENDING_PATH)
+                except OSError:
+                    pass
+                return
+            _time.sleep(1)
+
+    # Lock acquired — clear the pending marker so verify_links_desktop.py can resume
+    # once we release the exclusive lock at the end of this run.
     try:
-        fcntl.flock(lock_fd, fcntl.LOCK_EX | fcntl.LOCK_NB)
+        os.unlink(PENDING_PATH)
     except OSError:
-        print("Another instance is already running — exiting")
-        lock_fd.close()
-        return
+        pass
 
     if MAX_RUN_SECONDS > 0:
         def _timeout_handler(signum, frame):

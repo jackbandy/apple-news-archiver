@@ -20,15 +20,22 @@ Manages two columns in stories.csv:
   resolved_link full article URL discovered via redirect (e.g. vogue.com/…)
 
 Usage:
-    python3 verify_links_desktop.py              # dry-run
-    python3 verify_links_desktop.py --confirm    # write changes to CSV
-    python3 verify_links_desktop.py --limit N    # process at most N unique links
-    python3 verify_links_desktop.py --init       # add/populate new columns and exit
-    python3 verify_links_desktop.py --threshold X  # similarity cutoff (default 0.45)
-    python3 verify_links_desktop.py --debug-news   # dump News.app window tree and exit
+    python3 verify_links_desktop.py                          # dry-run, process once
+    python3 verify_links_desktop.py --confirm                # write changes to CSV
+    python3 verify_links_desktop.py --confirm --duration-hours 48  # run for 48h, picking up new links
+    python3 verify_links_desktop.py --limit N                # process at most N links per pass
+    python3 verify_links_desktop.py --init                   # add/populate columns and exit
+    python3 verify_links_desktop.py --threshold X            # similarity cutoff (default 0.45)
+    python3 verify_links_desktop.py --debug-news             # dump News.app window tree and exit
+
+Coordination with get_stories.py:
+    Both scripts share /tmp/apple_news_scraper.lock.  verify_links_desktop.py acquires a
+    shared (read) lock before each CSV read/write, so it automatically waits while
+    get_stories.py holds the exclusive lock during a scrape run.
 '''
 
 import csv
+import fcntl
 import os
 import random
 import re
@@ -43,19 +50,23 @@ from urllib.parse import urlparse
 HERE = os.path.dirname(os.path.abspath(__file__))
 CSV_PATH = os.path.join(HERE, '..', 'data_output', 'stories.csv')
 BACKUP_PATH = CSV_PATH + '.verify_bak'
+LOCK_PATH = '/tmp/apple_news_scraper.lock'  # shared with get_stories.py
+PENDING_PATH = '/tmp/get_stories_pending'  # written by get_stories.py when it wants to run
+IDLE_POLL_SECS = 60  # how long to sleep when no unverified links remain
 
 MATCH_THRESHOLD = 0.45
 OPEN_WAIT_SECS  = 6.0   # wait after `open -a Safari` for redirect to settle
 NEWS_LOAD_SECS  = 4.0   # wait after Share → Open in News / open -a News
-MIN_SLEEP_SECS  = 5    # minimum pause between links (rate-limit protection)
+MIN_SLEEP_SECS  = 5     # minimum pause between links (rate-limit protection)
 
 STATUS_MISSING    = 'M'
 STATUS_UNVERIFIED = 'U'
 STATUS_VERIFIED   = 'V'
 
-# Page-text phrases that appear on Apple's "open in the app" interstitial.
+# Page-text phrases that appear on Apple's "open in the app" interstitial or channel pages.
 APPLE_NEWS_ONLY_MARKERS = [
-    'only available in apple news',
+    'only available in apple news',  # covers both article and channel interstitials
+    'this channel is only available',
     'open in apple news',
     'get apple news',
 ]
@@ -114,6 +125,19 @@ def strip_title_prefix(title):
             if len(prefix) < 30 and '.' not in prefix and ',' not in prefix:
                 return title[idx + len(sep):]
     return title
+
+
+def extract_pub_from_title(title):
+    '''Extract publication name from a News.app window title "Headline - Publication" format.
+    Returns '' if no clean suffix is found.'''
+    for sep in (' \u2014 ', ' \u2013 ', ' - '):
+        idx = title.rfind(sep)  # rfind: separator before the publication suffix
+        if idx != -1:
+            pub = title[idx + len(sep):].strip()
+            # Sanity check: publication names are short and don't end in punctuation
+            if pub and len(pub) <= 80 and not pub[-1] in '.?!':
+                return pub
+    return ''
 
 
 # ---------------------------------------------------------------------------
@@ -506,6 +530,40 @@ def ensure_columns(fieldnames, rows):
     return fieldnames, rows
 
 
+def save_result(link, result, backed_up):
+    '''Under a shared lock: re-read CSV, apply one link's result, write back.
+
+    Re-reading inside the lock guarantees we never clobber rows that get_stories.py
+    appended between our last read and this write.  Returns updated backed_up flag.
+    '''
+    lock_fd = open(LOCK_PATH, 'a')
+    try:
+        fcntl.flock(lock_fd, fcntl.LOCK_SH)  # blocks while get_stories.py holds EX lock
+        fn, rows = load_csv(CSV_PATH)
+        fn, rows = ensure_columns(fn, rows)
+        new_status   = result['status']
+        resolved     = result['resolved_link']
+        web_headline = result.get('web_headline', '')
+        new_pub      = result.get('publication', '')
+        for row in rows:
+            if row.get('link') == link and row.get('link_status') == STATUS_UNVERIFIED:
+                row['link_status']   = new_status
+                row['resolved_link'] = resolved
+                if web_headline:
+                    row['web_headline'] = web_headline
+                if new_pub:
+                    row['publication'] = new_pub
+                if new_status == STATUS_MISSING:
+                    row['link'] = ''
+        if not backed_up:
+            shutil.copy2(CSV_PATH, BACKUP_PATH)
+        save_csv(CSV_PATH, fn, rows)
+        return True
+    finally:
+        fcntl.flock(lock_fd, fcntl.LOCK_UN)
+        lock_fd.close()
+
+
 def print_status_counts(rows):
     counts = {}
     for row in rows:
@@ -514,6 +572,37 @@ def print_status_counts(rows):
     labels = {'M': 'missing', 'U': 'unverified', 'V': 'verified'}
     for s in sorted(counts):
         print('  {} ({}): {}'.format(s, labels.get(s, s), counts[s]))
+
+
+# ---------------------------------------------------------------------------
+# Priority yield to get_stories.py
+# ---------------------------------------------------------------------------
+
+def _yield_to_get_stories():
+    '''If get_stories.py has signalled that it wants to run, wait until it finishes.
+
+    get_stories.py writes PENDING_PATH before acquiring the exclusive lock, then
+    deletes it once the lock is held.  We:
+      1. Spin-wait (with sleep) until the pending file is gone — i.e. get_stories
+         has acquired the lock.
+      2. Then block on LOCK_SH until get_stories releases the exclusive lock.
+    Step 2 is a no-op when get_stories has already finished by the time we check.
+    '''
+    if not os.path.exists(PENDING_PATH):
+        return
+    print('[{}] get_stories.py is pending — finishing current link then pausing...'.format(
+        time.strftime('%H:%M:%S')))
+    # Wait until get_stories holds the exclusive lock (pending file deleted).
+    while os.path.exists(PENDING_PATH):
+        time.sleep(1)
+    # Block until the exclusive lock is released (get_stories finished).
+    fd = open(LOCK_PATH, 'r')
+    try:
+        fcntl.flock(fd, fcntl.LOCK_SH)
+        fcntl.flock(fd, fcntl.LOCK_UN)
+    finally:
+        fd.close()
+    print('[{}] get_stories.py finished — resuming'.format(time.strftime('%H:%M:%S')))
 
 
 # ---------------------------------------------------------------------------
@@ -583,191 +672,188 @@ def main():
             print('Dry-run — re-run with --confirm to write changes.')
         return
 
-    # Collect unverified links
-    link_to_indices = {}
-    for i, row in enumerate(rows):
-        if row.get('link_status') == STATUS_UNVERIFIED:
-            link = (row.get('link') or '').strip()
-            if link:
-                link_to_indices.setdefault(link, []).append(i)
+    end_time  = time.time() + args.duration_hours * 3600 if args.duration_hours else None
+    backed_up = False
 
-    unique_links = list(link_to_indices.items())
-    random.shuffle(unique_links)
-    print('Unverified links: {}'.format(len(unique_links)))
+    while True:
+        if end_time and time.time() >= end_time:
+            print('Time budget exhausted.')
+            break
 
-    if not unique_links:
-        print('Nothing to verify.')
-        return
+        # Re-read CSV each iteration (picks up new links from get_stories.py).
+        # Wait here if get_stories.py is currently running (holds the exclusive lock).
+        lock_fd = open(LOCK_PATH, 'a')
+        try:
+            fcntl.flock(lock_fd, fcntl.LOCK_SH)
+            fieldnames, rows = load_csv(CSV_PATH)
+        finally:
+            fcntl.flock(lock_fd, fcntl.LOCK_UN)
+            lock_fd.close()
+        fieldnames, rows = ensure_columns(fieldnames, rows)
 
-    if args.limit > 0:
-        unique_links = unique_links[:args.limit]
-        print('Limiting to {} links this batch'.format(len(unique_links)))
+        link_to_indices = {}
+        for i, row in enumerate(rows):
+            if row.get('link_status') == STATUS_UNVERIFIED:
+                lnk = (row.get('link') or '').strip()
+                if lnk:
+                    link_to_indices.setdefault(lnk, []).append(i)
 
-    print('Mode: {}'.format('WRITE' if args.confirm else 'DRY-RUN'))
-    print()
+        unique_links = list(link_to_indices.items())
+        random.shuffle(unique_links)
 
-    results = {}  # link -> {'status': V|M|U, 'resolved_link': str}
+        if not unique_links:
+            if not end_time:
+                print('Nothing to verify.')
+                break
+            print('[{}] No unverified links — waiting {}s for new stories...'.format(
+                time.strftime('%H:%M:%S'), IDLE_POLL_SECS))
+            time.sleep(IDLE_POLL_SECS)
+            continue
 
-    end_time    = time.time() + args.duration_hours * 3600 if args.duration_hours else None
-    total_links = len(unique_links)
+        if args.limit > 0:
+            unique_links = unique_links[:args.limit]
 
-    try:
-        for idx, (link, row_indices) in enumerate(unique_links, 1):
-            headline = max(
-                (best_headline(rows[i]) for i in row_indices),
-                key=len,
-            )
-            publication = (rows[row_indices[0]].get('publication') or '').strip()
+        print('[{}] {} unverified links | {}'.format(
+            time.strftime('%H:%M:%S'), len(unique_links),
+            'WRITE' if args.confirm else 'DRY-RUN'))
+        print()
 
-            print('[{}/{}] {}'.format(idx, len(unique_links), link))
-            print('  Headline:  {!r}'.format(headline[:80]))
-            if publication:
-                print('  Source:    {!r}'.format(publication))
-            print('  Affects {} row(s)'.format(len(row_indices)))
+        interrupted = False
+        try:
+            for idx, (link, row_indices) in enumerate(unique_links, 1):
+                if end_time and time.time() >= end_time:
+                    print('Time budget exhausted.')
+                    interrupted = True
+                    break
 
-            # Count windows before opening so we can detect new ones
-            news_windows_before = count_news_windows()
+                _yield_to_get_stories()
 
-            # Force Safari to open the link (apple.news interstitial loads there)
-            subprocess.run(['open', '-a', 'Safari', link], check=False)
-            time.sleep(OPEN_WAIT_SECS)
+                headline    = max((best_headline(rows[i]) for i in row_indices), key=len)
+                publication = (rows[row_indices[0]].get('publication') or '').strip()
 
-            front_app = get_front_app()
-            print('  Front app: {}'.format(front_app or '(unknown)'))
+                print('[{}/{}] {}'.format(idx, len(unique_links), link))
+                print('  Headline:  {!r}'.format(headline[:80]))
+                if publication:
+                    print('  Source:    {!r}'.format(publication))
 
-            # --- Detect "Apple News only" interstitial in Safari ---
-            safari_url   = get_safari_url()
-            safari_title = get_safari_title()
-            page_text    = get_safari_page_text()
-            web_headline = strip_title_prefix(safari_title) if safari_title else ''
-            print('  Safari URL:   {}'.format(safari_url[:100] if safari_url else '(none)'))
-            if web_headline:
-                print('  Web headline: {}'.format(web_headline[:80]))
-
-            # Dead-end interstitial check: rely on page text only, not URL domain.
-            # News+ articles legitimately load at apple.news and are NOT dead-ends.
-            if is_apple_news_only(page_text + ' ' + safari_title):
-                print('  -> MISSING (Apple News only / interstitial page)')
-                close_safari_window()
-                results[link] = {'status': STATUS_MISSING, 'resolved_link': '',
-                                 'web_headline': ''}
-                adaptive_sleep(idx, total_links, end_time)
-                continue
-
-            # --- Determine resolved_link and how to open in News ---
-            safari_hostname = (urlparse(safari_url).hostname or '').lower()
-            stays_on_apple_news = safari_hostname.endswith('apple.news')
-
-            if stays_on_apple_news:
-                # News+ / apple.news-hosted article: click the blue "Open" button
-                # to launch in News.app, then fall back to open -a News if needed.
+                result       = None
                 resolved_link = ''
-                clicked = click_safari_open_button()
-                if clicked:
-                    print('  Opened via "Open" button on apple.news page')
-                close_safari_window()
-                if not clicked:
-                    open_in_news(link)
-            else:
-                # Resolved to a publisher URL
-                resolved_link = safari_url
-                if resolved_link:
-                    print('  Resolved:  {}'.format(resolved_link[:100]))
-                close_safari_window()
-                open_in_news(link)
+                web_headline  = ''
 
-            time.sleep(NEWS_LOAD_SECS)
+                news_windows_before = count_news_windows()
+                subprocess.run(['open', '-a', 'Safari', link], check=False)
+                time.sleep(OPEN_WAIT_SECS)
 
-            # Check whether a new News.app window actually opened
-            news_windows_after = count_news_windows()
-            print('  News windows: {} -> {}'.format(
-                news_windows_before, news_windows_after))
+                print('  Front app: {}'.format(get_front_app() or '(unknown)'))
 
-            if news_windows_after <= news_windows_before:
-                print('  No new News window detected — leaving unverified')
-                results[link] = {'status': STATUS_UNVERIFIED,
-                                 'resolved_link': resolved_link,
-                                 'web_headline': web_headline}
-                adaptive_sleep(idx, total_links, end_time)
-                continue
+                safari_url   = get_safari_url()
+                safari_title = get_safari_title()
+                page_text    = get_safari_page_text()
+                web_headline = strip_title_prefix(safari_title) if safari_title else ''
+                print('  Safari URL:   {}'.format(safari_url[:100] if safari_url else '(none)'))
+                if web_headline:
+                    print('  Web headline: {}'.format(web_headline[:80]))
 
-            # Check for channel page (Sections button) before reading full text
-            if has_sections_button():
-                print('  -> MISSING (channel page — Sections button found)')
-                results[link] = {'status': STATUS_MISSING, 'resolved_link': '',
-                                 'web_headline': ''}
-                close_news_front_window()
-                adaptive_sleep(idx, total_links, end_time)
-                continue
+                if is_apple_news_only(page_text + ' ' + safari_title):
+                    print('  -> MISSING (Apple News only / interstitial page)')
+                    close_safari_window()
+                    result = {'status': STATUS_MISSING, 'resolved_link': '', 'web_headline': ''}
 
-            texts = get_news_article_texts()
-            best_sim, best_text = best_matching_text(headline, texts)
+                if result is None:
+                    safari_hostname = (urlparse(safari_url).hostname or '').lower()
+                    if safari_hostname.endswith('apple.news'):
+                        clicked = click_safari_open_button()
+                        if clicked:
+                            print('  Opened via "Open" button on apple.news page')
+                        close_safari_window()
+                        if not clicked:
+                            open_in_news(link)
+                    else:
+                        resolved_link = safari_url
+                        if resolved_link:
+                            print('  Resolved:  {}'.format(resolved_link[:100]))
+                        close_safari_window()
+                        open_in_news(link)
 
-            print('  Texts found: {}'.format(len(texts)))
-            print('  Best match: {!r} (sim={:.2f})'.format(
-                (best_text or '(nothing)')[:80], best_sim))
+                    time.sleep(NEWS_LOAD_SECS)
+                    news_windows_after = count_news_windows()
+                    print('  News windows: {} -> {}'.format(news_windows_before, news_windows_after))
 
-            if best_sim >= args.threshold:
-                print('  -> VERIFIED')
-                results[link] = {'status': STATUS_VERIFIED,
-                                 'resolved_link': resolved_link,
-                                 'web_headline': web_headline}
-            elif is_paywall_screen(texts):
-                print('  -> VERIFIED (paywall/plus article)')
-                results[link] = {'status': STATUS_VERIFIED,
-                                 'resolved_link': resolved_link,
-                                 'web_headline': web_headline}
-            elif not texts:
-                print('  -> leaving unverified (News.app showed nothing readable)')
-                results[link] = {'status': STATUS_UNVERIFIED,
-                                 'resolved_link': resolved_link,
-                                 'web_headline': web_headline}
-            else:
-                print('  -> MISSING (sim {:.2f} < {:.2f})'.format(
-                    best_sim, args.threshold))
-                results[link] = {'status': STATUS_MISSING, 'resolved_link': '',
-                                 'web_headline': ''}
+                    if news_windows_after <= news_windows_before:
+                        print('  No new News window — leaving unverified')
+                        result = {'status': STATUS_UNVERIFIED, 'resolved_link': resolved_link,
+                                  'web_headline': web_headline}
+                    elif has_sections_button():
+                        print('  -> MISSING (channel page — Sections button found)')
+                        close_news_front_window()
+                        result = {'status': STATUS_MISSING, 'resolved_link': '', 'web_headline': ''}
+                    else:
+                        texts = get_news_article_texts()
+                        best_sim, best_text = best_matching_text(headline, texts)
+                        if web_headline:
+                            wsim, wtext = best_matching_text(web_headline, texts)
+                            if wsim > best_sim:
+                                best_sim, best_text = wsim, wtext
+                        print('  Texts found: {} | Best: {!r} (sim={:.2f})'.format(
+                            len(texts), (best_text or '(nothing)')[:60], best_sim))
 
-            close_news_front_window()
-            adaptive_sleep(idx, total_links, end_time)
+                        # Extract actual publication from News.app window title (y=10).
+                        new_pub = ''
+                        for y, t in texts:
+                            if y <= 20:
+                                new_pub = extract_pub_from_title(t)
+                                if new_pub:
+                                    print('  News pub: {!r}'.format(new_pub))
+                                    break
 
-    except KeyboardInterrupt:
-        print('\nInterrupted.')
+                        # Publication mismatch: the link redirected to a different source.
+                        # Overrides headline similarity — wrong source is always a bad link.
+                        pub_mismatch = False
+                        if new_pub and publication and publication not in ('Apple News Plus',):
+                            psim = similarity(publication, new_pub)
+                            if psim < 0.4:
+                                pub_mismatch = True
+                                print('  Publication mismatch: expected {!r}, got {!r} (sim={:.2f})'.format(
+                                    publication, new_pub, psim))
 
-    verified_count   = sum(1 for r in results.values() if r['status'] == STATUS_VERIFIED)
-    missing_count    = sum(1 for r in results.values() if r['status'] == STATUS_MISSING)
-    unverified_count = sum(1 for r in results.values() if r['status'] == STATUS_UNVERIFIED)
-    print('\nResults: {} verified, {} removed, {} still unverified'.format(
-        verified_count, missing_count, unverified_count))
+                        if pub_mismatch:
+                            print('  -> MISSING (publication mismatch)')
+                            result = {'status': STATUS_MISSING, 'resolved_link': '', 'web_headline': ''}
+                        elif best_sim >= args.threshold:
+                            print('  -> VERIFIED')
+                            result = {'status': STATUS_VERIFIED, 'resolved_link': resolved_link,
+                                      'web_headline': web_headline, 'publication': new_pub}
+                        elif is_paywall_screen(texts):
+                            print('  -> VERIFIED (paywall/plus article)')
+                            result = {'status': STATUS_VERIFIED, 'resolved_link': resolved_link,
+                                      'web_headline': web_headline, 'publication': new_pub}
+                        elif not texts:
+                            print('  -> leaving unverified (nothing readable in News.app)')
+                            result = {'status': STATUS_UNVERIFIED, 'resolved_link': resolved_link,
+                                      'web_headline': web_headline}
+                        else:
+                            print('  -> MISSING (sim {:.2f} < {:.2f})'.format(best_sim, args.threshold))
+                            result = {'status': STATUS_MISSING, 'resolved_link': '', 'web_headline': ''}
 
-    if not results:
-        return
+                        close_news_front_window()
 
-    if not args.confirm:
-        print('Dry-run complete. Re-run with --confirm to apply changes.')
-        return
+                if args.confirm:
+                    backed_up = save_result(link, result, backed_up)
+                else:
+                    print('  [dry-run, not saved]')
 
-    print('Backing up {} -> {}'.format(CSV_PATH, BACKUP_PATH))
-    shutil.copy2(CSV_PATH, BACKUP_PATH)
+                adaptive_sleep(idx, len(unique_links), end_time)
 
-    updated = 0
-    for link, result in results.items():
-        new_status    = result['status']
-        resolved_link = result['resolved_link']
-        web_headline  = result.get('web_headline', '')
-        for i in link_to_indices.get(link, []):
-            rows[i]['link_status']   = new_status
-            rows[i]['resolved_link'] = resolved_link
-            if web_headline:
-                rows[i]['web_headline'] = web_headline
-            if new_status == STATUS_MISSING:
-                rows[i]['link'] = ''
-            updated += 1
+        except KeyboardInterrupt:
+            print('\nInterrupted.')
+            interrupted = True
 
-    save_csv(CSV_PATH, fieldnames, rows)
-    print('Done. Updated {} rows.'.format(updated))
+        if not end_time or interrupted:
+            break
+
+    _, final_rows = load_csv(CSV_PATH)
     print()
-    print_status_counts(rows)
+    print_status_counts(final_rows)
 
 
 if __name__ == '__main__':
