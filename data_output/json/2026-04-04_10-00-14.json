@@ -1,0 +1,72 @@
+{
+  "run_time": "2026-04-04 10:00:14",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AyyLp7CdvT1Gq92YTTJ1K0w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-04 10:00:14",
+      "pub_time": "2026-04-04 09:00:15",
+      "publication": "NBC News",
+      "author": "Courtney Kube, Mosheh Gains, Patrick Smith, Matthew Mulligan, and Freddie Clayton",
+      "headline": "One pilot rescued, one missing after U.S. fighter jet shot down in Iran",
+      "article_headline": "One pilot rescued, one missing after U.S. fighter jet shot down in Iran"
+    },
+    {
+      "link": "https://apple.news/A6mh5KvTZRGyq4ZxhENXnyg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-04 10:00:14",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Trump admin moves Title X family planning program away from contraception, toward conception",
+      "article_headline": "Trump admin moves Title X family planning program away from contraception, toward conception"
+    },
+    {
+      "link": "https://apple.news/AUEAXBdm1T7qRZqLDtA9XJQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-04 10:00:14",
+      "pub_time": "2026-04-04 09:01:16",
+      "publication": "National Geographic",
+      "author": "Amy McKeever",
+      "headline": "Why the Strait of Hormuz is a geological wonder",
+      "article_headline": "Why the Strait of Hormuz is a geological wonder"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-04 10:00:14",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Cooper Flagg becomes youngest player in NBA history with a 50-point game",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AcQKNWBk7RMiIpJHkYpZDqQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RVOXh4R1dSV1NQU011R0xGMTR0VF9BI25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-04 10:00:14",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Climate, Rapid snowmelt in the West shocks scientists. Plus, Atlantic puffins return to shore.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-04 10:00:14",
+      "pub_time": "2026-04-04 09:02:28",
+      "publication": "The Washington Post",
+      "author": "Todd Wallack",
+      "headline": "Some of the most popular graduate degrees don’t pay off financially, study finds",
+      "article_headline": ""
+    }
+  ]
+}
