@@ -1,0 +1,50 @@
+{
+  "run_time": "2026-04-03 20:20:13",
+  "story_count": 4,
+  "stories": [
+    {
+      "link": "https://apple.news/Ac4PKX_FqThyFdITScguXxw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-03 20:20:13",
+      "pub_time": "2026-04-03 19:20:14",
+      "publication": "Reuters",
+      "author": "Phil Stewart and Enas Alashray",
+      "headline": "Downed planes raise new perils for Trump as Tehran hunts for missing U.S. pilot",
+      "article_headline": "Downed planes raise new perils for Trump as Tehran hunts for missing U.S. pilot"
+    },
+    {
+      "link": "https://apple.news/Av8Ni1MRpRTmiK5B7RTBTgQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-03 20:20:13",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Politics, Takeaways from Trump’s address on the war, inside Pam Bondi’s firing, and more of the week’s popular politics stories, Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AaG8fCBywQgSVawiBCMJulQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-03 20:20:13",
+      "pub_time": "2026-04-03 19:21:14",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Russian strikes on Ukraine kill 8 as Kyiv holds door open for Easter truce",
+      "article_headline": "Russian strikes on Ukraine kill 8 as Kyiv holds door open for Easter truce"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-03 20:20:13",
+      "pub_time": "2026-04-03 19:21:41",
+      "publication": "The Washington Post",
+      "author": "Emmanuel Martinez and Marianne LeVine",
+      "headline": "Despite signaling change, ICE still arrests many immigrants with no record",
+      "article_headline": ""
+    }
+  ]
+}
