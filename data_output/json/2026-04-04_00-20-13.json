@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-04 00:20:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AyyLp7CdvT1Gq92YTTJ1K0w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-04 00:20:13",
+      "pub_time": "2026-04-03 23:53:15",
+      "publication": "NBC News",
+      "author": "Courtney Kube, Mosheh Gains, Patrick Smith, and Matthew Mulligan",
+      "headline": "One pilot rescued, one missing after U.S. fighter jet shot down in Iran",
+      "article_headline": "One pilot rescued, one missing after U.S. fighter jet shot down in Iran"
+    },
+    {
+      "link": "https://apple.news/A1x_DwcP7Rc2qcPYif0pgUA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-04 00:20:13",
+      "pub_time": "2026-04-03 23:53:43",
+      "publication": "Video",
+      "author": "Joe Walsh",
+      "headline": "CBS News, Trump orders DHS to pay all employees despite shutdown",
+      "article_headline": "Trump orders DHS to pay all employees despite shutdown"
+    },
+    {
+      "link": "https://apple.news/A1x_DwcP7Rc2qcPYif0pgUA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-04 00:20:13",
+      "pub_time": "2026-04-03 23:53:16",
+      "publication": "Video",
+      "author": "Joe Walsh",
+      "headline": "CBS News, Trump orders DHS to pay all employees despite shutdown",
+      "article_headline": "Trump orders DHS to pay all employees despite shutdown"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-04 00:20:13",
+      "pub_time": "2026-04-03 23:53:43",
+      "publication": "The Wall Street Journal",
+      "author": "Richard Rubin",
+      "headline": "Trump’s budget has new vision for U.S. government, but not the deficit",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AUEAXBdm1T7qRZqLDtA9XJQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-04 00:20:13",
+      "pub_time": "2026-04-03 23:53:56",
+      "publication": "National Geographic",
+      "author": "Amy McKeever",
+      "headline": "Why the Strait of Hormuz is a geological wonder",
+      "article_headline": "Why the Strait of Hormuz is a geological wonder"
+    },
+    {
+      "link": "https://apple.news/AUEAXBdm1T7qRZqLDtA9XJQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-04 00:20:13",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "March Madness, South Carolina stifles UConn, ends Huskies’ perfect season to advance to NCAA title game",
+      "article_headline": "Why the Strait of Hormuz is a geological wonder"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-04 00:20:13",
+      "pub_time": "2026-04-03 23:52:57",
+      "publication": "The Wall Street Journal",
+      "author": "Richard Rubin",
+      "headline": "Trump’s budget has new vision for U.S. government, but not the deficit",
+      "article_headline": ""
+    }
+  ]
+}
