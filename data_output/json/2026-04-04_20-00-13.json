@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-04 20:00:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A9-KpU0oSQ4ygysPX9nV-Zw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-04 20:00:13",
+      "pub_time": "2026-04-04 18:00:15",
+      "publication": "The Wall Street Journal",
+      "author": "Marcus Weisgerber and Shelby Holliday",
+      "headline": "Crashes, ejections, and a frantic search for a missing airman in Iran",
+      "article_headline": "Crashes, ejections, and a frantic search for a missing airman in Iran"
+    },
+    {
+      "link": "https://apple.news/AsY68GGW1RJup8FGl5I0bwA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-04 20:00:13",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Trump administration arrests relatives of late Iranian general Soleimani in L.A.",
+      "article_headline": "Trump administration arrests relatives of late Iranian general Soleimani in L.A."
+    },
+    {
+      "link": "https://apple.news/AezPSufX7RlKDMlTp-frA1g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-04 20:00:13",
+      "pub_time": "2026-04-04 18:01:15",
+      "publication": "NPR",
+      "author": "Meg Anderson and Jake Shore",
+      "headline": "After the Minnesota surge, ICE is moving to a quieter enforcement approach",
+      "article_headline": "After the Minnesota surge, ICE is moving to a quieter enforcement approach"
+    },
+    {
+      "link": "https://apple.news/A5GB5JQyhRtqZ9ePf1586cg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-04 20:00:13",
+      "pub_time": "2026-04-04 18:01:42",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Fourth suspect arrested over Jewish charity ambulance arson attack in the U.K.",
+      "article_headline": "Fourth suspect arrested over Jewish charity ambulance arson attack in the U.K."
+    },
+    {
+      "link": "https://apple.news/AYLiMeWX2Tjms7F705AsX3Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-04 20:00:13",
+      "pub_time": "2026-04-04 18:02:15",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Jonathan Edwards",
+      "headline": "Trump files emergency appeal to keep building White House ballroom",
+      "article_headline": "Trump files emergency appeal to keep building White House ballroom"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-04 20:00:13",
+      "pub_time": "",
+      "publication": "Texas Monthly",
+      "author": "",
+      "headline": "They’re scouring Texas for hidden treasure — and finding something even more valuable, Audio, 2 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AgXu99HUuQ1CWJ5xhjzpL9w",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-04 20:00:13",
+      "pub_time": "",
+      "publication": "Inside the dark world of cyberscam centers",
+      "author": "",
+      "headline": "How victims are enslaved and forced to commit fraud.,  Play Now  31 min",
+      "article_headline": ""
+    }
+  ]
+}
