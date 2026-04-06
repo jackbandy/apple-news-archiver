@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-06 10:03:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aa-Cg3a-5SoiKDw73S_mdRg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-06 10:03:16",
+      "pub_time": "2026-04-06 09:54:18",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "U.S. and Iran study ceasefire plan as Trump’s latest warning nears deadline",
+      "article_headline": "U.S. and Iran study ceasefire plan as Trump’s latest warning nears deadline"
+    },
+    {
+      "link": "https://apple.news/ARpGL2O5mSzGw1WRnBrc3Iw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-06 10:03:16",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Supreme Court clears way for Trump’s DOJ to wipe out Steve Bannon’s conviction",
+      "article_headline": "Supreme Court clears way for Trump’s DOJ to wipe out Steve Bannon’s conviction"
+    },
+    {
+      "link": "https://apple.news/An3FzN2ctTcaUDYCNcDij0g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-06 10:03:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Artemis II astronauts race to set a new distance record from Earth and behold the moon’s far side",
+      "article_headline": "Artemis II astronauts race to set a new distance record from Earth and behold the moon’s far side"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 10:03:16",
+      "pub_time": "2026-04-06 09:53:45",
+      "publication": "The Washington Post",
+      "author": "Todd Wallack",
+      "headline": "More states adopt college-entrance exam touted by conservatives despite concerns",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 10:03:16",
+      "pub_time": "2026-04-06 09:53:21",
+      "publication": "The Washington Post",
+      "author": "Todd Wallack",
+      "headline": "More states adopt college-entrance exam touted by conservatives despite concerns",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 10:03:16",
+      "pub_time": "2026-04-06 09:53:19",
+      "publication": "The Washington Post",
+      "author": "Todd Wallack",
+      "headline": "More states adopt college-entrance exam touted by conservatives despite concerns",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AmHm8fc7iTlOPxhP3ObLJZw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-06 10:03:16",
+      "pub_time": "2026-04-06 09:53:37",
+      "publication": "KFF Health News",
+      "author": "Vanessa G. Sánchez, El Tímpano",
+      "headline": "Elderly immigrants lose Medicare coverage even though they pay for it",
+      "article_headline": "Elderly immigrants lose Medicare coverage even though they pay for it"
+    }
+  ]
+}

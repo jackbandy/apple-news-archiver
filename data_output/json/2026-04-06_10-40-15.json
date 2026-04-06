@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-06 10:40:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aa-Cg3a-5SoiKDw73S_mdRg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-06 10:40:15",
+      "pub_time": "2026-04-06 10:25:16",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Iran rejects ceasefire as Trump’s latest warning nears deadline",
+      "article_headline": "Iran rejects ceasefire as Trump’s latest warning nears deadline"
+    },
+    {
+      "link": "https://apple.news/ARpGL2O5mSzGw1WRnBrc3Iw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-06 10:40:15",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Supreme Court clears way for Trump’s Justice Department to wipe out Steve Bannon’s conviction",
+      "article_headline": "Supreme Court clears way for Trump’s Justice Department to wipe out Steve Bannon’s conviction"
+    },
+    {
+      "link": "https://apple.news/An3FzN2ctTcaUDYCNcDij0g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-06 10:40:15",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Artemis II astronauts race to set a new distance record from Earth and behold the moon’s far side",
+      "article_headline": "Artemis II astronauts race to set a new distance record from Earth and behold the moon’s far side"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 10:40:15",
+      "pub_time": "2026-04-06 10:25:43",
+      "publication": "The Washington Post",
+      "author": "Todd Wallack",
+      "headline": "More states adopt college-entrance exam touted by conservatives despite concerns",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 10:40:15",
+      "pub_time": "2026-04-06 10:25:19",
+      "publication": "The Washington Post",
+      "author": "Todd Wallack",
+      "headline": "More states adopt college-entrance exam touted by conservatives despite concerns",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 10:40:15",
+      "pub_time": "2026-04-06 10:25:16",
+      "publication": "The Washington Post",
+      "author": "Todd Wallack",
+      "headline": "More states adopt college-entrance exam touted by conservatives despite concerns",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 10:40:15",
+      "pub_time": "2026-04-06 10:25:20",
+      "publication": "The Washington Post",
+      "author": "Todd Wallack",
+      "headline": "More states adopt college-entrance exam touted by conservatives despite concerns",
+      "article_headline": ""
+    }
+  ]
+}
