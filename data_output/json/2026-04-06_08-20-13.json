@@ -1,0 +1,127 @@
+{
+  "run_time": "2026-04-06 08:20:13",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AmTxrYvQrT_esDtU9IhBKXg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-06 08:20:13",
+      "pub_time": "2026-04-06 07:20:15",
+      "publication": "NPR",
+      "author": "NPR Staff",
+      "headline": "Iran pushes back against Trump’s deadline to open Strait of Hormuz",
+      "article_headline": "Iran pushes back against Trump’s deadline to open Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AztdNkFU_Tu2IrMLlmPk2PQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-06 08:20:13",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Artemis crew reaches the moon, approaches record-breaking distance from Earth",
+      "article_headline": "Artemis crew reaches the moon, approaches record-breaking distance from Earth"
+    },
+    {
+      "link": "https://apple.news/AOwerPdXJR2ab-WnsNAq0zw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-06 08:20:13",
+      "pub_time": "2026-04-06 07:21:15",
+      "publication": "POLITICO",
+      "author": "Blake Jones",
+      "headline": "Trump endorses Steve Hilton in California governor’s race",
+      "article_headline": "Trump endorses Steve Hilton in California governor’s race"
+    },
+    {
+      "link": "https://apple.news/AvKpkBwZbT1iE0G_lrLtOzg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-06 08:20:13",
+      "pub_time": "2026-04-06 07:21:43",
+      "publication": "NBC News",
+      "author": "Daniel Arkin",
+      "headline": "Savannah Guthrie returns to “Today” as search for her 84-year-old mother continues",
+      "article_headline": "Savannah Guthrie returns to “Today” as search for her 84-year-old mother continues"
+    },
+    {
+      "link": "https://apple.news/A-HcHOeGDTVWLCIaFnGYd2w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-06 08:20:13",
+      "pub_time": "2026-04-06 07:22:16",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "A famous hurricane-forecast map will get a big makeover this season",
+      "article_headline": "A famous hurricane-forecast map will get a big makeover this season"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 08:20:13",
+      "pub_time": "2026-04-06 07:22:43",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "How a “wrench attack” crime ring chased crypto millions from San Francisco to Los Angeles",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AR_sRyY75QNyIVUe_nwOCoQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-06 08:20:13",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "How the U.S. pulled off a dangerous rescue in Iran",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A9Xdtr86MQyGwPgqukflW2g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-06 08:20:13",
+      "pub_time": "2026-04-05 17:24:04",
+      "publication": "Inc.",
+      "author": "KEVIN HAYNES",
+      "headline": "Study Reveals the Single Cause of Cognitive Decline—and a Cure",
+      "article_headline": "Study Reveals the Single Cause of Cognitive Decline—and a Cure"
+    },
+    {
+      "link": "https://apple.news/A5GhrGlSXRvO6-Thr1zjCgA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-06 08:20:13",
+      "pub_time": "2026-04-06 06:24:37",
+      "publication": "BuzzFeed",
+      "author": "Ajani Bazile-Dutes",
+      "headline": "24 Random Photos That Are Way, Way, Way, Way, Way, Way, Way, Way, Way Funnier Than They Should Be",
+      "article_headline": "24 Random Photos That Are Way, Way, Way, Way, Way, Way, Way, Way, Way Funnier Than They Should Be"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-06 08:20:13",
+      "pub_time": "2026-04-05 08:25:05",
+      "publication": "",
+      "author": "Olivia Bria",
+      "headline": "After Using This Water Pitcher That Filters Out Forever Chemicals, I’ll Never Go Back to a Brita",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AEnS2Vta8R0mhvCxzhoss2w",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-06 08:20:13",
+      "pub_time": "2026-04-05 14:25:18",
+      "publication": "Real Simple",
+      "author": "Morgan Noll",
+      "headline": "This Low-Maintenance Shrub Is the Secret to Attracting More Butterflies to Your Yard",
+      "article_headline": "This Low-Maintenance Shrub Is the Secret to Attracting More Butterflies to Your Yard"
+    }
+  ]
+}
