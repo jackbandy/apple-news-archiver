@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-06 12:40:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AseMBTWblTDORjQFEDBu0Mg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-06 12:40:15",
+      "pub_time": "2026-04-06 12:08:17",
+      "publication": "Bloomberg",
+      "author": "Eltaf Najafizada and Hadriana Lowenkron",
+      "headline": "Iran rejects ceasefire, Trump amps threats as deadline looms",
+      "article_headline": "Iran rejects ceasefire, Trump amps threats as deadline looms"
+    },
+    {
+      "link": "https://apple.news/AGswrhMtMTT2D94GPGymGSg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-06 12:40:15",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Supreme Court clears way for dismissal of case against Trump ally Steve Bannon",
+      "article_headline": "Supreme Court clears way for dismissal of case against Trump ally Steve Bannon"
+    },
+    {
+      "link": "https://apple.news/ARRNI6j_OQ9iUAF8meaL_lw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-06 12:40:15",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Strongest El Niño in a century? What this rare phenomenon could bring.",
+      "article_headline": "Strongest El Niño in a century? What this rare phenomenon could bring."
+    },
+    {
+      "link": "https://apple.news/AmHm8fc7iTlOPxhP3ObLJZw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-06 12:40:15",
+      "pub_time": "2026-04-06 12:08:45",
+      "publication": "KFF Health News",
+      "author": "Vanessa G. Sánchez, El Tímpano",
+      "headline": "Elderly immigrants lose Medicare coverage even though they pay for it",
+      "article_headline": "Elderly immigrants lose Medicare coverage even though they pay for it"
+    },
+    {
+      "link": "https://apple.news/AmHm8fc7iTlOPxhP3ObLJZw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-06 12:40:15",
+      "pub_time": "2026-04-06 12:08:18",
+      "publication": "KFF Health News",
+      "author": "Vanessa G. Sánchez, El Tímpano",
+      "headline": "Elderly immigrants lose Medicare coverage even though they pay for it",
+      "article_headline": "Elderly immigrants lose Medicare coverage even though they pay for it"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 12:40:15",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Artemis astronauts are going where no human has gone before",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 12:40:15",
+      "pub_time": "2026-04-06 12:08:58",
+      "publication": "WIRED",
+      "author": "David Gilbert",
+      "headline": "The new era of militia influencers",
+      "article_headline": ""
+    }
+  ]
+}
