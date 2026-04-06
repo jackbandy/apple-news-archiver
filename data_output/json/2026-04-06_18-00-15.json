@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-06 18:00:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AseMBTWblTDORjQFEDBu0Mg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-06 18:00:15",
+      "pub_time": "2026-04-06 17:00:16",
+      "publication": "Bloomberg",
+      "author": "",
+      "headline": "Trump amps threat of Iran being “taken out” as Tuesday deadline nears, MORE COVERAGE",
+      "article_headline": "Trump amps threat of Iran being “taken out” as Tuesday deadline nears"
+    },
+    {
+      "link": "https://apple.news/A8Qpy3F1WTmOlt0wI4MQBig",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-06 18:00:15",
+      "pub_time": "2026-04-06 17:00:49",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Artemis II astronauts surpass Apollo 13 record, traveling farther from Earth than any other humans",
+      "article_headline": "Artemis II astronauts surpass Apollo 13 record, traveling farther from Earth than any other humans"
+    },
+    {
+      "link": "https://apple.news/AXbUL2oyzRCi_ZbonJ7_-qg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-06 18:00:15",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump administration ends some civil-rights settlements backing transgender students",
+      "article_headline": "Trump administration ends some civil-rights settlements backing transgender students"
+    },
+    {
+      "link": "https://apple.news/AUPerzbTFT0KIDtpI0mexWQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-06 18:00:15",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "March Madness, UConn is chasing championship history — but this could be Michigan’s title to lose",
+      "article_headline": "UConn is chasing championship history — but this could be Michigan’s title to lose"
+    },
+    {
+      "link": "https://apple.news/A8b28EBvsQiCd--CndrGAqg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-06 18:00:15",
+      "pub_time": "2026-04-06 17:02:17",
+      "publication": "Variety",
+      "author": "Michael Schneider",
+      "headline": "CBS announces sale of ‘The Late Show’ time slot after Stephen Colbert signs off",
+      "article_headline": "CBS announces sale of ‘The Late Show’ time slot after Stephen Colbert signs off"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 18:00:15",
+      "pub_time": "2026-04-06 17:02:44",
+      "publication": "The Wall Street Journal",
+      "author": "Roshan Fernandez",
+      "headline": "Harvard’s push to cap A grades has students howling in protest",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AssAusXDKTnas2M_dAiziMw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-06 18:00:15",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Obama Presidential Center museum-ticket sales go live May 6",
+      "article_headline": "Obama Presidential Center museum-ticket sales go live May 6"
+    }
+  ]
+}
