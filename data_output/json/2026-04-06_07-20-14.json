@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-06 07:20:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AmTxrYvQrT_esDtU9IhBKXg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-06 07:20:14",
+      "pub_time": "2026-04-06 07:00:16",
+      "publication": "NPR",
+      "author": "NPR Staff",
+      "headline": "Iran pushes back against Trump’s deadline to open Strait of Hormuz",
+      "article_headline": "Iran pushes back against Trump’s deadline to open Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AztdNkFU_Tu2IrMLlmPk2PQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-06 07:20:14",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Artemis crew reaches the moon, approaches record-breaking distance from Earth",
+      "article_headline": "Artemis crew reaches the moon, approaches record-breaking distance from Earth"
+    },
+    {
+      "link": "https://apple.news/AOwerPdXJR2ab-WnsNAq0zw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-06 07:20:14",
+      "pub_time": "2026-04-06 07:00:15",
+      "publication": "POLITICO",
+      "author": "Blake Jones",
+      "headline": "Trump endorses Steve Hilton in California governor’s race",
+      "article_headline": "Trump endorses Steve Hilton in California governor’s race"
+    },
+    {
+      "link": "https://apple.news/AvKpkBwZbT1iE0G_lrLtOzg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-06 07:20:14",
+      "pub_time": "2026-04-06 07:00:43",
+      "publication": "NBC News",
+      "author": "Daniel Arkin",
+      "headline": "Savannah Guthrie returns to “Today” as search for her 84-year-old mother continues",
+      "article_headline": "Savannah Guthrie returns to “Today” as search for her 84-year-old mother continues"
+    },
+    {
+      "link": "https://apple.news/AOwerPdXJR2ab-WnsNAq0zw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-06 07:20:14",
+      "pub_time": "2026-04-06 07:00:16",
+      "publication": "POLITICO",
+      "author": "Blake Jones",
+      "headline": "Trump endorses Steve Hilton in California governor’s race",
+      "article_headline": "Trump endorses Steve Hilton in California governor’s race"
+    },
+    {
+      "link": "https://apple.news/AvKpkBwZbT1iE0G_lrLtOzg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-06 07:20:14",
+      "pub_time": "2026-04-06 07:00:44",
+      "publication": "NBC News",
+      "author": "Daniel Arkin",
+      "headline": "Savannah Guthrie returns to “Today” as search for her 84-year-old mother continues",
+      "article_headline": "Savannah Guthrie returns to “Today” as search for her 84-year-old mother continues"
+    },
+    {
+      "link": "https://apple.news/A-HcHOeGDTVWLCIaFnGYd2w",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-06 07:20:14",
+      "pub_time": "2026-04-06 07:01:11",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "A famous hurricane-forecast map will get a big makeover this season",
+      "article_headline": "A famous hurricane-forecast map will get a big makeover this season"
+    }
+  ]
+}
