@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-06 05:20:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Al2dfRTSCS_2kThaf4D0tJg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-06 05:20:14",
+      "pub_time": "2026-04-06 05:10:15",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Airstrikes on Iran kill more than 25 as new ceasefire proposal is shared",
+      "article_headline": "Airstrikes on Iran kill more than 25 as new ceasefire proposal is shared"
+    },
+    {
+      "link": "https://apple.news/AkTJrJcDzRAKojMfWHBljRA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-06 05:20:14",
+      "pub_time": "2026-04-06 05:10:42",
+      "publication": "The Wall Street Journal",
+      "author": "Vera Bergengruen, Alexander Ward,, Michael R. Gordon, and Shelby Holliday",
+      "headline": "A downed airman, a mountain hideout and a high-risk rescue in Iran",
+      "article_headline": "A downed airman, a mountain hideout and a high-risk rescue in Iran"
+    },
+    {
+      "link": "https://apple.news/AkTJrJcDzRAKojMfWHBljRA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-06 05:20:14",
+      "pub_time": "2026-04-06 05:10:15",
+      "publication": "The Wall Street Journal",
+      "author": "Vera Bergengruen, Alexander Ward,, Michael R. Gordon, and Shelby Holliday",
+      "headline": "A downed airman, a mountain hideout and a high-risk rescue in Iran",
+      "article_headline": "A downed airman, a mountain hideout and a high-risk rescue in Iran"
+    },
+    {
+      "link": "https://apple.news/AbCtB5oZ0S6Ch3iCMUzh1JQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-06 05:20:14",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "NASA’s Artemis II crew readies for lunar flyby today",
+      "article_headline": "NASA’s Artemis II crew readies for lunar flyby today"
+    },
+    {
+      "link": "https://apple.news/AvKpkBwZbT1iE0G_lrLtOzg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-06 05:20:14",
+      "pub_time": "2026-04-06 05:11:09",
+      "publication": "NBC News",
+      "author": "Daniel Arkin",
+      "headline": "Savannah Guthrie returns to “TODAY” as search for her 84-year-old mother continues",
+      "article_headline": "Savannah Guthrie returns to “TODAY” as search for her 84-year-old mother continues"
+    },
+    {
+      "link": "https://apple.news/AvKpkBwZbT1iE0G_lrLtOzg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-06 05:20:14",
+      "pub_time": "2026-04-06 05:10:42",
+      "publication": "NBC News",
+      "author": "Daniel Arkin",
+      "headline": "Savannah Guthrie returns to “TODAY” as search for her 84-year-old mother continues",
+      "article_headline": "Savannah Guthrie returns to “TODAY” as search for her 84-year-old mother continues"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 05:20:14",
+      "pub_time": "2026-04-06 05:11:10",
+      "publication": "The Washington Post",
+      "author": "Ariana Eunjung Cha",
+      "headline": "Surprising links between autism, Alzheimer’s could change how we treat both",
+      "article_headline": ""
+    }
+  ]
+}
