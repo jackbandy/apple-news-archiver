@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-07 16:20:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ALBGVe_AWQhyqkDaJsh0S1A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-07 16:20:15",
+      "pub_time": "2026-04-07 15:49:17",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump says “a whole civilization will die tonight” if a deal with Iran isn’t reached, MORE COVERAGE",
+      "article_headline": "Trump warns a 'whole civilization will die' if a deal with Iran isn't reached"
+    },
+    {
+      "link": "https://apple.news/AUl8I3prARK6hER0d_FbeBg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-07 16:20:15",
+      "pub_time": "2026-04-07 15:49:49",
+      "publication": "Fox News",
+      "author": "Brian Flood",
+      "headline": "American journalist kidnapped in Iraq is set free by Iran-backed militia group",
+      "article_headline": "American journalist kidnapped in Iraq is set free by Iran-backed militia group"
+    },
+    {
+      "link": "https://apple.news/Av2tMfmgKSUyfzg8VuHn-GA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-07 16:20:15",
+      "pub_time": "2026-04-07 15:50:17",
+      "publication": "ABC News",
+      "author": "Armando Garcia",
+      "headline": "ICE releases Army soldier’s newlywed wife arrested at military base",
+      "article_headline": "ICE releases Army soldier’s newlywed wife arrested at military base"
+    },
+    {
+      "link": "https://apple.news/AUl8I3prARK6hER0d_FbeBg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-07 16:20:15",
+      "pub_time": "2026-04-07 15:49:50",
+      "publication": "Fox News",
+      "author": "Brian Flood",
+      "headline": "American journalist kidnapped in Iraq is set free by Iran-backed militia group",
+      "article_headline": "American journalist kidnapped in Iraq is set free by Iran-backed militia group"
+    },
+    {
+      "link": "https://apple.news/Av2tMfmgKSUyfzg8VuHn-GA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-07 16:20:15",
+      "pub_time": "2026-04-07 15:50:18",
+      "publication": "ABC News",
+      "author": "Armando Garcia",
+      "headline": "ICE releases Army soldier’s newlywed wife arrested at military base",
+      "article_headline": "ICE releases Army soldier’s newlywed wife arrested at military base"
+    },
+    {
+      "link": "https://apple.news/AP3mRCUXYRE69qJzob7yVhA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-07 16:20:15",
+      "pub_time": "",
+      "publication": "Scientific American",
+      "author": "",
+      "headline": "NASA’s Artemis II moon astronauts make first-ever ship-to-ship call to ISS",
+      "article_headline": "NASA’s Artemis II moon astronauts make first-ever ship-to-ship call to ISS"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-07 16:20:15",
+      "pub_time": "2026-04-07 15:50:13",
+      "publication": "Austin American-Statesman",
+      "author": "",
+      "headline": "“Bones all over”: 100,000-year-old fossils found in Texas cave",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

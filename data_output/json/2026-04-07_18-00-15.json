@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-07 18:00:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AChc6arDtQfib3nyO4KwFOA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-07 18:00:15",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump agrees to 2-week ceasefire with Iran if Hormuz re-opened, MORE COVERAGE, LIVE",
+      "article_headline": "Trump Agrees to Two-Week Cease-Fire With Iran if Hormuz Re-Opened"
+    },
+    {
+      "link": "https://apple.news/Av2tMfmgKSUyfzg8VuHn-GA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-07 18:00:15",
+      "pub_time": "2026-04-07 17:57:49",
+      "publication": "ABC News",
+      "author": "Armando Garcia",
+      "headline": "ICE releases Army soldier’s newlywed wife arrested at military base",
+      "article_headline": "ICE releases Army soldier’s newlywed wife arrested at military base"
+    },
+    {
+      "link": "https://apple.news/AUl8I3prARK6hER0d_FbeBg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-07 18:00:15",
+      "pub_time": "2026-04-07 17:58:17",
+      "publication": "Fox News",
+      "author": "Brian Flood",
+      "headline": "American journalist kidnapped in Iraq is set free by Iran-backed militia group",
+      "article_headline": "American journalist kidnapped in Iraq is set free by Iran-backed militia group"
+    },
+    {
+      "link": "https://apple.news/Av2tMfmgKSUyfzg8VuHn-GA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-07 18:00:15",
+      "pub_time": "2026-04-07 17:57:51",
+      "publication": "ABC News",
+      "author": "Armando Garcia",
+      "headline": "ICE releases Army soldier’s newlywed wife arrested at military base",
+      "article_headline": "ICE releases Army soldier’s newlywed wife arrested at military base"
+    },
+    {
+      "link": "https://apple.news/AUl8I3prARK6hER0d_FbeBg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-07 18:00:15",
+      "pub_time": "2026-04-07 17:58:19",
+      "publication": "Fox News",
+      "author": "Brian Flood",
+      "headline": "American journalist kidnapped in Iraq is set free by Iran-backed militia group",
+      "article_headline": "American journalist kidnapped in Iraq is set free by Iran-backed militia group"
+    },
+    {
+      "link": "https://apple.news/AZFJi4eO2Q9aOkX5WSPNivA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-07 18:00:15",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Mullin pledges progress on disaster relief during his first official trip as DHS secretary",
+      "article_headline": "Mullin pledges progress on disaster relief during his first official trip as DHS secretary"
+    },
+    {
+      "link": "https://apple.news/Aj2RVaaI6QhOAoOd5wG3pog",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-07 18:00:15",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "Artemis II astronauts capture “Earthset” — and a rare solar eclipse from the far side of the moon",
+      "article_headline": "Artemis II astronauts capture “Earthset” — and a rare solar eclipse from the far side of the moon"
+    }
+  ]
+}

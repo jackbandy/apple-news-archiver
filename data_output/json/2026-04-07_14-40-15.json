@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-07 14:40:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AOpNJ9FzASpmm-t6VympLBg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-07 14:40:15",
+      "pub_time": "2026-04-07 13:42:18",
+      "publication": "The Washington Post",
+      "author": "Isaac Arnsdorf, Sammy Westfall, and Tara Copp",
+      "headline": "Trump says “a whole civilization will die” as Iran freezes talks",
+      "article_headline": "Trump says “a whole civilization will die” as Iran freezes talks"
+    },
+    {
+      "link": "https://apple.news/AuJB9Tse1T7qRTdDAp-pHeQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-07 14:40:15",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Georgia runoff puts Trump influence to the test in MAGA stronghold",
+      "article_headline": "Georgia runoff puts Trump influence to the test in MAGA stronghold"
+    },
+    {
+      "link": "https://apple.news/AJQ2UojDCQ-qVFf37UWl3KQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-07 14:40:15",
+      "pub_time": "2026-04-07 13:41:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Army soldier tries to halt wife’s deportation after she was detained on military base",
+      "article_headline": "Army soldier tries to halt wife’s deportation after she was detained on military base"
+    },
+    {
+      "link": "https://apple.news/AL3zVMz6_S3OSY53v2OdtFQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-07 14:40:15",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Why the Artemis II crew proposed naming a moon crater “Carroll”",
+      "article_headline": "Why the Artemis II crew proposed naming a moon crater “Carroll”"
+    },
+    {
+      "link": "https://apple.news/AL-5tceYoRUCxX4oLCGD7Lg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-07 14:40:15",
+      "pub_time": "",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "London music festival canceled after headliner Kanye West blocked from coming to U.K.",
+      "article_headline": "London music festival canceled after headliner Kanye West blocked from coming to U.K."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-07 14:40:15",
+      "pub_time": "2026-04-07 13:42:46",
+      "publication": "The Wall Street Journal",
+      "author": "Andrew Beaton and Joshua Robinson",
+      "headline": "The 20-year-old chess prodigy laying waste to the world’s top grandmasters",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ABEoasatlRyqxZuntRgzmuw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-07 14:40:15",
+      "pub_time": "",
+      "publication": "ABC7 Chicago",
+      "author": "",
+      "headline": "Local News, Chicago, Chicago Bears legend Steve “Mongo” McMichael diagnosed posthumously with CTE",
+      "article_headline": "Chicago Bears legend Steve “Mongo” McMichael diagnosed posthumously with CTE"
+    }
+  ]
+}
