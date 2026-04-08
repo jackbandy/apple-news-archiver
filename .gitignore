@@ -4,3 +4,4 @@ logs/
 config_real.py
 config-real.py
 .venv/
+.device_rotation

@@ -1,10 +1,17 @@
 # config-demo.py — template for public use
 # Copy this to config-real.py and fill in your values.
 
-# Simulator device settings (update via: xcrun simctl list devices)
-device_name_and_os = 'iPhone 17 Pro Max'
-device_os = '18.0'
-udid = 'YOUR-SIMULATOR-UDID-HERE'
+# Devices to rotate through. Each run picks the next device in order.
+# Format: (name, os_version, udid)
+# To use a single device, just list one entry.
+DEVICES = [
+    ('iPhone 17 Pro Max', '18.0', 'YOUR-SIMULATOR-UDID-HERE'),
+]
+
+# Active device — set automatically by config.py rotation logic
+device_name_and_os = DEVICES[0][0]
+device_os = DEVICES[0][1]
+udid = DEVICES[0][2]
 
 # Output paths
 output_folder = 'data_output'

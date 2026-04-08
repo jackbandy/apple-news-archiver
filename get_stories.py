@@ -82,6 +82,8 @@ def main():
         signal.signal(signal.SIGALRM, _timeout_handler)
         signal.alarm(MAX_RUN_SECONDS)
 
+    print("Device: {} ({})".format(device_name_and_os, udid))
+
     # Terminate the app cleanly before wiping data (avoids the app rewriting
     # cache files as we delete them)
     try:
@@ -461,7 +463,7 @@ def collect_home_page(driver, run_time):
             )
             if no_progress_streak >= 10 and not still_searching_trending:
                 break  # nothing new after consecutive scrolls
-            if no_progress_streak >= 20:
+            if no_progress_streak >= 40:
                 print("Trending not found after scrolling through mid-feed, stopping")
                 break
         else:
