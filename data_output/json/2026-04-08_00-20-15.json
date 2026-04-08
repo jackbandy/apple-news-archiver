@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-08 00:20:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ApFJrnyp5SrmPRDZ9dAD0Cg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-08 00:20:15",
+      "pub_time": "2026-04-07 23:43:17",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S., Israel, and Iran agree to a 2-week ceasefire as Trump pulls back on his threats",
+      "article_headline": "U.S., Israel, and Iran agree to a 2-week ceasefire as Trump pulls back on his threats"
+    },
+    {
+      "link": "https://apple.news/ATYiEaBRRQE-yVaK-nlLG_A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-08 00:20:15",
+      "pub_time": "",
+      "publication": "Georgia Recorder",
+      "author": "",
+      "headline": "Republican Clay Fuller wins Georgia special election to replace Marjorie Taylor Greene",
+      "article_headline": "Fuller wins runoff to represent northwest Georgia in Congress but Democrats chalk up gains"
+    },
+    {
+      "link": "https://apple.news/AGKe_dxsnQbmFF2WmrX-5eQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-08 00:20:15",
+      "pub_time": "2026-04-07 23:43:16",
+      "publication": "Milwaukee Journal Sentinel",
+      "author": "",
+      "headline": "Chris Taylor wins Wisconsin Supreme Court race, growing liberal majority",
+      "article_headline": "Liberal Chris Taylor cruises to Wisconsin Supreme Court win"
+    },
+    {
+      "link": "https://apple.news/A45PoRE8tSzKd48GA83XPrA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-08 00:20:15",
+      "pub_time": "2026-04-07 23:43:44",
+      "publication": "NPR",
+      "author": "Selena Simmons-Duffin",
+      "headline": "Telehealth abortion will remain available for now, after a federal judge’s ruling",
+      "article_headline": "Telehealth abortion will remain available for now, after a federal judge’s ruling"
+    },
+    {
+      "link": "https://apple.news/AGKe_dxsnQbmFF2WmrX-5eQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-08 00:20:15",
+      "pub_time": "2026-04-07 23:43:17",
+      "publication": "Milwaukee Journal Sentinel",
+      "author": "",
+      "headline": "Chris Taylor wins Wisconsin Supreme Court race, growing liberal majority",
+      "article_headline": "Liberal Chris Taylor cruises to Wisconsin Supreme Court win"
+    },
+    {
+      "link": "https://apple.news/A45PoRE8tSzKd48GA83XPrA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-08 00:20:15",
+      "pub_time": "2026-04-07 23:43:44",
+      "publication": "NPR",
+      "author": "Selena Simmons-Duffin",
+      "headline": "Telehealth abortion will remain available for now, after a federal judge’s ruling",
+      "article_headline": "Telehealth abortion will remain available for now, after a federal judge’s ruling"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-08 00:20:15",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Nantucket’s oceanfront homes are sliding into the sea. The locals don’t care.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
