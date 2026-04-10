@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-10 06:00:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AsPH1M_WDSEqk08bYdKuJ4w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-10 06:00:18",
+      "pub_time": "2026-04-10 05:43:19",
+      "publication": "The Wall Street Journal",
+      "author": "Omar Abdel-baqui, Alex Leary, and Alexander Ward",
+      "headline": "U.S. races to keep Israel’s fight in Lebanon from derailing ceasefire",
+      "article_headline": "U.S. races to keep Israel’s fight in Lebanon from derailing ceasefire"
+    },
+    {
+      "link": "https://apple.news/Ar2omPzZIRCCDQ2ODvgKjtw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-10 06:00:18",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Democrats grow bolder on talk about removing Trump from office after his threat to wipe out Iran",
+      "article_headline": "Democrats grow bolder on talk about removing Trump from office after his threat to wipe out Iran"
+    },
+    {
+      "link": "https://apple.news/AWOCNH55xS06e5E7ydK5dog",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-10 06:00:18",
+      "pub_time": "2026-04-10 05:42:18",
+      "publication": "NBC News",
+      "author": "Rob Wile",
+      "headline": "Inflation report to offer the first glimpse of economic impacts from war in Iran",
+      "article_headline": "Inflation report to offer the first glimpse of economic impacts from war in Iran"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-10 06:00:18",
+      "pub_time": "2026-04-10 05:42:46",
+      "publication": "The Washington Post",
+      "author": "Justin Jouvenal",
+      "headline": "Supreme Court remade by Trump ushers in historic defeats for civil rights",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ay805832nQsWirXNqjEzDdw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-10 06:00:18",
+      "pub_time": "2026-04-10 05:42:52",
+      "publication": "Scientific American",
+      "author": "Claire Cameron",
+      "headline": "NASA’s Artemis II mission’s return to Earth, hour by hour",
+      "article_headline": "NASA’s Artemis II mission’s return to Earth, hour by hour"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-10 06:00:18",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The financial-planning expert who’s boycotting 529s for his kids",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ay805832nQsWirXNqjEzDdw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-10 06:00:18",
+      "pub_time": "2026-04-10 05:42:25",
+      "publication": "Scientific American",
+      "author": "Claire Cameron",
+      "headline": "NASA’s Artemis II mission’s return to Earth, hour by hour",
+      "article_headline": "NASA’s Artemis II mission’s return to Earth, hour by hour"
+    }
+  ]
+}
