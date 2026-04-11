@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-11 12:00:23",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AIpyuejvIS4OuHTcBxU9Kyg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-11 12:00:23",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "U.S. warships transit Hormuz as Iran talks get under way, LIVE",
+      "article_headline": "U.S. Warships Transit Hormuz as U.S.-Iran Meet Face-to-Face for Peace Talks"
+    },
+    {
+      "link": "https://apple.news/AapsJxGGeTI2sWxgO5n7D_A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-11 12:00:23",
+      "pub_time": "2026-04-11 11:10:52",
+      "publication": "CBS News",
+      "author": "Caitlin Yilek",
+      "headline": "House Democrats call on Swalwell to drop out of California governor race amid sexual assault allegations",
+      "article_headline": "House Democrats call on Swalwell to drop out of California governor race amid sexual assault allegations"
+    },
+    {
+      "link": "https://apple.news/AapsJxGGeTI2sWxgO5n7D_A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-11 12:00:23",
+      "pub_time": "2026-04-11 11:10:25",
+      "publication": "CBS News",
+      "author": "Caitlin Yilek",
+      "headline": "House Democrats call on Swalwell to drop out of California governor race amid sexual assault allegations",
+      "article_headline": "House Democrats call on Swalwell to drop out of California governor race amid sexual assault allegations"
+    },
+    {
+      "link": "https://apple.news/Asw07yVN-SmO8CoUX81vUZA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-11 12:00:23",
+      "pub_time": "",
+      "publication": "TIME",
+      "author": "",
+      "headline": "How NASA achieved the historic Artemis II splashdown",
+      "article_headline": "How NASA achieved the historic Artemis II splashdown"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-11 12:00:23",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Rory McIlroy holds largest Masters lead ever through 36 holes after 9-birdie round",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AcQKNWBk7RMiIpJHkYpZDqQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RVOXh4R1dSV1NQU011R0xGMTR0VF9BI25mZl9paWQ%3D",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-11 12:00:23",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Climate, Where a megaflood could hit in the U.S. Plus, an invasive ant is rapidly spreading.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A81y6dZqdSeqczBaSVuOTmA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-11 12:00:23",
+      "pub_time": "2026-04-11 11:09:53",
+      "publication": "The Wall Street Journal",
+      "author": "Jeanne Whalen",
+      "headline": "Humans are stepping up their fight against flying carp",
+      "article_headline": "Humans are stepping up their fight against flying carp"
+    },
+    {
+      "link": "https://apple.news/A4CpOmb4xTH2CYydTJ5i73w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-11 12:00:23",
+      "pub_time": "2026-04-11 06:03:26",
+      "publication": "Real Simple",
+      "author": "Lisa Milbrand",
+      "headline": "My Book Club Has Read Hundreds of Books—These Are the Ones We Can't Stop Raving About",
+      "article_headline": "My Book Club Has Read Hundreds of Books—These Are the Ones We Can't Stop Raving About"
+    },
+    {
+      "link": "https://apple.news/ACRIXNDgbQA6MQhysaavKhQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-11 12:00:23",
+      "pub_time": "2026-04-10 19:03:59",
+      "publication": "BuzzFeed",
+      "author": "Dannica Ramirez",
+      "headline": "\"It Was Unheard Of In The '60s\": Older People Are Revealing The Normalized Practices Of Everyday Life That Are Quietly Killing Society, And Yikes",
+      "article_headline": "\"It Was Unheard Of In The '60s\": Older People Are Revealing The Normalized Practices Of Everyday Life That Are Quietly Killing Society, And Yikes"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-11 12:00:23",
+      "pub_time": "2026-04-10 12:04:26",
+      "publication": "",
+      "author": "Tom Warren",
+      "headline": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A8Ut-1_cLRveVEddHMDr7ug",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-11 12:00:23",
+      "pub_time": "2026-04-11 06:04:26",
+      "publication": "HuffPost",
+      "author": "Catherine Pearson",
+      "headline": "Too Many Parents Fail To Teach Their Sons This Vital Skill — And The Consequences Are Dire.",
+      "article_headline": "Too Many Parents Fail To Teach Their Sons This Vital Skill — And The Consequences Are Dire."
+    }
+  ]
+}
