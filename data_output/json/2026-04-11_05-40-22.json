@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-11 05:40:22",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ATvzH_azCRAq7zVEY0fgMlw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-11 05:40:22",
+      "pub_time": "",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Artemis II splashes down off coast of San Diego, ending historic mission",
+      "article_headline": "Orion capsule splashes down off coast of San Diego, ending historic mission"
+    },
+    {
+      "link": "https://apple.news/Ar4JXlDfzTR2CaZl_5HzV_Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-11 05:40:22",
+      "pub_time": "2026-04-11 00:40:52",
+      "publication": "Reuters",
+      "author": "Ariba Shahid, Asif Shahzad, and Parisa Hafezi",
+      "headline": "U.S., Iran set for peace talks but doubts emerge over Lebanon, sanctions",
+      "article_headline": "U.S., Iran set for peace talks but doubts emerge over Lebanon, sanctions"
+    },
+    {
+      "link": "https://apple.news/AksMp3EuaRRipV70e9hn7Aw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-11 05:40:22",
+      "pub_time": "2026-04-11 00:41:19",
+      "publication": "Los Angeles Times",
+      "author": "Seema Mehta, Dakota Smith, and Nicole Nixon",
+      "headline": "California governor candidate Eric Swalwell accused of sexually assaulting staff member",
+      "article_headline": "California governor candidate Eric Swalwell accused of sexually assaulting staff member"
+    },
+    {
+      "link": "https://apple.news/ARl-ReN-xTNuAxZ9p2CCF0Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-11 05:40:22",
+      "pub_time": "2026-04-11 00:41:52",
+      "publication": "NBC News",
+      "author": "Jared Perlo and David Ingram",
+      "headline": "AI runs this store. It’s lied, surveilled workers and tried to hire someone in Afghanistan.",
+      "article_headline": "AI runs this store. It’s lied, surveilled workers and tried to hire someone in Afghanistan."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-11 05:40:22",
+      "pub_time": "2026-04-11 00:42:24",
+      "publication": "National Geographic",
+      "author": "Christina Larson",
+      "headline": "Why these chimps have been at war for 8 years",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-11 05:40:22",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "The risks of America’s peptide craze, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AE6YVtxDnTBiTUl8Zo-9-VQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-11 05:40:22",
+      "pub_time": "2026-04-10 05:42:40",
+      "publication": "Complex",
+      "author": "Joe Price",
+      "headline": "Jada Pinkett Smith Responds to Will Smith's Ex-Friend Alleging He Fled Country Over Family's Threats",
+      "article_headline": "Jada Pinkett Smith Responds to Will Smith's Ex-Friend Alleging He Fled Country Over Family's Threats"
+    }
+  ]
+}
