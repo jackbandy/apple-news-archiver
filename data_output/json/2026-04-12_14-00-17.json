@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-12 14:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A6MCohppnSuqi6eR0MOByiw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-12 14:00:17",
+      "pub_time": "2026-04-12 13:35:20",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump threatens Strait of Hormuz blockade after U.S.-Iran ceasefire talks end without agreement",
+      "article_headline": "Trump threatens Strait of Hormuz blockade after U.S.-Iran ceasefire talks end without agreement"
+    },
+    {
+      "link": "https://apple.news/ADHmiNe9cQYCWzFqxPAGvjA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-12 14:00:17",
+      "pub_time": "2026-04-12 13:35:47",
+      "publication": "The Washington Post",
+      "author": "Mary Ilyushina and Catherine Belton",
+      "headline": "Record voter turnout as Hungary’s Viktor Orban fights for political survival",
+      "article_headline": "Record voter turnout as Hungary’s Viktor Orban fights for political survival"
+    },
+    {
+      "link": "https://apple.news/AzdsghnrcSXqfB3KlE8ZJAA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-12 14:00:17",
+      "pub_time": "2026-04-12 13:36:15",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "What’s next for the Artemis program? Here’s when NASA could return to the moon",
+      "article_headline": "What’s next for the Artemis program? Here’s when NASA could return to the moon"
+    },
+    {
+      "link": "https://apple.news/ADHmiNe9cQYCWzFqxPAGvjA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-12 14:00:17",
+      "pub_time": "2026-04-12 13:35:47",
+      "publication": "The Washington Post",
+      "author": "Mary Ilyushina and Catherine Belton",
+      "headline": "Record voter turnout as Hungary’s Viktor Orban fights for political survival",
+      "article_headline": "Record voter turnout as Hungary’s Viktor Orban fights for political survival"
+    },
+    {
+      "link": "https://apple.news/AzdsghnrcSXqfB3KlE8ZJAA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-12 14:00:17",
+      "pub_time": "2026-04-12 13:36:15",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "What’s next for the Artemis program? Here’s when NASA could return to the moon",
+      "article_headline": "What’s next for the Artemis program? Here’s when NASA could return to the moon"
+    },
+    {
+      "link": "https://apple.news/A9oIE9mWdStilfd_UXeU4lw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-12 14:00:17",
+      "pub_time": "",
+      "publication": "Inside Climate News",
+      "author": "",
+      "headline": "Britain’s most iconic fish nears breaking point",
+      "article_headline": "Britain’s most iconic fish nears breaking point"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 14:00:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Dramatic Masters Sunday on tap after Rory McIlroy slides, Cameron Young surges",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

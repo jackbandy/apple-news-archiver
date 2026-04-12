@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-12 18:00:20",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AIpyuejvIS4OuHTcBxU9Kyg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-12 18:00:20",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "U.S. military says Iran blockade on Strait of Hormuz will begin Monday, LIVE",
+      "article_headline": "U.S. Military Says Iran Blockade Will Begin Monday"
+    },
+    {
+      "link": "https://apple.news/ADHmiNe9cQYCWzFqxPAGvjA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-12 18:00:20",
+      "pub_time": "2026-04-12 17:38:49",
+      "publication": "The Washington Post",
+      "author": "Mary Ilyushina and Catherine Belton",
+      "headline": "Hungary’s Viktor Orbán, ally of Trump and Putin, concedes election defeat",
+      "article_headline": "Hungary’s Viktor Orbán, ally of Trump and Putin, concedes election defeat"
+    },
+    {
+      "link": "https://apple.news/A0wLwzngfShmAMzN3mTyzzw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-12 18:00:20",
+      "pub_time": "2026-04-12 17:39:17",
+      "publication": "POLITICO",
+      "author": "Cheyanne M. Daniels",
+      "headline": "Calls increase for expulsion of Reps. Swalwell and Gonzales over sexual abuse allegations",
+      "article_headline": "Calls increase for expulsion of Reps. Swalwell and Gonzales over sexual abuse allegations"
+    },
+    {
+      "link": "https://apple.news/ADHmiNe9cQYCWzFqxPAGvjA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-12 18:00:20",
+      "pub_time": "2026-04-12 17:37:50",
+      "publication": "The Washington Post",
+      "author": "Mary Ilyushina and Catherine Belton",
+      "headline": "Hungary’s Viktor Orbán, ally of Trump and Putin, concedes election defeat",
+      "article_headline": "Hungary’s Viktor Orbán, ally of Trump and Putin, concedes election defeat"
+    },
+    {
+      "link": "https://apple.news/A0wLwzngfShmAMzN3mTyzzw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-12 18:00:20",
+      "pub_time": "2026-04-12 17:38:17",
+      "publication": "POLITICO",
+      "author": "Cheyanne M. Daniels",
+      "headline": "Calls increase for expulsion of Reps. Swalwell and Gonzales over sexual abuse allegations",
+      "article_headline": "Calls increase for expulsion of Reps. Swalwell and Gonzales over sexual abuse allegations"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 18:00:20",
+      "pub_time": "2026-04-12 17:38:45",
+      "publication": "Los Angeles Times",
+      "author": "Nabih Bulos",
+      "headline": "War has turned this African capital into a city of graves",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 18:00:20",
+      "pub_time": "2026-04-12 17:37:50",
+      "publication": "Los Angeles Times",
+      "author": "Nabih Bulos",
+      "headline": "War has turned this African capital into a city of graves",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
