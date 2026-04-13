@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-13 02:40:24",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AHjZTFG0JTmuecgS9aiyo_w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-13 02:40:24",
+      "pub_time": "2026-04-12 23:40:26",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Mark Hodge, and Kayla Hayempour",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AP7tP4wHdQYKbn9kP1BzLGQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-13 02:40:24",
+      "pub_time": "2026-04-12 23:40:54",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations",
+      "article_headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations"
+    },
+    {
+      "link": "https://apple.news/AAzOA813BQYitQ5l4KW8Jzg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-13 02:40:24",
+      "pub_time": "2026-04-12 23:41:21",
+      "publication": "The Washington Post",
+      "author": "Susannah George, Natalie Allison, and Shaiq Hussain",
+      "headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
+      "article_headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal"
+    },
+    {
+      "link": "https://apple.news/AWax3lG9zReedBeuslYZW1A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-13 02:40:24",
+      "pub_time": "2026-04-12 23:41:53",
+      "publication": "The Hill",
+      "author": "Tara Suter",
+      "headline": "U.S. military says 5 killed in Eastern Pacific boat strikes",
+      "article_headline": "U.S. military says 5 killed in Eastern Pacific boat strikes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 02:40:24",
+      "pub_time": "2026-04-12 23:42:26",
+      "publication": "National Geographic",
+      "author": "Ruby Mellen",
+      "headline": "What a “super” El Niño means for the planet",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 02:40:24",
+      "pub_time": "2026-04-12 23:42:26",
+      "publication": "The Atlantic",
+      "author": "Katherine J. Wu",
+      "headline": "The biggest hope for curing autoimmune disease",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AVLjH71K4T_SjfWEeBlBZrA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-13 02:40:24",
+      "pub_time": "2026-04-12 12:42:32",
+      "publication": "Southern Living",
+      "author": "Christine Fiorentino",
+      "headline": "Why You Should Wash Bananas As Soon As You Get Home (It Matters More Than You Think)",
+      "article_headline": "Why You Should Wash Bananas As Soon As You Get Home (It Matters More Than You Think)"
+    },
+    {
+      "link": "https://apple.news/A8P6i7eaARtqBDI7Nr7L6CQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-13 02:40:24",
+      "pub_time": "2026-04-12 05:42:59",
+      "publication": "BuzzFeed",
+      "author": "Dannica Ramirez",
+      "headline": "I Need Someone Older Than 40 To Confirm These Common Experiences From The '60s, '70s, And '80s Are Actually Real, PLEASE",
+      "article_headline": "I Need Someone Older Than 40 To Confirm These Common Experiences From The '60s, '70s, And '80s Are Actually Real, PLEASE"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-13 02:40:24",
+      "pub_time": "2026-04-12 06:43:32",
+      "publication": "",
+      "author": "Christina Manian, RDN",
+      "headline": "We Asked 3 Dietitians to Pick the Healthiest Sandwich Bread—and They All Chose the Same One",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ApiwOLsw4Q7aMf7DoHf91Ng",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-13 02:40:24",
+      "pub_time": "2026-04-12 07:43:32",
+      "publication": "CNBC",
+      "author": "Dr. Cortney Warren, Contributor",
+      "headline": "Harvard psychologist: Couples who are 'emotionally secure' regularly talk about 8 things",
+      "article_headline": "Harvard psychologist: Couples who are 'emotionally secure' regularly talk about 8 things"
+    },
+    {
+      "link": "https://apple.news/An3zsiKspQdS2I5Qsa_QP4g?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RoODFreUZ1UFJIV2RGUGFXT0tHWU5RI25mZl9paWQ%3D",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-13 02:40:24",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "The biggest IRS traps to avoid this year",
+      "article_headline": ""
+    }
+  ]
+}

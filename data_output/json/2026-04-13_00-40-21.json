@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-13 00:40:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AHjZTFG0JTmuecgS9aiyo_w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-13 00:40:21",
+      "pub_time": "2026-04-12 23:40:23",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Mark Hodge, and Kayla Hayempour",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AP7tP4wHdQYKbn9kP1BzLGQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-13 00:40:21",
+      "pub_time": "2026-04-12 23:40:51",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations",
+      "article_headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations"
+    },
+    {
+      "link": "https://apple.news/AAzOA813BQYitQ5l4KW8Jzg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-13 00:40:21",
+      "pub_time": "2026-04-12 23:41:18",
+      "publication": "The Washington Post",
+      "author": "Susannah George, Natalie Allison, and Shaiq Hussain",
+      "headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
+      "article_headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal"
+    },
+    {
+      "link": "https://apple.news/AWax3lG9zReedBeuslYZW1A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-13 00:40:21",
+      "pub_time": "2026-04-12 23:41:52",
+      "publication": "The Hill",
+      "author": "Tara Suter",
+      "headline": "U.S. military says 5 killed in Eastern Pacific boat strikes",
+      "article_headline": "U.S. military says 5 killed in Eastern Pacific boat strikes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 00:40:21",
+      "pub_time": "2026-04-12 23:42:19",
+      "publication": "National Geographic",
+      "author": "Ruby Mellen",
+      "headline": "What a “super” El Niño means for the planet",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 00:40:21",
+      "pub_time": "2026-04-12 23:42:25",
+      "publication": "The Atlantic",
+      "author": "Katherine J. Wu",
+      "headline": "The biggest hope for curing autoimmune disease",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aa7YxMubbQmaHD_qQGKIrUw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-13 00:40:21",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Evanston pastor resigns amid accusations he used parish funds for personal finances",
+      "article_headline": "Evanston pastor resigns amid accusations he used parish funds for personal finances"
+    },
+    {
+      "link": "https://apple.news/A9sY6FrvDREWaPVzwSG-O6w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-13 00:40:21",
+      "pub_time": "2026-04-12 08:43:29",
+      "publication": "Autoblog",
+      "author": "Marnus Moolman",
+      "headline": "Subaru Ditched the Wagon and Outback Sales Dropped Over 40%",
+      "article_headline": "Subaru Ditched the Wagon and Outback Sales Dropped Over 40%"
+    },
+    {
+      "link": "https://apple.news/Az4RXu5aySHe6uJkcuFuVdg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-13 00:40:21",
+      "pub_time": "2026-04-12 18:43:57",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "One dead and six wounded after mass shooting at Chick-fil-A in New Jersey",
+      "article_headline": "One dead and six wounded after mass shooting at Chick-fil-A in New Jersey"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-13 00:40:21",
+      "pub_time": "2026-04-12 10:44:31",
+      "publication": "",
+      "author": "Lacey Muinos",
+      "headline": "What Really Happens When You Eat Avocados Every Day, According to Registered Dietitians",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaluNp_pnToqCcFw3YbCmnw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-13 00:40:21",
+      "pub_time": "2026-04-12 06:44:31",
+      "publication": "BuzzFeed",
+      "author": "Kelley Greene",
+      "headline": "\"Literally A Cheat Code\": People Are Sharing These 41 Different Jobs That Could Totally Change Your Financial Situation",
+      "article_headline": "\"Literally A Cheat Code\": People Are Sharing These 41 Different Jobs That Could Totally Change Your Financial Situation"
+    }
+  ]
+}

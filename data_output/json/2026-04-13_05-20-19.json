@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-13 05:20:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A4ptb-JMNTNWiRtA7yfbk1w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-13 05:20:19",
+      "pub_time": "2026-04-13 05:03:21",
+      "publication": "Reuters",
+      "author": "Bo Erickson and Hatem Maher",
+      "headline": "U.S. to blockade Iranian ports after talks fail to yield a deal to end war",
+      "article_headline": "U.S. to blockade Iranian ports after talks fail to yield a deal to end war"
+    },
+    {
+      "link": "https://apple.news/AP7tP4wHdQYKbn9kP1BzLGQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-13 05:20:19",
+      "pub_time": "",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Eric Swalwell exits California governor campaign after investigation into sexual-assault allegations",
+      "article_headline": "Eric Swalwell exits California governor campaign after investigation into sexual-assault allegations"
+    },
+    {
+      "link": "https://apple.news/ADLVNEU2RQV6elbQU4pim2g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-13 05:20:19",
+      "pub_time": "2026-04-13 05:03:21",
+      "publication": "NBC News",
+      "author": "Claudio Lavanga, Tara Prindiville, and Raquel Coronell Uribe",
+      "headline": "Trump assails Pope Leo as “weak” and “terrible” after pontiff criticizes war in Iran",
+      "article_headline": "Pope Leo says he has 'no fear' after Trump labels him 'weak' and 'terrible' in feud over Iran war"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 05:20:19",
+      "pub_time": "2026-04-13 05:03:48",
+      "publication": "National Geographic",
+      "author": "Ruby Mellen",
+      "headline": "What a “super” El Niño means for the planet",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_EACctY-TuO1Rs4oorl7Dw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-13 05:20:19",
+      "pub_time": "2026-04-13 05:03:54",
+      "publication": "The Wall Street Journal",
+      "author": "Richard Rubin",
+      "headline": "America’s new tax mantra: “The IRS isn’t going to catch me.”",
+      "article_headline": "America’s new tax mantra: “The IRS isn’t going to catch me.”"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 05:20:19",
+      "pub_time": "2026-04-13 05:03:21",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "In Florida, it’s easier than ever to gamble your life savings from the couch",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_EACctY-TuO1Rs4oorl7Dw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-13 05:20:19",
+      "pub_time": "2026-04-13 05:03:27",
+      "publication": "The Wall Street Journal",
+      "author": "Richard Rubin",
+      "headline": "America’s new tax mantra: “The IRS isn’t going to catch me.”",
+      "article_headline": "America’s new tax mantra: “The IRS isn’t going to catch me.”"
+    }
+  ]
+}

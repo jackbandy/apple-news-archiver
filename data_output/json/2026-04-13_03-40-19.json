@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-13 03:40:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AAzOA813BQYitQ5l4KW8Jzg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-13 03:40:19",
+      "pub_time": "2026-04-13 03:29:21",
+      "publication": "The Washington Post",
+      "author": "Susannah George, Natalie Allison, and Shaiq Hussain",
+      "headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
+      "article_headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal"
+    },
+    {
+      "link": "https://apple.news/AP7tP4wHdQYKbn9kP1BzLGQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-13 03:40:19",
+      "pub_time": "2026-04-13 03:29:49",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations",
+      "article_headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations"
+    },
+    {
+      "link": "https://apple.news/AWax3lG9zReedBeuslYZW1A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-13 03:40:19",
+      "pub_time": "2026-04-13 03:30:16",
+      "publication": "The Hill",
+      "author": "Tara Suter",
+      "headline": "U.S. military says 5 killed in Eastern Pacific boat strikes",
+      "article_headline": "U.S. military says 5 killed in Eastern Pacific boat strikes"
+    },
+    {
+      "link": "https://apple.news/AP7tP4wHdQYKbn9kP1BzLGQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-13 03:40:19",
+      "pub_time": "2026-04-13 03:28:48",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations",
+      "article_headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations"
+    },
+    {
+      "link": "https://apple.news/AWax3lG9zReedBeuslYZW1A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-13 03:40:19",
+      "pub_time": "2026-04-13 03:29:15",
+      "publication": "The Hill",
+      "author": "Tara Suter",
+      "headline": "U.S. military says 5 killed in Eastern Pacific boat strikes",
+      "article_headline": "U.S. military says 5 killed in Eastern Pacific boat strikes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 03:40:19",
+      "pub_time": "2026-04-13 03:29:43",
+      "publication": "National Geographic",
+      "author": "Ruby Mellen",
+      "headline": "What a “super” El Niño means for the planet",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 03:40:19",
+      "pub_time": "2026-04-13 03:28:48",
+      "publication": "National Geographic",
+      "author": "Ruby Mellen",
+      "headline": "What a “super” El Niño means for the planet",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

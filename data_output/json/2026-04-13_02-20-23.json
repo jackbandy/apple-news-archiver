@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-13 02:20:23",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AHjZTFG0JTmuecgS9aiyo_w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-13 02:20:23",
+      "pub_time": "2026-04-12 23:20:25",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Mark Hodge, and Kayla Hayempour",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AP7tP4wHdQYKbn9kP1BzLGQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-13 02:20:23",
+      "pub_time": "2026-04-12 23:20:53",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations",
+      "article_headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations"
+    },
+    {
+      "link": "https://apple.news/AAzOA813BQYitQ5l4KW8Jzg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-13 02:20:23",
+      "pub_time": "2026-04-12 23:21:20",
+      "publication": "The Washington Post",
+      "author": "Susannah George, Natalie Allison, and Shaiq Hussain",
+      "headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
+      "article_headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal"
+    },
+    {
+      "link": "https://apple.news/AWax3lG9zReedBeuslYZW1A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-13 02:20:23",
+      "pub_time": "2026-04-12 23:21:53",
+      "publication": "The Hill",
+      "author": "Tara Suter",
+      "headline": "U.S. military says 5 killed in Eastern Pacific boat strikes",
+      "article_headline": "U.S. military says 5 killed in Eastern Pacific boat strikes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 02:20:23",
+      "pub_time": "2026-04-12 23:22:25",
+      "publication": "National Geographic",
+      "author": "Ruby Mellen",
+      "headline": "What a “super” El Niño means for the planet",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 02:20:23",
+      "pub_time": "2026-04-12 23:22:25",
+      "publication": "The Atlantic",
+      "author": "Katherine J. Wu",
+      "headline": "The biggest hope for curing autoimmune disease",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/An3zsiKspQdS2I5Qsa_QP4g?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RoODFreUZ1UFJIV2RGUGFXT0tHWU5RI25mZl9paWQ%3D",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-13 02:20:23",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "The biggest IRS traps to avoid this year",
+      "article_headline": ""
+    }
+  ]
+}

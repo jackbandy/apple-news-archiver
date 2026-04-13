@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-04-13 00:20:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AHjZTFG0JTmuecgS9aiyo_w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-13 00:20:21",
+      "pub_time": "2026-04-12 23:20:23",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Mark Hodge, and Kayla Hayempour",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AP7tP4wHdQYKbn9kP1BzLGQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-13 00:20:21",
+      "pub_time": "2026-04-12 23:20:51",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations",
+      "article_headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations"
+    },
+    {
+      "link": "https://apple.news/AAzOA813BQYitQ5l4KW8Jzg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-13 00:20:21",
+      "pub_time": "2026-04-12 23:21:18",
+      "publication": "The Washington Post",
+      "author": "Susannah George, Natalie Allison, and Shaiq Hussain",
+      "headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
+      "article_headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal"
+    },
+    {
+      "link": "https://apple.news/AWax3lG9zReedBeuslYZW1A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-13 00:20:21",
+      "pub_time": "2026-04-12 23:21:51",
+      "publication": "The Hill",
+      "author": "Tara Suter",
+      "headline": "U.S. military says 5 killed in Eastern Pacific boat strikes",
+      "article_headline": "U.S. military says 5 killed in Eastern Pacific boat strikes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 00:20:21",
+      "pub_time": "2026-04-12 23:22:23",
+      "publication": "National Geographic",
+      "author": "Ruby Mellen",
+      "headline": "What a “super” El Niño means for the planet",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 00:20:21",
+      "pub_time": "2026-04-12 23:22:23",
+      "publication": "The Atlantic",
+      "author": "Katherine J. Wu",
+      "headline": "The biggest hope for curing autoimmune disease",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A9sY6FrvDREWaPVzwSG-O6w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-13 00:20:21",
+      "pub_time": "2026-04-12 09:22:29",
+      "publication": "Autoblog",
+      "author": "Marnus Moolman",
+      "headline": "Subaru Ditched the Wagon and Outback Sales Dropped Over 40%",
+      "article_headline": "Subaru Ditched the Wagon and Outback Sales Dropped Over 40%"
+    },
+    {
+      "link": "https://apple.news/A8P6i7eaARtqBDI7Nr7L6CQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-13 00:20:21",
+      "pub_time": "2026-04-12 05:22:57",
+      "publication": "BuzzFeed",
+      "author": "Dannica Ramirez",
+      "headline": "I Need Someone Older Than 40 To Confirm These Common Experiences From The '60s, '70s, And '80s Are Actually Real, PLEASE",
+      "article_headline": "I Need Someone Older Than 40 To Confirm These Common Experiences From The '60s, '70s, And '80s Are Actually Real, PLEASE"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-13 00:20:21",
+      "pub_time": "2026-04-12 11:23:30",
+      "publication": "",
+      "author": "Lacey Muinos",
+      "headline": "What Really Happens When You Eat Avocados Every Day, According to Registered Dietitians",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AErbKUY-_SJCHHfL4vwbyEQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-13 00:20:21",
+      "pub_time": "2026-04-12 11:23:30",
+      "publication": "Martha Stewart",
+      "author": "Katelyn Chef",
+      "headline": "The 15 Dog Breeds That Live the Longest",
+      "article_headline": "The 15 Dog Breeds That Live the Longest"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 00:20:21",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Southern Living, RECIPE, 15 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
