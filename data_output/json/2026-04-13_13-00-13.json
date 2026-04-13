@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-13 13:00:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ANl-UXKmrTZKKG89DVTyjdw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-13 13:00:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "U.S. blockade of Strait of Hormuz takes effect, LIVE",
+      "article_headline": "U.S. Blockade of Strait of Hormuz Takes Effect"
+    },
+    {
+      "link": "https://apple.news/A33IIm-8MTv-PX4nrluGzyg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-13 13:00:13",
+      "pub_time": "",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "Congress returning from 2-week recess as Iran debate rages and members face expulsion",
+      "article_headline": "Congress returning from 2-week recess as Iran debate rages and members face expulsion"
+    },
+    {
+      "link": "https://apple.news/AUau0assRS9eT7p5qJVrpJg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-13 13:00:13",
+      "pub_time": "2026-04-13 12:51:15",
+      "publication": "Reuters",
+      "author": "Brad Brooks, Helen Coster, and Joseph Ax",
+      "headline": "Trump posts AI image of himself as Jesus-like figure, then removes it after widespread criticism",
+      "article_headline": "Trump posts AI image of himself as Jesus-like figure, then removes it after widespread criticism"
+    },
+    {
+      "link": "https://apple.news/AzV0stkbeTs6nl8DX7FOVUA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-13 13:00:13",
+      "pub_time": "2026-04-13 12:51:43",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration agrees to keep flying rainbow Pride flag at New York’s Stonewall monument",
+      "article_headline": "Trump administration agrees to keep flying rainbow Pride flag at New York’s Stonewall monument"
+    },
+    {
+      "link": "https://apple.news/AUau0assRS9eT7p5qJVrpJg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-13 13:00:13",
+      "pub_time": "2026-04-13 12:51:15",
+      "publication": "Reuters",
+      "author": "Brad Brooks, Helen Coster, and Joseph Ax",
+      "headline": "Trump posts AI image of himself as Jesus-like figure, then removes it after widespread criticism",
+      "article_headline": "Trump posts AI image of himself as Jesus-like figure, then removes it after widespread criticism"
+    },
+    {
+      "link": "https://apple.news/AzV0stkbeTs6nl8DX7FOVUA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-13 13:00:13",
+      "pub_time": "2026-04-13 12:51:43",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration agrees to keep flying rainbow Pride flag at New York’s Stonewall monument",
+      "article_headline": "Trump administration agrees to keep flying rainbow Pride flag at New York’s Stonewall monument"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 13:00:13",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "A summerlike heat wave will hit the East this week, worsening drought",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

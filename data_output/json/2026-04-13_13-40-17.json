@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-13 13:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AGydy-3EJRbaEi1pw8y8PNA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-13 13:40:17",
+      "pub_time": "2026-04-13 13:29:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. military blockade of Iranian ports underway in bid to pressure Tehran",
+      "article_headline": "U.S. military blockade of Iranian ports underway in bid to pressure Tehran"
+    },
+    {
+      "link": "https://apple.news/AjwpYoVPVRZWGA-mt9MDc5Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-13 13:40:17",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "House Ethics Committee investigating sexual-misconduct allegations against Rep. Eric Swalwell",
+      "article_headline": "House Ethics Committee investigating sexual-misconduct allegations against Rep. Eric Swalwell"
+    },
+    {
+      "link": "https://apple.news/AUau0assRS9eT7p5qJVrpJg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-13 13:40:17",
+      "pub_time": "2026-04-13 13:29:19",
+      "publication": "Reuters",
+      "author": "Brad Brooks, Helen Coster, and Joseph Ax",
+      "headline": "Trump posts, then deletes AI image of himself as Jesus-like figure following clash with Pope Leo",
+      "article_headline": "Trump posts, then deletes AI image of himself as Jesus-like figure following clash with Pope Leo"
+    },
+    {
+      "link": "https://apple.news/AYfG59QN4Qh2UGuB_UUR3mg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-13 13:40:17",
+      "pub_time": "2026-04-13 13:29:47",
+      "publication": "New York Post",
+      "author": "Peter Senzamici",
+      "headline": "Pride flag can fly at Stonewall Monument as Trump administration reverses course",
+      "article_headline": "Pride flag can fly at Stonewall Monument as Trump administration reverses course"
+    },
+    {
+      "link": "https://apple.news/AUau0assRS9eT7p5qJVrpJg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-13 13:40:17",
+      "pub_time": "2026-04-13 13:29:20",
+      "publication": "Reuters",
+      "author": "Brad Brooks, Helen Coster, and Joseph Ax",
+      "headline": "Trump posts, then deletes AI image of himself as Jesus-like figure following clash with Pope Leo",
+      "article_headline": "Trump posts, then deletes AI image of himself as Jesus-like figure following clash with Pope Leo"
+    },
+    {
+      "link": "https://apple.news/AYfG59QN4Qh2UGuB_UUR3mg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-13 13:40:17",
+      "pub_time": "2026-04-13 13:29:47",
+      "publication": "New York Post",
+      "author": "Peter Senzamici",
+      "headline": "Pride flag can fly at Stonewall Monument as Trump administration reverses course",
+      "article_headline": "Pride flag can fly at Stonewall Monument as Trump administration reverses course"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 13:40:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "A summerlike heat wave will hit the East this week, worsening drought",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ARZ__zf4kTRmmpuaD9UakRg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-13 13:40:17",
+      "pub_time": "2026-04-12 13:43:20",
+      "publication": "BuzzFeed",
+      "author": "Jenna Guillaume",
+      "headline": "22 Child Stars Who Blossomed Into Genuinely Phenomenal Adult Actors",
+      "article_headline": "22 Child Stars Who Blossomed Into Genuinely Phenomenal Adult Actors"
+    },
+    {
+      "link": "https://apple.news/A6MkrFODBTOuWEmkD5jxVXg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-13 13:40:17",
+      "pub_time": "2026-04-12 21:43:54",
+      "publication": "Southern Living",
+      "author": "Jessica Safavimehr",
+      "headline": "8 Things Home Appraisers Always Notice—And Why They Matter",
+      "article_headline": "8 Things Home Appraisers Always Notice—And Why They Matter"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-13 13:40:17",
+      "pub_time": "2026-04-12 13:44:21",
+      "publication": "",
+      "author": "Christina Manian, RDN",
+      "headline": "We Asked 3 Dietitians to Pick the Healthiest Sandwich Bread—and They All Chose the Same One",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AICy43X-JTsyQCaJnNNp82A",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-13 13:40:17",
+      "pub_time": "2026-04-13 08:44:21",
+      "publication": "TheStreet",
+      "author": "Kirk O’Neil",
+      "headline": "91-year-old food manufacturer closes facility, lays off 168",
+      "article_headline": "91-year-old food manufacturer closes facility, lays off 168"
+    }
+  ]
+}

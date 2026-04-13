@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-13 14:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AGydy-3EJRbaEi1pw8y8PNA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-13 14:00:17",
+      "pub_time": "2026-04-13 13:54:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. military blockade of Iranian ports underway in bid to pressure Tehran",
+      "article_headline": "U.S. military blockade of Iranian ports underway in bid to pressure Tehran"
+    },
+    {
+      "link": "https://apple.news/AkgyMcrWKTOq1_kPThQR-CA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-13 14:00:17",
+      "pub_time": "",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "House committee is investigating Eric Swalwell as push to expel him from Congress ramps up",
+      "article_headline": "House committee is investigating Eric Swalwell as push to expel him from Congress ramps up"
+    },
+    {
+      "link": "https://apple.news/AUau0assRS9eT7p5qJVrpJg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-13 14:00:17",
+      "pub_time": "2026-04-13 13:54:18",
+      "publication": "Reuters",
+      "author": "Brad Brooks, Helen Coster, and Joseph Ax",
+      "headline": "Trump posts, then deletes AI image of himself as Jesus-like figure following clash with Pope Leo",
+      "article_headline": "Trump posts, then deletes AI image of himself as Jesus-like figure following clash with Pope Leo"
+    },
+    {
+      "link": "https://apple.news/AYfG59QN4Qh2UGuB_UUR3mg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-13 14:00:17",
+      "pub_time": "2026-04-13 13:54:45",
+      "publication": "New York Post",
+      "author": "Peter Senzamici",
+      "headline": "Pride flag can fly at Stonewall National Monument as Trump administration reverses course",
+      "article_headline": "Pride flag can fly at Stonewall National Monument as Trump administration reverses course"
+    },
+    {
+      "link": "https://apple.news/AUau0assRS9eT7p5qJVrpJg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-13 14:00:17",
+      "pub_time": "2026-04-13 13:54:18",
+      "publication": "Reuters",
+      "author": "Brad Brooks, Helen Coster, and Joseph Ax",
+      "headline": "Trump posts, then deletes AI image of himself as Jesus-like figure following clash with Pope Leo",
+      "article_headline": "Trump posts, then deletes AI image of himself as Jesus-like figure following clash with Pope Leo"
+    },
+    {
+      "link": "https://apple.news/AYfG59QN4Qh2UGuB_UUR3mg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-13 14:00:17",
+      "pub_time": "2026-04-13 13:54:45",
+      "publication": "New York Post",
+      "author": "Peter Senzamici",
+      "headline": "Pride flag can fly at Stonewall National Monument as Trump administration reverses course",
+      "article_headline": "Pride flag can fly at Stonewall National Monument as Trump administration reverses course"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-13 14:00:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "A summerlike heat wave will hit the East this week, worsening drought",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A6MkrFODBTOuWEmkD5jxVXg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-13 14:00:17",
+      "pub_time": "2026-04-12 22:03:24",
+      "publication": "Southern Living",
+      "author": "Jessica Safavimehr",
+      "headline": "8 Things Home Appraisers Always Notice—And Why They Matter",
+      "article_headline": "8 Things Home Appraisers Always Notice—And Why They Matter"
+    },
+    {
+      "link": "https://apple.news/AC15b2CCwTkexszWqFygnww",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-13 14:00:17",
+      "pub_time": "2026-04-13 08:03:51",
+      "publication": "Popular Mechanics",
+      "author": "Darren Orf",
+      "headline": "Scientists Just Created Super-Strong Steel That Never Rusts. It'll Change Manufacturing.",
+      "article_headline": "Scientists Just Created Super-Strong Steel That Never Rusts. It'll Change Manufacturing."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-13 14:00:17",
+      "pub_time": "2026-04-12 14:04:18",
+      "publication": "",
+      "author": "Stacey Leasca",
+      "headline": "This Is One of the Best Places to Retire in the U.S. for Low Taxes, Mental Health, and Quality of Life",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AICy43X-JTsyQCaJnNNp82A",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-13 14:00:17",
+      "pub_time": "2026-04-13 08:04:25",
+      "publication": "TheStreet",
+      "author": "Kirk O’Neil",
+      "headline": "91-year-old food manufacturer closes facility, lays off 168",
+      "article_headline": "91-year-old food manufacturer closes facility, lays off 168"
+    }
+  ]
+}
