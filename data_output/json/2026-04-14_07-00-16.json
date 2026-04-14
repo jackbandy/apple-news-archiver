@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-14 07:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Al0eQw0yeTlO4JX8w1M6BiA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-14 07:00:16",
+      "pub_time": "2026-04-14 06:27:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Efforts underway for second round of U.S.-Iran talks as Strait of Hormuz showdown mounts",
+      "article_headline": "Efforts underway for second round of US-Iran talks as ships reported transiting Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/Aib8nFx24Smq7a11FXB-d5A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-14 07:00:16",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Exits of Swalwell and Gonzales shift spotlight to other embattled House lawmakers",
+      "article_headline": "Exits of Swalwell and Gonzales shift spotlight to other embattled House lawmakers"
+    },
+    {
+      "link": "https://apple.news/ArNNmmNW9STWj-hmP9ODUrg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-14 07:00:16",
+      "pub_time": "2026-04-14 06:27:18",
+      "publication": "The Guardian",
+      "author": "Eric Berger",
+      "headline": "States and cities drop Medicaid coverage of GLP-1 weight-loss drugs as demand rises",
+      "article_headline": "States and cities drop Medicaid coverage of GLP-1 weight-loss drugs as demand rises"
+    },
+    {
+      "link": "https://apple.news/Aw5S9m0hQQH2sgMWV3fd2dA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-14 07:00:16",
+      "pub_time": "",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "Teen hacker behind major breach speaks out for the first time, before reporting to prison",
+      "article_headline": "Teen hacker behind major breach speaks out for the first time, before reporting to prison"
+    },
+    {
+      "link": "https://apple.news/ArNNmmNW9STWj-hmP9ODUrg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-14 07:00:16",
+      "pub_time": "2026-04-14 06:27:19",
+      "publication": "The Guardian",
+      "author": "Eric Berger",
+      "headline": "States and cities drop Medicaid coverage of GLP-1 weight-loss drugs as demand rises",
+      "article_headline": "States and cities drop Medicaid coverage of GLP-1 weight-loss drugs as demand rises"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-14 07:00:16",
+      "pub_time": "2026-04-14 06:27:47",
+      "publication": "Tampa Bay Times",
+      "author": "",
+      "headline": "At Tampa’s elite MacDill Air Force base, a bomb went undetected for 6 days. How?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-14 07:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Baseball’s top prospect just signed a $140 million contract — and he’s still a teenager",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

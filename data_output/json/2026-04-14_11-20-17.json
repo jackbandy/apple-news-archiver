@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-14 11:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ArAPogrZISoudZscL5E4Xiw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-14 11:20:17",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Iran war escalation could trigger global recession, IMF warns",
+      "article_headline": "Iran war escalation could trigger global recession, IMF warns"
+    },
+    {
+      "link": "https://apple.news/Ad8x-OGpFS8mGHhSbtq5QZw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-14 11:20:17",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "The whisper network that caught up to Eric Swalwell",
+      "article_headline": "The whisper network that caught up to Eric Swalwell"
+    },
+    {
+      "link": "https://apple.news/AmjaMZ16cSCGH9rpxf5UGJg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-14 11:20:17",
+      "pub_time": "2026-04-14 11:13:20",
+      "publication": "NBC News",
+      "author": "Corky Siemaszko and Megan Lebowitz",
+      "headline": "Trump angered some ardent supporters with AI image appearing to depict him as Jesus",
+      "article_headline": "Trump angered some ardent supporters with AI image appearing to depict him as Jesus"
+    },
+    {
+      "link": "https://apple.news/ADUit1XR7Qr28_J60n2e0Ag",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-14 11:20:17",
+      "pub_time": "2026-04-14 11:13:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Appeals court orders judge to end contempt investigation of Trump administration’s deportation flights",
+      "article_headline": "Appeals court orders judge to end contempt investigation of Trump administration’s deportation flights"
+    },
+    {
+      "link": "https://apple.news/AmjaMZ16cSCGH9rpxf5UGJg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-14 11:20:17",
+      "pub_time": "2026-04-14 11:13:20",
+      "publication": "NBC News",
+      "author": "Corky Siemaszko and Megan Lebowitz",
+      "headline": "Trump angered some ardent supporters with AI image appearing to depict him as Jesus",
+      "article_headline": "Trump angered some ardent supporters with AI image appearing to depict him as Jesus"
+    },
+    {
+      "link": "https://apple.news/ADUit1XR7Qr28_J60n2e0Ag",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-14 11:20:17",
+      "pub_time": "2026-04-14 11:13:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Appeals court orders judge to end contempt investigation of Trump administration’s deportation flights",
+      "article_headline": "Appeals court orders judge to end contempt investigation of Trump administration’s deportation flights"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-14 11:20:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Behind fiery attack on OpenAI’s Sam Altman, a growing divide over AI",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

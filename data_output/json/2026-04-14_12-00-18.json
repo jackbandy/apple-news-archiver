@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-14 12:00:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ADZSnFLifQ4ChmJZ1oJlrFQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-14 12:00:18",
+      "pub_time": "2026-04-14 11:49:20",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Lebanon and Israel hold first direct diplomatic talks in decades in Washington",
+      "article_headline": "Lebanon and Israel hold first direct diplomatic talks in decades in Washington"
+    },
+    {
+      "link": "https://apple.news/AjKRxacPyRcOyT6UbI4_wjw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-14 12:00:18",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "GOP senators grow uncomfortable with Trump rhetoric",
+      "article_headline": "GOP senators grow uncomfortable with Trump rhetoric"
+    },
+    {
+      "link": "https://apple.news/Ad8x-OGpFS8mGHhSbtq5QZw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-14 12:00:18",
+      "pub_time": "2026-04-14 11:49:19",
+      "publication": "POLITICO",
+      "author": "Melanie Mason and Jeremy B. White",
+      "headline": "The whisper network that caught up to Eric Swalwell",
+      "article_headline": "The whisper network that caught up to Eric Swalwell"
+    },
+    {
+      "link": "https://apple.news/AgoETdb4PRVy0EfK8mSieiA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-14 12:00:18",
+      "pub_time": "2026-04-14 11:49:47",
+      "publication": "Reuters",
+      "author": "Paul Carsten",
+      "headline": "Orbán’s defeat topples a pillar of Europe’s far right, prompts scrutiny of MAGA links",
+      "article_headline": "Orbán’s defeat topples a pillar of Europe’s far right, prompts scrutiny of MAGA links"
+    },
+    {
+      "link": "https://apple.news/Ad8x-OGpFS8mGHhSbtq5QZw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-14 12:00:18",
+      "pub_time": "2026-04-14 11:49:20",
+      "publication": "POLITICO",
+      "author": "Melanie Mason and Jeremy B. White",
+      "headline": "The whisper network that caught up to Eric Swalwell",
+      "article_headline": "The whisper network that caught up to Eric Swalwell"
+    },
+    {
+      "link": "https://apple.news/AgoETdb4PRVy0EfK8mSieiA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-14 12:00:18",
+      "pub_time": "2026-04-14 11:49:48",
+      "publication": "Reuters",
+      "author": "Paul Carsten",
+      "headline": "Orbán’s defeat topples a pillar of Europe’s far right, prompts scrutiny of MAGA links",
+      "article_headline": "Orbán’s defeat topples a pillar of Europe’s far right, prompts scrutiny of MAGA links"
+    },
+    {
+      "link": "https://apple.news/AGc2KACy7S_WJO6WpvSk8vg",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-14 12:00:18",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "“Nothing but tree skeletons”: Record-breaking wildfires devastate U.S. cattle country",
+      "article_headline": "“Nothing but tree skeletons”: Record-breaking wildfires devastate U.S. cattle country"
+    }
+  ]
+}

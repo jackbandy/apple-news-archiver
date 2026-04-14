@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-14 08:20:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Al0eQw0yeTlO4JX8w1M6BiA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-14 08:20:18",
+      "pub_time": "2026-04-14 08:18:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Efforts underway for second round of U.S.-Iran talks as ships reported transiting Strait of Hormuz",
+      "article_headline": "Efforts underway for second round of US-Iran talks as ships reported transiting Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AKpUHOd7CQL2d_UIIBVwm0g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-14 08:20:18",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "GOP leaders prepare to steamroll opponents of DHS funding plan",
+      "article_headline": "GOP leaders prepare to steamroll opponents of DHS funding plan"
+    },
+    {
+      "link": "https://apple.news/AszPf-dw5TO2JqN82UEwWTg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-14 08:20:18",
+      "pub_time": "2026-04-14 08:17:19",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Tornadoes, thunderstorms threaten central U.S. amid back-to-back storms",
+      "article_headline": "Tornadoes, thunderstorms threaten central U.S. amid back-to-back storms"
+    },
+    {
+      "link": "https://apple.news/A4g20ldrcSqO45lsIA4afRA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-14 08:20:18",
+      "pub_time": "2026-04-14 08:17:47",
+      "publication": "Axios",
+      "author": "Kelly Tyko",
+      "headline": "Tax refunds are bigger this year — just not as big as many expected",
+      "article_headline": "Tax refunds are bigger this year — just not as big as many expected"
+    },
+    {
+      "link": "https://apple.news/AszPf-dw5TO2JqN82UEwWTg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-14 08:20:18",
+      "pub_time": "2026-04-14 08:17:20",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Tornadoes, thunderstorms threaten central U.S. amid back-to-back storms",
+      "article_headline": "Tornadoes, thunderstorms threaten central U.S. amid back-to-back storms"
+    },
+    {
+      "link": "https://apple.news/A4g20ldrcSqO45lsIA4afRA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-14 08:20:18",
+      "pub_time": "2026-04-14 08:17:48",
+      "publication": "Axios",
+      "author": "Kelly Tyko",
+      "headline": "Tax refunds are bigger this year — just not as big as many expected",
+      "article_headline": "Tax refunds are bigger this year — just not as big as many expected"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-14 08:20:18",
+      "pub_time": "2026-04-14 08:18:15",
+      "publication": "San Antonio Express-News",
+      "author": "",
+      "headline": "“A big blur” – Camp Mystic director describes doomed rescue efforts during flood",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
