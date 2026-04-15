@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-14 18:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AUK1MHbnnS8OcUwfEq7lyqw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-14 18:20:17",
+      "pub_time": "2026-04-14 18:15:18",
+      "publication": "Bloomberg",
+      "author": "",
+      "headline": "U.S. and Iran seek more ceasefire negotiations as blockade stops ships, MORE DETAILS",
+      "article_headline": "U.S. and Iran seek more ceasefire negotiations as blockade stops ships"
+    },
+    {
+      "link": "https://apple.news/A4yhcrqLtQ5aDfm9gMdBwUw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-14 18:20:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Fifth woman alleges sexual misconduct by Rep. Eric Swalwell",
+      "article_headline": "Fifth woman alleges sexual misconduct by Rep. Eric Swalwell"
+    },
+    {
+      "link": "https://apple.news/AGc2KACy7S_WJO6WpvSk8vg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-14 18:20:17",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "“Nothing but tree skeletons”: Record-breaking wildfires devastate cattle country",
+      "article_headline": "“Nothing but tree skeletons”: Record-breaking wildfires devastate cattle country"
+    },
+    {
+      "link": "https://apple.news/Ac7_fRbgVTGKGUXbMUPta0g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-14 18:20:17",
+      "pub_time": "2026-04-14 18:14:52",
+      "publication": "Fox Business",
+      "author": "Amanda Macias",
+      "headline": "Trump’s Fed pick discloses $131 million fortune as nomination faces headwinds",
+      "article_headline": "Trump’s Fed pick discloses $131 million fortune as nomination faces headwinds"
+    },
+    {
+      "link": "https://apple.news/Auu08qLJiS6S83Tw1kqvrwA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-14 18:20:17",
+      "pub_time": "2026-04-14 18:15:19",
+      "publication": "NPR",
+      "author": "Brian Mann",
+      "headline": "Historic decline in U.S. overdose deaths threatened by changing street-drug supply",
+      "article_headline": "Historic decline in U.S. overdose deaths threatened by changing street-drug supply"
+    },
+    {
+      "link": "https://apple.news/Ac7_fRbgVTGKGUXbMUPta0g",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-14 18:20:17",
+      "pub_time": "2026-04-14 18:14:51",
+      "publication": "Fox Business",
+      "author": "Amanda Macias",
+      "headline": "Trump’s Fed pick discloses $131 million fortune as nomination faces headwinds",
+      "article_headline": "Trump’s Fed pick discloses $131 million fortune as nomination faces headwinds"
+    },
+    {
+      "link": "https://apple.news/Auu08qLJiS6S83Tw1kqvrwA",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-14 18:20:17",
+      "pub_time": "2026-04-14 18:15:18",
+      "publication": "NPR",
+      "author": "Brian Mann",
+      "headline": "Historic decline in U.S. overdose deaths threatened by changing street-drug supply",
+      "article_headline": "Historic decline in U.S. overdose deaths threatened by changing street-drug supply"
+    }
+  ]
+}

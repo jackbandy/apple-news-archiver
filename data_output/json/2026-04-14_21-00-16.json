@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-14 21:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A8BBTTokmTLqDyv98Ui39YQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-14 21:00:16",
+      "pub_time": "2026-04-14 20:29:18",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Trump says Iran talks may resume as Israel, Lebanon open direct track",
+      "article_headline": "Trump says Iran talks may resume as Israel, Lebanon open direct track"
+    },
+    {
+      "link": "https://apple.news/AX55M0YNLRLqxumO7nRuCuw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-14 21:00:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Appeals court again blocks contempt inquiry into deportation flights",
+      "article_headline": "Appeals court again blocks contempt inquiry into deportation flights"
+    },
+    {
+      "link": "https://apple.news/ATZLYUVo4S0q14-WLYjmPZQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-14 21:00:16",
+      "pub_time": "2026-04-14 20:29:18",
+      "publication": "The Guardian",
+      "author": "Sam Levin",
+      "headline": "Another U.S. strike on suspected drug boat in the eastern Pacific kills 4",
+      "article_headline": "Another U.S. strike on suspected drug boat in the eastern Pacific kills 4"
+    },
+    {
+      "link": "https://apple.news/ANdWdMQYcRYGBueb26OjvsA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-14 21:00:16",
+      "pub_time": "2026-04-14 20:29:46",
+      "publication": "Los Angeles Times",
+      "author": "Rebecca Ellis and Melody Gutierrez",
+      "headline": "Another woman accuses Swalwell of sexual assault; says she was drugged in Beverly Hills in 2018",
+      "article_headline": "Another woman accuses Swalwell of sexual assault; says she was drugged in Beverly Hills in 2018"
+    },
+    {
+      "link": "https://apple.news/ATZLYUVo4S0q14-WLYjmPZQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-14 21:00:16",
+      "pub_time": "2026-04-14 20:29:19",
+      "publication": "The Guardian",
+      "author": "Sam Levin",
+      "headline": "Another U.S. strike on suspected drug boat in the eastern Pacific kills 4",
+      "article_headline": "Another U.S. strike on suspected drug boat in the eastern Pacific kills 4"
+    },
+    {
+      "link": "https://apple.news/ANdWdMQYcRYGBueb26OjvsA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-14 21:00:16",
+      "pub_time": "2026-04-14 20:29:47",
+      "publication": "Los Angeles Times",
+      "author": "Rebecca Ellis and Melody Gutierrez",
+      "headline": "Another woman accuses Swalwell of sexual assault; says she was drugged in Beverly Hills in 2018",
+      "article_headline": "Another woman accuses Swalwell of sexual assault; says she was drugged in Beverly Hills in 2018"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-14 21:00:16",
+      "pub_time": "2026-04-14 20:30:15",
+      "publication": "The Wall Street Journal",
+      "author": "Jessica Flint",
+      "headline": "Empty department stores are housing Cleveland’s booming population",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

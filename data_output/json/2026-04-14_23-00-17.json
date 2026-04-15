@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-04-14 23:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A8BBTTokmTLqDyv98Ui39YQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-14 23:00:17",
+      "pub_time": "2026-04-14 22:00:19",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Trump says Iran talks may resume as Israel, Lebanon open direct track",
+      "article_headline": "Trump says Iran talks may resume as Israel, Lebanon open direct track"
+    },
+    {
+      "link": "https://apple.news/AJPecfI4iTLuniuKOmu2tiQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-14 23:00:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Republicans move to fund Homeland Security “the hard way” after bipartisan negotiations stall",
+      "article_headline": "Republicans move to fund Homeland Security “the hard way” after bipartisan negotiations stall"
+    },
+    {
+      "link": "https://apple.news/ATZLYUVo4S0q14-WLYjmPZQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-14 23:00:17",
+      "pub_time": "2026-04-14 22:01:19",
+      "publication": "The Guardian",
+      "author": "Sam Levin",
+      "headline": "Another U.S. strike on suspected drug boat in the eastern Pacific kills 4",
+      "article_headline": "Another U.S. strike on suspected drug boat in the eastern Pacific kills 4"
+    },
+    {
+      "link": "https://apple.news/Az7LrdpmoRKu1Y4mdFHZsig",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-14 23:00:17",
+      "pub_time": "2026-04-14 22:01:47",
+      "publication": "The Washington Post",
+      "author": "Salvador Rizzo, Jeremy Roebuck, and Perry Stein",
+      "headline": "DOJ moves to undo Jan. 6 rioters’ convictions for seditious conspiracy",
+      "article_headline": "DOJ moves to undo Jan. 6 rioters’ convictions for seditious conspiracy"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-14 23:00:17",
+      "pub_time": "2026-04-14 22:02:19",
+      "publication": "Tampa Bay Times",
+      "author": "",
+      "headline": "Alligator Alcatraz phones were cut off. Then the beatings began, court documents say.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-14 23:00:17",
+      "pub_time": "2026-04-14 22:02:19",
+      "publication": "Bloomberg Businessweek",
+      "author": "Byard Duncan",
+      "headline": "The school-bus camera company blanketing America in tickets",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-14 23:00:17",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Southern Living, RECIPE, 15 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
