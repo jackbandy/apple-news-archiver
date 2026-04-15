@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-15 07:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AT1zAhsHHR5epjiFg8qH9ZQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 07:20:17",
+      "pub_time": "2026-04-15 06:30:18",
+      "publication": "The Wall Street Journal",
+      "author": "Jennifer Calfas, Lara Seligman, and Summer Said",
+      "headline": "Iran ports are quiet as Strait of Hormuz blockade holds up",
+      "article_headline": "Iran Ports Are Quiet as Strait Blockade Holds Up"
+    },
+    {
+      "link": "https://apple.news/Ay1sLU7YHT9Ge0nF2mB2KoQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 07:20:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump urges extending foreign-surveillance program as some lawmakers demand U.S. privacy protections",
+      "article_headline": "Trump urges extending foreign-surveillance program as some lawmakers demand U.S. privacy protections"
+    },
+    {
+      "link": "https://apple.news/ALwwxJbowSEKBFh9SM29-_w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 07:20:17",
+      "pub_time": "2026-04-15 06:30:18",
+      "publication": "The Washington Post",
+      "author": "Cat Zakrzewski",
+      "headline": "White House touts refunds, as most Americans say taxes are too high",
+      "article_headline": "White House touts refunds, as most Americans say taxes are too high"
+    },
+    {
+      "link": "https://apple.news/Aen1v01ZuR7SdUsx13ah3QA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-15 07:20:17",
+      "pub_time": "2026-04-15 06:30:45",
+      "publication": "Reuters",
+      "author": "Krisztina Than, Anita Komuves, and Gergely Szakacs",
+      "headline": "Hungary’s PM-elect vows to suspend state news broadcasts pending reform of press freedoms",
+      "article_headline": "Hungary’s PM-elect vows to suspend state news broadcasts pending reform of press freedoms"
+    },
+    {
+      "link": "https://apple.news/ALwwxJbowSEKBFh9SM29-_w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-15 07:20:17",
+      "pub_time": "2026-04-15 06:30:18",
+      "publication": "The Washington Post",
+      "author": "Cat Zakrzewski",
+      "headline": "White House touts refunds, as most Americans say taxes are too high",
+      "article_headline": "White House touts refunds, as most Americans say taxes are too high"
+    },
+    {
+      "link": "https://apple.news/Aen1v01ZuR7SdUsx13ah3QA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-15 07:20:17",
+      "pub_time": "2026-04-15 06:30:45",
+      "publication": "Reuters",
+      "author": "Krisztina Than, Anita Komuves, and Gergely Szakacs",
+      "headline": "Hungary’s PM-elect vows to suspend state news broadcasts pending reform of press freedoms",
+      "article_headline": "Hungary’s PM-elect vows to suspend state news broadcasts pending reform of press freedoms"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 07:20:17",
+      "pub_time": "2026-04-15 06:31:12",
+      "publication": "",
+      "author": "",
+      "headline": "Video, National Geographic",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

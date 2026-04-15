@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-15 10:40:33",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/APhXyMuIzS5Kiwf-n1pTTkQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 10:40:33",
+      "pub_time": "2026-04-15 10:25:35",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe",
+      "headline": "U.S. sends thousands more troops to Middle East as Trump seeks to squeeze Iran",
+      "article_headline": "U.S. sends thousands more troops to Middle East as Trump seeks to squeeze Iran"
+    },
+    {
+      "link": "https://apple.news/A7i_zRVuvSYG5kQz4dN12cg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 10:40:33",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Senate GOP divided over Trump push for Iran war funding",
+      "article_headline": "Senate GOP divided over Trump push for Iran war funding"
+    },
+    {
+      "link": "https://apple.news/A_fB0yYodT1OmPJWbLVm7zw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 10:40:33",
+      "pub_time": "2026-04-15 10:25:35",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Federal prosecutors turned away from Federal Reserve building as Trump threatens to fire Jerome Powell",
+      "article_headline": "Federal prosecutors turned away from Federal Reserve building as Trump threatens to fire Jerome Powell"
+    },
+    {
+      "link": "https://apple.news/AJn4yZ6X2R-CiMaErxjP3iw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-15 10:40:33",
+      "pub_time": "2026-04-15 10:26:02",
+      "publication": "NPR",
+      "author": "Juliana Kim",
+      "headline": "Nearly a year after her son’s death, she learned that ICE was responsible",
+      "article_headline": "Nearly a year after her son’s death, she learned that ICE was responsible"
+    },
+    {
+      "link": "https://apple.news/A_fB0yYodT1OmPJWbLVm7zw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-15 10:40:33",
+      "pub_time": "2026-04-15 10:25:35",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Federal prosecutors turned away from Federal Reserve building as Trump threatens to fire Jerome Powell",
+      "article_headline": "Federal prosecutors turned away from Federal Reserve building as Trump threatens to fire Jerome Powell"
+    },
+    {
+      "link": "https://apple.news/AJn4yZ6X2R-CiMaErxjP3iw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-15 10:40:33",
+      "pub_time": "2026-04-15 10:26:02",
+      "publication": "NPR",
+      "author": "Juliana Kim",
+      "headline": "Nearly a year after her son’s death, she learned that ICE was responsible",
+      "article_headline": "Nearly a year after her son’s death, she learned that ICE was responsible"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 10:40:33",
+      "pub_time": "2026-04-15 10:26:29",
+      "publication": "Vox",
+      "author": "Sara Herschander",
+      "headline": "The tax code rewards generosity. But probably not yours.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

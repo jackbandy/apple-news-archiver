@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-15 08:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/APhXyMuIzS5Kiwf-n1pTTkQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 08:20:16",
+      "pub_time": "2026-04-15 07:51:18",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe",
+      "headline": "U.S. sends thousands more troops to Mideast as Trump seeks to squeeze Iran",
+      "article_headline": "U.S. sends thousands more troops to Mideast as Trump seeks to squeeze Iran"
+    },
+    {
+      "link": "https://apple.news/AwxFqhKb-R7qF61LieE04uQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 08:20:16",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Tax Day arrives as Republicans struggle to sell their cuts",
+      "article_headline": "Tax Day arrives as Republicans struggle to sell their cuts"
+    },
+    {
+      "link": "https://apple.news/Ay1sLU7YHT9Ge0nF2mB2KoQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 08:20:16",
+      "pub_time": "2026-04-15 07:51:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump urges extending foreign-surveillance program as some lawmakers demand U.S. privacy protections",
+      "article_headline": "Trump urges extending foreign-surveillance program as some lawmakers demand U.S. privacy protections"
+    },
+    {
+      "link": "https://apple.news/Aen1v01ZuR7SdUsx13ah3QA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-15 08:20:16",
+      "pub_time": "2026-04-15 07:51:45",
+      "publication": "Reuters",
+      "author": "Krisztina Than, Anita Komuves, and Gergely Szakacs",
+      "headline": "Hungary’s PM-elect vows to suspend state news broadcasts pending reform of press freedoms",
+      "article_headline": "Hungary’s PM-elect vows to suspend state news broadcasts pending reform of press freedoms"
+    },
+    {
+      "link": "https://apple.news/Aen1v01ZuR7SdUsx13ah3QA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-15 08:20:16",
+      "pub_time": "2026-04-15 07:51:17",
+      "publication": "Reuters",
+      "author": "Krisztina Than, Anita Komuves, and Gergely Szakacs",
+      "headline": "Hungary’s PM-elect vows to suspend state news broadcasts pending reform of press freedoms",
+      "article_headline": "Hungary’s PM-elect vows to suspend state news broadcasts pending reform of press freedoms"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 08:20:16",
+      "pub_time": "2026-04-15 07:51:44",
+      "publication": "",
+      "author": "",
+      "headline": "Video, National Geographic",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 08:20:16",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "Getting hired is too hard, so they’re starting companies instead",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

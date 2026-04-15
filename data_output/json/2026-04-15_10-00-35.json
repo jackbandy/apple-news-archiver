@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-15 10:00:35",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/APhXyMuIzS5Kiwf-n1pTTkQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 10:00:35",
+      "pub_time": "2026-04-15 09:00:37",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe",
+      "headline": "U.S. sends thousands more troops to Middle East as Trump seeks to squeeze Iran",
+      "article_headline": "U.S. sends thousands more troops to Middle East as Trump seeks to squeeze Iran"
+    },
+    {
+      "link": "https://apple.news/AwxFqhKb-R7qF61LieE04uQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 10:00:35",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Tax Day arrives as Republicans struggle to sell their cuts",
+      "article_headline": "Tax Day arrives as Republicans struggle to sell their cuts"
+    },
+    {
+      "link": "https://apple.news/AJn4yZ6X2R-CiMaErxjP3iw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 10:00:35",
+      "pub_time": "2026-04-15 09:01:37",
+      "publication": "NPR",
+      "author": "Juliana Kim",
+      "headline": "Nearly a year after her son’s death, she learned that ICE was responsible",
+      "article_headline": "Nearly a year after her son’s death, she learned that ICE was responsible"
+    },
+    {
+      "link": "https://apple.news/Aen1v01ZuR7SdUsx13ah3QA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-15 10:00:35",
+      "pub_time": "2026-04-15 09:02:04",
+      "publication": "Reuters",
+      "author": "Krisztina Than, Anita Komuves, and Gergely Szakacs",
+      "headline": "Hungary’s PM-elect vows to suspend state news broadcasts pending reform of press freedoms",
+      "article_headline": "Hungary’s PM-elect vows to suspend state news broadcasts pending reform of press freedoms"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 10:00:35",
+      "pub_time": "2026-04-15 09:02:37",
+      "publication": "The Wall Street Journal",
+      "author": "Krystal Hur",
+      "headline": "Wall Street has an elite coffee-tasting force. It’s struggling to find recruits.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 10:00:35",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "Getting hired is too hard, so they’re starting companies instead",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AFuDAz0NjRG2l2vprLmRVCQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-15 10:00:35",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "It’s Tax Day. Why some could be tempted to cheat this year.",
+      "article_headline": ""
+    }
+  ]
+}

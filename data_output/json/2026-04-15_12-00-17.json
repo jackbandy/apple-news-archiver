@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-04-15 12:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ANtcyOJlGQfW98EXjCGnZUg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 12:00:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump threatens to fire Powell if he doesn’t quit Fed board, intensifying standoff",
+      "article_headline": "Trump threatens to fire Powell if he doesn’t quit Fed board, intensifying standoff"
+    },
+    {
+      "link": "https://apple.news/APhXyMuIzS5Kiwf-n1pTTkQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 12:00:17",
+      "pub_time": "2026-04-15 11:10:46",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe",
+      "headline": "U.S. sends thousands more troops to Middle East as Trump seeks to squeeze Iran",
+      "article_headline": "U.S. sends thousands more troops to Middle East as Trump seeks to squeeze Iran"
+    },
+    {
+      "link": "https://apple.news/A7i_zRVuvSYG5kQz4dN12cg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 12:00:17",
+      "pub_time": "2026-04-15 11:11:14",
+      "publication": "The Hill",
+      "author": "Alexander Bolton",
+      "headline": "Senate GOP divided over Trump push for Iran war funding",
+      "article_headline": "Senate GOP divided over Trump push for Iran war funding"
+    },
+    {
+      "link": "https://apple.news/APhXyMuIzS5Kiwf-n1pTTkQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-15 12:00:17",
+      "pub_time": "2026-04-15 11:10:47",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe",
+      "headline": "U.S. sends thousands more troops to Middle East as Trump seeks to squeeze Iran",
+      "article_headline": "U.S. sends thousands more troops to Middle East as Trump seeks to squeeze Iran"
+    },
+    {
+      "link": "https://apple.news/A7i_zRVuvSYG5kQz4dN12cg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-15 12:00:17",
+      "pub_time": "2026-04-15 11:11:14",
+      "publication": "The Hill",
+      "author": "Alexander Bolton",
+      "headline": "Senate GOP divided over Trump push for Iran war funding",
+      "article_headline": "Senate GOP divided over Trump push for Iran war funding"
+    },
+    {
+      "link": "https://apple.news/AJn4yZ6X2R-CiMaErxjP3iw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-15 12:00:17",
+      "pub_time": "2026-04-15 11:10:42",
+      "publication": "NPR",
+      "author": "Juliana Kim",
+      "headline": "Nearly a year after her son’s death, she learned that ICE was responsible",
+      "article_headline": "Nearly a year after her son’s death, she learned that ICE was responsible"
+    },
+    {
+      "link": "https://apple.news/AJn4yZ6X2R-CiMaErxjP3iw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-15 12:00:17",
+      "pub_time": "2026-04-15 11:10:14",
+      "publication": "NPR",
+      "author": "Juliana Kim",
+      "headline": "Nearly a year after her son’s death, she learned that ICE was responsible",
+      "article_headline": "Nearly a year after her son’s death, she learned that ICE was responsible"
+    },
+    {
+      "link": "https://apple.news/A5U-FzPZ8RKim282nqGvmqw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-15 12:00:17",
+      "pub_time": "2026-04-14 13:03:47",
+      "publication": "Money",
+      "author": "Marc Guberti",
+      "headline": "What Happens to Your Social Security If Your Spouse Dies?",
+      "article_headline": "What Happens to Your Social Security If Your Spouse Dies?"
+    },
+    {
+      "link": "https://apple.news/A-e8IVpF1TbmggjyXeiHmkA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-15 12:00:17",
+      "pub_time": "2026-04-15 08:04:21",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Watch small but feisty house cat scare away two bears",
+      "article_headline": "Watch small but feisty house cat scare away two bears"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-15 12:00:17",
+      "pub_time": "2026-04-14 12:04:48",
+      "publication": "",
+      "author": "Ria Bhagwat",
+      "headline": "The Morning Routine That Will Help You Live to 100, According to Longevity Experts",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AUA4DSr8fRzO9V9JBrWDUYg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-15 12:00:17",
+      "pub_time": "2026-04-15 06:04:48",
+      "publication": "Southern Living",
+      "author": "Betsy Cribb Watson",
+      "headline": "4 Costly Home Improvements That Won’t Pay Off When You Sell, According To A Realtor",
+      "article_headline": "4 Costly Home Improvements That Won’t Pay Off When You Sell, According To A Realtor"
+    }
+  ]
+}

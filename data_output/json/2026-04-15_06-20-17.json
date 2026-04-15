@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-15 06:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AT1zAhsHHR5epjiFg8qH9ZQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 06:20:17",
+      "pub_time": "2026-04-15 05:26:19",
+      "publication": "The Wall Street Journal",
+      "author": "Jennifer Calfas, Lara Seligman, and Summer Said",
+      "headline": "Iran ports are quiet as Strait of Hormuz blockade holds up",
+      "article_headline": "Iran Ports Are Quiet as Strait Blockade Holds Up"
+    },
+    {
+      "link": "https://apple.news/AJPecfI4iTLuniuKOmu2tiQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 06:20:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Republicans move to fund Homeland Security “the hard way” after bipartisan negotiations stall",
+      "article_headline": "Republicans move to fund Homeland Security “the hard way” after bipartisan negotiations stall"
+    },
+    {
+      "link": "https://apple.news/ALwwxJbowSEKBFh9SM29-_w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 06:20:17",
+      "pub_time": "2026-04-15 05:26:19",
+      "publication": "The Washington Post",
+      "author": "Cat Zakrzewski",
+      "headline": "White House touts refunds, as most Americans say taxes are too high",
+      "article_headline": "White House touts refunds, as most Americans say taxes are too high"
+    },
+    {
+      "link": "https://apple.news/AVTQ4bdpAQlayomB3ZVMz6g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-15 06:20:17",
+      "pub_time": "2026-04-15 05:26:47",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "250 people missing after migrant boat sinks in Indian Ocean",
+      "article_headline": "250 people missing after migrant boat sinks in Indian Ocean"
+    },
+    {
+      "link": "https://apple.news/ALwwxJbowSEKBFh9SM29-_w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-15 06:20:17",
+      "pub_time": "2026-04-15 05:26:19",
+      "publication": "The Washington Post",
+      "author": "Cat Zakrzewski",
+      "headline": "White House touts refunds, as most Americans say taxes are too high",
+      "article_headline": "White House touts refunds, as most Americans say taxes are too high"
+    },
+    {
+      "link": "https://apple.news/AVTQ4bdpAQlayomB3ZVMz6g",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-15 06:20:17",
+      "pub_time": "2026-04-15 05:26:47",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "250 people missing after migrant boat sinks in Indian Ocean",
+      "article_headline": "250 people missing after migrant boat sinks in Indian Ocean"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 06:20:17",
+      "pub_time": "2026-04-15 05:27:14",
+      "publication": "Tampa Bay Times",
+      "author": "",
+      "headline": "Alligator Alcatraz phones were cut off. Then the beatings began, court documents say.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

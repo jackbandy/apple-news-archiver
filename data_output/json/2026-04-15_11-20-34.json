@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-15 11:20:34",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ANtcyOJlGQfW98EXjCGnZUg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 11:20:34",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump threatens to fire Powell if he doesn’t quit Fed board, intensifying standoff",
+      "article_headline": "Trump threatens to fire Powell if he doesn’t quit Fed board, intensifying standoff"
+    },
+    {
+      "link": "https://apple.news/APhXyMuIzS5Kiwf-n1pTTkQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 11:20:34",
+      "pub_time": "2026-04-15 11:11:03",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe",
+      "headline": "U.S. sends thousands more troops to Middle East as Trump seeks to squeeze Iran",
+      "article_headline": "U.S. sends thousands more troops to Middle East as Trump seeks to squeeze Iran"
+    },
+    {
+      "link": "https://apple.news/A7i_zRVuvSYG5kQz4dN12cg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 11:20:34",
+      "pub_time": "2026-04-15 11:11:31",
+      "publication": "The Hill",
+      "author": "Alexander Bolton",
+      "headline": "Senate GOP divided over Trump push for Iran war funding",
+      "article_headline": "Senate GOP divided over Trump push for Iran war funding"
+    },
+    {
+      "link": "https://apple.news/APhXyMuIzS5Kiwf-n1pTTkQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-15 11:20:34",
+      "pub_time": "2026-04-15 11:11:03",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe",
+      "headline": "U.S. sends thousands more troops to Middle East as Trump seeks to squeeze Iran",
+      "article_headline": "U.S. sends thousands more troops to Middle East as Trump seeks to squeeze Iran"
+    },
+    {
+      "link": "https://apple.news/A7i_zRVuvSYG5kQz4dN12cg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-15 11:20:34",
+      "pub_time": "2026-04-15 11:11:31",
+      "publication": "The Hill",
+      "author": "Alexander Bolton",
+      "headline": "Senate GOP divided over Trump push for Iran war funding",
+      "article_headline": "Senate GOP divided over Trump push for Iran war funding"
+    },
+    {
+      "link": "https://apple.news/AJn4yZ6X2R-CiMaErxjP3iw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-15 11:20:34",
+      "pub_time": "2026-04-15 11:10:58",
+      "publication": "NPR",
+      "author": "Juliana Kim",
+      "headline": "Nearly a year after her son’s death, she learned that ICE was responsible",
+      "article_headline": "Nearly a year after her son’s death, she learned that ICE was responsible"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 11:20:34",
+      "pub_time": "",
+      "publication": "Vox",
+      "author": "",
+      "headline": "The tax code rewards generosity. But probably not yours.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
