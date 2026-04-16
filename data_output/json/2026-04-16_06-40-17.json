@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-16 06:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A5AeosOJnSBWKpUb7_IGuog",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-16 06:40:17",
+      "pub_time": "2026-04-16 06:11:18",
+      "publication": "Reuters",
+      "author": "Maayan Lubell and Ariba Shahid",
+      "headline": "Hopes for deal to end the Iran war grow, but nuclear issues remain unresolved",
+      "article_headline": "Hopes for deal to end Iran war grow, but nuclear issues unresolved"
+    },
+    {
+      "link": "https://apple.news/APP8NqNKmTA-GhNDDYoyu5A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-16 06:40:17",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Republicans battle over “last chance” to enact Trump’s agenda",
+      "article_headline": "Republicans battle over “last chance” to enact Trump’s agenda"
+    },
+    {
+      "link": "https://apple.news/APHRzVcGHSZaekhkVsurBqQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-16 06:40:17",
+      "pub_time": "2026-04-16 06:11:18",
+      "publication": "NBC News",
+      "author": "Daryna Mayer and Yuliya Talmazan",
+      "headline": "Russian missiles and drones hit Ukraine in most intense attack of the year, killing at least 18 people",
+      "article_headline": "Russian missiles and drones hit Ukraine in most intense attack of the year, killing at least 18 people"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-16 06:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Has the era of the mega-layoff arrived?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AmUakX1ykQNanIUKU2UVI6A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-16 06:40:17",
+      "pub_time": "2026-04-16 06:10:52",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Shakespeare’s missing London home mapped with discovery",
+      "article_headline": "Shakespeare’s missing London home mapped with discovery"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-16 06:40:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The surprising ways cannabis may affect the aging brain",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AewrD3FGxTs6CXE6uPi71_g",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-16 06:40:17",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "States took on Ticketmaster in a major case — and won",
+      "article_headline": ""
+    }
+  ]
+}

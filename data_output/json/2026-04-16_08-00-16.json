@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-16 08:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A5AeosOJnSBWKpUb7_IGuog",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-16 08:00:16",
+      "pub_time": "2026-04-16 07:00:18",
+      "publication": "Reuters",
+      "author": "Maayan Lubell and Ariba Shahid",
+      "headline": "Hopes for deal to end the Iran war grow, but nuclear issues remain unresolved",
+      "article_headline": "Hopes for deal to end Iran war grow, but nuclear issues unresolved"
+    },
+    {
+      "link": "https://apple.news/APP8NqNKmTA-GhNDDYoyu5A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-16 08:00:16",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Republicans battle over “last chance” to enact Trump’s agenda",
+      "article_headline": "Republicans battle over “last chance” to enact Trump’s agenda"
+    },
+    {
+      "link": "https://apple.news/APHRzVcGHSZaekhkVsurBqQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-16 08:00:16",
+      "pub_time": "2026-04-16 07:01:18",
+      "publication": "NBC News",
+      "author": "Daryna Mayer and Yuliya Talmazan",
+      "headline": "Russian missiles and drones hit Ukraine in most intense attack of the year, killing at least 18 people",
+      "article_headline": "Russian missiles and drones hit Ukraine in most intense attack of the year, killing at least 18 people"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-16 08:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Has the era of the mega-layoff arrived?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AmUakX1ykQNanIUKU2UVI6A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-16 08:00:16",
+      "pub_time": "2026-04-16 07:01:51",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Shakespeare’s missing London home mapped with discovery",
+      "article_headline": "Shakespeare’s missing London home mapped with discovery"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-16 08:00:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The surprising ways cannabis may affect the aging brain",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AewrD3FGxTs6CXE6uPi71_g",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-16 08:00:16",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "States took on Ticketmaster in a major case — and won",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AGhlR03ihSP2_cIqm9bt_fQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-16 08:00:16",
+      "pub_time": "2026-04-15 21:02:55",
+      "publication": "Entertainment Weekly",
+      "author": "Ryan Coleman",
+      "headline": "Steve Guttenberg broke into elderly couple's home and carried them out during Palisades fire: 'They hated me'",
+      "article_headline": "Steve Guttenberg broke into elderly couple's home and carried them out during Palisades fire: 'They hated me'"
+    },
+    {
+      "link": "https://apple.news/AIdY-wk7oQIKdr-RWYzrrIg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-16 08:00:16",
+      "pub_time": "2026-04-15 08:03:23",
+      "publication": "Popular Science",
+      "author": "Niranjana Rajalakshmi",
+      "headline": "Why do dogs tilt their heads? It isn’t just cute.",
+      "article_headline": "Why do dogs tilt their heads? It isn’t just cute."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-16 08:00:16",
+      "pub_time": "2026-04-15 08:03:50",
+      "publication": "",
+      "author": "Ria Bhagwat",
+      "headline": "The Morning Routine That Will Help You Live to 100, According to Longevity Experts",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ATzAfuoclSnmP9sO-FTI7HA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-16 08:00:16",
+      "pub_time": "2026-04-15 12:03:56",
+      "publication": "Martha Stewart",
+      "author": "Madeline Buiano",
+      "headline": "8 Deer-Resistant Perennials That Grow Back Bigger and Better Every Year",
+      "article_headline": "8 Deer-Resistant Perennials That Grow Back Bigger and Better Every Year"
+    }
+  ]
+}

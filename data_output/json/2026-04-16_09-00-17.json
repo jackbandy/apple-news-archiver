@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-16 09:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A5AeosOJnSBWKpUb7_IGuog",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-16 09:00:17",
+      "pub_time": "2026-04-16 08:53:18",
+      "publication": "Reuters",
+      "author": "Maayan Lubell and Ariba Shahid",
+      "headline": "Hopes for deal to end the Iran war grow, but nuclear issues remain unresolved",
+      "article_headline": "Hopes for deal to end Iran war grow, but nuclear issues unresolved"
+    },
+    {
+      "link": "https://apple.news/Au7R5p1FTStSbZWgWSliebg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-16 09:00:17",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "New Jersey special House election is another test of Trump’s popularity ahead of midterms",
+      "article_headline": "New Jersey special House election is another test of Trump’s popularity ahead of midterms"
+    },
+    {
+      "link": "https://apple.news/AV9X53pjxQ4Ws-Y_QaISsGw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-16 09:00:17",
+      "pub_time": "2026-04-16 08:53:19",
+      "publication": "Virginia Mercury",
+      "author": "Markus Schmidt",
+      "headline": "Former Virginia lieutenant governor kills wife, then himself, police say",
+      "article_headline": "Former Virginia lieutenant governor kills wife, then himself, police say"
+    },
+    {
+      "link": "https://apple.news/ApoQGt9qgR8me9PkGHjPXaw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-16 09:00:17",
+      "pub_time": "2026-04-16 08:53:46",
+      "publication": "NPR",
+      "author": "Ava Berger",
+      "headline": "Popes have spoken out on politics before. This time is different.",
+      "article_headline": "Popes have spoken out on politics before. This time is different."
+    },
+    {
+      "link": "https://apple.news/AV9X53pjxQ4Ws-Y_QaISsGw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-16 09:00:17",
+      "pub_time": "2026-04-16 08:53:19",
+      "publication": "Virginia Mercury",
+      "author": "Markus Schmidt",
+      "headline": "Former Virginia lieutenant governor kills wife, then himself, police say",
+      "article_headline": "Former Virginia lieutenant governor kills wife, then himself, police say"
+    },
+    {
+      "link": "https://apple.news/ApoQGt9qgR8me9PkGHjPXaw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-16 09:00:17",
+      "pub_time": "2026-04-16 08:53:46",
+      "publication": "NPR",
+      "author": "Ava Berger",
+      "headline": "Popes have spoken out on politics before. This time is different.",
+      "article_headline": "Popes have spoken out on politics before. This time is different."
+    },
+    {
+      "link": "https://apple.news/ALDpGxrNZQO23oCEqnacLlg",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-16 09:00:17",
+      "pub_time": "2026-04-16 08:54:13",
+      "publication": "NBC News",
+      "author": "Evan Bush",
+      "headline": "Surprise tornadoes in Kansas prompt concerns about changes at the National Weather Service",
+      "article_headline": "Surprise tornadoes in Kansas prompt concerns about changes at the National Weather Service"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-16 11:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AKSnY4m2QQmWjAOTeokVwfQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-16 11:40:17",
+      "pub_time": "2026-04-16 11:37:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump says Israel and Lebanon have agreed to a 10-day ceasefire",
+      "article_headline": "Trump says Israel and Lebanon have agreed to a 10-day ceasefire"
+    },
+    {
+      "link": "https://apple.news/Ae7FCHEdFTHysBbRR9VYGUA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-16 11:40:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "RFK Jr. defends his health agenda and Trump’s proposed budget cuts in hearing",
+      "article_headline": "RFK Jr. defends his health agenda and Trump’s proposed budget cuts in hearing"
+    },
+    {
+      "link": "https://apple.news/AV9X53pjxQ4Ws-Y_QaISsGw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-16 11:40:17",
+      "pub_time": "2026-04-16 11:37:18",
+      "publication": "Virginia Mercury",
+      "author": "Markus Schmidt",
+      "headline": "Former Virginia lieutenant governor kills wife then himself, police say",
+      "article_headline": "Former Virginia lieutenant governor kills wife then himself, police say"
+    },
+    {
+      "link": "https://apple.news/AbvIQs1AnSwKvKpAzvV6cVw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-16 11:40:17",
+      "pub_time": "2026-04-16 11:37:45",
+      "publication": "Reuters",
+      "author": "Anna Voitenko and Anna Pruchnicka",
+      "headline": "Russian strikes kill 17 across Ukraine in worst attack this year",
+      "article_headline": "Russian strikes kill 17 across Ukraine in worst attack this year"
+    },
+    {
+      "link": "https://apple.news/AV9X53pjxQ4Ws-Y_QaISsGw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-16 11:40:17",
+      "pub_time": "2026-04-16 11:37:18",
+      "publication": "Virginia Mercury",
+      "author": "Markus Schmidt",
+      "headline": "Former Virginia lieutenant governor kills wife then himself, police say",
+      "article_headline": "Former Virginia lieutenant governor kills wife then himself, police say"
+    },
+    {
+      "link": "https://apple.news/AbvIQs1AnSwKvKpAzvV6cVw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-16 11:40:17",
+      "pub_time": "2026-04-16 11:37:45",
+      "publication": "Reuters",
+      "author": "Anna Voitenko and Anna Pruchnicka",
+      "headline": "Russian strikes kill 17 across Ukraine in worst attack this year",
+      "article_headline": "Russian strikes kill 17 across Ukraine in worst attack this year"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-16 11:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "They sold their careers to LIV Golf. These players have no idea what’s next.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AGhlR03ihSP2_cIqm9bt_fQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-16 11:40:17",
+      "pub_time": "2026-04-15 21:43:25",
+      "publication": "Entertainment Weekly",
+      "author": "Ryan Coleman",
+      "headline": "Steve Guttenberg broke into elderly couple's home and carried them out during Palisades fire: 'They hated me'",
+      "article_headline": "Steve Guttenberg broke into elderly couple's home and carried them out during Palisades fire: 'They hated me'"
+    },
+    {
+      "link": "https://apple.news/A-_b6_zp4REqx7Hex1acyKA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-16 11:40:17",
+      "pub_time": "2026-04-15 16:43:52",
+      "publication": "People",
+      "author": "Jordan Greene",
+      "headline": "This Toddler’s Sweet Gesture on a Flight Is Melting Hearts: ‘Everyone Was Happy’ (Exclusive)",
+      "article_headline": "This Toddler’s Sweet Gesture on a Flight Is Melting Hearts: ‘Everyone Was Happy’ (Exclusive)"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-16 11:40:17",
+      "pub_time": "2026-04-15 13:44:19",
+      "publication": "",
+      "author": "Christina Perrier and Jennifer Hussein",
+      "headline": "Why Princess Diana's Most Beloved Tiara Won't Go to Kate Middleton or Meghan Markle",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A1x-1Yv2EQlO9YqTakGj-SA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-16 11:40:17",
+      "pub_time": "2026-04-16 04:44:25",
+      "publication": "GIVEMESPORT",
+      "author": "Rory Alpert",
+      "headline": "LIV Golf: 'Bombshell' Email CEO Has Sent Both Players and Staff Leaked",
+      "article_headline": "LIV Golf: 'Bombshell' Email CEO Has Sent Both Players and Staff Leaked"
+    }
+  ]
+}
