@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-17 04:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A5AeosOJnSBWKpUb7_IGuog",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-17 04:00:17",
+      "pub_time": "2026-04-17 00:00:18",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk and Katharine Jackson",
+      "headline": "Israel and Lebanon begin ceasefire, Trump says Iran may meet US over weekend",
+      "article_headline": "Israel and Lebanon begin ceasefire, Trump says Iran may meet US over weekend"
+    },
+    {
+      "link": "https://apple.news/AqEKhEfhrQrax9bYKoA-BIg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-17 04:00:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Acting ICE chief Todd Lyons resigns, a year into Trump’s deportation campaign",
+      "article_headline": "Acting ICE chief Todd Lyons resigns, a year into Trump’s deportation campaign"
+    },
+    {
+      "link": "https://apple.news/A0YL_sDp2SdiV21_a0CBZfQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-17 04:00:17",
+      "pub_time": "2026-04-17 00:01:18",
+      "publication": "NBC News",
+      "author": "Raquel Coronell Uribe and Eleanor Skelly",
+      "headline": "Trump’s plan for a triumphal arch gets initial green light from federal panel",
+      "article_headline": "Trump’s plan for a triumphal arch gets initial green light from federal panel"
+    },
+    {
+      "link": "https://apple.news/AQhSKrpVdSJmnz4zw9WyW_A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-17 04:00:17",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Singer D4vd arrested in slaying of girl found decomposing in Tesla",
+      "article_headline": "D4vd arrested in slaying of girl found decomposing in Tesla"
+    },
+    {
+      "link": "https://apple.news/AiABQkc0OT2-msgrfMlygPg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-17 04:00:17",
+      "pub_time": "2026-04-17 00:02:19",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "3D-printed homes, an abandoned $590,000 deposit, the FBI: what really happened in this small town?",
+      "article_headline": "3D-printed homes, an abandoned $590,000 deposit, the FBI: what really happened in this small town?"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-17 04:00:17",
+      "pub_time": "2026-04-17 00:02:46",
+      "publication": "WIRED",
+      "author": "Matt Burgess",
+      "headline": "The deepfake-nudes crisis in schools is much worse than you thought",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ANrzLKxvxTdicjGTOwmYceA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-17 04:00:17",
+      "pub_time": "2026-04-16 22:02:52",
+      "publication": "BuzzFeed",
+      "author": "Ajani Bazile-Dutes",
+      "headline": "I'm Actually Out Of Breath From Laughing So Hard At These 27 Signs Businesses Actually Put Up In Public",
+      "article_headline": "I'm Actually Out Of Breath From Laughing So Hard At These 27 Signs Businesses Actually Put Up In Public"
+    },
+    {
+      "link": "https://apple.news/AFgK2-VEfTtKpv9ZIOcuzkg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-17 04:00:17",
+      "pub_time": "2026-04-16 07:03:19",
+      "publication": "HuffPost",
+      "author": "Monica Torres",
+      "headline": "We Asked Experts About How Many Days Can Pass Without Washing Your Reusable Water Bottle — And Their Answer Was Surprising",
+      "article_headline": "We Asked Experts About How Many Days Can Pass Without Washing Your Reusable Water Bottle — And Their Answer Was Surprising"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-17 04:00:17",
+      "pub_time": "2026-04-16 19:03:53",
+      "publication": "",
+      "author": "Ariana Eunjung Cha",
+      "headline": "What is ‘Ozempic personality,’ and why does it make life feel ‘meh’?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aow4rj8IiQN67hpJ5S1qk0g",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-17 04:00:17",
+      "pub_time": "2026-04-16 21:03:53",
+      "publication": "TheStreet",
+      "author": "Jeffrey Quiggle",
+      "headline": "Fidelity, Fed raise red flags on 401(k)s, IRAs",
+      "article_headline": "Fidelity, Fed raise red flags on 401(k)s, IRAs"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-17 04:00:17",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Allrecipes, RECIPE, 25 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
