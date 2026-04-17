@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-17 17:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Alr_v_y2UTiqmyx1azIg7Ew",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-17 17:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump says blockade will remain after Iran declares Strait of Hormuz open, LIVE",
+      "article_headline": "Chokehold on Hormuz Eases as U.S. and Iran Show Signs of Compromise"
+    },
+    {
+      "link": "https://apple.news/Az8cwrCOtT0GfRHUte8I8rA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-17 17:40:17",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Senate GOP losing patience with Speaker Johnson as DHS faces crisis",
+      "article_headline": "Senate GOP losing patience with Speaker Johnson as DHS faces crisis"
+    },
+    {
+      "link": "https://apple.news/ARgvC0hhvRTWZfFocFvPKqA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-17 17:40:17",
+      "pub_time": "2026-04-17 16:41:19",
+      "publication": "POLITICO",
+      "author": "Kyle Cheney",
+      "headline": "They’ve been detained by ICE and ordered deported. Judges are releasing them from custody.",
+      "article_headline": "They’ve been detained by ICE and ordered deported. Judges are releasing them from custody."
+    },
+    {
+      "link": "https://apple.news/AUsZ6uP6PRFycn48nyp6usw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-17 17:40:17",
+      "pub_time": "2026-04-17 16:41:47",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Texas Medical Board sanctions 3 doctors for delayed care that led to the deaths of 2 pregnant women",
+      "article_headline": "Texas Medical Board sanctions 3 doctors for delayed care that led to the deaths of 2 pregnant women"
+    },
+    {
+      "link": "https://apple.news/AHXWhL4-RT8O0sd2CsyZjCQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-17 17:40:17",
+      "pub_time": "",
+      "publication": "Grist",
+      "author": "",
+      "headline": "Deep-diving robots help crack the mystery of Antarctica’s vanishing sea ice",
+      "article_headline": "Deep-diving robots help crack the mystery of Antarctica’s vanishing sea ice"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-17 17:40:17",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "The return of family detention, Sarah Stillman",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AQRmFg8FkQlKKTHB8ZgN3uw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-17 17:40:17",
+      "pub_time": "2026-04-17 06:42:53",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "Doctor Offers Simple Explanation Why You Wake Up At 3am Every Night",
+      "article_headline": "Doctor Offers Simple Explanation Why You Wake Up At 3am Every Night"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-17 17:40:17",
+      "pub_time": "2026-04-17 12:43:20",
+      "publication": "",
+      "author": "Arsheen Kaur Sahni",
+      "headline": "Here Are 20 Forgotten Child Actors, And You’re Not Ready For What Happened To Some Of Them",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-17 17:40:17",
+      "pub_time": "2026-04-16 17:43:37",
+      "publication": "",
+      "author": "Lauren Thomann",
+      "headline": "We Asked 3 Baristas to Name the Best Store-Bought Coffee—They All Picked the Same One",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aexr3PTjlQNaScitfLN1bSQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-17 17:40:17",
+      "pub_time": "2026-04-17 13:43:37",
+      "publication": "ABC News",
+      "author": "Angeline Jane Bernabe",
+      "headline": "Zookeeper shares update on Punch the monkey",
+      "article_headline": "Zookeeper shares update on Punch the monkey"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-17 17:40:17",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "EatingWell, RECIPE, 35 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-17 17:00:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Alr_v_y2UTiqmyx1azIg7Ew",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-17 17:00:14",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump says blockade will remain after Iran declares Strait of Hormuz open, LIVE",
+      "article_headline": "Chokehold on Hormuz Eases as U.S. and Iran Show Signs of Compromise"
+    },
+    {
+      "link": "https://apple.news/Az8cwrCOtT0GfRHUte8I8rA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-17 17:00:14",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Senate GOP losing patience with Speaker Johnson as DHS faces crisis",
+      "article_headline": "Senate GOP losing patience with Speaker Johnson as DHS faces crisis"
+    },
+    {
+      "link": "https://apple.news/ARgvC0hhvRTWZfFocFvPKqA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-17 17:00:14",
+      "pub_time": "2026-04-17 16:41:16",
+      "publication": "POLITICO",
+      "author": "Kyle Cheney",
+      "headline": "They’ve been detained by ICE and ordered deported. Judges are releasing them from custody.",
+      "article_headline": "They’ve been detained by ICE and ordered deported. Judges are releasing them from custody."
+    },
+    {
+      "link": "https://apple.news/AUsZ6uP6PRFycn48nyp6usw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-17 17:00:14",
+      "pub_time": "2026-04-17 16:41:43",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Texas Medical Board sanctions 3 doctors for delayed care that led to the deaths of 2 pregnant women",
+      "article_headline": "Texas Medical Board sanctions 3 doctors for delayed care that led to the deaths of 2 pregnant women"
+    },
+    {
+      "link": "https://apple.news/ARgvC0hhvRTWZfFocFvPKqA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-17 17:00:14",
+      "pub_time": "2026-04-17 16:41:17",
+      "publication": "POLITICO",
+      "author": "Kyle Cheney",
+      "headline": "They’ve been detained by ICE and ordered deported. Judges are releasing them from custody.",
+      "article_headline": "They’ve been detained by ICE and ordered deported. Judges are releasing them from custody."
+    },
+    {
+      "link": "https://apple.news/AUsZ6uP6PRFycn48nyp6usw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-17 17:00:14",
+      "pub_time": "2026-04-17 16:41:45",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Texas Medical Board sanctions 3 doctors for delayed care that led to the deaths of 2 pregnant women",
+      "article_headline": "Texas Medical Board sanctions 3 doctors for delayed care that led to the deaths of 2 pregnant women"
+    },
+    {
+      "link": "https://apple.news/AHXWhL4-RT8O0sd2CsyZjCQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-17 17:00:14",
+      "pub_time": "",
+      "publication": "Grist",
+      "author": "",
+      "headline": "Deep-diving robots help crack the mystery of Antarctica’s vanishing sea ice",
+      "article_headline": "Deep-diving robots help crack the mystery of Antarctica’s vanishing sea ice"
+    }
+  ]
+}

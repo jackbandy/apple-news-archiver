@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-17 12:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Alr_v_y2UTiqmyx1azIg7Ew",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-17 12:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump says blockade will remain, after Iran declares Strait of Hormuz open, LIVE",
+      "article_headline": "Trump Says Blockade to Remain After Iran Declares Strait Open"
+    },
+    {
+      "link": "https://apple.news/AXeHWExY7Q56VIBAKB9IBGg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-17 12:40:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Supreme Court hands win to Chevron, Big Oil in environmental-damage case",
+      "article_headline": "Supreme Court hands win to Chevron, Big Oil in environmental-damage case"
+    },
+    {
+      "link": "https://apple.news/AuCDmNu_LTFaJN0DFD78ECg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-17 12:40:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Senate extends surveillance powers until April 30 after chaotic votes in House",
+      "article_headline": "Senate extends surveillance powers until April 30 after chaotic votes in House"
+    },
+    {
+      "link": "https://apple.news/A8_vASd79R6Khn3WGN1xZZA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-17 12:40:17",
+      "pub_time": "2026-04-17 11:41:46",
+      "publication": "FOX Weather",
+      "author": "Olivia Stephens and Julian Atienza",
+      "headline": "Severe storms set to ignite with tornadoes, “monster” hail targeting more than 50 million across 1,500 miles",
+      "article_headline": "Severe storms set to ignite with tornadoes, “monster” hail targeting more than 50 million across 1,500 miles"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-17 12:40:17",
+      "pub_time": "2026-04-17 11:42:19",
+      "publication": "NJ.com",
+      "author": "",
+      "headline": "Cancer cluster feared in New Jersey neighborhood where locals worry they’ve been poisoned for decades",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-17 12:40:17",
+      "pub_time": "2026-04-17 11:42:19",
+      "publication": "The Washington Post",
+      "author": "Daniel Wu",
+      "headline": "“That wasn’t me”: how facial recognition led to a woman being jailed for 6 months",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_WZ-FdzwT6WJNDGnH2-eHA",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-17 12:40:17",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Why Republicans are split over a major spying tool",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A6cmepKR0S9mjGiaFsJwldA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-17 12:40:17",
+      "pub_time": "2026-04-17 06:42:51",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Dear Abby: Man's online shopping drains coffers and wife's patience",
+      "article_headline": "Dear Abby: Man's online shopping drains coffers and wife's patience"
+    },
+    {
+      "link": "https://apple.news/AtarnuYyJRp6vbfi2dLK22w",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-17 12:40:17",
+      "pub_time": "2026-04-16 17:43:24",
+      "publication": "ABC News",
+      "author": "Yi-Jin Yu",
+      "headline": "3-year-old's baseball walk-up performance is must-see",
+      "article_headline": "3-year-old's baseball walk-up performance is must-see"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-17 12:40:17",
+      "pub_time": "2026-04-17 11:43:51",
+      "publication": "",
+      "author": "Simon Perry",
+      "headline": "One Decision by Queen Elizabeth 'Will Go Down as a Mistake' That Outlasted Her, Biographer Says (Exclusive)",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aow4rj8IiQN67hpJ5S1qk0g",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-17 12:40:17",
+      "pub_time": "2026-04-16 20:43:51",
+      "publication": "TheStreet",
+      "author": "Jeffrey Quiggle",
+      "headline": "Fidelity, Fed raise red flags on 401(k)s, IRAs",
+      "article_headline": "Fidelity, Fed raise red flags on 401(k)s, IRAs"
+    }
+  ]
+}
