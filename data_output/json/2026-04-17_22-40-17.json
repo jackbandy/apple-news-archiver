@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-17 22:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ARVyhkavvT4yzyAj64m3UVg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-17 22:40:17",
+      "pub_time": "2026-04-17 22:05:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran reopens Strait of Hormuz, but threatens to close it again as the U.S. maintains its blockade",
+      "article_headline": "Iran reopens Strait of Hormuz, but threatens to close it again as the US maintains its blockade"
+    },
+    {
+      "link": "https://apple.news/AgwUOH2Y9TSuR3pPsMT9FwA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-17 22:40:17",
+      "pub_time": "2026-04-17 22:05:46",
+      "publication": "The Hill",
+      "author": "Ryan Mancini",
+      "headline": "Trump administration reverses course, extends Russian oil sanctions waiver",
+      "article_headline": "Trump administration reverses course, extends Russian oil sanctions waiver"
+    },
+    {
+      "link": "https://apple.news/AgwUOH2Y9TSuR3pPsMT9FwA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-17 22:40:17",
+      "pub_time": "2026-04-17 22:05:18",
+      "publication": "The Hill",
+      "author": "Ryan Mancini",
+      "headline": "Trump administration reverses course, extends Russian oil sanctions waiver",
+      "article_headline": "Trump administration reverses course, extends Russian oil sanctions waiver"
+    },
+    {
+      "link": "https://apple.news/AmdZHH-mfQH2ZsZqaWACJBA?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-17 22:40:17",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Politics, Trump’s Jesus meme draws backlash from allies, and more of the week’s politics stories, Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-17 22:40:17",
+      "pub_time": "2026-04-17 22:06:13",
+      "publication": "The Wall Street Journal",
+      "author": "Omar Abdel-baqui and Anat Peled",
+      "headline": "“Bombs fell like rain”: The Israeli attack that hit 100 Lebanese targets in 90 seconds",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-17 22:40:17",
+      "pub_time": "2026-04-17 22:05:19",
+      "publication": "The Wall Street Journal",
+      "author": "Omar Abdel-baqui and Anat Peled",
+      "headline": "“Bombs fell like rain”: The Israeli attack that hit 100 Lebanese targets in 90 seconds",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AwTWW9WNuQVSRToXtEKAQ_Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-17 22:40:17",
+      "pub_time": "",
+      "publication": "Variety",
+      "author": "",
+      "headline": "Alec Baldwin to face civil trial over alleged negligence in ‘Rust’ shooting",
+      "article_headline": "Alec Baldwin to face civil trial over alleged negligence in ‘Rust’ shooting"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-04-17 21:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ARVyhkavvT4yzyAj64m3UVg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-17 21:00:17",
+      "pub_time": "2026-04-17 20:56:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran reopens Strait of Hormuz, but threatens to close it again as the U.S. maintains its blockade",
+      "article_headline": "Iran reopens Strait of Hormuz, but threatens to close it again as the US maintains its blockade"
+    },
+    {
+      "link": "https://apple.news/Agixx3uchSU-JsRc2R59N_g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-17 21:00:17",
+      "pub_time": "",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "RFK Jr. defends vaccine views, autism comments during House committee hearing",
+      "article_headline": "RFK Jr. defends vaccine views, autism comments during House committee hearing"
+    },
+    {
+      "link": "https://apple.news/Am1tkJ-GHQ7GyGSO9K2AoYA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-17 21:00:17",
+      "pub_time": "2026-04-17 20:56:19",
+      "publication": "Reuters",
+      "author": "Laila Bassam, Thomas Suen, and Pesha Magid",
+      "headline": "Lebanese return to unlivable areas as ceasefire with Israel mostly holds",
+      "article_headline": "Lebanese return to unlivable areas as ceasefire with Israel mostly holds"
+    },
+    {
+      "link": "https://apple.news/ARgvC0hhvRTWZfFocFvPKqA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-17 21:00:17",
+      "pub_time": "2026-04-17 20:56:46",
+      "publication": "POLITICO",
+      "author": "Kyle Cheney",
+      "headline": "They’ve been detained by ICE and ordered deported. Judges are releasing them from custody.",
+      "article_headline": "They’ve been detained by ICE and ordered deported. Judges are releasing them from custody."
+    },
+    {
+      "link": "https://apple.news/Am1tkJ-GHQ7GyGSO9K2AoYA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-17 21:00:17",
+      "pub_time": "2026-04-17 20:56:19",
+      "publication": "Reuters",
+      "author": "Laila Bassam, Thomas Suen, and Pesha Magid",
+      "headline": "Lebanese return to unlivable areas as ceasefire with Israel mostly holds",
+      "article_headline": "Lebanese return to unlivable areas as ceasefire with Israel mostly holds"
+    },
+    {
+      "link": "https://apple.news/ARgvC0hhvRTWZfFocFvPKqA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-17 21:00:17",
+      "pub_time": "2026-04-17 20:56:46",
+      "publication": "POLITICO",
+      "author": "Kyle Cheney",
+      "headline": "They’ve been detained by ICE and ordered deported. Judges are releasing them from custody.",
+      "article_headline": "They’ve been detained by ICE and ordered deported. Judges are releasing them from custody."
+    },
+    {
+      "link": "https://apple.news/AwTWW9WNuQVSRToXtEKAQ_Q",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-17 21:00:17",
+      "pub_time": "",
+      "publication": "Variety",
+      "author": "",
+      "headline": "Alec Baldwin to face civil trial over alleged negligence in ‘Rust’ shooting",
+      "article_headline": "Alec Baldwin to face civil trial over alleged negligence in ‘Rust’ shooting"
+    },
+    {
+      "link": "https://apple.news/AX3EzZG2JSYWDp-YCKtNHcQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-17 21:00:17",
+      "pub_time": "2026-04-17 08:03:48",
+      "publication": "HuffPost",
+      "author": "Marissa Eller",
+      "headline": "I Blamed Anxiety For My Heart Palpitations And Puffy Face. Then My Doctor Said 3 Words I Never Expected.",
+      "article_headline": "I Blamed Anxiety For My Heart Palpitations And Puffy Face. Then My Doctor Said 3 Words I Never Expected."
+    },
+    {
+      "link": "https://apple.news/AKAy7MwqaS2yjCoJOMKI-qg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-17 21:00:17",
+      "pub_time": "2026-04-17 17:04:15",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Baby elephant, rejected by her mother, forms new bond at National Zoo",
+      "article_headline": "Baby elephant, rejected by her mother, forms new bond at National Zoo"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-17 21:00:17",
+      "pub_time": "2026-04-17 11:04:49",
+      "publication": "",
+      "author": "Joe Pinsker, Paul Overberg, and Drew An-pham",
+      "headline": "Sorry, Gen X. We Looked at the Data, and You Had It Rough Too.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaUENNdCvQZ6X0BSNkcJwvA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-17 21:00:17",
+      "pub_time": "2026-04-17 11:04:49",
+      "publication": "CNBC",
+      "author": "Gili Malinsky",
+      "headline": "She’s been married nearly 70 years: The No. 1 thing they still do every day—it keeps them in love",
+      "article_headline": "She’s been married nearly 70 years: The No. 1 thing they still do every day—it keeps them in love"
+    }
+  ]
+}

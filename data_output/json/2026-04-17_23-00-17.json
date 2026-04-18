@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-17 23:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ARVyhkavvT4yzyAj64m3UVg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-17 23:00:17",
+      "pub_time": "2026-04-17 22:05:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran reopens Strait of Hormuz, but threatens to close it again as the U.S. maintains its blockade",
+      "article_headline": "Iran reopens Strait of Hormuz, but threatens to close it again as the US maintains its blockade"
+    },
+    {
+      "link": "https://apple.news/AgwUOH2Y9TSuR3pPsMT9FwA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-17 23:00:17",
+      "pub_time": "2026-04-17 22:05:46",
+      "publication": "The Hill",
+      "author": "Ryan Mancini",
+      "headline": "Trump administration reverses course, extends Russian oil sanctions waiver",
+      "article_headline": "Trump administration reverses course, extends Russian oil sanctions waiver"
+    },
+    {
+      "link": "https://apple.news/AgwUOH2Y9TSuR3pPsMT9FwA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-17 23:00:17",
+      "pub_time": "2026-04-17 22:05:19",
+      "publication": "The Hill",
+      "author": "Ryan Mancini",
+      "headline": "Trump administration reverses course, extends Russian oil sanctions waiver",
+      "article_headline": "Trump administration reverses course, extends Russian oil sanctions waiver"
+    },
+    {
+      "link": "https://apple.news/AmdZHH-mfQH2ZsZqaWACJBA?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-17 23:00:17",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Politics, Trump’s Jesus meme draws backlash from allies, and more of the week’s politics stories, Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-17 23:00:17",
+      "pub_time": "2026-04-17 22:06:14",
+      "publication": "The Wall Street Journal",
+      "author": "Omar Abdel-baqui and Anat Peled",
+      "headline": "“Bombs fell like rain”: The Israeli attack that hit 100 Lebanese targets in 90 seconds",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-17 23:00:17",
+      "pub_time": "2026-04-17 22:05:20",
+      "publication": "The Wall Street Journal",
+      "author": "Omar Abdel-baqui and Anat Peled",
+      "headline": "“Bombs fell like rain”: The Israeli attack that hit 100 Lebanese targets in 90 seconds",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AwTWW9WNuQVSRToXtEKAQ_Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-17 23:00:17",
+      "pub_time": "",
+      "publication": "Variety",
+      "author": "",
+      "headline": "Alec Baldwin to face civil trial over alleged negligence in ‘Rust’ shooting",
+      "article_headline": "Alec Baldwin to face civil trial over alleged negligence in ‘Rust’ shooting"
+    },
+    {
+      "link": "https://apple.news/AQRmFg8FkQlKKTHB8ZgN3uw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-17 23:00:17",
+      "pub_time": "2026-04-17 07:02:54",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "Doctor Offers Simple Explanation Why You Wake Up At 3am Every Night",
+      "article_headline": "Doctor Offers Simple Explanation Why You Wake Up At 3am Every Night"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-17 23:00:17",
+      "pub_time": "2026-04-17 08:03:22",
+      "publication": "",
+      "author": "Sabrina Talbert",
+      "headline": "Dermatologists Say This Type of Soap Can Help Fade Age Spots",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-17 23:00:17",
+      "pub_time": "2026-04-17 17:03:39",
+      "publication": "",
+      "author": "",
+      "headline": "She Almost Lost Everything in Her Divorce. Now Women Are Learning From Her Mistakes.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaUENNdCvQZ6X0BSNkcJwvA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-17 23:00:17",
+      "pub_time": "2026-04-17 11:03:39",
+      "publication": "CNBC",
+      "author": "Gili Malinsky",
+      "headline": "She’s been married nearly 70 years: The No. 1 thing they still do every day—it keeps them in love",
+      "article_headline": "She’s been married nearly 70 years: The No. 1 thing they still do every day—it keeps them in love"
+    }
+  ]
+}
