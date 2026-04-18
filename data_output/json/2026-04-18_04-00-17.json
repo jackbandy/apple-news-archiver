@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-18 04:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AN7ChDowFTQWfPZEmiczGdg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-18 04:00:17",
+      "pub_time": "2026-04-18 00:00:18",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi, Steve Holland, and Nayera Abdallah",
+      "headline": "Iran reopens Strait of Hormuz, but says U.S. must end naval blockade",
+      "article_headline": "Iran reopens Strait of Hormuz, but says U.S. must end naval blockade"
+    },
+    {
+      "link": "https://apple.news/AksOm52q9TiC0xrLfImHQRg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-18 04:00:17",
+      "pub_time": "2026-04-18 00:00:46",
+      "publication": "NBC News",
+      "author": "Gary Grumbach and Kyla Guilfoil",
+      "headline": "Trump and the IRS are in talks to resolve his $10 billion lawsuit over leaked tax records",
+      "article_headline": "Trump and the IRS are in talks to resolve his $10 billion lawsuit over leaked tax records"
+    },
+    {
+      "link": "https://apple.news/Ang0PUtctSFG01ze6LZ7INQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-18 04:00:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Judge sides with Arizona election official in ruling that has implications for midterms voting",
+      "article_headline": "Judge sides with Arizona election official in ruling that has implications for midterms voting"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 04:00:17",
+      "pub_time": "2026-04-18 00:01:47",
+      "publication": "The Wall Street Journal",
+      "author": "Joshua Chaffin",
+      "headline": "Camp Mystic is still a crime scene — and getting ready for 850 girls this summer",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AIWH4BInWQkOj6BV0IbUykA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-18 04:00:17",
+      "pub_time": "2026-04-18 00:01:53",
+      "publication": "The 19th News",
+      "author": "Jasmine Mithani",
+      "headline": "Domestic violence organizations turn away thousands each day. Julia was one of them.",
+      "article_headline": "Domestic violence organizations turn away thousands each day. Julia was one of them."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 04:00:17",
+      "pub_time": "2026-04-18 00:02:20",
+      "publication": "WIRED",
+      "author": "Vittoria Elliott",
+      "headline": "Government workers say they’re getting inundated with religion",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A-9qNdagRSaSxXoLwdm3rjA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-18 04:00:17",
+      "pub_time": "2026-04-17 11:02:34",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Global travel is surging, but tourists aren't coming to the US",
+      "article_headline": "Global travel is surging, but tourists aren't coming to the US"
+    }
+  ]
+}

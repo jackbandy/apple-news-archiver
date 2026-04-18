@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-18 02:00:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AN7ChDowFTQWfPZEmiczGdg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-18 02:00:18",
+      "pub_time": "2026-04-18 00:00:20",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi, Steve Holland, and Nayera Abdallah",
+      "headline": "Iran reopens Strait of Hormuz, but says U.S. must end naval blockade",
+      "article_headline": "Iran reopens Strait of Hormuz, but says U.S. must end naval blockade"
+    },
+    {
+      "link": "https://apple.news/AksOm52q9TiC0xrLfImHQRg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-18 02:00:18",
+      "pub_time": "2026-04-18 00:00:47",
+      "publication": "NBC News",
+      "author": "Gary Grumbach and Kyla Guilfoil",
+      "headline": "Trump and the IRS are in talks to resolve his $10 billion lawsuit over leaked tax records",
+      "article_headline": "Trump and the IRS are in talks to resolve his $10 billion lawsuit over leaked tax records"
+    },
+    {
+      "link": "https://apple.news/Ang0PUtctSFG01ze6LZ7INQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-18 02:00:18",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Judge sides with Arizona election official in ruling that has implications for midterms voting",
+      "article_headline": "Judge sides with Arizona election official in ruling that has implications for midterms voting"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 02:00:18",
+      "pub_time": "2026-04-18 00:01:46",
+      "publication": "The Wall Street Journal",
+      "author": "Joshua Chaffin",
+      "headline": "Camp Mystic is still a crime scene — and getting ready for 850 girls this summer",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AIWH4BInWQkOj6BV0IbUykA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-18 02:00:18",
+      "pub_time": "2026-04-18 00:01:52",
+      "publication": "The 19th News",
+      "author": "Jasmine Mithani",
+      "headline": "Domestic violence organizations turn away thousands each day. Julia was one of them.",
+      "article_headline": "Domestic violence organizations turn away thousands each day. Julia was one of them."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 02:00:18",
+      "pub_time": "2026-04-18 00:02:19",
+      "publication": "WIRED",
+      "author": "Vittoria Elliott",
+      "headline": "Government workers say they’re getting inundated with religion",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A0UgGRp51TlWMyOhtnw7MzQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-18 02:00:18",
+      "pub_time": "2026-04-17 22:02:29",
+      "publication": "BuzzFeed",
+      "author": "Kristen Harris",
+      "headline": "17 Old Hollywood Stars Before And After Cosmetic Surgery",
+      "article_headline": "17 Old Hollywood Stars Before And After Cosmetic Surgery"
+    },
+    {
+      "link": "https://apple.news/AU6kKb7_7QW6su-OihaK6Mw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-18 02:00:18",
+      "pub_time": "2026-04-17 09:03:03",
+      "publication": "Real Simple",
+      "author": "Wendy Rose Gould",
+      "headline": "We Asked Gardeners Which Fast-Growing Groundcover Is the Easiest to Maintain—and Their Answer Was Unanimous",
+      "article_headline": "We Asked Gardeners Which Fast-Growing Groundcover Is the Easiest to Maintain—and Their Answer Was Unanimous"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-18 02:00:18",
+      "pub_time": "2026-04-17 02:03:30",
+      "publication": "",
+      "author": "Kate Franke",
+      "headline": "People Are Confused By Those Lines on Towels. Here's What They're For.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aexr3PTjlQNaScitfLN1bSQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-18 02:00:18",
+      "pub_time": "2026-04-17 13:03:30",
+      "publication": "ABC News",
+      "author": "Angeline Jane Bernabe",
+      "headline": "Zookeeper shares update on Punch the monkey",
+      "article_headline": "Zookeeper shares update on Punch the monkey"
+    },
+    {
+      "link": "https://apple.news/AmtodrSzAS6i04pR_l1p_Gg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-18 02:00:18",
+      "pub_time": "2026-04-17 02:04:14",
+      "publication": "Reuters",
+      "author": "Arathy Somasekhar and Georgina Mccartney",
+      "headline": "Iran war brings US close to net crude exporter for first time since World War Two",
+      "article_headline": "Iran war brings US close to net crude exporter for first time since World War Two"
+    }
+  ]
+}

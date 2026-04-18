@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-04-18 01:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AN7ChDowFTQWfPZEmiczGdg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-18 01:00:17",
+      "pub_time": "2026-04-18 00:00:19",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi, Steve Holland, and Nayera Abdallah",
+      "headline": "Iran reopens Strait of Hormuz, but says U.S. must end naval blockade",
+      "article_headline": "Iran reopens Strait of Hormuz, but says U.S. must end naval blockade"
+    },
+    {
+      "link": "https://apple.news/AksOm52q9TiC0xrLfImHQRg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-18 01:00:17",
+      "pub_time": "2026-04-18 00:00:46",
+      "publication": "NBC News",
+      "author": "Gary Grumbach and Kyla Guilfoil",
+      "headline": "Trump and the IRS are in talks to resolve his $10 billion lawsuit over leaked tax records",
+      "article_headline": "Trump and the IRS are in talks to resolve his $10 billion lawsuit over leaked tax records"
+    },
+    {
+      "link": "https://apple.news/Ang0PUtctSFG01ze6LZ7INQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-18 01:00:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Judge sides with Arizona election official in ruling that has implications for midterms voting",
+      "article_headline": "Judge sides with Arizona election official in ruling that has implications for midterms voting"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 01:00:17",
+      "pub_time": "2026-04-18 00:01:46",
+      "publication": "The Wall Street Journal",
+      "author": "Joshua Chaffin",
+      "headline": "Camp Mystic is still a crime scene — and getting ready for 850 girls this summer",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AIWH4BInWQkOj6BV0IbUykA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-18 01:00:17",
+      "pub_time": "2026-04-18 00:01:51",
+      "publication": "The 19th News",
+      "author": "Jasmine Mithani",
+      "headline": "Domestic violence organizations turn away thousands each day. Julia was one of them.",
+      "article_headline": "Domestic violence organizations turn away thousands each day. Julia was one of them."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 01:00:17",
+      "pub_time": "2026-04-18 00:02:18",
+      "publication": "WIRED",
+      "author": "Vittoria Elliott",
+      "headline": "Government workers say they’re getting inundated with religion",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 01:00:17",
+      "pub_time": "2026-04-17 20:02:33",
+      "publication": "The Wall Street Journal",
+      "author": "Rachel Louise Ensign",
+      "headline": "Skimp on Yogurt, Splurge on Skydiving: The Rise of the Frugal Rich",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AQRmFg8FkQlKKTHB8ZgN3uw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-18 01:00:17",
+      "pub_time": "2026-04-17 07:03:02",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "Doctor Offers Simple Explanation Why You Wake Up At 3am Every Night",
+      "article_headline": "Doctor Offers Simple Explanation Why You Wake Up At 3am Every Night"
+    },
+    {
+      "link": "https://apple.news/A0UgGRp51TlWMyOhtnw7MzQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-18 01:00:17",
+      "pub_time": "2026-04-17 22:03:35",
+      "publication": "BuzzFeed",
+      "author": "Kristen Harris",
+      "headline": "17 Old Hollywood Stars Before And After Cosmetic Surgery",
+      "article_headline": "17 Old Hollywood Stars Before And After Cosmetic Surgery"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-18 01:00:17",
+      "pub_time": "2026-04-17 01:04:03",
+      "publication": "",
+      "author": "Kate Franke",
+      "headline": "People Are Confused By Those Lines on Towels. Here's What They're For.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AucEoyinWScmL0V31UdP98Q",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-18 01:00:17",
+      "pub_time": "2026-04-17 08:04:03",
+      "publication": "Women’s Health",
+      "author": "Sabrina Talbert",
+      "headline": "Dermatologists Say This Type of Soap Can Help Fade Age Spots",
+      "article_headline": "Dermatologists Say This Type of Soap Can Help Fade Age Spots"
+    }
+  ]
+}

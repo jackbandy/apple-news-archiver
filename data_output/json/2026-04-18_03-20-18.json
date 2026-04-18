@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-04-18 03:20:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AN7ChDowFTQWfPZEmiczGdg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-18 03:20:18",
+      "pub_time": "2026-04-18 00:20:19",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi, Steve Holland, and Nayera Abdallah",
+      "headline": "Iran reopens Strait of Hormuz, but says U.S. must end naval blockade",
+      "article_headline": "Iran reopens Strait of Hormuz, but says U.S. must end naval blockade"
+    },
+    {
+      "link": "https://apple.news/AksOm52q9TiC0xrLfImHQRg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-18 03:20:18",
+      "pub_time": "2026-04-18 00:20:47",
+      "publication": "NBC News",
+      "author": "Gary Grumbach and Kyla Guilfoil",
+      "headline": "Trump and the IRS are in talks to resolve his $10 billion lawsuit over leaked tax records",
+      "article_headline": "Trump and the IRS are in talks to resolve his $10 billion lawsuit over leaked tax records"
+    },
+    {
+      "link": "https://apple.news/Ang0PUtctSFG01ze6LZ7INQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-18 03:20:18",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Judge sides with Arizona election official in ruling that has implications for midterms voting",
+      "article_headline": "Judge sides with Arizona election official in ruling that has implications for midterms voting"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 03:20:18",
+      "pub_time": "2026-04-18 00:21:47",
+      "publication": "The Wall Street Journal",
+      "author": "Joshua Chaffin",
+      "headline": "Camp Mystic is still a crime scene — and getting ready for 850 girls this summer",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AIWH4BInWQkOj6BV0IbUykA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-18 03:20:18",
+      "pub_time": "2026-04-18 00:21:53",
+      "publication": "The 19th News",
+      "author": "Jasmine Mithani",
+      "headline": "Domestic violence organizations turn away thousands each day. Julia was one of them.",
+      "article_headline": "Domestic violence organizations turn away thousands each day. Julia was one of them."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 03:20:18",
+      "pub_time": "2026-04-18 00:22:20",
+      "publication": "WIRED",
+      "author": "Vittoria Elliott",
+      "headline": "Government workers say they’re getting inundated with religion",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 03:20:18",
+      "pub_time": "2026-04-17 03:22:36",
+      "publication": "Vogue",
+      "author": "Hannah Jackson",
+      "headline": "Here Are Looks We’d Like to See the 2026 Met Gala Co-Chairs Wear",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A0UgGRp51TlWMyOhtnw7MzQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-18 03:20:18",
+      "pub_time": "2026-04-17 21:23:03",
+      "publication": "BuzzFeed",
+      "author": "Kristen Harris",
+      "headline": "17 Old Hollywood Stars Before And After Cosmetic Surgery",
+      "article_headline": "17 Old Hollywood Stars Before And After Cosmetic Surgery"
+    },
+    {
+      "link": "https://apple.news/AaUENNdCvQZ6X0BSNkcJwvA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-18 03:20:18",
+      "pub_time": "2026-04-17 11:23:36",
+      "publication": "CNBC",
+      "author": "Gili Malinsky",
+      "headline": "She’s been married nearly 70 years: The No. 1 thing they still do every day—it keeps them in love",
+      "article_headline": "She’s been married nearly 70 years: The No. 1 thing they still do every day—it keeps them in love"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-18 03:20:18",
+      "pub_time": "2026-04-17 03:24:04",
+      "publication": "",
+      "author": "Kate Franke",
+      "headline": "People Are Confused By Those Lines on Towels. Here's What They're For.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AKAy7MwqaS2yjCoJOMKI-qg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-18 03:20:18",
+      "pub_time": "2026-04-17 17:24:04",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Baby elephant, rejected by her mother, forms new bond at National Zoo",
+      "article_headline": "Baby elephant, rejected by her mother, forms new bond at National Zoo"
+    }
+  ]
+}
