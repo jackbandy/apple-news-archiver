@@ -1,0 +1,120 @@
+{
+  "run_time": "2026-04-19 07:40:16",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/A14e1j87xTsmEX6gGhz4-ew",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-19 07:40:16",
+      "pub_time": "2026-04-19 06:40:18",
+      "publication": "Reuters",
+      "author": "Trevor Hunnicutt, Muhammad Gebaly, and Saad Sayeed",
+      "headline": "Trump accuses Iran of 'total violation' of ceasefire, threatens new attacks unless it takes deal",
+      "article_headline": "Trump accuses Iran of 'total violation' of ceasefire, threatens new attacks unless it takes deal"
+    },
+    {
+      "link": "https://apple.news/AOOBSDtakTSO47CeQkVg0Hg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-19 07:40:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Indiana primary will test Trump’s control over Republican Party after redistricting defiance",
+      "article_headline": "Indiana primary will test Trump’s control over Republican Party after redistricting defiance"
+    },
+    {
+      "link": "https://apple.news/A2kz8XSY5QQuaF810vG7C0w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-19 07:40:16",
+      "pub_time": "2026-04-19 06:41:18",
+      "publication": "NPR",
+      "author": "Emmanuel Akinwotu",
+      "headline": "“Humiliated, broken, powerless”: Sudan enters fourth year of war",
+      "article_headline": "“Humiliated, broken, powerless”: Sudan enters fourth year of war"
+    },
+    {
+      "link": "https://apple.news/AGItF0woeSqCbeo110qCNfA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-19 07:40:16",
+      "pub_time": "2026-04-19 06:41:46",
+      "publication": "Inside Climate News",
+      "author": "",
+      "headline": "At “sloth world” in Florida, wild sloths have died by the dozens",
+      "article_headline": "At “sloth world” in Florida, wild sloths have died by the dozens"
+    },
+    {
+      "link": "https://apple.news/AhSh5eHEyTLmCKY8nWCELig",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-19 07:40:16",
+      "pub_time": "2026-04-19 06:42:18",
+      "publication": "The Economist",
+      "author": "",
+      "headline": "From Ralph Lauren to The Row, American luxury is booming",
+      "article_headline": "From Ralph Lauren to The Row, American luxury is booming"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-19 07:40:16",
+      "pub_time": "2026-04-19 06:42:45",
+      "publication": "Scientific American",
+      "author": "Joseph Howlett",
+      "headline": "What’s this fast-moving wave of darkness creeping across Mars?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AnfwwCggzQGWMKFrkiGXTMw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-19 07:40:16",
+      "pub_time": "",
+      "publication": "The surprising gift of nostalgia",
+      "author": "",
+      "headline": "How to make this feeling your psychological superpower.,  Play Now  27 min",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-04-19 07:40:16",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "There may be three different types of ADHD — including one that’s especially easy to miss, Helen Bradshaw",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-04-19 07:40:16",
+      "pub_time": "",
+      "publication": "Vox",
+      "author": "",
+      "headline": "Ozempic just got cheap enough to change the world, Pratik Pawar",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-04-19 07:40:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "A super El Niño could be coming. Here’s what that means., Ben Noll",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-04-19 11:00:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Axojna3UqSIyZeGKfSyQVCQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-19 11:00:21",
+      "pub_time": "2026-04-19 10:16:23",
+      "publication": "NPR",
+      "author": "NPR Staff",
+      "headline": "U.S. negotiators prepare for more peace talks as Trump repeats threats to Iran",
+      "article_headline": "U.S. negotiators prepare for more peace talks as Trump repeats threats to Iran"
+    },
+    {
+      "link": "https://apple.news/A5DVoGPm_SU-MY4Pgzj6X6w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-19 11:00:21",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "In wake of political violence, states use campaign cash for personal security",
+      "article_headline": "In wake of political violence, states use campaign cash for personal security"
+    },
+    {
+      "link": "https://apple.news/AU6kLIVCqQxetjZYmiQJ5yg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-19 11:00:21",
+      "pub_time": "2026-04-19 10:16:23",
+      "publication": "The Christian Science Monitor",
+      "author": "Sophie Neiman",
+      "headline": "In Sudan’s mountains, wartime orphans are raised to be peacemakers",
+      "article_headline": "In Sudan’s mountains, wartime orphans are raised to be peacemakers"
+    },
+    {
+      "link": "https://apple.news/AvVlMEF1EQKKd7_fHIjAmWQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-19 11:00:21",
+      "pub_time": "2026-04-19 10:16:50",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "An American tragedy still echoes along historic route",
+      "article_headline": "An American tragedy still echoes along historic route"
+    },
+    {
+      "link": "https://apple.news/AU6kLIVCqQxetjZYmiQJ5yg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-19 11:00:21",
+      "pub_time": "2026-04-19 10:16:23",
+      "publication": "The Christian Science Monitor",
+      "author": "Sophie Neiman",
+      "headline": "In Sudan’s mountains, wartime orphans are raised to be peacemakers",
+      "article_headline": "In Sudan’s mountains, wartime orphans are raised to be peacemakers"
+    },
+    {
+      "link": "https://apple.news/AvVlMEF1EQKKd7_fHIjAmWQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-19 11:00:21",
+      "pub_time": "2026-04-19 10:16:50",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "An American tragedy still echoes along historic route",
+      "article_headline": "An American tragedy still echoes along historic route"
+    },
+    {
+      "link": "https://apple.news/AVcmFEyDLSImF8gT9Gx0I-Q",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-19 11:00:21",
+      "pub_time": "2026-04-19 10:17:17",
+      "publication": "NBC News",
+      "author": "Janis Mackey Frayer, Dawn Liu, and Erin Tan",
+      "headline": "Last year ended in humiliation. This year, the robots are half-marathon champions.",
+      "article_headline": "In a race between humans and robots, machines take the victory in a sign of advancements"
+    },
+    {
+      "link": "https://apple.news/At1PHkuq8RL-e8tcyBL46zQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-19 11:00:21",
+      "pub_time": "2026-04-19 06:04:33",
+      "publication": "HuffPost",
+      "author": "Julia Ries Wexler",
+      "headline": "This Beloved Beverage Is Being Linked To Colorectal Cancer. Here's What Doctors Want You To Know.",
+      "article_headline": "This Beloved Beverage Is Being Linked To Colorectal Cancer. Here's What Doctors Want You To Know."
+    },
+    {
+      "link": "https://apple.news/AXiTlkwCgS2aksXjG14J6IA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-19 11:00:21",
+      "pub_time": "2026-04-19 04:05:00",
+      "publication": "People",
+      "author": "Tereza Shkurtaj",
+      "headline": "8-Year-Old Girl Hated Attending Sister's Boring Golf Lessons. When She Took Her First Swing, Her Parents' Jaws Dropped (Exclusive)",
+      "article_headline": "8-Year-Old Girl Hated Attending Sister's Boring Golf Lessons. When She Took Her First Swing, Her Parents' Jaws Dropped (Exclusive)"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-19 11:00:21",
+      "pub_time": "2026-04-17 11:05:34",
+      "publication": "",
+      "author": "Joe Pinsker, Paul Overberg, and Drew An-pham",
+      "headline": "Sorry, Gen X. We Looked at the Data, and You Had It Rough Too.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AJauWnSQASjiT5XyISwW_eQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-19 11:00:21",
+      "pub_time": "2026-04-19 07:05:34",
+      "publication": "Ars Technica",
+      "author": "Ahmed Helal, The Conversation",
+      "headline": "I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like",
+      "article_headline": "I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like"
+    }
+  ]
+}
