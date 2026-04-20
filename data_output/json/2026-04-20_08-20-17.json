@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-20 08:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ARxK7de3yTJa9HNyDz0NqyQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 08:20:17",
+      "pub_time": "2026-04-20 08:17:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Doubts loom over talks between Iran and U.S. after violence flares in Strait of Hormuz",
+      "article_headline": "Doubts loom over talks between Iran and U.S. after violence flares in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/ANfSK5lujTginKeTv7XM7pQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 08:20:17",
+      "pub_time": "2026-04-20 08:17:46",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Shreveport looks for answers about gunman who killed 8 children",
+      "article_headline": "Shreveport looks for answers about gunman who killed 8 children: Updates"
+    },
+    {
+      "link": "https://apple.news/ANfSK5lujTginKeTv7XM7pQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 08:20:17",
+      "pub_time": "2026-04-20 08:17:18",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Shreveport looks for answers about gunman who killed 8 children",
+      "article_headline": "Shreveport looks for answers about gunman who killed 8 children: Updates"
+    },
+    {
+      "link": "https://apple.news/A5ddPEtF-TOa-fxTNlbw0GA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 08:20:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "This tariff-refund portal is about to be America’s hottest website",
+      "article_headline": "This tariff-refund portal is about to be America’s hottest website"
+    },
+    {
+      "link": "https://apple.news/AGG7tGREgQE6pjvYnJYOziw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-20 08:20:17",
+      "pub_time": "2026-04-20 08:18:12",
+      "publication": "FOX Weather",
+      "author": "Julian Atienza",
+      "headline": "7.4-magnitude earthquake rattles northern Japan as tsunami threat downgraded to advisory",
+      "article_headline": "7.4-magnitude earthquake rattles northern Japan as tsunami threat downgraded to advisory"
+    },
+    {
+      "link": "https://apple.news/AGG7tGREgQE6pjvYnJYOziw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-20 08:20:17",
+      "pub_time": "2026-04-20 08:17:44",
+      "publication": "FOX Weather",
+      "author": "Julian Atienza",
+      "headline": "7.4-magnitude earthquake rattles northern Japan as tsunami threat downgraded to advisory",
+      "article_headline": "7.4-magnitude earthquake rattles northern Japan as tsunami threat downgraded to advisory"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 08:20:17",
+      "pub_time": "2026-04-20 08:18:11",
+      "publication": "The Wall Street Journal",
+      "author": "Arian Campo-flores and Paul Overberg",
+      "headline": "Florida’s population boom fizzles as high costs drive away middle class",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

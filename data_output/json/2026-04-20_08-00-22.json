@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-20 08:00:22",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AmMN6nRPIRzqhazBeGjc2-w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 08:00:22",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Ceasefire at risk after U.S. seizes Iranian ship and Tehran shuns peace talks",
+      "article_headline": "Ceasefire at risk after US seizes Iranian ship, Iran shuns peace talks"
+    },
+    {
+      "link": "https://apple.news/A19_MbWebR12RksD-GH_Gyg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 08:00:22",
+      "pub_time": "2026-04-20 07:00:51",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Powerful earthquake strikes off the Japanese coast, raises warning of mega shock",
+      "article_headline": "Japan warns of slightly increased risk of mega-quake after a 7.7-magnitude one"
+    },
+    {
+      "link": "https://apple.news/Aj1vO3j5VTYWdK9OHlQujvw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 08:00:22",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Data centers are expensive and unpopular — and could be a tipping point in the midterms",
+      "article_headline": "Data centers are expensive and unpopular — and could be a tipping point in the midterms"
+    },
+    {
+      "link": "https://apple.news/Aem84Xjq1ShqtYaKNxFUCEA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 08:00:22",
+      "pub_time": "2026-04-20 07:01:51",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Pro-Putin former president wins election landslide in Bulgaria",
+      "article_headline": "Pro-Putin former president wins election landslide in Bulgaria"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 08:00:22",
+      "pub_time": "",
+      "publication": "Newsweek",
+      "author": "",
+      "headline": "$127 billion in tariff refunds: how to claim yours starting today",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 08:00:22",
+      "pub_time": "2026-04-20 07:02:24",
+      "publication": "National Geographic",
+      "author": "Steve Midway",
+      "headline": "Why cannabis may make you remember things that never happened",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AoWzdxcYzSgWmKBFUlimjoQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-20 08:00:22",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Trump wanted peace talks. Now the U.S. has seized an Iranian ship.",
+      "article_headline": ""
+    }
+  ]
+}

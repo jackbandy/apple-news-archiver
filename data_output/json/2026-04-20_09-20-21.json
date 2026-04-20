@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-20 09:20:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ARxK7de3yTJa9HNyDz0NqyQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 09:20:21",
+      "pub_time": "2026-04-20 09:15:22",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Doubts loom over talks between Iran and U.S. after violence flares in Strait of Hormuz",
+      "article_headline": "Doubts loom over talks between Iran and U.S. after violence flares in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AEh0Qe1DHTu6vuPZxQfSYkw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 09:20:21",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "FBI director Kash Patel sues the Atlantic claiming false reporting about drinking, absences",
+      "article_headline": "FBI director Kash Patel sues the Atlantic claiming false reporting about drinking, absences"
+    },
+    {
+      "link": "https://apple.news/ANfSK5lujTginKeTv7XM7pQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 09:20:21",
+      "pub_time": "2026-04-20 09:15:21",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Shreveport looks for answers about gunman who killed 8 children",
+      "article_headline": "Shreveport looks for answers about gunman who killed 8 children: Updates"
+    },
+    {
+      "link": "https://apple.news/A5ddPEtF-TOa-fxTNlbw0GA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 09:20:21",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "This tariff-refund portal is about to be America’s hottest website",
+      "article_headline": "This tariff-refund portal is about to be America’s hottest website"
+    },
+    {
+      "link": "https://apple.news/ANfSK5lujTginKeTv7XM7pQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-20 09:20:21",
+      "pub_time": "2026-04-20 09:15:21",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Shreveport looks for answers about gunman who killed 8 children",
+      "article_headline": "Shreveport looks for answers about gunman who killed 8 children: Updates"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 09:20:21",
+      "pub_time": "2026-04-20 09:15:48",
+      "publication": "The Wall Street Journal",
+      "author": "Arian Campo-flores and Paul Overberg",
+      "headline": "Florida’s population boom fizzles as high costs drive away middle class",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 09:20:21",
+      "pub_time": "2026-04-20 09:15:48",
+      "publication": "National Geographic",
+      "author": "Steve Midway",
+      "headline": "Why cannabis may make you remember things that never happened",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AjgB1cijVQPO_ABgN8XP9xQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-20 09:20:21",
+      "pub_time": "2026-04-20 06:22:59",
+      "publication": "People",
+      "author": "Escher Walcott",
+      "headline": "38-Year-Old Fitness Influencer Drowns While Swimming in Texas Ironman Triathlon",
+      "article_headline": "38-Year-Old Fitness Influencer Drowns While Swimming in Texas Ironman Triathlon"
+    },
+    {
+      "link": "https://apple.news/Aq_F5RxvoRkexjtARPuN3uw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-20 09:20:21",
+      "pub_time": "2026-04-19 15:23:27",
+      "publication": "TheStreet",
+      "author": "Joey Linn",
+      "headline": "Warning issued on credit card problem Americans don't know about",
+      "article_headline": "Warning issued on credit card problem Americans don't know about"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-20 09:20:21",
+      "pub_time": "2026-04-19 09:23:53",
+      "publication": "",
+      "author": "Tim Newcomb",
+      "headline": "Archaeologists Found a Skeleton Wearing an Amulet That May Change the History of Christianity",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ARFc-Y0APSsObwv5sq4-hwg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-20 09:20:21",
+      "pub_time": "2026-04-19 18:24:00",
+      "publication": "Travel + Leisure",
+      "author": "Cu Fleshman",
+      "headline": "This 351-mile Train Route Is One of the Most Beautiful in the U.S.—Passing Small Towns, Historic Landmarks, and Ocean Views",
+      "article_headline": "This 351-mile Train Route Is One of the Most Beautiful in the U.S.—Passing Small Towns, Historic Landmarks, and Ocean Views"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-20 11:20:23",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ARxK7de3yTJa9HNyDz0NqyQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 11:20:23",
+      "pub_time": "2026-04-20 10:58:25",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Doubts loom over talks between Iran and U.S. after violence flares in Strait of Hormuz",
+      "article_headline": "Doubts loom over talks between Iran and U.S. after violence flares in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AEh0Qe1DHTu6vuPZxQfSYkw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 11:20:23",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "FBI Director Kash Patel sues The Atlantic, claiming false reporting about drinking, absences",
+      "article_headline": "FBI Director Kash Patel sues The Atlantic, claiming false reporting about drinking, absences"
+    },
+    {
+      "link": "https://apple.news/ANfSK5lujTginKeTv7XM7pQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 11:20:23",
+      "pub_time": "2026-04-20 10:58:24",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Shreveport looks for answers about gunman who killed 8 children",
+      "article_headline": "Shreveport looks for answers about gunman who killed 8 children: Updates"
+    },
+    {
+      "link": "https://apple.news/A5ddPEtF-TOa-fxTNlbw0GA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 11:20:23",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Businesses race to apply for tariff refunds",
+      "article_headline": "Businesses race to apply for tariff refunds"
+    },
+    {
+      "link": "https://apple.news/ANfSK5lujTginKeTv7XM7pQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-20 11:20:23",
+      "pub_time": "2026-04-20 10:58:25",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Shreveport looks for answers about gunman who killed 8 children",
+      "article_headline": "Shreveport looks for answers about gunman who killed 8 children: Updates"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 11:20:23",
+      "pub_time": "",
+      "publication": "Boston.com",
+      "author": "",
+      "headline": "John Korir wins the 2026 Boston Marathon in a record time",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 11:20:23",
+      "pub_time": "2026-04-20 10:58:52",
+      "publication": "The Washington Post",
+      "author": "Clara Ence Morse and Gregory S. Schneider",
+      "headline": "Largely secret donors pour millions into election that could tip Congress",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaAfnZGkaSvWp6FBuMmO7Mg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-20 11:20:23",
+      "pub_time": "2026-04-20 05:23:28",
+      "publication": "The Telegraph",
+      "author": "Christopher Jasper",
+      "headline": "South Korea braces for an end to modern life as we know it",
+      "article_headline": "South Korea braces for an end to modern life as we know it"
+    },
+    {
+      "link": "https://apple.news/A3K37fogBSAm2rofLzX-SwQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-20 11:20:23",
+      "pub_time": "2026-04-19 23:24:01",
+      "publication": "BuzzFeed",
+      "author": "Kelsey Abernathy McLean",
+      "headline": "I Choked On A Piece Of Steak And Died. What I Saw In Those 3 Minutes Defies Language.",
+      "article_headline": "I Choked On A Piece Of Steak And Died. What I Saw In Those 3 Minutes Defies Language."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-20 11:20:23",
+      "pub_time": "2026-04-20 07:24:29",
+      "publication": "",
+      "author": "Alejandra Gularte",
+      "headline": "Charlize Theron Says It’s Clear Her Father Tried to Kill Her",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A57P6X-XvRT2R-g0OVQLG9Q",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-20 11:20:23",
+      "pub_time": "2026-04-20 08:24:29",
+      "publication": "CNBC",
+      "author": "Henna Pryor, Contributor",
+      "headline": "Stop saying 'how was your weekend?' Do this instead, says public speaking expert: 'It doesn't have to be deep'",
+      "article_headline": "Stop saying 'how was your weekend?' Do this instead, says public speaking expert: 'It doesn't have to be deep'"
+    }
+  ]
+}

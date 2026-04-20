@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-20 06:20:21",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AmMN6nRPIRzqhazBeGjc2-w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 06:20:21",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Ceasefire at risk after U.S. seizes Iranian ship and Tehran shuns peace talks",
+      "article_headline": "Ceasefire at risk after US seizes Iranian ship, Iran shuns peace talks"
+    },
+    {
+      "link": "https://apple.news/A19_MbWebR12RksD-GH_Gyg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 06:20:21",
+      "pub_time": "2026-04-20 05:20:51",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "DEVELOPING, Powerful earthquake strikes off the Japanese coast",
+      "article_headline": "Japan issues an advisory for northern coastal areas for a slightly increased risk of a mega-quake"
+    },
+    {
+      "link": "https://apple.news/A58qq6C0YTFehKDbBrfpX_Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 06:20:21",
+      "pub_time": "2026-04-20 05:21:23",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Officials identify victims of Louisiana shooting, children ages 3 to 11",
+      "article_headline": "Officials identify victims of Louisiana shooting, children ages 3 to 11"
+    },
+    {
+      "link": "https://apple.news/Aem84Xjq1ShqtYaKNxFUCEA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 06:20:21",
+      "pub_time": "2026-04-20 05:21:50",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Pro-Putin former president wins election landslide in Bulgaria",
+      "article_headline": "Pro-Putin former president wins election landslide in Bulgaria"
+    },
+    {
+      "link": "https://apple.news/AZj3tiSzkTySvUGw3CzLDew",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-20 06:20:21",
+      "pub_time": "2026-04-20 05:22:23",
+      "publication": "NPR",
+      "author": "Manuel Rueda",
+      "headline": "Caracas’s iconic macaws threatened by vanishing palm trees",
+      "article_headline": "Caracas’s iconic macaws threatened by vanishing palm trees"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 06:20:21",
+      "pub_time": "2026-04-20 05:22:50",
+      "publication": "National Geographic",
+      "author": "Steve Midway",
+      "headline": "Why cannabis may make you remember things that never happened",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AoWzdxcYzSgWmKBFUlimjoQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-20 06:20:21",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Trump wanted peace talks. Now the U.S. has seized an Iranian ship.",
+      "article_headline": ""
+    }
+  ]
+}

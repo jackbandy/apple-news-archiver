@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-20 12:00:23",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A0hIoFfFmTzKLG_sDvaydzQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 12:00:23",
+      "pub_time": "2026-04-20 11:56:25",
+      "publication": "The Washington Post",
+      "author": "Sammy Westfall and Susannah George",
+      "headline": "Iran talks on shaky footing after U.S. seizure of ship in Strait of Hormuz",
+      "article_headline": "Iran talks on shaky footing after U.S. seizure of ship in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AprmGSVniSI-vgOGfbDYRBQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 12:00:23",
+      "pub_time": "2026-04-20 11:56:52",
+      "publication": "Yahoo News",
+      "author": "Dylan Stableford",
+      "headline": "As police seek answers, details emerge about Louisiana gunman who killed 8 children",
+      "article_headline": "As police seek answers, details emerge about Louisiana gunman who killed 8 children"
+    },
+    {
+      "link": "https://apple.news/AprmGSVniSI-vgOGfbDYRBQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 12:00:23",
+      "pub_time": "2026-04-20 11:56:25",
+      "publication": "Yahoo News",
+      "author": "Dylan Stableford",
+      "headline": "As police seek answers, details emerge about Louisiana gunman who killed 8 children",
+      "article_headline": "As police seek answers, details emerge about Louisiana gunman who killed 8 children"
+    },
+    {
+      "link": "https://apple.news/A-D8jWv43Rnq6iLpD1MZDYg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 12:00:23",
+      "pub_time": "",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Trump tariff refunds begin, but consumers likely to miss out",
+      "article_headline": "Trump tariff refunds begin, but consumers likely to miss out"
+    },
+    {
+      "link": "https://apple.news/AEh0Qe1DHTu6vuPZxQfSYkw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-20 12:00:23",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "FBI Director Kash Patel sues The Atlantic, claiming false reporting about drinking, absences",
+      "article_headline": "FBI Director Kash Patel sues The Atlantic, claiming false reporting about drinking, absences"
+    },
+    {
+      "link": "https://apple.news/AeMLihtKfS025XG26fx4Hwg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-20 12:00:23",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Defending champions John Korir and Sharon Lokedi repeat at Boston Marathon",
+      "article_headline": "Defending champions John Korir and Sharon Lokedi repeat at Boston Marathon"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 12:00:23",
+      "pub_time": "2026-04-20 11:56:18",
+      "publication": "The Washington Post",
+      "author": "Clara Ence Morse and Gregory S. Schneider",
+      "headline": "Largely secret donors pour millions into election that could tip Congress",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaAfnZGkaSvWp6FBuMmO7Mg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-20 12:00:23",
+      "pub_time": "2026-04-20 06:03:29",
+      "publication": "The Telegraph",
+      "author": "Christopher Jasper",
+      "headline": "South Korea braces for an end to modern life as we know it",
+      "article_headline": "South Korea braces for an end to modern life as we know it"
+    },
+    {
+      "link": "https://apple.news/A3K37fogBSAm2rofLzX-SwQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-20 12:00:23",
+      "pub_time": "2026-04-19 23:03:56",
+      "publication": "BuzzFeed",
+      "author": "Kelsey Abernathy McLean",
+      "headline": "I Choked On A Piece Of Steak And Died. What I Saw In Those 3 Minutes Defies Language.",
+      "article_headline": "I Choked On A Piece Of Steak And Died. What I Saw In Those 3 Minutes Defies Language."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-20 12:00:23",
+      "pub_time": "2026-04-20 07:04:23",
+      "publication": "",
+      "author": "Alejandra Gularte",
+      "headline": "Charlize Theron Says It’s Clear Her Father Tried to Kill Her",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A57P6X-XvRT2R-g0OVQLG9Q",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-20 12:00:23",
+      "pub_time": "2026-04-20 09:04:30",
+      "publication": "CNBC",
+      "author": "Henna Pryor, Contributor",
+      "headline": "Stop saying 'how was your weekend?' Do this instead, says public speaking expert: 'It doesn't have to be deep'",
+      "article_headline": "Stop saying 'how was your weekend?' Do this instead, says public speaking expert: 'It doesn't have to be deep'"
+    }
+  ]
+}

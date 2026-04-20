@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-20 10:20:22",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ARxK7de3yTJa9HNyDz0NqyQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 10:20:22",
+      "pub_time": "2026-04-20 10:03:23",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Doubts loom over talks between Iran and U.S. after violence flares in Strait of Hormuz",
+      "article_headline": "Doubts loom over talks between Iran and U.S. after violence flares in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AEh0Qe1DHTu6vuPZxQfSYkw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 10:20:22",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "FBI Director Kash Patel sues The Atlantic, claiming false reporting about drinking, absences",
+      "article_headline": "FBI Director Kash Patel sues The Atlantic, claiming false reporting about drinking, absences"
+    },
+    {
+      "link": "https://apple.news/ANfSK5lujTginKeTv7XM7pQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 10:20:22",
+      "pub_time": "2026-04-20 10:03:22",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Shreveport looks for answers about gunman who killed 8 children",
+      "article_headline": "Shreveport looks for answers about gunman who killed 8 children: Updates"
+    },
+    {
+      "link": "https://apple.news/A5ddPEtF-TOa-fxTNlbw0GA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 10:20:22",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Businesses race to apply for tariff refunds",
+      "article_headline": "Businesses race to apply for tariff refunds"
+    },
+    {
+      "link": "https://apple.news/ANfSK5lujTginKeTv7XM7pQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-20 10:20:22",
+      "pub_time": "2026-04-20 10:03:22",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Shreveport looks for answers about gunman who killed 8 children",
+      "article_headline": "Shreveport looks for answers about gunman who killed 8 children: Updates"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 10:20:22",
+      "pub_time": "2026-04-20 10:03:49",
+      "publication": "The Wall Street Journal",
+      "author": "Arian Campo-flores and Paul Overberg",
+      "headline": "Florida’s population boom fizzles as high costs drive away middle class",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 10:20:22",
+      "pub_time": "2026-04-20 10:03:49",
+      "publication": "The Washington Post",
+      "author": "Clara Ence Morse and Gregory S. Schneider",
+      "headline": "Largely secret donors pour millions into election that could tip Congress",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
