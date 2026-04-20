@@ -1,0 +1,74 @@
+{
+  "run_time": "2026-04-20 04:00:17",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/A14e1j87xTsmEX6gGhz4-ew",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 04:00:17",
+      "pub_time": "2026-04-20 03:41:18",
+      "publication": "Reuters",
+      "author": "Daphne Psaledakis, Trevor Hunnicutt, and Saad Sayeed",
+      "headline": "US seizes Iranian cargo ship, Tehran vows to retaliate",
+      "article_headline": "US seizes Iranian cargo ship, Tehran vows to retaliate"
+    },
+    {
+      "link": "https://apple.news/A19_MbWebR12RksD-GH_Gyg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 04:00:17",
+      "pub_time": "2026-04-20 03:41:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "BREAKING, Powerful 7.5-magnitude earthquake strikes off Japan, and a tsunami alert is issued",
+      "article_headline": "Powerful 7.5-magnitude earthquake strikes off Japan, tsunami alert issued"
+    },
+    {
+      "link": "https://apple.news/A19_MbWebR12RksD-GH_Gyg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 04:00:17",
+      "pub_time": "2026-04-20 03:41:17",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "BREAKING, Powerful 7.5-magnitude earthquake strikes off Japan, and a tsunami alert is issued",
+      "article_headline": "Powerful 7.5-magnitude earthquake strikes off Japan, tsunami alert issued"
+    },
+    {
+      "link": "https://apple.news/A58qq6C0YTFehKDbBrfpX_Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 04:00:17",
+      "pub_time": "2026-04-20 03:41:44",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Officials identify victims of Louisiana shooting, children ages 3 to 11",
+      "article_headline": "Officials identify victims of Louisiana shooting, children ages 3 to 11"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 04:00:17",
+      "pub_time": "2026-04-20 03:42:11",
+      "publication": "The Washington Post",
+      "author": "Lauren Kaori Gurley",
+      "headline": "In red states, anti-immigrant bills are failing as businesses push back",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 04:00:17",
+      "pub_time": "2026-04-13 04:02:55",
+      "publication": "New York Magazine",
+      "author": "Lila Shapiro",
+      "headline": "Do Age-Gap Relationships Work? These Couples Say Yes.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

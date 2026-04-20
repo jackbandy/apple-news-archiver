@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-04-20 00:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A_4pU3hswSeiBgPvxm8vLsg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 00:20:17",
+      "pub_time": "2026-04-19 23:20:19",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Kayla Hayempour, and Jeremy Mikula",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/A14e1j87xTsmEX6gGhz4-ew",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 00:20:17",
+      "pub_time": "2026-04-19 23:20:47",
+      "publication": "Reuters",
+      "author": "Daphne Psaledakis, Trevor Hunnicutt, and Saad Sayeed",
+      "headline": "US seizes Iranian cargo ship, Tehran vows to retaliate",
+      "article_headline": "US seizes Iranian cargo ship, Tehran vows to retaliate"
+    },
+    {
+      "link": "https://apple.news/A58qq6C0YTFehKDbBrfpX_Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 00:20:17",
+      "pub_time": "2026-04-19 23:21:14",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Officials identify victims of Louisiana shooting, children ages 3 to 11",
+      "article_headline": "Officials identify victims of Louisiana shooting, children ages 3 to 11"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 00:20:17",
+      "pub_time": "2026-04-19 23:21:46",
+      "publication": "The Washington Post",
+      "author": "Lauren Kaori Gurley",
+      "headline": "In red states, anti-immigrant bills are failing as businesses push back",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AZj3tiSzkTySvUGw3CzLDew",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 00:20:17",
+      "pub_time": "2026-04-19 23:21:51",
+      "publication": "NPR",
+      "author": "Manuel Rueda",
+      "headline": "Caracas’ iconic macaws threatened by vanishing palm trees",
+      "article_headline": "Caracas’ iconic macaws threatened by vanishing palm trees"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 00:20:17",
+      "pub_time": "2026-04-19 23:22:19",
+      "publication": "Bloomberg Businessweek",
+      "author": "Amanda Mull",
+      "headline": "This retailer’s best-kept secret isn’t its cheap cashmere and couches",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 00:20:17",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Southern Living, RECIPE, 10 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

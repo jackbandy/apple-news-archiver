@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-04-20 01:20:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A_4pU3hswSeiBgPvxm8vLsg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 01:20:21",
+      "pub_time": "2026-04-19 23:20:23",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Kayla Hayempour, and Jeremy Mikula",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/A14e1j87xTsmEX6gGhz4-ew",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 01:20:21",
+      "pub_time": "2026-04-19 23:20:51",
+      "publication": "Reuters",
+      "author": "Daphne Psaledakis, Trevor Hunnicutt, and Saad Sayeed",
+      "headline": "US seizes Iranian cargo ship, Tehran vows to retaliate",
+      "article_headline": "US seizes Iranian cargo ship, Tehran vows to retaliate"
+    },
+    {
+      "link": "https://apple.news/A58qq6C0YTFehKDbBrfpX_Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 01:20:21",
+      "pub_time": "2026-04-19 23:21:19",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Officials identify victims of Louisiana shooting, children ages 3 to 11",
+      "article_headline": "Officials identify victims of Louisiana shooting, children ages 3 to 11"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 01:20:21",
+      "pub_time": "2026-04-19 23:21:50",
+      "publication": "The Washington Post",
+      "author": "Lauren Kaori Gurley",
+      "headline": "In red states, anti-immigrant bills are failing as businesses push back",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AZj3tiSzkTySvUGw3CzLDew",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 01:20:21",
+      "pub_time": "2026-04-19 23:21:55",
+      "publication": "NPR",
+      "author": "Manuel Rueda",
+      "headline": "Caracas’ iconic macaws threatened by vanishing palm trees",
+      "article_headline": "Caracas’ iconic macaws threatened by vanishing palm trees"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 01:20:21",
+      "pub_time": "2026-04-19 23:22:23",
+      "publication": "Bloomberg Businessweek",
+      "author": "Amanda Mull",
+      "headline": "This retailer’s best-kept secret isn’t its cheap cashmere and couches",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AudhWVvHhRWq3G2E-3_kT-A",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-20 01:20:21",
+      "pub_time": "2026-04-19 09:22:28",
+      "publication": "CNBC",
+      "author": "Mark Travers, Contributor",
+      "headline": "Psychologist who studies couples: People in the happiest relationships do 5 things on Sundays",
+      "article_headline": "Psychologist who studies couples: People in the happiest relationships do 5 things on Sundays"
+    },
+    {
+      "link": "https://apple.news/ANerFn6ldTfuj0msvlevDJw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-20 01:20:21",
+      "pub_time": "2026-04-19 22:22:56",
+      "publication": "BuzzFeed",
+      "author": "Hannah Loewentheil",
+      "headline": "People Who Attended Their High School Reunions Shared The Most Shocking Twists They Discovered Since Graduation",
+      "article_headline": "People Who Attended Their High School Reunions Shared The Most Shocking Twists They Discovered Since Graduation"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-20 01:20:21",
+      "pub_time": "2026-04-19 15:23:29",
+      "publication": "",
+      "author": "Alejandra Gularte",
+      "headline": "Charlize Theron Says It’s Clear Her Father Tried to Kill Her",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_K7cGUtbRrepwXO2rHU52Q",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-20 01:20:21",
+      "pub_time": "2026-04-19 15:23:29",
+      "publication": "People",
+      "author": "Lexi Lane",
+      "headline": "California Town with Fewer Than 30 Residents Wants More People to Move There. But They Want Potential Homeowners to Know This One Thing First",
+      "article_headline": "California Town with Fewer Than 30 Residents Wants More People to Move There. But They Want Potential Homeowners to Know This One Thing First"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 01:20:21",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Southern Living, RECIPE, 10 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

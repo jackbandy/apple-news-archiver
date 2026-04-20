@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-20 05:00:22",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AmMN6nRPIRzqhazBeGjc2-w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 05:00:22",
+      "pub_time": "2026-04-20 04:23:24",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi and Hatem Maher",
+      "headline": "World awaits fate of ceasefire after U.S. seizes Iranian cargo ship",
+      "article_headline": "Ceasefire at risk after US seizes Iranian ship, Iran shuns peace talks"
+    },
+    {
+      "link": "https://apple.news/A19_MbWebR12RksD-GH_Gyg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 05:00:22",
+      "pub_time": "2026-04-20 04:23:51",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "DEVELOPING, Powerful 7.5-magnitude earthquake strikes off Japan, and a tsunami alert is issued",
+      "article_headline": "Powerful 7.5-magnitude earthquake strikes off Japan, tsunami alert issued"
+    },
+    {
+      "link": "https://apple.news/A19_MbWebR12RksD-GH_Gyg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 05:00:22",
+      "pub_time": "2026-04-20 04:23:23",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "DEVELOPING, Powerful 7.5-magnitude earthquake strikes off Japan, and a tsunami alert is issued",
+      "article_headline": "Powerful 7.5-magnitude earthquake strikes off Japan, tsunami alert issued"
+    },
+    {
+      "link": "https://apple.news/A58qq6C0YTFehKDbBrfpX_Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 05:00:22",
+      "pub_time": "2026-04-20 04:23:50",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Officials identify victims of Louisiana shooting, children ages 3 to 11",
+      "article_headline": "Officials identify victims of Louisiana shooting, children ages 3 to 11"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 05:00:22",
+      "pub_time": "2026-04-20 04:24:18",
+      "publication": "The Washington Post",
+      "author": "Lauren Kaori Gurley",
+      "headline": "In red states, anti-immigrant bills are failing as businesses push back",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A58qq6C0YTFehKDbBrfpX_Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-20 05:00:22",
+      "pub_time": "2026-04-20 04:23:23",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Officials identify victims of Louisiana shooting, children ages 3 to 11",
+      "article_headline": "Officials identify victims of Louisiana shooting, children ages 3 to 11"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 05:00:22",
+      "pub_time": "2026-04-20 04:23:51",
+      "publication": "The Washington Post",
+      "author": "Lauren Kaori Gurley",
+      "headline": "In red states, anti-immigrant bills are failing as businesses push back",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/At1PHkuq8RL-e8tcyBL46zQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-20 05:00:22",
+      "pub_time": "2026-04-19 06:02:56",
+      "publication": "HuffPost",
+      "author": "Julia Ries Wexler",
+      "headline": "This Beloved Beverage Is Being Linked To Colorectal Cancer. Here's What Doctors Want You To Know.",
+      "article_headline": "This Beloved Beverage Is Being Linked To Colorectal Cancer. Here's What Doctors Want You To Know."
+    },
+    {
+      "link": "https://apple.news/A_K7cGUtbRrepwXO2rHU52Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-20 05:00:22",
+      "pub_time": "2026-04-19 16:03:24",
+      "publication": "People",
+      "author": "Lexi Lane",
+      "headline": "California Town with Fewer Than 30 Residents Wants More People to Move There. But They Want Potential Homeowners to Know This One Thing First",
+      "article_headline": "California Town with Fewer Than 30 Residents Wants More People to Move There. But They Want Potential Homeowners to Know This One Thing First"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-20 05:00:22",
+      "pub_time": "2026-04-19 15:03:57",
+      "publication": "",
+      "author": "Alejandra Gularte",
+      "headline": "Charlize Theron Says It’s Clear Her Father Tried to Kill Her",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/At6321V-_QOitHgXp5bvycQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-20 05:00:22",
+      "pub_time": "2026-04-19 21:03:57",
+      "publication": "TheStreet",
+      "author": "Veronika Bondarenko",
+      "headline": "Another airline cancels flights for disturbing reason",
+      "article_headline": "Another airline cancels flights for disturbing reason"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-04-20 01:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A_4pU3hswSeiBgPvxm8vLsg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 01:00:17",
+      "pub_time": "2026-04-20 00:00:19",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Kayla Hayempour, and Jeremy Mikula",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/A14e1j87xTsmEX6gGhz4-ew",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 01:00:17",
+      "pub_time": "2026-04-20 00:00:47",
+      "publication": "Reuters",
+      "author": "Daphne Psaledakis, Trevor Hunnicutt, and Saad Sayeed",
+      "headline": "US seizes Iranian cargo ship, Tehran vows to retaliate",
+      "article_headline": "US seizes Iranian cargo ship, Tehran vows to retaliate"
+    },
+    {
+      "link": "https://apple.news/A58qq6C0YTFehKDbBrfpX_Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 01:00:17",
+      "pub_time": "2026-04-20 00:01:14",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Officials identify victims of Louisiana shooting, children ages 3 to 11",
+      "article_headline": "Officials identify victims of Louisiana shooting, children ages 3 to 11"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 01:00:17",
+      "pub_time": "2026-04-20 00:01:47",
+      "publication": "The Washington Post",
+      "author": "Lauren Kaori Gurley",
+      "headline": "In red states, anti-immigrant bills are failing as businesses push back",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 01:00:17",
+      "pub_time": "2026-04-20 00:01:56",
+      "publication": "Bloomberg Businessweek",
+      "author": "Amanda Mull",
+      "headline": "This retailer’s best-kept secret isn’t its cheap cashmere and couches",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AudhWVvHhRWq3G2E-3_kT-A",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-20 01:00:17",
+      "pub_time": "2026-04-19 09:02:01",
+      "publication": "CNBC",
+      "author": "Mark Travers, Contributor",
+      "headline": "Psychologist who studies couples: People in the happiest relationships do 5 things on Sundays",
+      "article_headline": "Psychologist who studies couples: People in the happiest relationships do 5 things on Sundays"
+    },
+    {
+      "link": "https://apple.news/ANerFn6ldTfuj0msvlevDJw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-20 01:00:17",
+      "pub_time": "2026-04-19 23:02:29",
+      "publication": "BuzzFeed",
+      "author": "Hannah Loewentheil",
+      "headline": "People Who Attended Their High School Reunions Shared The Most Shocking Twists They Discovered Since Graduation",
+      "article_headline": "People Who Attended Their High School Reunions Shared The Most Shocking Twists They Discovered Since Graduation"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-20 01:00:17",
+      "pub_time": "2026-04-19 15:03:03",
+      "publication": "",
+      "author": "Alejandra Gularte",
+      "headline": "Charlize Theron Says It’s Clear Her Father Tried to Kill Her",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_K7cGUtbRrepwXO2rHU52Q",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-20 01:00:17",
+      "pub_time": "2026-04-19 16:03:03",
+      "publication": "People",
+      "author": "Lexi Lane",
+      "headline": "California Town with Fewer Than 30 Residents Wants More People to Move There. But They Want Potential Homeowners to Know This One Thing First",
+      "article_headline": "California Town with Fewer Than 30 Residents Wants More People to Move There. But They Want Potential Homeowners to Know This One Thing First"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 01:00:17",
+      "pub_time": "2026-04-19 13:03:58",
+      "publication": "Apple News Plus",
+      "author": "Emma Ashe",
+      "headline": "Real Simple, I Found the Perfect Unexpected Travel Pant for Summer, and It Also Taps One of the Year’s Viral Denim Trends",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ag0Pe1c2HSfSMbddsmFlPoA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 01:00:17",
+      "pub_time": "2026-04-19 22:04:04",
+      "publication": "BBC Wildlife Magazine",
+      "author": "",
+      "headline": "How many ways can evolution happen?",
+      "article_headline": "How many ways can evolution happen?"
+    }
+  ]
+}
