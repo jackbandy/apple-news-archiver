@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-21 11:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AoVWPhcgtR-Cj4sZuCaZC5Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-21 11:40:17",
+      "pub_time": "2026-04-21 11:37:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "As U.S.-Iran ceasefire deadline nears, uncertainty hangs over possible talks",
+      "article_headline": "As U.S.-Iran ceasefire deadline nears, uncertainty hangs over possible talks"
+    },
+    {
+      "link": "https://apple.news/AIxCM03RLTXyw86oNblJP0A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-21 11:40:17",
+      "pub_time": "",
+      "publication": "Military Times",
+      "author": "",
+      "headline": "Hegseth ends mandatory flu vaccines for U.S. troops",
+      "article_headline": "Hegseth ends mandatory flu vaccines for U.S. troops"
+    },
+    {
+      "link": "https://apple.news/AuCnQPJJZR8afIAC8T62Xig",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-21 11:40:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Fed nominee Kevin Warsh grilled by Senate panel, with confirmation still in limbo",
+      "article_headline": "Fed nominee Kevin Warsh grilled by Senate panel, with confirmation still in limbo"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-21 11:40:17",
+      "pub_time": "2026-04-21 11:37:45",
+      "publication": "The Wall Street Journal",
+      "author": "Sadie Gurman",
+      "headline": "Probe of Trump foes heats up under acting attorney general",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AC_ClBN8AS8uBx5TgJvPtpg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-21 11:40:17",
+      "pub_time": "2026-04-21 11:36:50",
+      "publication": "The Guardian",
+      "author": "Hannah Devlin",
+      "headline": "“Is it life? We can’t tell”: NASA’s Curiosity rover finds organic molecules on Mars",
+      "article_headline": "“Is it life? We can’t tell”: NASA’s Curiosity rover finds organic molecules on Mars"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-21 11:40:17",
+      "pub_time": "2026-04-21 11:37:18",
+      "publication": "Bloomberg Businessweek",
+      "author": "Momoka Yokoyama, Kanoko Matsuyama, and Yui Hasebe",
+      "headline": "The restaurant that’s barely raised prices since 1973",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AQ_omg-n_RMqc8VmDDPtknQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-21 11:40:17",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "The high-stakes referendum that every Democrat is watching",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AhI8aONrNR-C28mjneJmwnQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-21 11:40:17",
+      "pub_time": "2026-04-20 14:42:55",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "My family tried to eat fewer ultra-processed foods for five years. Here’s what we learned",
+      "article_headline": "My family tried to eat fewer ultra-processed foods for five years. Here’s what we learned"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-21 11:40:17",
+      "pub_time": "2026-04-20 16:43:22",
+      "publication": "",
+      "author": "Suzanne Blake",
+      "headline": "Fruits and vegetables may increase your cancer risk, new research shows",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/As3o9RVs2SFaztmO03S4YEg",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-21 11:40:17",
+      "pub_time": "2026-04-21 06:43:22",
+      "publication": "BuzzFeed",
+      "author": "Pernell Quilon",
+      "headline": "\"It Was Totally Normal Back Then\": Older Adults Are Revealing The Normal '70s Things Would Be Super Weird Today",
+      "article_headline": "\"It Was Totally Normal Back Then\": Older Adults Are Revealing The Normal '70s Things Would Be Super Weird Today"
+    },
+    {
+      "link": "https://apple.news/AfbqopR1sRpmaDgDPrphSiw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-21 11:40:17",
+      "pub_time": "2026-04-21 09:43:56",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "NATO intercepts Russian military aircraft flying over the Baltic Sea",
+      "article_headline": "NATO intercepts Russian military aircraft flying over the Baltic Sea"
+    }
+  ]
+}

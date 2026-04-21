@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-21 08:00:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AIvJlZbJFSyGvn4jXdijbuw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-21 08:00:18",
+      "pub_time": "2026-04-21 07:00:20",
+      "publication": "The Washington Post",
+      "author": "Sammy Westfall and Victoria Craw",
+      "headline": "U.S. delegation set to leave for Islamabad as Iran ceasefire nears expiration",
+      "article_headline": "U.S. delegation set to leave for Islamabad as Iran ceasefire nears expiration"
+    },
+    {
+      "link": "https://apple.news/A1LfqTdX7QamfkBxpfrFVgw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-21 08:00:18",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Democrats seek an edge from Virginia in Trump’s redistricting battle",
+      "article_headline": "Democrats seek an edge from Virginia in Trump’s redistricting battle"
+    },
+    {
+      "link": "https://apple.news/A7x_nQQUhSg6WtfOjgLqJpg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-21 08:00:18",
+      "pub_time": "2026-04-21 07:01:21",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Japan loosens arms-export rules in break from post-WWII pacifism",
+      "article_headline": "Japan loosens arms-export rules in break from post-WWII pacifism"
+    },
+    {
+      "link": "https://apple.news/A8kacqIX2T4ua1wAdunVXjw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-21 08:00:18",
+      "pub_time": "2026-04-21 07:01:48",
+      "publication": "The New Yorker",
+      "author": "Diego Lasarte",
+      "headline": "What Nicolás Maduro’s life is like in a notorious Brooklyn jail",
+      "article_headline": "What Nicolás Maduro’s life is like in a notorious Brooklyn jail"
+    },
+    {
+      "link": "https://apple.news/AM_YxoeEVR3ee2dYq4nfhXA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-21 08:00:18",
+      "pub_time": "2026-04-21 07:02:21",
+      "publication": "Space",
+      "author": "",
+      "headline": "The Lyrid meteor shower returns with ideal viewing conditions. Here’s what to look out for.",
+      "article_headline": "The Lyrid meteor shower returns with ideal viewing conditions. Here’s what to look out for."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-21 08:00:18",
+      "pub_time": "2026-04-21 07:02:49",
+      "publication": "The Washington Post",
+      "author": "Julie Z. Weil",
+      "headline": "He builds affordable tiny houses. The problem is where to put them.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AQ_omg-n_RMqc8VmDDPtknQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-21 08:00:18",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "The high-stakes referendum that every Democrat is watching",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-21 08:00:18",
+      "pub_time": "2026-04-20 15:03:20",
+      "publication": "",
+      "author": "AMAYA NICHOLE",
+      "headline": "If You See This iCloud Message on Your iPhone, Don’t Click It—It’s a Scam",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/APiCRXt9jSumZUZsPDEPG7A",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-21 08:00:18",
+      "pub_time": "2026-04-20 19:03:39",
+      "publication": "TheStreet",
+      "author": "Laura Grace Tarpley",
+      "headline": "Zillow predicts change in home values, housing market",
+      "article_headline": "Zillow predicts change in home values, housing market"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-21 08:00:18",
+      "pub_time": "2026-04-20 08:04:06",
+      "publication": "",
+      "author": "Anahad O’Connor",
+      "headline": "5 ways to get more magnesium without taking a supplement",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A57P6X-XvRT2R-g0OVQLG9Q",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-21 08:00:18",
+      "pub_time": "2026-04-20 09:04:06",
+      "publication": "CNBC",
+      "author": "Henna Pryor, Contributor",
+      "headline": "Stop saying 'how was your weekend?' Do this instead, says public speaking expert: 'It doesn't have to be deep'",
+      "article_headline": "Stop saying 'how was your weekend?' Do this instead, says public speaking expert: 'It doesn't have to be deep'"
+    }
+  ]
+}

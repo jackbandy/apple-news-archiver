@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-04-21 09:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AqaMN41bcT9aZ_RCnPU84eQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-21 09:00:17",
+      "pub_time": "2026-04-21 08:42:19",
+      "publication": "Reuters",
+      "author": "Steve Holland, Enas Alashray, and Mubasher Bukhari",
+      "headline": "U.S. seizes tanker in international waters as Iran truce deadline nears",
+      "article_headline": "U.S. seizes tanker in international waters as Iran truce deadline nears"
+    },
+    {
+      "link": "https://apple.news/A1LfqTdX7QamfkBxpfrFVgw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-21 09:00:17",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Democrats seek an edge from Virginia in Trump’s redistricting battle",
+      "article_headline": "Democrats seek an edge from Virginia in Trump’s redistricting battle"
+    },
+    {
+      "link": "https://apple.news/Au1n3XLsTQxOxEyQsV50XZA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-21 09:00:17",
+      "pub_time": "2026-04-21 08:41:19",
+      "publication": "Axios",
+      "author": "Andrew Solender",
+      "headline": "House Democrats prepare to abandon Rep. Sheila Cherfilus-McCormick en masse",
+      "article_headline": "House Democrats prepare to abandon Rep. Sheila Cherfilus-McCormick en masse"
+    },
+    {
+      "link": "https://apple.news/AJ06NZJu3SfyMwmF32dcdqg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-21 09:00:17",
+      "pub_time": "2026-04-21 08:41:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Southern Poverty Law Center says it faces a criminal investigation by the Justice Department",
+      "article_headline": "Southern Poverty Law Center says it faces a criminal investigation by the Justice Department"
+    },
+    {
+      "link": "https://apple.news/Au1n3XLsTQxOxEyQsV50XZA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-21 09:00:17",
+      "pub_time": "2026-04-21 08:41:20",
+      "publication": "Axios",
+      "author": "Andrew Solender",
+      "headline": "House Democrats prepare to abandon Rep. Sheila Cherfilus-McCormick en masse",
+      "article_headline": "House Democrats prepare to abandon Rep. Sheila Cherfilus-McCormick en masse"
+    },
+    {
+      "link": "https://apple.news/AJ06NZJu3SfyMwmF32dcdqg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-21 09:00:17",
+      "pub_time": "2026-04-21 08:41:48",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Southern Poverty Law Center says it faces a criminal investigation by the Justice Department",
+      "article_headline": "Southern Poverty Law Center says it faces a criminal investigation by the Justice Department"
+    },
+    {
+      "link": "https://apple.news/A8kacqIX2T4ua1wAdunVXjw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-21 09:00:17",
+      "pub_time": "2026-04-21 08:42:15",
+      "publication": "The New Yorker",
+      "author": "Diego Lasarte",
+      "headline": "What Nicolás Maduro’s life is like in a notorious Brooklyn jail",
+      "article_headline": "What Nicolás Maduro’s life is like in a notorious Brooklyn jail"
+    },
+    {
+      "link": "https://apple.news/AsPNOJ0idQfeOxOWxeh0TbA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-21 09:00:17",
+      "pub_time": "2026-04-20 15:03:47",
+      "publication": "Inc.",
+      "author": "AMAYA NICHOLE",
+      "headline": "If You See This iCloud Message on Your iPhone, Don’t Click It—It’s a Scam",
+      "article_headline": "If You See This iCloud Message on Your iPhone, Don’t Click It—It’s a Scam"
+    },
+    {
+      "link": "https://apple.news/APiCRXt9jSumZUZsPDEPG7A",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-21 09:00:17",
+      "pub_time": "2026-04-20 19:04:20",
+      "publication": "TheStreet",
+      "author": "Laura Grace Tarpley",
+      "headline": "Zillow predicts change in home values, housing market",
+      "article_headline": "Zillow predicts change in home values, housing market"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-21 09:00:17",
+      "pub_time": "2026-04-20 09:04:47",
+      "publication": "",
+      "author": "Sharon Lockley",
+      "headline": "I Finally Tried the Kitchen Tool Ina Garten Has Been Raving About for Years, and I’m Never Going Back",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ASYVUrw9WTG-FOVdZkLElcw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-21 09:00:17",
+      "pub_time": "2026-04-20 10:04:47",
+      "publication": "Southern Living",
+      "author": "Kelsey Glennon",
+      "headline": "I Lived And Worked On Cruise Ships For Years, And This Is The Only Cruise Line I'd Vacation On",
+      "article_headline": "I Lived And Worked On Cruise Ships For Years, And This Is The Only Cruise Line I'd Vacation On"
+    }
+  ]
+}
