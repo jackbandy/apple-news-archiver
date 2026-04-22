@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-21 22:00:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AdqknZjKUSfahRpah-Fy78w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-21 22:00:19",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Virginia passes redistricting measure that could help Democrats retake the House",
+      "article_headline": "Virginia passes redistricting measure that could help Democrats retake the House"
+    },
+    {
+      "link": "https://apple.news/AvjnkevD9Rr-A3_jboez5xw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-21 22:00:19",
+      "pub_time": "2026-04-21 21:00:49",
+      "publication": "POLITICO",
+      "author": "Aaron Pellish",
+      "headline": "Trump extends Iran ceasefire, blockade amid uncertainty over peace negotiations",
+      "article_headline": "Trump extends Iran ceasefire, blockade amid uncertainty over peace negotiations"
+    },
+    {
+      "link": "https://apple.news/ABljOrBimTJCjI-4toYAItg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-21 22:00:19",
+      "pub_time": "2026-04-21 21:01:17",
+      "publication": "The Wall Street Journal",
+      "author": "Nick Timiraos",
+      "headline": "Key moments from Fed chair nominee Kevin Warsh’s congressional testimony",
+      "article_headline": "Key moments from Fed chair nominee Kevin Warsh’s congressional testimony"
+    },
+    {
+      "link": "https://apple.news/AXMHCxjD9SuGivR1XkjFy9w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-21 22:00:19",
+      "pub_time": "2026-04-21 21:01:49",
+      "publication": "NBC News",
+      "author": "Ryan J. Reilly, Dareh Gregorian, and Kyla Guilfoil",
+      "headline": "DOJ indicts Southern Poverty Law Center on wire and bank fraud charges",
+      "article_headline": "DOJ indicts Southern Poverty Law Center on wire and bank fraud charges"
+    },
+    {
+      "link": "https://apple.news/A9IOgWVOvS0qiTHPfvavzfA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-21 22:00:19",
+      "pub_time": "2026-04-21 21:02:22",
+      "publication": "The Texas Tribune",
+      "author": "Jaden Edison",
+      "headline": "Texas can force schools to post Ten Commandments, federal appeals court rules",
+      "article_headline": "Texas can force schools to post Ten Commandments, federal appeals court rules"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-21 22:00:19",
+      "pub_time": "",
+      "publication": "WIRED",
+      "author": "",
+      "headline": "The notorious mogul who turned Madison Square Garden into a surveillance state, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-21 22:00:19",
+      "pub_time": "2026-04-21 18:03:17",
+      "publication": "Apple News Plus",
+      "author": "Richard Lawler",
+      "headline": "The Verge, SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
