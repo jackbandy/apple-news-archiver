@@ -1,0 +1,119 @@
+{
+  "run_time": "2026-04-23 03:40:18",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AAVudV64UTwWodT4fMXLI1A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-23 03:40:18",
+      "pub_time": "2026-04-23 02:47:20",
+      "publication": "The Wall Street Journal",
+      "author": "Georgi Kantchev, Jared Malsin, and Summer Said",
+      "headline": "Air war in Iran gives way to crippling stalemate in Hormuz",
+      "article_headline": "Air War in Iran Gives Way to Crippling Stalemate in Hormuz"
+    },
+    {
+      "link": "https://apple.news/AXpKSOY7xTIWh5bwvZvnbjg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-23 03:40:18",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Navy Secretary John Phelan is leaving in the latest departure of a top defense leader",
+      "article_headline": "Navy Secretary John Phelan is leaving in the latest departure of a top defense leader"
+    },
+    {
+      "link": "https://apple.news/AaS87ZWY5TfudZHRi-10Mgg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-23 03:40:18",
+      "pub_time": "2026-04-23 02:46:19",
+      "publication": "Reuters",
+      "author": "David Morgan",
+      "headline": "Senate votes to advance $70 billion funding plan for ICE, Border Patrol",
+      "article_headline": "US Senate votes to advance $70 billion funding plan for ICE, Border Patrol"
+    },
+    {
+      "link": "https://apple.news/APHL_LtHuT2uBjTP1Of--aQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-23 03:40:18",
+      "pub_time": "2026-04-23 02:46:46",
+      "publication": "NBC News",
+      "author": "Steve Kopack, Jay Blackman, and Garrett Haake",
+      "headline": "Spirit Airlines nears deal with Trump administration for $500 million rescue package",
+      "article_headline": "Spirit Airlines nears deal with Trump administration for $500 million rescue package"
+    },
+    {
+      "link": "https://apple.news/AaS87ZWY5TfudZHRi-10Mgg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-23 03:40:18",
+      "pub_time": "2026-04-23 02:46:19",
+      "publication": "Reuters",
+      "author": "David Morgan",
+      "headline": "Senate votes to advance $70 billion funding plan for ICE, Border Patrol",
+      "article_headline": "US Senate votes to advance $70 billion funding plan for ICE, Border Patrol"
+    },
+    {
+      "link": "https://apple.news/APHL_LtHuT2uBjTP1Of--aQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-23 03:40:18",
+      "pub_time": "2026-04-23 02:46:47",
+      "publication": "NBC News",
+      "author": "Steve Kopack, Jay Blackman, and Garrett Haake",
+      "headline": "Spirit Airlines nears deal with Trump administration for $500 million rescue package",
+      "article_headline": "Spirit Airlines nears deal with Trump administration for $500 million rescue package"
+    },
+    {
+      "link": "https://apple.news/Aef38eM_YR1iCe_b8EUoWVA",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-23 03:40:18",
+      "pub_time": "2026-04-23 02:47:15",
+      "publication": "The Guardian",
+      "author": "Edward Helmore",
+      "headline": "Wildfires burning across Georgia and Florida destroy homes and force evacuations",
+      "article_headline": "Wildfires burning across Georgia and Florida destroy homes and force evacuations"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-04-23 03:40:18",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The tech-company retreat that went horribly wrong, Ellen Gamerman",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-04-23 03:40:18",
+      "pub_time": "",
+      "publication": "TIME",
+      "author": "",
+      "headline": "Signs of “emotional flooding” — and how it changes your brain",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-04-23 03:40:18",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "What cannabis does to your memory — and how to fix it, Steve Midway",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

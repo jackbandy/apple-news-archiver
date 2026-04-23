@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-23 01:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AAVudV64UTwWodT4fMXLI1A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-23 01:40:17",
+      "pub_time": "2026-04-23 00:40:19",
+      "publication": "The Wall Street Journal",
+      "author": "Georgi Kantchev, Jared Malsin, and Summer Said",
+      "headline": "Air war in Iran gives way to crippling stalemate in Hormuz",
+      "article_headline": "Air War in Iran Gives Way to Crippling Stalemate in Hormuz"
+    },
+    {
+      "link": "https://apple.news/AXpKSOY7xTIWh5bwvZvnbjg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-23 01:40:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Navy Secretary John Phelan is leaving in latest departure of a top defense leader",
+      "article_headline": "Navy Secretary John Phelan is leaving in latest departure of a top defense leader"
+    },
+    {
+      "link": "https://apple.news/AaS87ZWY5TfudZHRi-10Mgg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-23 01:40:17",
+      "pub_time": "2026-04-23 00:41:18",
+      "publication": "Reuters",
+      "author": "David Morgan",
+      "headline": "Senate edges toward advancing ICE, border funding plan after marathon voting session",
+      "article_headline": "Senate edges toward advancing ICE, border funding plan after marathon voting session"
+    },
+    {
+      "link": "https://apple.news/APHL_LtHuT2uBjTP1Of--aQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-23 01:40:17",
+      "pub_time": "2026-04-23 00:41:45",
+      "publication": "NBC News",
+      "author": "Steve Kopack, Jay Blackman, and Garrett Haake",
+      "headline": "Spirit Airlines nears deal with Trump administration for $500 million rescue package",
+      "article_headline": "Spirit Airlines nears deal with Trump administration for $500 million rescue package"
+    },
+    {
+      "link": "https://apple.news/Aef38eM_YR1iCe_b8EUoWVA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-23 01:40:17",
+      "pub_time": "2026-04-23 00:42:18",
+      "publication": "The Guardian",
+      "author": "Edward Helmore",
+      "headline": "Wildfires burning across Georgia and Florida destroy homes and force evacuations",
+      "article_headline": "Wildfires burning across Georgia and Florida destroy homes and force evacuations"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-23 01:40:17",
+      "pub_time": "2026-04-23 00:42:46",
+      "publication": "The Washington Post",
+      "author": "Drew Harwell and Jeremy B. Merrill",
+      "headline": "He spreads hate online — and fans pay him hundreds of thousands of dollars",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AHNL-zVAfTg-s9sY5JitkaA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-23 01:40:17",
+      "pub_time": "2026-04-22 08:42:52",
+      "publication": "Real Simple",
+      "author": "Leslie Corona",
+      "headline": "Say Goodbye to Granite and Marble—This Countertop Material Will Be Everywhere This Year",
+      "article_headline": "Say Goodbye to Granite and Marble—This Countertop Material Will Be Everywhere This Year"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-23 01:40:17",
+      "pub_time": "2026-04-22 19:43:19",
+      "publication": "",
+      "author": "Hillary Remy",
+      "headline": "Mark Zuckerberg sends shocking message to Meta employees",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-23 01:40:17",
+      "pub_time": "2026-04-22 20:43:36",
+      "publication": "",
+      "author": "Roberto Casillas",
+      "headline": "Lamine Yamal at Risk of Missing 2026 World Cup After Brutal Injury—Report",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AcOG1GJKaQT2GBOmturLRgw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-23 01:40:17",
+      "pub_time": "2026-04-22 21:43:36",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "This husky loves daycare so much she walked herself there",
+      "article_headline": "This husky loves daycare so much she walked herself there"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-23 01:40:17",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Southern Living, RECIPE, 15 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

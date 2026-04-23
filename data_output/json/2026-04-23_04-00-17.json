@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-23 04:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AAVudV64UTwWodT4fMXLI1A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-23 04:00:17",
+      "pub_time": "2026-04-23 03:00:19",
+      "publication": "The Wall Street Journal",
+      "author": "Georgi Kantchev, Jared Malsin, and Summer Said",
+      "headline": "Air war in Iran gives way to crippling stalemate in Hormuz",
+      "article_headline": "Air War in Iran Gives Way to Crippling Stalemate in Hormuz"
+    },
+    {
+      "link": "https://apple.news/AXpKSOY7xTIWh5bwvZvnbjg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-23 04:00:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Navy Secretary John Phelan is leaving in the latest departure of a top defense leader",
+      "article_headline": "Navy Secretary John Phelan is leaving in the latest departure of a top defense leader"
+    },
+    {
+      "link": "https://apple.news/AaS87ZWY5TfudZHRi-10Mgg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-23 04:00:17",
+      "pub_time": "2026-04-23 03:01:19",
+      "publication": "Reuters",
+      "author": "David Morgan",
+      "headline": "Senate votes to advance $70 billion funding plan for ICE, Border Patrol",
+      "article_headline": "US Senate votes to advance $70 billion funding plan for ICE, Border Patrol"
+    },
+    {
+      "link": "https://apple.news/APHL_LtHuT2uBjTP1Of--aQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-23 04:00:17",
+      "pub_time": "2026-04-23 03:01:46",
+      "publication": "NBC News",
+      "author": "Steve Kopack, Jay Blackman, and Garrett Haake",
+      "headline": "Spirit Airlines nears deal with Trump administration for $500 million rescue package",
+      "article_headline": "Spirit Airlines nears deal with Trump administration for $500 million rescue package"
+    },
+    {
+      "link": "https://apple.news/Aef38eM_YR1iCe_b8EUoWVA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-23 04:00:17",
+      "pub_time": "2026-04-23 03:02:19",
+      "publication": "The Guardian",
+      "author": "Edward Helmore",
+      "headline": "Wildfires burning across Georgia and Florida destroy homes and force evacuations",
+      "article_headline": "Wildfires burning across Georgia and Florida destroy homes and force evacuations"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-23 04:00:17",
+      "pub_time": "2026-04-23 03:02:47",
+      "publication": "The Washington Post",
+      "author": "Drew Harwell and Jeremy B. Merrill",
+      "headline": "He spreads hate online — and fans pay him hundreds of thousands of dollars",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-23 04:00:17",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "author": "",
+      "headline": "The Wall Street Journal, Stock Market Today: Oil Rises as Hormuz Impasse Drags On, LIVE",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

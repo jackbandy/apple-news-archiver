@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-23 05:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AAVudV64UTwWodT4fMXLI1A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-23 05:40:17",
+      "pub_time": "2026-04-23 05:04:19",
+      "publication": "The Wall Street Journal",
+      "author": "Georgi Kantchev, Jared Malsin, and Summer Said",
+      "headline": "Air war in Iran gives way to crippling stalemate in Hormuz",
+      "article_headline": "Air War in Iran Gives Way to Crippling Stalemate in Hormuz"
+    },
+    {
+      "link": "https://apple.news/AXpKSOY7xTIWh5bwvZvnbjg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-23 05:40:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Navy Secretary John Phelan is leaving in the latest departure of a top defense leader",
+      "article_headline": "Navy Secretary John Phelan is leaving in the latest departure of a top defense leader"
+    },
+    {
+      "link": "https://apple.news/AaS87ZWY5TfudZHRi-10Mgg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-23 05:40:17",
+      "pub_time": "2026-04-23 05:04:19",
+      "publication": "Reuters",
+      "author": "David Morgan",
+      "headline": "Senate votes to advance $70 billion funding plan for ICE, Border Patrol",
+      "article_headline": "US Senate votes to advance $70 billion funding plan for ICE, Border Patrol"
+    },
+    {
+      "link": "https://apple.news/ATqkJn-k-SVSwUSyDFunt8g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-23 05:40:17",
+      "pub_time": "2026-04-23 05:04:46",
+      "publication": "Inside Climate News",
+      "author": "",
+      "headline": "Almost half of America’s kids are breathing toxic air, report finds",
+      "article_headline": "Almost half of America’s kids are breathing toxic air, report finds"
+    },
+    {
+      "link": "https://apple.news/AaS87ZWY5TfudZHRi-10Mgg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-23 05:40:17",
+      "pub_time": "2026-04-23 05:04:19",
+      "publication": "Reuters",
+      "author": "David Morgan",
+      "headline": "Senate votes to advance $70 billion funding plan for ICE, Border Patrol",
+      "article_headline": "US Senate votes to advance $70 billion funding plan for ICE, Border Patrol"
+    },
+    {
+      "link": "https://apple.news/ATqkJn-k-SVSwUSyDFunt8g",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-23 05:40:17",
+      "pub_time": "2026-04-23 05:04:46",
+      "publication": "Inside Climate News",
+      "author": "",
+      "headline": "Almost half of America’s kids are breathing toxic air, report finds",
+      "article_headline": "Almost half of America’s kids are breathing toxic air, report finds"
+    },
+    {
+      "link": "https://apple.news/ACKBCYqflQ_24iH9RH-Capw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-23 05:40:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The unflattering secrets revealed so far in Elon Musk’s latest legal feud",
+      "article_headline": "The unflattering secrets revealed so far in Elon Musk’s latest legal feud"
+    }
+  ]
+}
