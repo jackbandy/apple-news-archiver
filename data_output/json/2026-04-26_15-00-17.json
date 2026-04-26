@@ -1,0 +1,120 @@
+{
+  "run_time": "2026-04-26 15:00:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/A3bwjRfr9S1q9-ByQnCGiJg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-26 15:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Gunman was likely targeting Trump and other administration officials, the acting attorney general says, MORE DETAILS, LIVE",
+      "article_headline": "D.C. Shooting Suspect Was Targeting Trump, Writings Indicate"
+    },
+    {
+      "link": "https://apple.news/AY4pNCLn6T96-Cetrs627NQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-26 15:00:17",
+      "pub_time": "2026-04-26 14:00:50",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran’s top diplomat briefly returns to Pakistan; Trump says talks can take place by phone",
+      "article_headline": "Iran’s top diplomat briefly returns to Pakistan; Trump says talks can take place by phone"
+    },
+    {
+      "link": "https://apple.news/A0Tm1c35kQna1txWIepRUPg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-26 15:00:17",
+      "pub_time": "2026-04-26 14:01:16",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Mali junta in crisis after defense minister killed, key city “captured”",
+      "article_headline": "Mali junta in crisis after defense minister killed, key city “captured”"
+    },
+    {
+      "link": "https://apple.news/AKWNDBXS9SNu6waxd6D_ouw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-26 15:00:17",
+      "pub_time": "2026-04-26 14:01:50",
+      "publication": "POLITICO",
+      "author": "Alec Hernandez and Gabby Miller",
+      "headline": "Data centers becoming ‘inescapable’ in Georgia's elections",
+      "article_headline": "Data centers becoming ‘inescapable’ in Georgia's elections"
+    },
+    {
+      "link": "https://apple.news/AYTakabYGTB-7O5p2tBXTzg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-26 15:00:17",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Why Red Sox manager Alex Cora and 5 coaches lost their jobs this early in the season",
+      "article_headline": "Why Red Sox manager Alex Cora and 5 coaches lost their jobs this early in the season"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-26 15:00:17",
+      "pub_time": "",
+      "publication": "Rolling Stone",
+      "author": "",
+      "headline": "None of the so-called Zizians have told their side of the story — until now, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-26 15:00:17",
+      "pub_time": "",
+      "publication": "The unique power of  an American pope",
+      "author": "",
+      "headline": "What Pope Leo XIV’s papacy  means for U.S. politics.,  Play Now  30 min",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-04-26 15:00:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The surprising ways cannabis can affect the aging brain, Sarah Klein",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-04-26 15:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "New clues about vertigo and dizziness could help treat both, Laura Landro",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-04-26 15:00:17",
+      "pub_time": "",
+      "publication": "Scientific American",
+      "author": "",
+      "headline": "Scientists are unraveling the mystery of heart disease — and its ties to inflammation, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
