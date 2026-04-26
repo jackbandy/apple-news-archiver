@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-04-26 01:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A1gWfMnnURNGvMr9zWMmOwg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-26 01:20:16",
+      "pub_time": "2026-04-25 23:20:18",
+      "publication": "Reuters",
+      "author": "Bo Erickson, Nandita Bose, Jana Winter, and Steve Holland",
+      "headline": "Trump safe after shooting at White House correspondents' dinner, suspect in custody",
+      "article_headline": "Trump safe after shooting at White House correspondents' dinner, suspect in custody"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-26 01:20:16",
+      "pub_time": "2026-04-25 23:20:45",
+      "publication": "The Washington Post",
+      "author": "Susannah George, Shaiq Hussain, and Hannah Knowles",
+      "headline": "Trump calls off Witkoff, Kushner trip to Pakistan for Iran peace talks",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AowP2NtZrSOG5SxmWIL_sJQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-26 01:20:16",
+      "pub_time": "2026-04-25 23:20:50",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Ukrainians thought they had reduced the risks at Chernobyl. Then Russia invaded",
+      "article_headline": "Ukrainians thought they had reduced the risks at Chernobyl. Then Russia invaded"
+    },
+    {
+      "link": "https://apple.news/A0amW5ERFTLy1jHFm5zftdA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-26 01:20:16",
+      "pub_time": "2026-04-25 23:21:18",
+      "publication": "The 19th News",
+      "author": "Nadra Nittle",
+      "headline": "Book bans and culture wars came for libraries. They’re still standing strong.",
+      "article_headline": "Book bans and culture wars came for libraries. They’re still standing strong."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-26 01:20:16",
+      "pub_time": "",
+      "publication": "Sports Illustrated",
+      "author": "",
+      "headline": "Here are the instant draft grades for all 32 NFL teams",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-26 01:20:16",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "How did this prominent Manhattan art dealer get away with murder? , Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AJMDA0U8LR7622MF8z0oDsQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-26 01:20:16",
+      "pub_time": "",
+      "publication": "Chicago Tribune",
+      "author": "",
+      "headline": "Local News, Chicago, CTA breaks ground on Red Line Extension, which “corrects” history, acting CTA head says",
+      "article_headline": "CTA breaks ground on Red Line Extension, which “corrects” history, acting CTA head says"
+    },
+    {
+      "link": "https://apple.news/AI3SXVV_6QHW5RJnaKihgQA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-26 01:20:16",
+      "pub_time": "2026-04-25 20:22:30",
+      "publication": "People",
+      "author": "Toria Sheffield",
+      "headline": "111-Year-Old Man, Believed to Be the Oldest in the U.S., Says These 3 Things Are the Secret to Living a Long Life",
+      "article_headline": "111-Year-Old Man, Believed to Be the Oldest in the U.S., Says These 3 Things Are the Secret to Living a Long Life"
+    },
+    {
+      "link": "https://apple.news/AP6uG3sekR_2hwHFtIx6CXA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-26 01:20:16",
+      "pub_time": "2026-04-25 06:22:57",
+      "publication": "HuffPost",
+      "author": "Caroline Bologna",
+      "headline": "This Unexpected Laundry Habit Is A Potential Sign Of ADHD",
+      "article_headline": "This Unexpected Laundry Habit Is A Potential Sign Of ADHD"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-26 01:20:16",
+      "pub_time": "2026-04-25 05:23:24",
+      "publication": "",
+      "author": "Jennifer Williams",
+      "headline": "Wedding Dresses Now Come With a Legal Waiver for Brides on GLP-1s",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A7BsyFSU5R0-5_GQSDMay4w",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-26 01:20:16",
+      "pub_time": "2026-04-25 19:23:30",
+      "publication": "TheStreet",
+      "author": "Jeffrey Quiggle",
+      "headline": "Zillow reveals major homebuying change in housing market",
+      "article_headline": "Zillow reveals major homebuying change in housing market"
+    }
+  ]
+}

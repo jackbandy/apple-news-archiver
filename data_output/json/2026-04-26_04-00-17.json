@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-26 04:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A1gWfMnnURNGvMr9zWMmOwg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-26 04:00:17",
+      "pub_time": "2026-04-25 23:00:19",
+      "publication": "Reuters",
+      "author": "Bo Erickson, Nandita Bose, Jana Winter, and Steve Holland",
+      "headline": "Trump safe after shooting at White House Correspondents' dinner, suspect in custody",
+      "article_headline": "Trump safe after shooting at White House Correspondents' dinner, suspect in custody"
+    },
+    {
+      "link": "https://apple.news/AfeYGbgfORuudixojhIDVzg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-26 04:00:17",
+      "pub_time": "2026-04-25 23:00:46",
+      "publication": "The Washington Post",
+      "author": "Susannah George, Shaiq Hussain, and Hannah Knowles",
+      "headline": "Trump calls off Witkoff, Kushner trip to Pakistan for Iran peace talks",
+      "article_headline": "Trump calls off Witkoff, Kushner trip to Pakistan for Iran peace talks"
+    },
+    {
+      "link": "https://apple.news/AowP2NtZrSOG5SxmWIL_sJQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-26 04:00:17",
+      "pub_time": "2026-04-25 23:01:14",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Ukrainians thought they had reduced the risks at Chernobyl. Then Russia invaded",
+      "article_headline": "Ukrainians thought they had reduced the risks at Chernobyl. Then Russia invaded"
+    },
+    {
+      "link": "https://apple.news/A0amW5ERFTLy1jHFm5zftdA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-26 04:00:17",
+      "pub_time": "2026-04-25 23:01:46",
+      "publication": "The 19th News",
+      "author": "Nadra Nittle",
+      "headline": "Book bans and culture wars came for libraries. They’re still standing strong.",
+      "article_headline": "Book bans and culture wars came for libraries. They’re still standing strong."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-26 04:00:17",
+      "pub_time": "",
+      "publication": "Sports Illustrated",
+      "author": "",
+      "headline": "Here are the instant draft grades for all 32 NFL teams",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-26 04:00:17",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "How did this prominent Manhattan art dealer get away with murder? , Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AG779czrEQyWDhoPZMeZo7w",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-26 04:00:17",
+      "pub_time": "",
+      "publication": "The unique power of  an American pope",
+      "author": "",
+      "headline": "What Pope Leo XIV’s papacy  means for U.S. politics.,  Play Now  30 min",
+      "article_headline": ""
+    }
+  ]
+}

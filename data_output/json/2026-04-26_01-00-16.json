@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-26 01:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A1gWfMnnURNGvMr9zWMmOwg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-26 01:00:16",
+      "pub_time": "2026-04-25 23:00:18",
+      "publication": "Reuters",
+      "author": "Bo Erickson, Nandita Bose, Jana Winter, and Steve Holland",
+      "headline": "Trump safe after shooting at White House correspondents' dinner, suspect in custody",
+      "article_headline": "Trump safe after shooting at White House correspondents' dinner, suspect in custody"
+    },
+    {
+      "link": "https://apple.news/AfeYGbgfORuudixojhIDVzg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-26 01:00:16",
+      "pub_time": "2026-04-25 23:00:45",
+      "publication": "The Washington Post",
+      "author": "Susannah George, Shaiq Hussain, and Hannah Knowles",
+      "headline": "Trump calls off Witkoff, Kushner trip to Pakistan for Iran peace talks",
+      "article_headline": "Trump calls off Witkoff, Kushner trip to Pakistan for Iran peace talks"
+    },
+    {
+      "link": "https://apple.news/AowP2NtZrSOG5SxmWIL_sJQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-26 01:00:16",
+      "pub_time": "2026-04-25 23:01:13",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Ukrainians thought they had reduced the risks at Chernobyl. Then Russia invaded",
+      "article_headline": "Ukrainians thought they had reduced the risks at Chernobyl. Then Russia invaded"
+    },
+    {
+      "link": "https://apple.news/A0amW5ERFTLy1jHFm5zftdA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-26 01:00:16",
+      "pub_time": "2026-04-25 23:01:46",
+      "publication": "The 19th News",
+      "author": "Nadra Nittle",
+      "headline": "Book bans and culture wars came for libraries. They’re still standing strong.",
+      "article_headline": "Book bans and culture wars came for libraries. They’re still standing strong."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-26 01:00:16",
+      "pub_time": "",
+      "publication": "Sports Illustrated",
+      "author": "",
+      "headline": "Here are the instant draft grades for all 32 NFL teams",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-26 01:00:16",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "How did this prominent Manhattan art dealer get away with murder? , Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AG779czrEQyWDhoPZMeZo7w",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-26 01:00:16",
+      "pub_time": "",
+      "publication": "The unique power of  an American pope",
+      "author": "",
+      "headline": "What Pope Leo XIV’s papacy  means for U.S. politics.,  Play Now  30 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AkXljtlX0QnWdoKzWdms4Jg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-26 01:00:16",
+      "pub_time": "2026-04-25 08:02:49",
+      "publication": "House Beautiful",
+      "author": "Amanda Le",
+      "headline": "Costco's \"Studio\" Shed Looks Like a Designer Guesthouse—and It Assembles in a Snap!",
+      "article_headline": "Costco's \"Studio\" Shed Looks Like a Designer Guesthouse—and It Assembles in a Snap!"
+    },
+    {
+      "link": "https://apple.news/AI3SXVV_6QHW5RJnaKihgQA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-26 01:00:16",
+      "pub_time": "2026-04-25 20:03:22",
+      "publication": "People",
+      "author": "Toria Sheffield",
+      "headline": "111-Year-Old Man, Believed to Be the Oldest in the U.S., Says These 3 Things Are the Secret to Living a Long Life",
+      "article_headline": "111-Year-Old Man, Believed to Be the Oldest in the U.S., Says These 3 Things Are the Secret to Living a Long Life"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-26 01:00:16",
+      "pub_time": "2026-04-25 05:03:50",
+      "publication": "",
+      "author": "Jennifer Williams",
+      "headline": "Wedding Dresses Now Come With a Legal Waiver for Brides on GLP-1s",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaDI678X_SP2d2aEHwLHv0w",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-26 01:00:16",
+      "pub_time": "2026-04-25 06:03:50",
+      "publication": "HuffPost",
+      "author": "Alexandra Frost",
+      "headline": "The 2 Things You Should Never, Ever Do On A Plane, According To An ER Doctor",
+      "article_headline": "The 2 Things You Should Never, Ever Do On A Plane, According To An ER Doctor"
+    }
+  ]
+}
