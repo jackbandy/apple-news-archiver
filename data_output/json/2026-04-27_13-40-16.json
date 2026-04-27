@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-27 13:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aq_gJEbANTLWBwtEqY_AwjQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-27 13:40:16",
+      "pub_time": "2026-04-27 13:32:18",
+      "publication": "ABC News",
+      "author": "David Brennan, Alexander Mallin, and Pierre Thomas",
+      "headline": "Correspondents’ dinner shooting suspect charged with attempting to assassinate Trump",
+      "article_headline": "Correspondents’ dinner shooting suspect charged with attempting to assassinate Trump"
+    },
+    {
+      "link": "https://apple.news/A6w90sqecRsSTdS01XWYBkg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-27 13:40:16",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "House lawmakers head into “hell week” with FISA, reconciliation 2.0, farm bill, and king’s visit",
+      "article_headline": "House lawmakers head into “hell week” with FISA, reconciliation 2.0, farm bill, and king’s visit"
+    },
+    {
+      "link": "https://apple.news/AYr7OPR58TR2qP1r3J4qhjw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-27 13:40:16",
+      "pub_time": "2026-04-27 13:32:19",
+      "publication": "NPR",
+      "author": "NPR Staff",
+      "headline": "Iran’s flurry of diplomacy continues in Russia as Trump says U.S. has “the cards”",
+      "article_headline": "Iran’s flurry of diplomacy continues in Russia as Trump says U.S. has “the cards”"
+    },
+    {
+      "link": "https://apple.news/A44BWKRt9R2iFi2xZX8cn-A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-27 13:40:16",
+      "pub_time": "2026-04-27 13:32:46",
+      "publication": "Orlando Sentinel",
+      "author": "Jeffrey Schweers",
+      "headline": "DeSantis unveils plan to add 4 GOP-leaning districts to Florida congressional map",
+      "article_headline": "DeSantis unveils plan to add 4 GOP-leaning districts to Florida congressional map"
+    },
+    {
+      "link": "https://apple.news/AYr7OPR58TR2qP1r3J4qhjw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-27 13:40:16",
+      "pub_time": "2026-04-27 13:32:19",
+      "publication": "NPR",
+      "author": "NPR Staff",
+      "headline": "Iran’s flurry of diplomacy continues in Russia as Trump says U.S. has “the cards”",
+      "article_headline": "Iran’s flurry of diplomacy continues in Russia as Trump says U.S. has “the cards”"
+    },
+    {
+      "link": "https://apple.news/A44BWKRt9R2iFi2xZX8cn-A",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-27 13:40:16",
+      "pub_time": "2026-04-27 13:32:46",
+      "publication": "Orlando Sentinel",
+      "author": "Jeffrey Schweers",
+      "headline": "DeSantis unveils plan to add 4 GOP-leaning districts to Florida congressional map",
+      "article_headline": "DeSantis unveils plan to add 4 GOP-leaning districts to Florida congressional map"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-27 13:40:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Top transfer QB Brendan Sorsby taking leave of absence from Texas Tech for gambling",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
