@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-27 00:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AmvbW7aSVTmmej8FfDyUK1A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-27 00:00:17",
+      "pub_time": "2026-04-26 23:10:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "White House Correspondents’ dinner shooting suspect aired grievances against Trump in writings to family, MORE DETAILS",
+      "article_headline": "White House Correspondents’ dinner shooting suspect aired grievances against Trump in writings to family"
+    },
+    {
+      "link": "https://apple.news/AoO7vFnj1SLmgJdj25nzvKA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-27 00:00:17",
+      "pub_time": "2026-04-26 23:10:50",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Israeli strikes kill 14 in Lebanon as Israel warns residents to leave towns beyond “buffer zone”",
+      "article_headline": "Israeli strikes kill 14 in Lebanon as Israel warns residents to leave towns beyond “buffer zone”"
+    },
+    {
+      "link": "https://apple.news/A9lvz82bFRvmIsA9stVlBcQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-27 00:00:17",
+      "pub_time": "2026-04-26 23:11:17",
+      "publication": "Barron’s",
+      "author": "Nicole Goodkind",
+      "headline": "The last major obstacle to Warsh’s confirmation as Fed chair has finally been removed",
+      "article_headline": "The last major obstacle to Warsh’s confirmation as Fed chair has finally been removed"
+    },
+    {
+      "link": "https://apple.news/AoO7vFnj1SLmgJdj25nzvKA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-27 00:00:17",
+      "pub_time": "2026-04-26 23:10:50",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Israeli strikes kill 14 in Lebanon as Israel warns residents to leave towns beyond “buffer zone”",
+      "article_headline": "Israeli strikes kill 14 in Lebanon as Israel warns residents to leave towns beyond “buffer zone”"
+    },
+    {
+      "link": "https://apple.news/A9lvz82bFRvmIsA9stVlBcQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-27 00:00:17",
+      "pub_time": "2026-04-26 23:11:17",
+      "publication": "Barron’s",
+      "author": "Nicole Goodkind",
+      "headline": "The last major obstacle to Warsh’s confirmation as Fed chair has finally been removed",
+      "article_headline": "The last major obstacle to Warsh’s confirmation as Fed chair has finally been removed"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-27 00:00:17",
+      "pub_time": "2026-04-26 23:11:45",
+      "publication": "The Wall Street Journal",
+      "author": "Max Colchester",
+      "headline": "King Charles is on a mission to salvage U.K. relations with Trump",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ae6TSjTGsSRm1MSRpfLGMqw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-27 00:00:17",
+      "pub_time": "2026-04-26 23:10:45",
+      "publication": "The Washington Post",
+      "author": "Tim Craig",
+      "headline": "A town of 7,000 planned so many data centers, it’s like adding 51 Walmarts",
+      "article_headline": "A town of 7,000 planned so many data centers, it’s like adding 51 Walmarts"
+    }
+  ]
+}
