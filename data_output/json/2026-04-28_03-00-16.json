@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-04-28 03:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ANs3XayYyQ3SF1c-sgWRefg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-28 03:00:16",
+      "pub_time": "2026-04-28 00:00:18",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Suspect charged with attempted assassination of Trump at Washington dinner",
+      "article_headline": "Suspect charged with attempted assassination of Trump at Washington dinner"
+    },
+    {
+      "link": "https://apple.news/APfDW0UaLSkKTVt0KjVd5wg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-28 03:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Iran wants deal to lift Hormuz blockade that postpones nuclear talks, LIVE",
+      "article_headline": "Trump Skeptical of Iran Proposal to Lift Strait Blockade"
+    },
+    {
+      "link": "https://apple.news/AUJTAHaKKSbe03PFJIupGMQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-28 03:00:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "DHS to vet immigrants for what it calls extremist views, raising free speech concerns",
+      "article_headline": "DHS to vet immigrants for what it calls extremist views, raising free speech concerns"
+    },
+    {
+      "link": "https://apple.news/AY5uH_rs7RgK40hHYTsC05w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-28 03:00:16",
+      "pub_time": "2026-04-28 00:01:44",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration fires independent board overseeing the National Science Foundation",
+      "article_headline": "Trump administration fires independent board overseeing the National Science Foundation"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 03:00:16",
+      "pub_time": "2026-04-28 00:02:17",
+      "publication": "The Washington Post",
+      "author": "Serhiy Morgunov",
+      "headline": "40 years after Chernobyl, war brings new rounds of disaster and displacement",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 03:00:16",
+      "pub_time": "2026-04-28 00:02:17",
+      "publication": "WIRED",
+      "author": "Jennifer Swann",
+      "headline": "They made D4vd a star. Now they want him convicted of murder.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 03:00:16",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "author": "",
+      "headline": "Barron’s, Stock Market Today: Dow Set to Open Flat; S&P 500, Nasdaq Futures Fall; Trump, Iran Peace Fears; Nvidia, Intel, Qualcomm, More Movers, LIVE",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

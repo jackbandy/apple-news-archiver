@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-04-28 05:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ANs3XayYyQ3SF1c-sgWRefg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-28 05:00:16",
+      "pub_time": "2026-04-28 00:00:18",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Suspect charged with attempted assassination of Trump at Washington dinner",
+      "article_headline": "Suspect charged with attempted assassination of Trump at Washington dinner"
+    },
+    {
+      "link": "https://apple.news/APfDW0UaLSkKTVt0KjVd5wg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-28 05:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Iran wants deal to lift Hormuz blockade that postpones nuclear talks, LIVE",
+      "article_headline": "Trump Skeptical of Iran Proposal to Lift Strait Blockade"
+    },
+    {
+      "link": "https://apple.news/AUJTAHaKKSbe03PFJIupGMQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-28 05:00:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "DHS to vet immigrants for what it calls extremist views, raising free speech concerns",
+      "article_headline": "DHS to vet immigrants for what it calls extremist views, raising free speech concerns"
+    },
+    {
+      "link": "https://apple.news/AY5uH_rs7RgK40hHYTsC05w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-28 05:00:16",
+      "pub_time": "2026-04-28 00:01:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration fires independent board overseeing the National Science Foundation",
+      "article_headline": "Trump administration fires independent board overseeing the National Science Foundation"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 05:00:16",
+      "pub_time": "2026-04-28 00:02:18",
+      "publication": "The Washington Post",
+      "author": "Serhiy Morgunov",
+      "headline": "40 years after Chernobyl, war brings new rounds of disaster and displacement",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 05:00:16",
+      "pub_time": "2026-04-28 00:02:18",
+      "publication": "WIRED",
+      "author": "Jennifer Swann",
+      "headline": "They made D4vd a star. Now they want him convicted of murder.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A0S--SThNQv242szmf1Dx3Q",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-28 05:00:16",
+      "pub_time": "2026-04-27 13:02:24",
+      "publication": "Real Simple",
+      "author": "Lisa Milbrand",
+      "headline": "How to Keep Mice Out of Your Home for Good, According to Experts",
+      "article_headline": "How to Keep Mice Out of Your Home for Good, According to Experts"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-28 05:00:16",
+      "pub_time": "2026-04-27 11:02:51",
+      "publication": "",
+      "author": "Adrienne Breaux",
+      "headline": "A Family of 3 Makes a 650-Square-Foot Cabin (with Teeny Bedrooms!) Work Beautifully",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-28 05:00:16",
+      "pub_time": "2026-04-27 09:03:09",
+      "publication": "",
+      "author": "Jessica Kozuka",
+      "headline": "I’ve Lived in Japan for 20 Years—and These Are 10 Common Mistakes I See Tourists Make",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AveGyOHGgR9qYkdPSbVBEwQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-28 05:00:16",
+      "pub_time": "2026-04-27 09:03:09",
+      "publication": "HuffPost",
+      "author": "Bianca Mendez",
+      "headline": "This Is The Most Commonly Misunderstood Body Language Sign, According To Experts",
+      "article_headline": "This Is The Most Commonly Misunderstood Body Language Sign, According To Experts"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 05:00:16",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Southern Living, RECIPE, 15 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

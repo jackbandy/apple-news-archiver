@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-28 01:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ANs3XayYyQ3SF1c-sgWRefg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-28 01:20:16",
+      "pub_time": "2026-04-28 00:20:17",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Suspect charged with attempted assassination of Trump at Washington dinner",
+      "article_headline": "Suspect charged with attempted assassination of Trump at Washington dinner"
+    },
+    {
+      "link": "https://apple.news/APfDW0UaLSkKTVt0KjVd5wg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-28 01:20:16",
+      "pub_time": "2026-04-28 00:20:45",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Iran wants deal to lift Hormuz blockade that postpones nuclear talks",
+      "article_headline": "Trump Skeptical of Iran Proposal to Lift Strait Blockade"
+    },
+    {
+      "link": "https://apple.news/AUJTAHaKKSbe03PFJIupGMQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-28 01:20:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "DHS to vet immigrants for what it calls extremist views, raising free speech concerns",
+      "article_headline": "DHS to vet immigrants for what it calls extremist views, raising free speech concerns"
+    },
+    {
+      "link": "https://apple.news/AY5uH_rs7RgK40hHYTsC05w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-28 01:20:16",
+      "pub_time": "2026-04-28 00:21:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration fires independent board overseeing the National Science Foundation",
+      "article_headline": "Trump administration fires independent board overseeing the National Science Foundation"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 01:20:16",
+      "pub_time": "2026-04-28 00:22:17",
+      "publication": "The Washington Post",
+      "author": "Serhiy Morgunov",
+      "headline": "40 years after Chernobyl, war brings new rounds of disaster and displacement",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 01:20:16",
+      "pub_time": "2026-04-28 00:22:17",
+      "publication": "WIRED",
+      "author": "Jennifer Swann",
+      "headline": "They made D4vd a star. Now they want him convicted of murder.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ALhIP-jc_TfiHiJPhEYJ15Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-28 01:20:16",
+      "pub_time": "",
+      "publication": "NBC 5 Chicago",
+      "author": "",
+      "headline": "Local News, Chicago, Over 20K without power in Chicago suburbs amid nearly 70-mph wind gusts",
+      "article_headline": "Over 20K without power in Chicago suburbs amid nearly 70-mph wind gusts"
+    }
+  ]
+}
