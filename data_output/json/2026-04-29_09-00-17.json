@@ -1,0 +1,167 @@
+{
+  "run_time": "2026-04-29 09:00:17",
+  "story_count": 14,
+  "stories": [
+    {
+      "link": "https://apple.news/AEKs9bQN-TzabakHbXG10_g",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-29 09:00:17",
+      "pub_time": "2026-04-29 08:19:19",
+      "publication": "NBC News",
+      "author": "Courtney Kube, Monica Alba, and Yuliya Talmazan",
+      "headline": "Trump warns Iran “better get smart soon” as he weighs military options over Strait of Hormuz",
+      "article_headline": "Trump warns Iran “better get smart soon” as he weighs military options over Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/A9ef_-IR7TMmkPOKzV-WtWw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-29 09:00:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Supreme Court weighs Trump’s effort to end temporary protected status for Haitians, Syrians",
+      "article_headline": "Supreme Court weighs Trump’s effort to end temporary protected status for Haitians, Syrians"
+    },
+    {
+      "link": "https://apple.news/ACvl2Am2pRw2vS_oa-1XuUg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-29 09:00:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Fed likely to leave rates unchanged at what may be Powell’s last meeting",
+      "article_headline": "Fed likely to leave rates unchanged at what may be Powell’s last meeting"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-29 09:00:17",
+      "pub_time": "2026-04-29 08:19:45",
+      "publication": "The Washington Post",
+      "author": "Jonathan O'Connell, Sarah Blaskey, Joyce Lee, Samuel Oakford, and Alex Horton",
+      "headline": "Video shows moment Secret Service officer fired at correspondents’ dinner suspect",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-29 09:00:17",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "How science is finally making real progress in treating allergies — and what it means for you",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-29 09:00:17",
+      "pub_time": "2026-04-29 08:19:51",
+      "publication": "The Wall Street Journal",
+      "author": "Katherine Sayre",
+      "headline": "The Sphere looked like a disaster. It’s become a huge hit instead.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ao_ZwUlk9QHefvgtMx2Ci8g",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-29 09:00:17",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Elon Musk takes on OpenAI’s CEO in a bitter court battle",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-29 09:00:17",
+      "pub_time": "2026-04-28 17:02:22",
+      "publication": "",
+      "author": "Marisa Cohen",
+      "headline": "Doctors Say This Should Be Your First Move for Constipation Relief",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AOsPh8I0hSZG1az1hM1bUxQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-29 09:00:17",
+      "pub_time": "2026-04-28 19:02:41",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Alligator at large after killing cow, forcing Florida park to close",
+      "article_headline": "Alligator at large after killing cow, forcing Florida park to close"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-29 09:00:17",
+      "pub_time": "2026-04-29 00:03:09",
+      "publication": "",
+      "author": "Anita Hamilton",
+      "headline": "The Trader Who Predicted the 1987 Market Crash Maps Out the Next Bear Market",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ao26wBBMxRAyazFZYLJDbvw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-29 09:00:17",
+      "pub_time": "2026-04-29 05:03:09",
+      "publication": "Axios",
+      "author": "Jim VandeHei and Mike Allen",
+      "headline": "Behind the Curtain: We've been warned",
+      "article_headline": "Behind the Curtain: We've been warned"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-04-29 09:00:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "This detox could undo years of social media’s effect on your brain, Ariana Eunjung Cha",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-04-29 09:00:17",
+      "pub_time": "",
+      "publication": "Investopedia",
+      "author": "",
+      "headline": "Are you financially ahead or behind? Americans’ average net worth by age., Daniel Liberto",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-04-29 09:00:17",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "Mysterious symptoms of endometriosis are finally being confirmed by science, Meryl Davids Landau",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

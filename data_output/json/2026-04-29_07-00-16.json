@@ -1,0 +1,122 @@
+{
+  "run_time": "2026-04-29 07:00:16",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AZCKbtKIoQgOQnhcgUDb4Ww",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-29 07:00:16",
+      "pub_time": "2026-04-29 06:28:18",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Laurence Norman, and Summer Said",
+      "headline": "Trump tells aides to prepare for extended blockade of Iran",
+      "article_headline": "Trump tells aides to prepare for extended blockade of Iran"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-29 07:00:16",
+      "pub_time": "2026-04-29 06:28:45",
+      "publication": "The Washington Post",
+      "author": "Jonathan O'Connell, Sarah Blaskey, Joyce Lee, Samuel Oakford, and Alex Horton",
+      "headline": "Video shows moment Secret Service officer fired at correspondents’ dinner suspect",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AecjleEuWSy-GtXm6f6-nfA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-29 07:00:16",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "DeSantis’s Florida redistricting map advances, but draws GOP no votes and legal scrutiny",
+      "article_headline": "DeSantis’s Florida redistricting map advances, but draws GOP no votes and legal scrutiny"
+    },
+    {
+      "link": "https://apple.news/AZim8jsdBQVC5m3yBHvtr8g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-29 07:00:16",
+      "pub_time": "2026-04-29 06:29:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "King Charles III and Queen Camilla visiting 9/11 Memorial and other New York landmarks",
+      "article_headline": "King Charles III and Queen Camilla visiting 9/11 Memorial and other New York landmarks"
+    },
+    {
+      "link": "https://apple.news/AZim8jsdBQVC5m3yBHvtr8g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-29 07:00:16",
+      "pub_time": "2026-04-29 06:28:51",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "King Charles III and Queen Camilla visiting 9/11 Memorial and other New York landmarks",
+      "article_headline": "King Charles III and Queen Camilla visiting 9/11 Memorial and other New York landmarks"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-29 07:00:16",
+      "pub_time": "2026-04-29 06:29:18",
+      "publication": "National Geographic",
+      "author": "Daryl Austin",
+      "headline": "How science is finally making real progress in treating allergies — and what it means for you",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-29 07:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The Sphere looked like a disaster. It’s become a huge hit instead.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-04-29 07:00:16",
+      "pub_time": "",
+      "publication": "TIME",
+      "author": "",
+      "headline": "Five symptoms neurologists say to never ignore, BY ANGELA HAUPT",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-04-29 07:00:16",
+      "pub_time": "",
+      "publication": "Investopedia",
+      "author": "",
+      "headline": "How much money Americans think they need to retire — and what they actually spend, Peter Gratton",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-04-29 07:00:16",
+      "pub_time": "",
+      "publication": "Barron’s",
+      "author": "",
+      "headline": "Adult kids are getting their inheritances sooner. Here’s why parents are doing it., Alice Kantor",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
