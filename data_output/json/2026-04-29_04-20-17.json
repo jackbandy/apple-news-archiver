@@ -1,0 +1,73 @@
+{
+  "run_time": "2026-04-29 04:20:17",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AGUHhibFZTWq3NDIiWpDsvA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-29 04:20:17",
+      "pub_time": "2026-04-29 00:20:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Hegseth to face Congress for first time since Iran war began",
+      "article_headline": "Hegseth to face Congress for first time since Iran war began"
+    },
+    {
+      "link": "https://apple.news/AE4FyNUjmTp-Qw57CJ-lWJg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-29 04:20:17",
+      "pub_time": "2026-04-29 00:20:45",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "King Charles, Trump toast to shared history at White House state dinner",
+      "article_headline": "King Charles, Trump toast to shared history at White House state dinner"
+    },
+    {
+      "link": "https://apple.news/AkWqJO6tgSbmdEi9tK4lqIA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-29 04:20:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump’s push for state voter rolls rebuffed by courts as midterms near",
+      "article_headline": "Trump’s push for state voter rolls rebuffed by courts as midterms near"
+    },
+    {
+      "link": "https://apple.news/AN625Rtc2Tf2IAVWu5Mc42Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-29 04:20:17",
+      "pub_time": "2026-04-29 00:21:45",
+      "publication": "The Christian Science Monitor",
+      "author": "Sarah Matusek",
+      "headline": "Supreme Court to decide on end of deportation protections for Haitians, Syrians",
+      "article_headline": "Supreme Court to decide on end of deportation protections for Haitians, Syrians"
+    },
+    {
+      "link": "https://apple.news/ApqXMnxcVSy23xoticgB2jg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-29 04:20:17",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Purdue Pharma, maker of OxyContin, set to dissolve after judge approves criminal sentence",
+      "article_headline": "Purdue Pharma, maker of OxyContin, set to dissolve after judge approves criminal sentence"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-29 04:20:17",
+      "pub_time": "2026-04-29 00:22:47",
+      "publication": "Slate",
+      "author": "Alexander Sammon",
+      "headline": "Who is killing Florida’s oranges?",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
