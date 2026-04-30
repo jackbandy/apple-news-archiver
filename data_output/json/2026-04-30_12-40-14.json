@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-30 12:40:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AMGX9RHdYRrejnOEr8IFvKQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-30 12:40:14",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Congress votes to end record shutdown, sending DHS funding bill to Trump’s desk",
+      "article_headline": "Congress votes to end record shutdown, sending DHS funding bill to Trump’s desk"
+    },
+    {
+      "link": "https://apple.news/ALILObg1MQ7uPdax73ySn3g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-30 12:40:14",
+      "pub_time": "2026-04-30 12:37:49",
+      "publication": "The Wall Street Journal",
+      "author": "Dov Lieber, Jared Malsin, and Summer Said",
+      "headline": "The United Arab Emirates’ OPEC bombshell signals a new Middle East order",
+      "article_headline": "The U.A.E.’s OPEC Bombshell Signals a New Middle East Order"
+    },
+    {
+      "link": "https://apple.news/ACj8dKU6ORNSgrCAlatq1ww",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-30 12:40:14",
+      "pub_time": "2026-04-30 12:37:21",
+      "publication": "Video",
+      "author": "Kathryn Watson",
+      "headline": "CBS News, Trump pulls Casey Means’s nomination as surgeon general, naming new pick",
+      "article_headline": "Trump pulls Casey Means’s nomination as surgeon general, naming new pick"
+    },
+    {
+      "link": "https://apple.news/ALILObg1MQ7uPdax73ySn3g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-30 12:40:14",
+      "pub_time": "2026-04-30 12:37:49",
+      "publication": "The Wall Street Journal",
+      "author": "Dov Lieber, Jared Malsin, and Summer Said",
+      "headline": "The United Arab Emirates’ OPEC bombshell signals a new Middle East order",
+      "article_headline": "The U.A.E.’s OPEC Bombshell Signals a New Middle East Order"
+    },
+    {
+      "link": "https://apple.news/A9D4xajutTAWUOI_1RCwV-A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-30 12:40:14",
+      "pub_time": "2026-04-30 12:38:16",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Man charged in Trump assassination attempt to remain in custody",
+      "article_headline": "Man charged in Trump assassination attempt to remain in custody"
+    },
+    {
+      "link": "https://apple.news/A9D4xajutTAWUOI_1RCwV-A",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-30 12:40:14",
+      "pub_time": "2026-04-30 12:37:49",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Man charged in Trump assassination attempt to remain in custody",
+      "article_headline": "Man charged in Trump assassination attempt to remain in custody"
+    },
+    {
+      "link": "https://apple.news/AqyhfbAaiQgmd7LW5v0I7aQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-30 12:40:14",
+      "pub_time": "2026-04-30 12:38:17",
+      "publication": "Portland Press Herald",
+      "author": "",
+      "headline": "Maine Gov. Janet Mills suspends candidacy for U.S. Senate",
+      "article_headline": "Janet Mills suspends Senate candidacy"
+    }
+  ]
+}
