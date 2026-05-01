@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-01 00:00:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AeSiknQUbSf2STASHsBlONg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-01 00:00:18",
+      "pub_time": "2026-04-30 23:52:19",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk and Tala Ramadan",
+      "headline": "Iran threatens painful response if US renews attacks",
+      "article_headline": "Iran threatens painful response if US renews attacks"
+    },
+    {
+      "link": "https://apple.news/AJ-LOKaAjTjK53J1hhyAMXA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-01 00:00:18",
+      "pub_time": "2026-04-30 23:52:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump gives go-ahead to major new Canada-U.S. oil pipeline",
+      "article_headline": "Trump gives go-ahead to major new Canada-U.S. oil pipeline"
+    },
+    {
+      "link": "https://apple.news/AtYIHedltQQ-Hh0Xd5uxESQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-01 00:00:18",
+      "pub_time": "2026-04-30 23:53:14",
+      "publication": "The 19th News",
+      "author": "Amanda Becker and Candice Norwood",
+      "headline": "Supreme Court decision could undo decades of gains by Black women lawmakers",
+      "article_headline": "Supreme Court decision could undo decades of gains by Black women lawmakers"
+    },
+    {
+      "link": "https://apple.news/AJ-LOKaAjTjK53J1hhyAMXA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-01 00:00:18",
+      "pub_time": "2026-04-30 23:51:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump gives go-ahead to major new Canada-U.S. oil pipeline",
+      "article_headline": "Trump gives go-ahead to major new Canada-U.S. oil pipeline"
+    },
+    {
+      "link": "https://apple.news/AtYIHedltQQ-Hh0Xd5uxESQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-01 00:00:18",
+      "pub_time": "2026-04-30 23:52:14",
+      "publication": "The 19th News",
+      "author": "Amanda Becker and Candice Norwood",
+      "headline": "Supreme Court decision could undo decades of gains by Black women lawmakers",
+      "article_headline": "Supreme Court decision could undo decades of gains by Black women lawmakers"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 00:00:18",
+      "pub_time": "2026-04-30 23:52:41",
+      "publication": "BBC Science Focus Magazine",
+      "author": "",
+      "headline": "A devastating “fungal invasion” is now sweeping the U.S. And it may be too late to stop it.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 00:00:18",
+      "pub_time": "2026-04-30 23:51:46",
+      "publication": "BBC Science Focus Magazine",
+      "author": "",
+      "headline": "A devastating “fungal invasion” is now sweeping the U.S. And it may be too late to stop it.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AZ2y6i93-RRmisQstJvlIsA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-01 00:00:18",
+      "pub_time": "2026-04-30 17:02:52",
+      "publication": "Southern Living",
+      "author": "Nicole Letts",
+      "headline": "3 Things You Should Never Leave On Your Kitchen Counter—No Matter What",
+      "article_headline": "3 Things You Should Never Leave On Your Kitchen Counter—No Matter What"
+    },
+    {
+      "link": "https://apple.news/AEJF5gyoVRmCwpHnOqrQHXA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-01 00:00:18",
+      "pub_time": "2026-04-30 18:03:19",
+      "publication": "BuzzFeed",
+      "author": "Dave Stopera",
+      "headline": "Not Even The Most Stone-Cold Emotionless Humans Alive Could Get Through These 50 Wholesome Pictures Without Cracking A Smile",
+      "article_headline": "Not Even The Most Stone-Cold Emotionless Humans Alive Could Get Through These 50 Wholesome Pictures Without Cracking A Smile"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-01 00:00:18",
+      "pub_time": "2026-04-30 00:03:52",
+      "publication": "",
+      "author": "",
+      "headline": "This common travel habit is now banned on American Airlines flights",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AE_9xbDd2TRCNbZr15FWgZA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-01 00:00:18",
+      "pub_time": "2026-04-30 11:03:52",
+      "publication": "Real Simple",
+      "author": "Marla Christiansen",
+      "headline": "Trying to Declutter? Think Twice Before Tossing These 10 Things",
+      "article_headline": "Trying to Declutter? Think Twice Before Tossing These 10 Things"
+    }
+  ]
+}

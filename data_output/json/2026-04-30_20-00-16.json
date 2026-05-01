@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-30 20:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ADgoe-6vsSTCrdu29xZXmpg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-30 20:00:16",
+      "pub_time": "2026-04-30 19:01:18",
+      "publication": "The Wall Street Journal",
+      "author": "Lara Seligman and Lindsay Wise",
+      "headline": "Trump poised to defy Congress on war authorization",
+      "article_headline": "Trump Poised to Defy Congress on War Authorization"
+    },
+    {
+      "link": "https://apple.news/AWrBGvI0VSkiqn59OrtDP5A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-30 20:00:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "President signs bill to fund DHS after lengthy shutdown over ICE operations",
+      "article_headline": "President signs bill to fund DHS after lengthy shutdown over ICE operations"
+    },
+    {
+      "link": "https://apple.news/ART7Wf7mtRUSHKQeFJJju-w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-30 20:00:16",
+      "pub_time": "2026-04-30 19:01:17",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+      "article_headline": "Deadly Israeli strikes on southern Lebanon despite ceasefire"
+    },
+    {
+      "link": "https://apple.news/AUrUq-x5nTEuthOir9Lttyg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-30 20:00:16",
+      "pub_time": "2026-04-30 19:01:45",
+      "publication": "Texas Monthly",
+      "author": "Peter Holley",
+      "headline": "The testimony that pushed Camp Mystic’s leaders to announce it will not reopen this summer",
+      "article_headline": "The testimony that pushed Camp Mystic’s leaders to announce it will not reopen this summer"
+    },
+    {
+      "link": "https://apple.news/AWop6-RdJTwme4eBN1xGm0w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-30 20:00:16",
+      "pub_time": "2026-04-30 19:02:18",
+      "publication": "Video",
+      "author": "Stephen Smith",
+      "headline": "CBS News, Divers find wreck of iconic U.S. ship torpedoed in World War I, killing 131",
+      "article_headline": "Divers find wreck of iconic U.S. ship torpedoed in World War I, killing 131"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-30 20:00:16",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "Inside the new playbook for presidential pardons, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-30 20:00:16",
+      "pub_time": "2026-04-30 17:03:17",
+      "publication": "Apple News Plus",
+      "author": "Marina Watts",
+      "headline": "Entertainment Weekly, Caroline Kennedy makes rare public appearance months after daughter Tatiana's death",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

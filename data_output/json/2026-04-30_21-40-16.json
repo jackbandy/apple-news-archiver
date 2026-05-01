@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-30 21:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ACzJSDKHdS861iXiBvjFBFA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-30 21:40:16",
+      "pub_time": "2026-04-30 21:24:18",
+      "publication": "The Washington Post",
+      "author": "Noah Robertson",
+      "headline": "Hegseth argues Iran ceasefire “pauses” deadline for Congress’s approval",
+      "article_headline": "Hegseth argues Iran ceasefire “pauses” deadline for Congress’s approval"
+    },
+    {
+      "link": "https://apple.news/AMGX9RHdYRrejnOEr8IFvKQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-30 21:40:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Record-long Department of Homeland Security shutdown ends",
+      "article_headline": "Record-long Department of Homeland Security shutdown ends"
+    },
+    {
+      "link": "https://apple.news/ART7Wf7mtRUSHKQeFJJju-w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-30 21:40:16",
+      "pub_time": "2026-04-30 21:24:19",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+      "article_headline": "Deadly Israeli strikes on southern Lebanon despite ceasefire"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-30 21:40:16",
+      "pub_time": "2026-04-30 21:24:46",
+      "publication": "The Wall Street Journal",
+      "author": "Collin Eaton, Kejal Vyas, and Vera Bergengruen",
+      "headline": "These oil giants had written off Venezuela. Now they are taking a second look.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AUrUq-x5nTEuthOir9Lttyg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-30 21:40:16",
+      "pub_time": "2026-04-30 21:24:51",
+      "publication": "Texas Monthly",
+      "author": "Peter Holley",
+      "headline": "The testimony that pushed Camp Mystic’s leaders to announce it will not reopen this summer",
+      "article_headline": "The testimony that pushed Camp Mystic’s leaders to announce it will not reopen this summer"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-30 21:40:16",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "Inside the new playbook for presidential pardons, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AUrUq-x5nTEuthOir9Lttyg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-30 21:40:16",
+      "pub_time": "2026-04-30 21:23:23",
+      "publication": "Texas Monthly",
+      "author": "Peter Holley",
+      "headline": "The testimony that pushed Camp Mystic’s leaders to announce it will not reopen this summer",
+      "article_headline": "The testimony that pushed Camp Mystic’s leaders to announce it will not reopen this summer"
+    }
+  ]
+}
