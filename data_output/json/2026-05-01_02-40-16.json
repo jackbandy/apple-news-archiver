@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-05-01 02:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AeSiknQUbSf2STASHsBlONg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-01 02:40:16",
+      "pub_time": "2026-05-01 02:15:18",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk and Tala Ramadan",
+      "headline": "Iran threatens painful response if the U.S. renews attacks",
+      "article_headline": "Iran threatens painful response if US renews attacks"
+    },
+    {
+      "link": "https://apple.news/AJ-LOKaAjTjK53J1hhyAMXA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-01 02:40:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump gives go-ahead to major new Canada-U.S. oil pipeline",
+      "article_headline": "Trump gives go-ahead to major new Canada-U.S. oil pipeline"
+    },
+    {
+      "link": "https://apple.news/AtYIHedltQQ-Hh0Xd5uxESQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-01 02:40:16",
+      "pub_time": "",
+      "publication": "The 19th News",
+      "author": "",
+      "headline": "Supreme Court decision could undo decades of gains by Black women lawmakers",
+      "article_headline": "Supreme Court decision could undo decades of gains by Black women lawmakers"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 02:40:16",
+      "pub_time": "2026-05-01 02:15:44",
+      "publication": "BBC Science Focus Magazine",
+      "author": "",
+      "headline": "A devastating “fungal invasion” is now sweeping the U.S. And it may be too late to stop it.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A2Kj6rZJrT7qU0L7XtzDCYg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-01 02:40:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Knicks obliterate Hawks in historic win to roll into Eastern Conference semifinals",
+      "article_headline": "Knicks obliterate Hawks in historic win to roll into Eastern Conference semifinals"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 02:40:16",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "Inside the new playbook for presidential pardons, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 02:40:16",
+      "pub_time": "2026-05-01 02:00:51",
+      "publication": "Apple News Plus",
+      "author": "",
+      "headline": "New Scientist, The rings of Uranus are even stranger than we thought",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
