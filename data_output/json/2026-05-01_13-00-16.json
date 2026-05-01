@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-05-01 13:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AMTFQ4RE4S0WGCFiH0WfTLw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-01 13:00:16",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, As Iran war hits key 60-day deadline, Congress and Trump face choices on next steps",
+      "article_headline": "As Iran war hits key 60-day deadline, Congress and Trump face choices on next steps"
+    },
+    {
+      "link": "https://apple.news/A3Fn1g9WkRNSfSMqAv3RXZQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-01 13:00:16",
+      "pub_time": "2026-05-01 12:41:46",
+      "publication": "Bloomberg",
+      "author": "Josh Wingrove, Gabrielle Coppola, and Jorge Valero",
+      "headline": "U.S. to hike tariff rate on E.U. auto imports to 25%, Trump Says",
+      "article_headline": "U.S. to hike tariff rate on E.U. auto imports to 25%, Trump Says"
+    },
+    {
+      "link": "https://apple.news/Aj2IFHGbqR82zu9CrhKFmUA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-01 13:00:16",
+      "pub_time": "2026-05-01 12:42:14",
+      "publication": "Austin American-Statesman",
+      "author": "",
+      "headline": "5 killed after small plane crashes south of Austin",
+      "article_headline": "5 killed after small plane crashes near Wimberley late Thursday"
+    },
+    {
+      "link": "https://apple.news/A3Fn1g9WkRNSfSMqAv3RXZQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-01 13:00:16",
+      "pub_time": "2026-05-01 12:41:46",
+      "publication": "Bloomberg",
+      "author": "Josh Wingrove, Gabrielle Coppola, and Jorge Valero",
+      "headline": "U.S. to hike tariff rate on E.U. auto imports to 25%, Trump Says",
+      "article_headline": "U.S. to hike tariff rate on E.U. auto imports to 25%, Trump Says"
+    },
+    {
+      "link": "https://apple.news/Aj2IFHGbqR82zu9CrhKFmUA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-01 13:00:16",
+      "pub_time": "2026-05-01 12:42:14",
+      "publication": "Austin American-Statesman",
+      "author": "",
+      "headline": "5 killed after small plane crashes south of Austin",
+      "article_headline": "5 killed after small plane crashes near Wimberley late Thursday"
+    },
+    {
+      "link": "https://apple.news/AKAoDh_1mTZqF4Teo0PFwRQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-01 13:00:16",
+      "pub_time": "2026-05-01 12:42:41",
+      "publication": "The Washington Post",
+      "author": "Michelle Boorstein",
+      "headline": "Pope Leo picks formerly undocumented immigrant to lead West Virginia Catholics",
+      "article_headline": "Pope Leo picks formerly undocumented immigrant to lead West Virginia Catholics"
+    },
+    {
+      "link": "https://apple.news/AKAoDh_1mTZqF4Teo0PFwRQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-01 13:00:16",
+      "pub_time": "2026-05-01 12:42:14",
+      "publication": "The Washington Post",
+      "author": "Michelle Boorstein",
+      "headline": "Pope Leo picks formerly undocumented immigrant to lead West Virginia Catholics",
+      "article_headline": "Pope Leo picks formerly undocumented immigrant to lead West Virginia Catholics"
+    },
+    {
+      "link": "https://apple.news/AzVMmY_OfR66DbcCpWPV6Nw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-01 13:00:16",
+      "pub_time": "2026-05-01 12:03:48",
+      "publication": "HuffPost",
+      "author": "Vivian Chung",
+      "headline": "This CAPTCHA Scam Is Making People Infect Their Own Devices. Here's Why It’s So Easy To Fall For It.",
+      "article_headline": "This CAPTCHA Scam Is Making People Infect Their Own Devices. Here's Why It’s So Easy To Fall For It."
+    },
+    {
+      "link": "https://apple.news/AW25FkMf8TsGiIyilXaGFGg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-01 13:00:16",
+      "pub_time": "2026-05-01 05:04:21",
+      "publication": "WIRED",
+      "author": "Javier Carbajal",
+      "headline": "This Treatment Could Reverse Osteoarthritis Joint Damage With a Single Injection",
+      "article_headline": "This Treatment Could Reverse Osteoarthritis Joint Damage With a Single Injection"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-01 13:00:16",
+      "pub_time": "2026-04-30 13:04:49",
+      "publication": "",
+      "author": "",
+      "headline": "This common travel habit is now banned on American Airlines flights",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AzzuF_rtVT3GQScP27cIkxA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-01 13:00:16",
+      "pub_time": "2026-05-01 05:04:49",
+      "publication": "Inc.",
+      "author": "MARCEL SCHWANTES",
+      "headline": "Warren Buffett Explained That the Greatest Measure of Success at the End of Your Life Comes Down to 1 Word",
+      "article_headline": "Warren Buffett Explained That the Greatest Measure of Success at the End of Your Life Comes Down to 1 Word"
+    }
+  ]
+}

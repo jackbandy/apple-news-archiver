@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-01 17:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ardv5aXBvQf-NQIAvVR7ESw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-01 17:20:16",
+      "pub_time": "2026-05-01 16:39:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump argues May 1 deadline for Congress to approve Iran war doesn’t apply due to ongoing ceasefire agreement",
+      "article_headline": "Trump argues May 1 deadline for Congress to approve Iran war doesn’t apply due to ongoing ceasefire agreement"
+    },
+    {
+      "link": "https://apple.news/A7S3fKGA4TLegHbnHnuAjrQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-01 17:20:16",
+      "pub_time": "2026-05-01 16:39:45",
+      "publication": "Reuters",
+      "author": "Andrea Shalal",
+      "headline": "Trump’s attacks on Europe’s leaders worsen transatlantic frost",
+      "article_headline": "Trump's attacks on Europe's leaders worsen transatlantic frost"
+    },
+    {
+      "link": "https://apple.news/A7S3fKGA4TLegHbnHnuAjrQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-01 17:20:16",
+      "pub_time": "2026-05-01 16:39:17",
+      "publication": "Reuters",
+      "author": "Andrea Shalal",
+      "headline": "Trump’s attacks on Europe’s leaders worsen transatlantic frost",
+      "article_headline": "Trump's attacks on Europe's leaders worsen transatlantic frost"
+    },
+    {
+      "link": "https://apple.news/A_Nd-UngWRjWZBersUEBVkA?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-01 17:20:16",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Politics, Takeaways from a landmark SCOTUS ruling, Vance and Cruz head to Iowa, and more of this week’s biggest politics stories, Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Abjms5qjHTc-iFNdRdkVKOg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-01 17:20:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Spirit Airlines prepares to shut down as rescue deal falls apart",
+      "article_headline": "Spirit Airlines prepares to shut down as rescue deal falls apart"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 17:20:16",
+      "pub_time": "2026-05-01 16:39:44",
+      "publication": "The Washington Post",
+      "author": "Naema Ahmed and Sarah Kaplan",
+      "headline": "The invisible force making food less nutritious",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 17:20:16",
+      "pub_time": "2026-05-01 16:39:44",
+      "publication": "Baltimore Banner",
+      "author": "Alissa Zhu",
+      "headline": "An opioid 100 times deadlier than fentanyl killed her. She won’t be the last.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

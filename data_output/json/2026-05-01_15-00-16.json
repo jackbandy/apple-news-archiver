@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-05-01 15:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ardv5aXBvQf-NQIAvVR7ESw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-01 15:00:16",
+      "pub_time": "2026-05-01 14:56:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump argues May 1 deadline for Congress to approve Iran war doesn’t apply due to ongoing ceasefire agreement",
+      "article_headline": "Trump argues May 1 deadline for Congress to approve Iran war doesn’t apply due to ongoing ceasefire agreement"
+    },
+    {
+      "link": "https://apple.news/A3Fn1g9WkRNSfSMqAv3RXZQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-01 15:00:16",
+      "pub_time": "2026-05-01 14:56:45",
+      "publication": "Bloomberg",
+      "author": "Josh Wingrove, Gabrielle Coppola, and Jorge Valero",
+      "headline": "Trump vows 25% tariff on European cars in escalating trade rift",
+      "article_headline": "Trump vows 25% tariff on European cars in escalating trade rift"
+    },
+    {
+      "link": "https://apple.news/A3Fn1g9WkRNSfSMqAv3RXZQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-01 15:00:16",
+      "pub_time": "2026-05-01 14:55:17",
+      "publication": "Bloomberg",
+      "author": "Josh Wingrove, Gabrielle Coppola, and Jorge Valero",
+      "headline": "Trump vows 25% tariff on European cars in escalating trade rift",
+      "article_headline": "Trump vows 25% tariff on European cars in escalating trade rift"
+    },
+    {
+      "link": "https://apple.news/A_Nd-UngWRjWZBersUEBVkA?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-01 15:00:16",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Politics, Takeaways from a landmark SCOTUS ruling, Vance and Cruz head to Iowa, and more of this week's biggest politics stories, Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Awr6nfR67SB6YP3CDIrbUpQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-01 15:00:16",
+      "pub_time": "2026-05-01 14:56:12",
+      "publication": "The Washington Post",
+      "author": "Ian Duncan",
+      "headline": "Top AI companies agree to work with Pentagon on secret data",
+      "article_headline": "Top AI companies agree to work with Pentagon on secret data"
+    },
+    {
+      "link": "https://apple.news/Awr6nfR67SB6YP3CDIrbUpQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-01 15:00:16",
+      "pub_time": "2026-05-01 14:55:45",
+      "publication": "The Washington Post",
+      "author": "Ian Duncan",
+      "headline": "Top AI companies agree to work with Pentagon on secret data",
+      "article_headline": "Top AI companies agree to work with Pentagon on secret data"
+    },
+    {
+      "link": "https://apple.news/AM19tKoLWQDSJxptwQ9pHRA",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-01 15:00:16",
+      "pub_time": "2026-05-01 14:56:13",
+      "publication": "The Wall Street Journal",
+      "author": "Marcus Weisgerber",
+      "headline": "Trump’s Qatari-gifted Air Force One will keep its luxurious royal interior",
+      "article_headline": "Trump’s Qatari-gifted Air Force One will keep its luxurious royal interior"
+    }
+  ]
+}

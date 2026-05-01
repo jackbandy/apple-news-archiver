@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-05-01 13:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AMTFQ4RE4S0WGCFiH0WfTLw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-01 13:20:16",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, As Iran war hits key 60-day deadline, Congress and Trump face choices on next steps",
+      "article_headline": "As Iran war hits key 60-day deadline, Congress and Trump face choices on next steps"
+    },
+    {
+      "link": "https://apple.news/A3Fn1g9WkRNSfSMqAv3RXZQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-01 13:20:16",
+      "pub_time": "2026-05-01 13:15:45",
+      "publication": "Bloomberg",
+      "author": "Josh Wingrove, Gabrielle Coppola, and Jorge Valero",
+      "headline": "U.S. to hike tariff rate on E.U. auto imports to 25%, Trump says",
+      "article_headline": "U.S. to hike tariff rate on E.U. auto imports to 25%, Trump says"
+    },
+    {
+      "link": "https://apple.news/ANtdCtXapQcqu1ZNFdsvg7w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-01 13:20:16",
+      "pub_time": "2026-05-01 13:16:13",
+      "publication": "Fox News",
+      "author": "Paul Steinhauser",
+      "headline": "Vance and Cruz to visit Iowa ahead of the midterms, fueling 2028 presidential speculation",
+      "article_headline": "Vance and Cruz to visit Iowa ahead of the midterms, fueling 2028 presidential speculation"
+    },
+    {
+      "link": "https://apple.news/A3Fn1g9WkRNSfSMqAv3RXZQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-01 13:20:16",
+      "pub_time": "2026-05-01 13:15:46",
+      "publication": "Bloomberg",
+      "author": "Josh Wingrove, Gabrielle Coppola, and Jorge Valero",
+      "headline": "U.S. to hike tariff rate on E.U. auto imports to 25%, Trump says",
+      "article_headline": "U.S. to hike tariff rate on E.U. auto imports to 25%, Trump says"
+    },
+    {
+      "link": "https://apple.news/ANtdCtXapQcqu1ZNFdsvg7w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-01 13:20:16",
+      "pub_time": "2026-05-01 13:16:14",
+      "publication": "Fox News",
+      "author": "Paul Steinhauser",
+      "headline": "Vance and Cruz to visit Iowa ahead of the midterms, fueling 2028 presidential speculation",
+      "article_headline": "Vance and Cruz to visit Iowa ahead of the midterms, fueling 2028 presidential speculation"
+    },
+    {
+      "link": "https://apple.news/AKAoDh_1mTZqF4Teo0PFwRQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-01 13:20:16",
+      "pub_time": "2026-05-01 13:15:41",
+      "publication": "The Washington Post",
+      "author": "Michelle Boorstein",
+      "headline": "Pope Leo picks formerly undocumented immigrant to lead West Virginia Catholics",
+      "article_headline": "Pope Leo picks formerly undocumented immigrant to lead West Virginia Catholics"
+    },
+    {
+      "link": "https://apple.news/AKAoDh_1mTZqF4Teo0PFwRQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-01 13:20:16",
+      "pub_time": "2026-05-01 13:15:14",
+      "publication": "The Washington Post",
+      "author": "Michelle Boorstein",
+      "headline": "Pope Leo picks formerly undocumented immigrant to lead West Virginia Catholics",
+      "article_headline": "Pope Leo picks formerly undocumented immigrant to lead West Virginia Catholics"
+    },
+    {
+      "link": "https://apple.news/AzVMmY_OfR66DbcCpWPV6Nw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-01 13:20:16",
+      "pub_time": "2026-05-01 11:23:47",
+      "publication": "HuffPost",
+      "author": "Vivian Chung",
+      "headline": "This CAPTCHA Scam Is Making People Infect Their Own Devices. Here's Why It’s So Easy To Fall For It.",
+      "article_headline": "This CAPTCHA Scam Is Making People Infect Their Own Devices. Here's Why It’s So Easy To Fall For It."
+    },
+    {
+      "link": "https://apple.news/AW25FkMf8TsGiIyilXaGFGg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-01 13:20:16",
+      "pub_time": "2026-05-01 05:24:20",
+      "publication": "WIRED",
+      "author": "Javier Carbajal",
+      "headline": "This Treatment Could Reverse Osteoarthritis Joint Damage With a Single Injection",
+      "article_headline": "This Treatment Could Reverse Osteoarthritis Joint Damage With a Single Injection"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-01 13:20:16",
+      "pub_time": "2026-04-30 13:24:48",
+      "publication": "",
+      "author": "Rachael O'Connor",
+      "headline": "Tiny border collie puppies learning to herd sheep melt hearts: \"Working so hard\"",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-01 13:20:16",
+      "pub_time": "2026-05-01 05:24:48",
+      "publication": "",
+      "author": "MARCEL SCHWANTES",
+      "headline": "Warren Buffett Explained That the Greatest Measure of Success at the End of Your Life Comes Down to 1 Word",
+      "article_headline": ""
+    }
+  ]
+}
