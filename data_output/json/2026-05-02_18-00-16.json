@@ -1,0 +1,28 @@
+{
+  "run_time": "2026-05-02 18:00:16",
+  "story_count": 2,
+  "stories": [
+    {
+      "link": "https://apple.news/AXR0Q_15eTEu6cHnOU6hsig",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-02 18:00:16",
+      "pub_time": "2026-05-02 17:46:18",
+      "publication": "NBC News",
+      "author": "Alexandra Marquez",
+      "headline": "Supreme Court asked to pause ruling blocking telehealth and mail access to abortion pills",
+      "article_headline": "Supreme Court asked to pause ruling blocking telehealth and mail access to abortion pills"
+    },
+    {
+      "link": "https://apple.news/AR4LSEhDGSwO_v1IfqZC1qA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-02 18:00:16",
+      "pub_time": "",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "NATO, top Republicans question U.S. troop withdrawal from Germany",
+      "article_headline": "NATO, top Republicans question U.S. troop withdrawal from Germany"
+    }
+  ]
+}

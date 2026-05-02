@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-02 16:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A2XVtgagnShOI4dQuzyfG0Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-02 16:20:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "How the Trump administration’s Spirit Airlines rescue unraveled",
+      "article_headline": "How the Trump administration’s Spirit Airlines rescue unraveled"
+    },
+    {
+      "link": "https://apple.news/AkWwp8LSPQom424VYubel7g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-02 16:20:16",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Drugmaker files emergency appeal to restore abortion pill access",
+      "article_headline": "Drugmaker files emergency appeal to restore abortion pill access"
+    },
+    {
+      "link": "https://apple.news/AYZ56B_lXRDSK8mTVpIfUgg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-02 16:20:16",
+      "pub_time": "2026-05-02 15:21:18",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "U.S. threatens shipping firms with sanctions if they pay Iran tolls",
+      "article_headline": "U.S. threatens shipping firms with sanctions if they pay Iran tolls"
+    },
+    {
+      "link": "https://apple.news/AcFvRbDWrQCy2ql4YRPgreg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-02 16:20:16",
+      "pub_time": "2026-05-02 15:21:45",
+      "publication": "The Hollywood Reporter",
+      "author": "Lexi Carson",
+      "headline": "Mariska Hargitay’s rape kit backlog campaign marks legislative wins in all 50 states",
+      "article_headline": "Mariska Hargitay’s rape kit backlog campaign marks legislative wins in all 50 states"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-02 16:20:16",
+      "pub_time": "",
+      "publication": "Sports Illustrated",
+      "author": "",
+      "headline": "This one horse has 3 offspring competing in this year’s Kentucky Derby",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-02 16:20:16",
+      "pub_time": "2026-05-02 15:22:18",
+      "publication": "The Wall Street Journal",
+      "author": "E.B. Solomont",
+      "headline": "Will a Los Angeles megamansion become America’s first $400 million home?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AGBfD-tiASgyrwZftLVK3zA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-02 16:20:16",
+      "pub_time": "",
+      "publication": "Block Club Chicago",
+      "author": "",
+      "headline": "Local News, Chicago, Thousands take to Chicago streets for May Day demonstrations",
+      "article_headline": "Thousands take to Chicago streets for May Day demonstrations"
+    }
+  ]
+}

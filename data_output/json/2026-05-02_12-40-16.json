@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-02 12:40:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ASmY7z6hdSsmOXXd415nmIA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-02 12:40:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Spirit Airlines is shutting down, effective immediately",
+      "article_headline": "Spirit Airlines is shutting down, effective immediately"
+    },
+    {
+      "link": "https://apple.news/Aptq2TlP6QY-Qe141O5vn6Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-02 12:40:16",
+      "pub_time": "2026-05-02 11:40:56",
+      "publication": "The Guardian",
+      "author": "Deborah Cole",
+      "headline": "The German town rocked by Trump’s plan to withdraw U.S. troops",
+      "article_headline": "The German town rocked by Trump’s plan to withdraw U.S. troops"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-02 12:40:16",
+      "pub_time": "2026-05-02 11:41:24",
+      "publication": "The Washington Post",
+      "author": "Julian Mark and Eva Dou",
+      "headline": "Tortured in China, they want to sue Cisco. The Supreme Court may say no.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AcQKNWBk7RMiIpJHkYpZDqQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RVOXh4R1dSV1NQU011R0xGMTR0VF9BI25mZl9paWQ%3D",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-02 12:40:16",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Climate, Whales are losing their ice refuge. Plus, the energy goldmine buried beneath the U.S.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-02 12:40:16",
+      "pub_time": "2026-05-02 11:42:02",
+      "publication": "The Wall Street Journal",
+      "author": "E.B. Solomont",
+      "headline": "Will a Los Angeles megamansion become America’s first $400 million home?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADK0ST_tpRWOJy66phhgapA",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-02 12:40:16",
+      "pub_time": "",
+      "publication": "The real reason men are struggling",
+      "author": "",
+      "headline": "What their inner lives actually look like.,  Play Now  28 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ADK0ST_tpRWOJy66phhgapA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-02 12:40:16",
+      "pub_time": "",
+      "publication": "The real reason men are struggling",
+      "author": "",
+      "headline": "What their inner lives actually look like.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AEdZnXt8mQ5i6rljS-r-iQQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-02 12:40:16",
+      "pub_time": "2026-05-02 00:42:59",
+      "publication": "BuzzFeed",
+      "author": "Jenna Guillaume",
+      "headline": "29 Jaw-Dropping Photos From The 1970s That Will Make You Realize Just How Much The World Has Changed",
+      "article_headline": "29 Jaw-Dropping Photos From The 1970s That Will Make You Realize Just How Much The World Has Changed"
+    },
+    {
+      "link": "https://apple.news/ADATVkwU5QWCCFnbU8X51ow",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-02 12:40:16",
+      "pub_time": "2026-05-02 11:43:26",
+      "publication": "The Washington Post",
+      "author": "Gerrit De Vynck and Faiz Siddiqui",
+      "headline": "Elon Musk went to court. The judge wasn’t amused.",
+      "article_headline": "Elon Musk went to court. The judge wasn’t amused."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-02 12:40:16",
+      "pub_time": "2026-05-01 12:43:54",
+      "publication": "",
+      "author": "Dylan Scott",
+      "headline": "A major new study found AI outperformed doctors in ER diagnosis — but there's a catch",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADATVkwU5QWCCFnbU8X51ow",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-02 12:40:16",
+      "pub_time": "2026-05-02 10:44:01",
+      "publication": "The Washington Post",
+      "author": "Gerrit De Vynck and Faiz Siddiqui",
+      "headline": "Elon Musk went to court. The judge wasn’t amused.",
+      "article_headline": "Elon Musk went to court. The judge wasn’t amused."
+    }
+  ]
+}
