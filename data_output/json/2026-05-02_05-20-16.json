@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-05-02 05:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A8FhgCgxMQdaw1JOBu0Ux8A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-02 05:20:16",
+      "pub_time": "2026-05-02 02:20:18",
+      "publication": "Reuters",
+      "author": "Phil Stewart and Idrees Ali",
+      "headline": "U.S. to withdraw 5,000 troops from Germany",
+      "article_headline": "U.S. to withdraw 5,000 troops from Germany"
+    },
+    {
+      "link": "https://apple.news/AVXnwyTsLQrO5qyJVKGFNPw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-02 05:20:16",
+      "pub_time": "2026-05-02 02:20:45",
+      "publication": "NBC News",
+      "author": "Monica Alba, Alexandra Marquez, Owen Hayes, and Kyla Guilfoil",
+      "headline": "Trump says he doesn’t need congressional authorization for Iran war, citing ceasefire",
+      "article_headline": "Trump says he doesn’t need congressional authorization for Iran war, citing ceasefire"
+    },
+    {
+      "link": "https://apple.news/AgOJZm21rTV-mmws0WGQOKg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-02 05:20:16",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Spirit Airlines ceases operations after escalating financial struggles",
+      "article_headline": "Spirit Airlines ceases operations after escalating financial struggles"
+    },
+    {
+      "link": "https://apple.news/AHU_gTOEXTWeiUChpp3gI1w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-02 05:20:16",
+      "pub_time": "2026-05-02 02:21:45",
+      "publication": "ABC News",
+      "author": "Briana Alvarado",
+      "headline": "Mexico City has been sinking for a century. A NASA satellite is watching it happen.",
+      "article_headline": "Mexico City has been sinking for a century. A NASA satellite is watching it happen."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-02 05:20:16",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "LeBron James, Lakers steamroll Rockets to set up blockbuster series with Thunder",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-02 05:20:16",
+      "pub_time": "2026-05-02 02:22:20",
+      "publication": "The Wall Street Journal",
+      "author": "Zusha Elinson",
+      "headline": "How Silicon Valley’s brightest parents broke their own school",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-02 05:20:16",
+      "pub_time": "2026-05-02 04:22:35",
+      "publication": "The Washington Post",
+      "author": "David J. Lynch",
+      "headline": "Trump’s tariff-friendly White House celebrates these foreign imports",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_Ej9OTd4T9arOL84yWjqWQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-02 05:20:16",
+      "pub_time": "2026-05-01 21:23:09",
+      "publication": "EatingWell",
+      "author": "Elizabeth Shaw, M.S., RDN, CPT",
+      "headline": "5 Anti-Inflammatory Carbs You Should Be Eating, According to a Dietitian",
+      "article_headline": "5 Anti-Inflammatory Carbs You Should Be Eating, According to a Dietitian"
+    },
+    {
+      "link": "https://apple.news/Axcwz0SknSaCiDN9kb8VHxg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-02 05:20:16",
+      "pub_time": "2026-05-01 21:23:42",
+      "publication": "People",
+      "author": "Angel Saunders and Liz McNeil",
+      "headline": "Anna Nicole Smith and Larry Birkhead’s Daughter's Kentucky Derby Look Is All About Her ‘Coming Into Her Own,’ Dad Says",
+      "article_headline": "Anna Nicole Smith and Larry Birkhead’s Daughter's Kentucky Derby Look Is All About Her ‘Coming Into Her Own,’ Dad Says"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-02 05:20:16",
+      "pub_time": "2026-05-01 05:24:09",
+      "publication": "",
+      "author": "Marina Watts",
+      "headline": "Caroline Kennedy makes rare public appearance months after daughter Tatiana's death",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_jUc-hY4Q7WiG8_UR_trSg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-02 05:20:16",
+      "pub_time": "2026-05-01 21:24:09",
+      "publication": "BuzzFeed",
+      "author": "Hannah Marder",
+      "headline": "97 Things From Around The World That Will Make Americans Realize They're Living In The Stone Age",
+      "article_headline": "97 Things From Around The World That Will Make Americans Realize They're Living In The Stone Age"
+    }
+  ]
+}

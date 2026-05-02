@@ -1,0 +1,74 @@
+{
+  "run_time": "2026-05-02 03:40:17",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/A8FhgCgxMQdaw1JOBu0Ux8A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-02 03:40:17",
+      "pub_time": "2026-05-02 02:40:18",
+      "publication": "Reuters",
+      "author": "Phil Stewart and Idrees Ali",
+      "headline": "U.S. to withdraw 5,000 troops from Germany",
+      "article_headline": "U.S. to withdraw 5,000 troops from Germany"
+    },
+    {
+      "link": "https://apple.news/AVXnwyTsLQrO5qyJVKGFNPw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-02 03:40:17",
+      "pub_time": "2026-05-02 02:40:45",
+      "publication": "NBC News",
+      "author": "Monica Alba, Alexandra Marquez, Owen Hayes, and Kyla Guilfoil",
+      "headline": "Trump says he doesn’t need congressional authorization for Iran war, citing ceasefire",
+      "article_headline": "Trump says he doesn’t need congressional authorization for Iran war, citing ceasefire"
+    },
+    {
+      "link": "https://apple.news/AgOJZm21rTV-mmws0WGQOKg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-02 03:40:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Spirit Airlines ceases operations after escalating financial struggles",
+      "article_headline": "Spirit Airlines ceases operations after escalating financial struggles"
+    },
+    {
+      "link": "https://apple.news/AHU_gTOEXTWeiUChpp3gI1w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-02 03:40:17",
+      "pub_time": "2026-05-02 02:41:45",
+      "publication": "ABC News",
+      "author": "Briana Alvarado",
+      "headline": "Mexico City has been sinking for a century. A NASA satellite is watching it happen.",
+      "article_headline": "Mexico City has been sinking for a century. A NASA satellite is watching it happen."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-02 03:40:17",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "LeBron James, Lakers steamroll Rockets to set up blockbuster series with Thunder",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-02 03:40:17",
+      "pub_time": "2026-05-02 02:42:19",
+      "publication": "The Wall Street Journal",
+      "author": "Zusha Elinson",
+      "headline": "How Silicon Valley’s brightest parents broke their own school",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

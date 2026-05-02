@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-05-02 02:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A8FhgCgxMQdaw1JOBu0Ux8A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-02 02:00:17",
+      "pub_time": "2026-05-02 01:59:19",
+      "publication": "Reuters",
+      "author": "Phil Stewart and Idrees Ali",
+      "headline": "U.S. to withdraw 5,000 troops from Germany",
+      "article_headline": "U.S. to withdraw 5,000 troops from Germany"
+    },
+    {
+      "link": "https://apple.news/AVXnwyTsLQrO5qyJVKGFNPw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-02 02:00:17",
+      "pub_time": "2026-05-02 01:59:46",
+      "publication": "NBC News",
+      "author": "Monica Alba, Alexandra Marquez, Owen Hayes, and Kyla Guilfoil",
+      "headline": "Trump says he doesn’t need congressional authorization for Iran war, citing ceasefire",
+      "article_headline": "Trump says he doesn’t need congressional authorization for Iran war, citing ceasefire"
+    },
+    {
+      "link": "https://apple.news/AgOJZm21rTV-mmws0WGQOKg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-02 02:00:17",
+      "pub_time": "2026-05-02 02:00:14",
+      "publication": "NPR",
+      "author": "Joel Rose",
+      "headline": "Spirit Airlines ceases operations after escalating financial struggles",
+      "article_headline": "Spirit Airlines ceases operations after escalating financial struggles"
+    },
+    {
+      "link": "https://apple.news/AVXnwyTsLQrO5qyJVKGFNPw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-02 02:00:17",
+      "pub_time": "2026-05-02 01:59:47",
+      "publication": "NBC News",
+      "author": "Monica Alba, Alexandra Marquez, Owen Hayes, and Kyla Guilfoil",
+      "headline": "Trump says he doesn’t need congressional authorization for Iran war, citing ceasefire",
+      "article_headline": "Trump says he doesn’t need congressional authorization for Iran war, citing ceasefire"
+    },
+    {
+      "link": "https://apple.news/AgOJZm21rTV-mmws0WGQOKg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-02 02:00:17",
+      "pub_time": "2026-05-02 02:00:14",
+      "publication": "NPR",
+      "author": "Joel Rose",
+      "headline": "Spirit Airlines ceases operations after escalating financial struggles",
+      "article_headline": "Spirit Airlines ceases operations after escalating financial struggles"
+    },
+    {
+      "link": "https://apple.news/AHU_gTOEXTWeiUChpp3gI1w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-02 02:00:17",
+      "pub_time": "2026-05-02 01:59:41",
+      "publication": "ABC News",
+      "author": "Briana Alvarado",
+      "headline": "Mexico City has been sinking for a century. A NASA satellite is watching it happen.",
+      "article_headline": "Mexico City has been sinking for a century. A NASA satellite is watching it happen."
+    },
+    {
+      "link": "https://apple.news/AHU_gTOEXTWeiUChpp3gI1w",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-02 02:00:17",
+      "pub_time": "2026-05-02 01:59:14",
+      "publication": "ABC News",
+      "author": "Briana Alvarado",
+      "headline": "Mexico City has been sinking for a century. A NASA satellite is watching it happen.",
+      "article_headline": "Mexico City has been sinking for a century. A NASA satellite is watching it happen."
+    }
+  ]
+}

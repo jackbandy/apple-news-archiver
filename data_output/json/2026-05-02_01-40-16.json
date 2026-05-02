@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-02 01:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A8FhgCgxMQdaw1JOBu0Ux8A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-02 01:40:16",
+      "pub_time": "2026-05-02 00:40:17",
+      "publication": "Reuters",
+      "author": "Phil Stewart and Idrees Ali",
+      "headline": "U.S. to withdraw 5,000 troops from Germany",
+      "article_headline": "U.S. to withdraw 5,000 troops from Germany"
+    },
+    {
+      "link": "https://apple.news/AVXnwyTsLQrO5qyJVKGFNPw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-02 01:40:16",
+      "pub_time": "2026-05-02 00:40:44",
+      "publication": "NBC News",
+      "author": "Monica Alba, Alexandra Marquez, Owen Hayes, and Kyla Guilfoil",
+      "headline": "Trump says he doesn’t need congressional authorization for Iran war, citing ceasefire",
+      "article_headline": "Trump says he doesn’t need congressional authorization for Iran war, citing ceasefire"
+    },
+    {
+      "link": "https://apple.news/AG-JDcIKqRIqKIdpn3Yxjfw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-02 01:40:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "2 more Southern states move toward adding Republican House seats",
+      "article_headline": "2 more Southern states move toward adding Republican House seats"
+    },
+    {
+      "link": "https://apple.news/AHU_gTOEXTWeiUChpp3gI1w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-02 01:40:16",
+      "pub_time": "2026-05-02 00:41:45",
+      "publication": "ABC News",
+      "author": "Briana Alvarado",
+      "headline": "Mexico City has been sinking for a century. A NASA satellite is watching it happen.",
+      "article_headline": "Mexico City has been sinking for a century. A NASA satellite is watching it happen."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-02 01:40:16",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "LeBron James, Lakers steamroll Rockets to set up blockbuster series with Thunder",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-02 01:40:16",
+      "pub_time": "2026-05-02 00:42:18",
+      "publication": "The Wall Street Journal",
+      "author": "Zusha Elinson",
+      "headline": "How Silicon Valley’s brightest parents broke their own school",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AWRbBAsrQTZGiZ3IeJSLDtQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-02 01:40:16",
+      "pub_time": "2026-05-02 01:00:33",
+      "publication": "The Guardian",
+      "author": "Mark Sweney",
+      "headline": "BBC News to bear deepest cuts amid 2,000 planned job losses",
+      "article_headline": "BBC News to bear deepest cuts amid 2,000 planned job losses"
+    }
+  ]
+}
