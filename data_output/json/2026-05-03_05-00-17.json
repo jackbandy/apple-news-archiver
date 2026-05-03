@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-03 05:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Aa_ODGTPRT4Sbda1rmlBdew",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-03 05:00:17",
+      "pub_time": "2026-05-03 00:00:18",
+      "publication": "NBC News",
+      "author": "Yuliya Talmazan",
+      "headline": "Europe rattled by “disastrous trend” as Trump pulls 5,000 troops out of Germany",
+      "article_headline": "Europe rattled by “disastrous trend” as Trump pulls 5,000 troops out of Germany"
+    },
+    {
+      "link": "https://apple.news/ASNOvjy0hQCmIk2o7lSsU3Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-03 05:00:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Airlines scramble to help stranded Spirit passengers after budget carrier collapses",
+      "article_headline": "Airlines scramble to help stranded Spirit passengers after budget carrier collapses"
+    },
+    {
+      "link": "https://apple.news/Aaq9jEi-9TYatVhImD-MZkw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-03 05:00:17",
+      "pub_time": "2026-05-03 00:01:19",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "“A huge setback”: New EPA directive could weaken hundreds of chemical regulations",
+      "article_headline": "“A huge setback”: New EPA directive could weaken hundreds of chemical regulations"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-03 05:00:17",
+      "pub_time": "2026-05-03 00:01:46",
+      "publication": "The Washington Post",
+      "author": "Steve Hendrix",
+      "headline": "A mob hit in Ireland, a 10-year manhunt and an arrest in Dubai",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AnhE1lR5uR-exMRM-iP9ZZQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-03 05:00:17",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "76ers complete a 3-1 series comeback with a dramatic Game 7 win over the Celtics",
+      "article_headline": "76ers, Embiid vanquish Celtics to complete 3-1 comeback"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-03 05:00:17",
+      "pub_time": "2026-05-03 00:02:19",
+      "publication": "New York Magazine",
+      "author": "Reeves Wiedeman",
+      "headline": "How Blake Lively and Justin Baldoni’s court battle could end both of their careers",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADK0ST_tpRWOJy66phhgapA",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-03 05:00:17",
+      "pub_time": "",
+      "publication": "The real reason men are struggling",
+      "author": "",
+      "headline": "What their inner lives actually look like.,  Play Now  28 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Agu73qWtwQOi8ayutCQjK0w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-03 05:00:17",
+      "pub_time": "2026-05-02 22:03:38",
+      "publication": "BuzzFeed",
+      "author": "Jenna Guillaume",
+      "headline": "22 Jaw-Dropping Vintage Photos That Will Make You Wonder How Your Grandparents Actually Survived Childhood",
+      "article_headline": "22 Jaw-Dropping Vintage Photos That Will Make You Wonder How Your Grandparents Actually Survived Childhood"
+    },
+    {
+      "link": "https://apple.news/ARNLLY1T5TyOfSTf2HutxpA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-03 05:00:17",
+      "pub_time": "2026-05-02 17:04:05",
+      "publication": "Autoblog",
+      "author": "Marnus Moolman",
+      "headline": "Honda Is Selling Everything But the Prelude",
+      "article_headline": "Honda Is Selling Everything But the Prelude"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-03 05:00:17",
+      "pub_time": "2026-05-02 05:04:33",
+      "publication": "",
+      "author": "Beth Raymer",
+      "headline": "My Dad Tapped the Phone Lines When He Suspected My Mom of Cheating. The Actual Tapes Contained a Darker Family Secret.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/At1oRHqJHQYeaki-msuGKSg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-03 05:00:17",
+      "pub_time": "2026-05-02 07:04:39",
+      "publication": "HuffPost",
+      "author": "Kelsey Borresen",
+      "headline": "The ‘Bean Soup Theory’ Is Rampant On Social Media. Are You Guilty Of It?",
+      "article_headline": "The ‘Bean Soup Theory’ Is Rampant On Social Media. Are You Guilty Of It?"
+    }
+  ]
+}
