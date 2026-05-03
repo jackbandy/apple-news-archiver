@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-05-03 18:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AFPhsUD-BSoWROTbHjaDBLA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-03 18:00:17",
+      "pub_time": "2026-05-03 17:56:18",
+      "publication": "NBC News",
+      "author": "Mark Hodge, Kayla Hayempour, and Amina Kilpatrick",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AochA9ggjT1eA_QLMHCsosw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-03 18:00:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump says U.S. will “guide” stranded ships from Strait of Hormuz starting Monday",
+      "article_headline": "Trump says U.S. will “guide” stranded ships from Strait of Hormuz starting Monday"
+    },
+    {
+      "link": "https://apple.news/ANrEWCQhcQVWZGLSTDRiQtQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-03 18:00:17",
+      "pub_time": "2026-05-03 17:55:18",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "3 cruise-ship passengers dead from suspected hantavirus outbreak, WHO says",
+      "article_headline": "3 cruise-ship passengers dead from suspected hantavirus outbreak, WHO says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-03 18:00:17",
+      "pub_time": "2026-05-03 17:55:45",
+      "publication": "The Wall Street Journal",
+      "author": "Annie Linskey, C. Ryan Barber, and Maggie Severns",
+      "headline": "He rescued Trump from one assassination attempt. Now he has to answer for another.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AJSjXUmauQ9SBw0dCktf43w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-03 18:00:17",
+      "pub_time": "",
+      "publication": "The Hollywood Reporter",
+      "author": "",
+      "headline": "‘Devil Wears Prada 2’ kicks off summer box office in fine fashion, with $234 million globally",
+      "article_headline": "Box Office Haute Couture: 'Devil Wears Prada 2' Officially Kicks Off Summer With Heavenly $77M in U.S., $234M Globally"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-03 18:00:17",
+      "pub_time": "",
+      "publication": "The Atavist Magazine",
+      "author": "",
+      "headline": "Colorado’s San Luis Valley was a poacher’s paradise. Then an undercover agent arrived., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Apj-o0EI5T6yiPUyVXPo_ow",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-03 18:00:17",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Loyola great Alfredrick Hughes, a 1985 All-American, dies at 63",
+      "article_headline": "Loyola great Alfredrick Hughes, a 1985 All-American, dies at 63"
+    },
+    {
+      "link": "https://apple.news/AMLqzke1uT5-TBDRPii1pNw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-03 18:00:17",
+      "pub_time": "2026-05-03 12:03:40",
+      "publication": "Popular Science",
+      "author": "Sarah Durn",
+      "headline": "The 1893 Chicago World’s Fair in 9 stunning color photos",
+      "article_headline": "The 1893 Chicago World’s Fair in 9 stunning color photos"
+    },
+    {
+      "link": "https://apple.news/AI0y-rhjdTtySZXQ0C_8Gmg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-03 18:00:17",
+      "pub_time": "2026-05-03 13:04:07",
+      "publication": "People",
+      "author": "Ashley Vega",
+      "headline": "Man with Chromosome Abnormality Hands Out Surprise Gift to Every Passenger on His Flight, with a Very Special Goal in Mind",
+      "article_headline": "Man with Chromosome Abnormality Hands Out Surprise Gift to Every Passenger on His Flight, with a Very Special Goal in Mind"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-03 18:00:17",
+      "pub_time": "2026-05-03 06:04:35",
+      "publication": "",
+      "author": "Christa Sgobba",
+      "headline": "4 subtle signs you aren’t eating enough protein",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-03 18:00:17",
+      "pub_time": "2026-05-03 05:04:41",
+      "publication": "",
+      "author": "Christa Sgobba",
+      "headline": "4 subtle signs you aren’t eating enough protein",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

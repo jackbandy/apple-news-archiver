@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-03 16:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AZG8nI2cAQrSNWDC8BqX6ZQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-03 16:00:16",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Supreme Court’s redistricting ruling throws a wrench into already-turbulent midterms",
+      "article_headline": "Supreme Court’s redistricting ruling throws a wrench into already-turbulent midterms"
+    },
+    {
+      "link": "https://apple.news/AochA9ggjT1eA_QLMHCsosw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-03 16:00:16",
+      "pub_time": "2026-05-03 15:00:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Ship is attacked near Strait of Hormuz as Iran reviews U.S. response to latest proposal",
+      "article_headline": "Ship is attacked near Strait of Hormuz as Iran reviews U.S. response to latest proposal"
+    },
+    {
+      "link": "https://apple.news/AvrYvUGoxTEe3petOc_0zKA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-03 16:00:16",
+      "pub_time": "2026-05-03 15:01:13",
+      "publication": "Task & Purpose",
+      "author": "Nicholas Slayton",
+      "headline": "2 U.S. service members missing during military exercises in Morocco",
+      "article_headline": "2 U.S. service members missing during military exercises in Morocco"
+    },
+    {
+      "link": "https://apple.news/AZAHQY9n8TC-3SZOAo1HrxA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-03 16:00:16",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Why this tribe is buying up hundreds of acres of farmland — and flooding it",
+      "article_headline": "Why this tribe is buying up hundreds of acres of farmland — and flooding it"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-03 16:00:16",
+      "pub_time": "",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Young, gifted, and fast: Kimi Antonelli, 19, wins the F1 Miami Grand Prix",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-03 16:00:16",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "The shaky science behind Silicon Valley’s “designer babies”, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADK0ST_tpRWOJy66phhgapA",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-03 16:00:16",
+      "pub_time": "",
+      "publication": "The real reason men are struggling",
+      "author": "",
+      "headline": "What their inner lives actually look like.,  Play Now  28 min",
+      "article_headline": ""
+    }
+  ]
+}
