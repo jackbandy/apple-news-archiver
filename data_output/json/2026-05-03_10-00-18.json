@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-03 10:00:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AsvCJ1nGNSOa23Zu8sz_6Tw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-03 10:00:18",
+      "pub_time": "2026-05-03 08:00:19",
+      "publication": "Al Jazeera",
+      "author": "",
+      "headline": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+      "article_headline": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?"
+    },
+    {
+      "link": "https://apple.news/A1yMQisXuQwSbBZO2espiEQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-03 10:00:18",
+      "pub_time": "2026-05-03 08:00:47",
+      "publication": "NPR",
+      "author": "Willem Marx",
+      "headline": "Germany says U.S. troop withdrawal “anticipated,” Spain and Italy could be next",
+      "article_headline": "Germany says U.S. troop withdrawal “anticipated,” Spain and Italy could be next"
+    },
+    {
+      "link": "https://apple.news/AJ9e1Ig2AQ7Ce9zhtf9pTyw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-03 10:00:18",
+      "pub_time": "",
+      "publication": "CNBC",
+      "author": "",
+      "headline": "“Godspeed my friend”: inside the final hours of Spirit Airlines",
+      "article_headline": "“Godspeed my friend”: inside the final hours of Spirit Airlines"
+    },
+    {
+      "link": "https://apple.news/AV6QDILpRQxKm7FpvG_RoDg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-03 10:00:18",
+      "pub_time": "2026-05-03 08:01:46",
+      "publication": "The Marshall Project",
+      "author": "Katie Moore",
+      "headline": "Immigrants behind bars often find ICE waiting after their prison sentences",
+      "article_headline": "Immigrants behind bars often find ICE waiting after their prison sentences"
+    },
+    {
+      "link": "https://apple.news/Ajv3o-UeKSkeUYi9vTLcBqg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-03 10:00:18",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Kentucky Derby winner Cherie DeVaux bet on herself and won big",
+      "article_headline": "Kentucky Derby winner Cherie DeVaux bet on herself and won big"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-03 10:00:18",
+      "pub_time": "2026-05-03 08:02:48",
+      "publication": "The Wall Street Journal",
+      "author": "Roshan Fernandez",
+      "headline": "The college-admissions chess game is more complicated than ever",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADK0ST_tpRWOJy66phhgapA",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-03 10:00:18",
+      "pub_time": "",
+      "publication": "The real reason men are struggling",
+      "author": "",
+      "headline": "What their inner lives actually look like.,  Play Now  28 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Agu73qWtwQOi8ayutCQjK0w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-03 10:00:18",
+      "pub_time": "2026-05-03 06:04:00",
+      "publication": "BuzzFeed",
+      "author": "Jenna Guillaume",
+      "headline": "22 Jaw-Dropping Vintage Photos That Will Make You Wonder How Your Grandparents Actually Survived Childhood",
+      "article_headline": "22 Jaw-Dropping Vintage Photos That Will Make You Wonder How Your Grandparents Actually Survived Childhood"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-03 10:00:18",
+      "pub_time": "2026-05-03 06:04:28",
+      "publication": "",
+      "author": "Anna Rahmanan",
+      "headline": "How Bad Is It To Walk Around Barefoot At Home? Doctors' Answers May Surprise You.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-03 10:00:18",
+      "pub_time": "2026-05-02 19:04:45",
+      "publication": "",
+      "author": "Toria Sheffield",
+      "headline": "Delta Flight Delayed and Passenger Arrested After Woman Allegedly Refused to Hang Up Her Phone Before Takeoff",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-03 10:00:18",
+      "pub_time": "2026-05-02 17:04:45",
+      "publication": "",
+      "author": "Alyssa Longobucco",
+      "headline": "Real Estate Experts Agree—This Bathroom Upgrade Adds the Most Value to Your Home",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

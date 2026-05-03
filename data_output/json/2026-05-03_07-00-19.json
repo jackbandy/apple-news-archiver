@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-05-03 07:00:19",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AsvCJ1nGNSOa23Zu8sz_6Tw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-03 07:00:19",
+      "pub_time": "2026-05-03 06:55:20",
+      "publication": "Al Jazeera",
+      "author": "",
+      "headline": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+      "article_headline": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?"
+    },
+    {
+      "link": "https://apple.news/A1yMQisXuQwSbBZO2espiEQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-03 07:00:19",
+      "pub_time": "2026-05-03 06:55:47",
+      "publication": "NPR",
+      "author": "Willem Marx",
+      "headline": "Germany says U.S. troop withdrawal “anticipated,” Spain and Italy could be next",
+      "article_headline": "Germany says U.S. troop withdrawal “anticipated,” Spain and Italy could be next"
+    },
+    {
+      "link": "https://apple.news/A1yMQisXuQwSbBZO2espiEQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-03 07:00:19",
+      "pub_time": "2026-05-03 06:55:21",
+      "publication": "NPR",
+      "author": "Willem Marx",
+      "headline": "Germany says U.S. troop withdrawal “anticipated,” Spain and Italy could be next",
+      "article_headline": "Germany says U.S. troop withdrawal “anticipated,” Spain and Italy could be next"
+    },
+    {
+      "link": "https://apple.news/AJ9e1Ig2AQ7Ce9zhtf9pTyw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-03 07:00:19",
+      "pub_time": "",
+      "publication": "CNBC",
+      "author": "",
+      "headline": "“Godspeed my friend”: inside the final hours of Spirit Airlines",
+      "article_headline": "“Godspeed my friend”: inside the final hours of Spirit Airlines"
+    },
+    {
+      "link": "https://apple.news/AICAnKyoCT82YioWZqL14ZA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-03 07:00:19",
+      "pub_time": "2026-05-03 06:56:15",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Pope marks World Press Freedom Day, laments violations and honours slain reporters",
+      "article_headline": "Pope marks World Press Freedom Day, laments violations and honours slain reporters"
+    },
+    {
+      "link": "https://apple.news/AICAnKyoCT82YioWZqL14ZA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-03 07:00:19",
+      "pub_time": "2026-05-03 06:55:49",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Pope marks World Press Freedom Day, laments violations and honours slain reporters",
+      "article_headline": "Pope marks World Press Freedom Day, laments violations and honours slain reporters"
+    },
+    {
+      "link": "https://apple.news/AV6QDILpRQxKm7FpvG_RoDg",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-03 07:00:19",
+      "pub_time": "2026-05-03 06:56:16",
+      "publication": "The Marshall Project",
+      "author": "Katie Moore",
+      "headline": "Immigrants behind bars often find ICE waiting after their prison sentences",
+      "article_headline": "Immigrants behind bars often find ICE waiting after their prison sentences"
+    },
+    {
+      "link": "https://apple.news/Agu73qWtwQOi8ayutCQjK0w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-03 07:00:19",
+      "pub_time": "2026-05-03 06:04:35",
+      "publication": "BuzzFeed",
+      "author": "Jenna Guillaume",
+      "headline": "22 Jaw-Dropping Vintage Photos That Will Make You Wonder How Your Grandparents Actually Survived Childhood",
+      "article_headline": "22 Jaw-Dropping Vintage Photos That Will Make You Wonder How Your Grandparents Actually Survived Childhood"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-03 07:00:19",
+      "pub_time": "2026-05-02 17:05:02",
+      "publication": "",
+      "author": "Alyssa Longobucco",
+      "headline": "Real Estate Experts Agree—This Bathroom Upgrade Adds the Most Value to Your Home",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-03 07:00:19",
+      "pub_time": "2026-05-02 07:05:02",
+      "publication": "",
+      "author": "Beth Raymer",
+      "headline": "My Dad Tapped the Phone Lines When He Suspected My Mom of Cheating. The Actual Tapes Contained a Darker Family Secret.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaO6n8tQUSIyIpZV7wHXvpA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-03 07:00:19",
+      "pub_time": "2026-05-03 05:05:07",
+      "publication": "The Guardian",
+      "author": "Luke Harding",
+      "headline": "‘You’re not one of us, are you?’: How a Ukrainian soldier survived two weeks in a Russian dugout",
+      "article_headline": "‘You’re not one of us, are you?’: How a Ukrainian soldier survived two weeks in a Russian dugout"
+    }
+  ]
+}
