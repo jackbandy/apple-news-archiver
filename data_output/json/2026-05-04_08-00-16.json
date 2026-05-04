@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-05-04 08:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AuWzsplIERcajUaKZYe0dsw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-04 08:00:16",
+      "pub_time": "2026-05-04 07:16:18",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Karen DeYoung",
+      "headline": "Iran threatens retaliation after Trump says U.S. will guide ships in the Strait of Hormuz",
+      "article_headline": "Iran threatens retaliation after Trump says U.S. will guide ships in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/ALKzTmGjNSSCUH967fbKCmQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-04 08:00:16",
+      "pub_time": "",
+      "publication": "The Christian Science Monitor",
+      "author": "",
+      "headline": "Abortions are on the rise in the U.S., and so is the political clash over them",
+      "article_headline": "Abortions are on the rise in the U.S., and so is the political clash over them"
+    },
+    {
+      "link": "https://apple.news/Am2L7ebAPR9-hCEAsWDvtTA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-04 08:00:16",
+      "pub_time": "2026-05-04 07:16:18",
+      "publication": "NBC News",
+      "author": "Aria Bendix",
+      "headline": "AI finds signs of pancreatic cancer before tumors develop",
+      "article_headline": "AI finds signs of pancreatic cancer before tumors develop"
+    },
+    {
+      "link": "https://apple.news/AM4Xj8wWQQmWfqJIwRqCABw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-04 08:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Why almost everyone loses — except a few sharks — on prediction markets",
+      "article_headline": "Why almost everyone loses — except a few sharks — on prediction markets"
+    },
+    {
+      "link": "https://apple.news/Am2L7ebAPR9-hCEAsWDvtTA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-04 08:00:16",
+      "pub_time": "2026-05-04 07:16:19",
+      "publication": "NBC News",
+      "author": "Aria Bendix",
+      "headline": "AI finds signs of pancreatic cancer before tumors develop",
+      "article_headline": "AI finds signs of pancreatic cancer before tumors develop"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 08:00:16",
+      "pub_time": "2026-05-04 07:16:47",
+      "publication": "Los Angeles Times",
+      "author": "Ian James",
+      "headline": "California, Arizona, and Nevada set new water-saving plan for the dwindling Colorado River",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 08:00:16",
+      "pub_time": "2026-05-04 07:16:47",
+      "publication": "National Geographic",
+      "author": "Pierpaolo Mittica and Simon Ostrovsky",
+      "headline": "Inside Chernobyl’s shadow community: what a nuclear disaster looks like 40 years on",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AncbIFSESQGmQwh0XK7hvaw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-04 08:00:16",
+      "pub_time": "2026-05-04 06:03:22",
+      "publication": "E! News",
+      "author": "Kisha Forde",
+      "headline": "Cameron Diaz and Benji Madden Welcome Baby No. 3",
+      "article_headline": "Cameron Diaz and Benji Madden Welcome Baby No. 3"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-04 08:00:16",
+      "pub_time": "2026-05-03 08:03:55",
+      "publication": "",
+      "author": "Christa Sgobba",
+      "headline": "4 subtle signs you aren’t eating enough protein",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ac0HgddhFTpKuASVmEbaTkg",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-04 08:00:16",
+      "pub_time": "2026-05-03 14:03:55",
+      "publication": "People",
+      "author": "Meredith Wilshere",
+      "headline": "Influencer Takes Young Boys Grocery Shopping to Teach Them About 'Responsibility,’ but Moms Notice One Issue",
+      "article_headline": "Influencer Takes Young Boys Grocery Shopping to Teach Them About 'Responsibility,’ but Moms Notice One Issue"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-04 08:00:16",
+      "pub_time": "2026-05-04 04:04:23",
+      "publication": "",
+      "author": "Andi Breitowich",
+      "headline": "This Woman Lived to 117. Her Daily Diet May Help Explain Why",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

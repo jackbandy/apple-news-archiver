@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-04 10:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AuWzsplIERcajUaKZYe0dsw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-04 10:00:17",
+      "pub_time": "2026-05-04 09:00:18",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Karen DeYoung",
+      "headline": "Iran threatens retaliation after Trump says U.S. will guide ships in the Strait of Hormuz",
+      "article_headline": "Iran threatens retaliation after Trump says U.S. will guide ships in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AkFejVzXETr-wmUWuehbIlA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-04 10:00:17",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Breaking down the redistricting race following the Supreme Court’s Voting Rights Act ruling",
+      "article_headline": "Breaking down the redistricting race following the Supreme Court’s Voting Rights Act ruling"
+    },
+    {
+      "link": "https://apple.news/ALKzTmGjNSSCUH967fbKCmQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-04 10:00:17",
+      "pub_time": "2026-05-04 09:01:18",
+      "publication": "The Christian Science Monitor",
+      "author": "Linda Feldmann",
+      "headline": "Abortions are on the rise in the U.S., and so is the political clash over them",
+      "article_headline": "Abortions are on the rise in the U.S., and so is the political clash over them"
+    },
+    {
+      "link": "https://apple.news/AQu_fPWNJStG4DNRU3vsQ9A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-04 10:00:17",
+      "pub_time": "2026-05-04 09:01:45",
+      "publication": "The Guardian",
+      "author": "Ashifa Kassam",
+      "headline": "Cruise ship at center of suspected hantavirus outbreak blocked from docking in Cape Verde",
+      "article_headline": "Cruise ship at center of suspected hantavirus outbreak blocked from docking in Cape Verde"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 10:00:17",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The one tax the rich can’t escape",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 10:00:17",
+      "pub_time": "2026-05-04 09:02:19",
+      "publication": "National Geographic",
+      "author": "Pierpaolo Mittica and Simon Ostrovsky",
+      "headline": "Inside Chernobyl’s shadow community: what a nuclear disaster looks like 40 years on",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AIcKrSmqoR3uSRxXcxvhfzg",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-04 10:00:17",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Why Spirit Airlines abruptly shut down",
+      "article_headline": ""
+    }
+  ]
+}

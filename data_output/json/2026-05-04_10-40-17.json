@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-05-04 10:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Aa1PXmkNIR06EUZJczcNK9Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-04 10:40:17",
+      "pub_time": "2026-05-04 10:14:19",
+      "publication": "NBC News",
+      "author": "Yuliya Talmazan and Courtney Kube",
+      "headline": "U.S. denies Iranian claim that it hit American warship in the Strait of Hormuz",
+      "article_headline": "U.S. denies Iranian claim that it hit American warship in the Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AIzZxg72sTXSC8_TwEsp6Ww",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-04 10:40:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Supreme Court restores access to abortion pill mifepristone through telehealth, mail, and pharmacies",
+      "article_headline": "Supreme Court restores access to abortion pill mifepristone through telehealth, mail, and pharmacies"
+    },
+    {
+      "link": "https://apple.news/AkFejVzXETr-wmUWuehbIlA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-04 10:40:17",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Breaking down the redistricting race following the Supreme Court’s Voting Rights Act ruling",
+      "article_headline": "Breaking down the redistricting race following the Supreme Court’s Voting Rights Act ruling"
+    },
+    {
+      "link": "https://apple.news/AQu_fPWNJStG4DNRU3vsQ9A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-04 10:40:17",
+      "pub_time": "2026-05-04 10:13:46",
+      "publication": "The Guardian",
+      "author": "Ashifa Kassam",
+      "headline": "Cruise ship at center of suspected hantavirus outbreak blocked from docking in Cape Verde",
+      "article_headline": "Cruise ship at center of suspected hantavirus outbreak blocked from docking in Cape Verde"
+    },
+    {
+      "link": "https://apple.news/AQu_fPWNJStG4DNRU3vsQ9A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-04 10:40:17",
+      "pub_time": "2026-05-04 10:13:19",
+      "publication": "The Guardian",
+      "author": "Ashifa Kassam",
+      "headline": "Cruise ship at center of suspected hantavirus outbreak blocked from docking in Cape Verde",
+      "article_headline": "Cruise ship at center of suspected hantavirus outbreak blocked from docking in Cape Verde"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 10:40:17",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The one tax the rich can’t escape",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 10:40:17",
+      "pub_time": "2026-05-04 10:13:47",
+      "publication": "The Wall Street Journal",
+      "author": "Owen Tucker-Smith",
+      "headline": "Airbnb hosts prepped their homes for a World Cup windfall. They’re still waiting.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AFaUEe-biTJeQjjNp_V7vmQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-04 10:40:17",
+      "pub_time": "2026-05-04 04:43:28",
+      "publication": "BuzzFeed",
+      "author": "Emily Laurence Sardinha",
+      "headline": "Dentists Are Begging You To Cut Back On This Snack That's Basically Turning Your Teeth Into Swiss Cheese",
+      "article_headline": "Dentists Are Begging You To Cut Back On This Snack That's Basically Turning Your Teeth Into Swiss Cheese"
+    },
+    {
+      "link": "https://apple.news/ANlgXyZ-tTbazhvQNgmjkqA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-04 10:40:17",
+      "pub_time": "2026-05-04 07:43:56",
+      "publication": "HuffPost",
+      "author": "Emily Laurence Sardinha",
+      "headline": "These 2 Wildly Popular Beverages Are The Worst Offenders When It Comes To Osteoporosis",
+      "article_headline": "These 2 Wildly Popular Beverages Are The Worst Offenders When It Comes To Osteoporosis"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-04 10:40:17",
+      "pub_time": "2026-05-04 04:44:23",
+      "publication": "",
+      "author": "Laura Wheatman Hill",
+      "headline": "Bobby Flay's Go-To Breakfast for Gut Health Has Just 3 Ingredients",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-04 10:40:17",
+      "pub_time": "2026-05-04 04:44:30",
+      "publication": "",
+      "author": "Andi Breitowich",
+      "headline": "This Woman Lived to 117. Her Daily Diet May Help Explain Why",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

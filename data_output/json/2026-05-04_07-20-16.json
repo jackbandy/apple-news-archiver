@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-04 07:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AuWzsplIERcajUaKZYe0dsw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-04 07:20:16",
+      "pub_time": "2026-05-04 07:16:18",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Karen DeYoung",
+      "headline": "Iran threatens retaliation after Trump says U.S. will guide ships in the Strait of Hormuz",
+      "article_headline": "Iran threatens retaliation after Trump says U.S. will guide ships in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/ALKzTmGjNSSCUH967fbKCmQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-04 07:20:16",
+      "pub_time": "",
+      "publication": "The Christian Science Monitor",
+      "author": "",
+      "headline": "Abortions are on the rise in the U.S., and so is the political clash over them",
+      "article_headline": "Abortions are on the rise in the U.S., and so is the political clash over them"
+    },
+    {
+      "link": "https://apple.news/Am2L7ebAPR9-hCEAsWDvtTA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-04 07:20:16",
+      "pub_time": "2026-05-04 07:16:18",
+      "publication": "NBC News",
+      "author": "Aria Bendix",
+      "headline": "AI finds signs of pancreatic cancer before tumors develop",
+      "article_headline": "AI finds signs of pancreatic cancer before tumors develop"
+    },
+    {
+      "link": "https://apple.news/AM4Xj8wWQQmWfqJIwRqCABw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-04 07:20:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Why almost everyone loses — except a few sharks — on prediction markets",
+      "article_headline": "Why almost everyone loses — except a few sharks — on prediction markets"
+    },
+    {
+      "link": "https://apple.news/Am2L7ebAPR9-hCEAsWDvtTA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-04 07:20:16",
+      "pub_time": "2026-05-04 07:16:19",
+      "publication": "NBC News",
+      "author": "Aria Bendix",
+      "headline": "AI finds signs of pancreatic cancer before tumors develop",
+      "article_headline": "AI finds signs of pancreatic cancer before tumors develop"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 07:20:16",
+      "pub_time": "2026-05-04 07:16:46",
+      "publication": "Los Angeles Times",
+      "author": "Ian James",
+      "headline": "California, Arizona, and Nevada set new water-saving plan for the dwindling Colorado River",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 07:20:16",
+      "pub_time": "2026-05-04 07:16:46",
+      "publication": "National Geographic",
+      "author": "Pierpaolo Mittica and Simon Ostrovsky",
+      "headline": "Inside Chernobyl’s shadow community: what a nuclear disaster looks like 40 years on",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AFaUEe-biTJeQjjNp_V7vmQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-04 07:20:16",
+      "pub_time": "2026-05-04 04:23:28",
+      "publication": "BuzzFeed",
+      "author": "Emily Laurence Sardinha",
+      "headline": "Dentists Are Begging You To Cut Back On This Snack That's Basically Turning Your Teeth Into Swiss Cheese",
+      "article_headline": "Dentists Are Begging You To Cut Back On This Snack That's Basically Turning Your Teeth Into Swiss Cheese"
+    },
+    {
+      "link": "https://apple.news/AxZV0p6NMT9WamrE86uUhVA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-04 07:20:16",
+      "pub_time": "2026-05-03 09:23:56",
+      "publication": "TheStreet",
+      "author": "Hillary Remy and Celine Provini",
+      "headline": "Warren Buffett has blunt message on stock market for 2026",
+      "article_headline": "Warren Buffett has blunt message on stock market for 2026"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-04 07:20:16",
+      "pub_time": "2026-05-03 07:24:22",
+      "publication": "",
+      "author": "Christa Sgobba",
+      "headline": "4 subtle signs you aren’t eating enough protein",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ac0HgddhFTpKuASVmEbaTkg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-04 07:20:16",
+      "pub_time": "2026-05-03 14:24:29",
+      "publication": "People",
+      "author": "Meredith Wilshere",
+      "headline": "Influencer Takes Young Boys Grocery Shopping to Teach Them About 'Responsibility,’ but Moms Notice One Issue",
+      "article_headline": "Influencer Takes Young Boys Grocery Shopping to Teach Them About 'Responsibility,’ but Moms Notice One Issue"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-04 06:40:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Aa1PXmkNIR06EUZJczcNK9Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-04 06:40:16",
+      "pub_time": "2026-05-04 06:34:18",
+      "publication": "NBC News",
+      "author": "Yuliya Talmazan",
+      "headline": "Iran threatens U.S. forces in Strait of Hormuz after Trump launches mission to guide ships",
+      "article_headline": "Iran threatens U.S. forces in Strait of Hormuz after Trump launches mission to guide ships"
+    },
+    {
+      "link": "https://apple.news/ALKzTmGjNSSCUH967fbKCmQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-04 06:40:16",
+      "pub_time": "",
+      "publication": "The Christian Science Monitor",
+      "author": "",
+      "headline": "Abortions are on the rise in the U.S., and so is the political clash over them",
+      "article_headline": "Abortions are on the rise in the U.S., and so is the political clash over them"
+    },
+    {
+      "link": "https://apple.news/Am2L7ebAPR9-hCEAsWDvtTA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-04 06:40:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "AI finds signs of pancreatic cancer before tumors develop",
+      "article_headline": "AI finds signs of pancreatic cancer before tumors develop"
+    },
+    {
+      "link": "https://apple.news/AM4Xj8wWQQmWfqJIwRqCABw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-04 06:40:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Why almost everyone loses — except a few sharks — on prediction markets",
+      "article_headline": "Why almost everyone loses — except a few sharks — on prediction markets"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 06:40:16",
+      "pub_time": "2026-05-04 06:34:19",
+      "publication": "Los Angeles Times",
+      "author": "Ian James",
+      "headline": "California, Arizona, and Nevada set new water-saving plan for the dwindling Colorado River",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 06:40:16",
+      "pub_time": "2026-05-04 06:34:19",
+      "publication": "National Geographic",
+      "author": "Pierpaolo Mittica and Simon Ostrovsky",
+      "headline": "Inside Chernobyl’s shadow community: what a nuclear disaster looks like 40 years on",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AIcKrSmqoR3uSRxXcxvhfzg",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-04 06:40:16",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Why Spirit Airlines abruptly shut down",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AxZV0p6NMT9WamrE86uUhVA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-04 06:40:16",
+      "pub_time": "2026-05-03 08:43:21",
+      "publication": "TheStreet",
+      "author": "Hillary Remy and Celine Provini",
+      "headline": "Warren Buffett has blunt message on stock market for 2026",
+      "article_headline": "Warren Buffett has blunt message on stock market for 2026"
+    },
+    {
+      "link": "https://apple.news/ASLPNwz9GTWS_a0-P6taDdg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-04 06:40:16",
+      "pub_time": "2026-05-04 00:43:54",
+      "publication": "BuzzFeed",
+      "author": "Jillian Wilson",
+      "headline": "If Your Socks Leave Marks On Your Ankles, This Is What It Means And When You Should Actually Start Worrying",
+      "article_headline": "If Your Socks Leave Marks On Your Ankles, This Is What It Means And When You Should Actually Start Worrying"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-04 06:40:16",
+      "pub_time": "2026-05-03 06:44:21",
+      "publication": "",
+      "author": "Christa Sgobba",
+      "headline": "4 subtle signs you aren’t eating enough protein",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ac0HgddhFTpKuASVmEbaTkg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-04 06:40:16",
+      "pub_time": "2026-05-03 14:44:21",
+      "publication": "People",
+      "author": "Meredith Wilshere",
+      "headline": "Influencer Takes Young Boys Grocery Shopping to Teach Them About 'Responsibility,’ but Moms Notice One Issue",
+      "article_headline": "Influencer Takes Young Boys Grocery Shopping to Teach Them About 'Responsibility,’ but Moms Notice One Issue"
+    }
+  ]
+}

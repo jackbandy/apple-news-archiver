@@ -1,0 +1,120 @@
+{
+  "run_time": "2026-05-04 11:20:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AeEf7jMqQQDSHsKI94_ewWQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-04 11:20:17",
+      "pub_time": "2026-05-04 10:58:19",
+      "publication": "The Wall Street Journal",
+      "author": "Costas Paris, Lara Seligman, Rebecca Feng, and Shelby Holliday",
+      "headline": "Fighting flares up in Iran war as UAE and ships are attacked",
+      "article_headline": "Fighting flares up in Iran war as UAE and ships are attacked"
+    },
+    {
+      "link": "https://apple.news/AIzZxg72sTXSC8_TwEsp6Ww",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-04 11:20:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Supreme Court restores access to abortion pill mifepristone through telehealth, mail, and pharmacies",
+      "article_headline": "Supreme Court restores access to abortion pill mifepristone through telehealth, mail, and pharmacies"
+    },
+    {
+      "link": "https://apple.news/Art8xJ1uKSKmXJS4k-7L57A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-04 11:20:17",
+      "pub_time": "2026-05-04 10:58:18",
+      "publication": "NPR",
+      "author": "Huo Jingnan",
+      "headline": "How algorithms wreaked havoc with these workers’ schedules and cut their pay",
+      "article_headline": "How algorithms wreaked havoc with these workers’ schedules and cut their pay"
+    },
+    {
+      "link": "https://apple.news/AQu_fPWNJStG4DNRU3vsQ9A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-04 11:20:17",
+      "pub_time": "2026-05-04 10:58:45",
+      "publication": "The Guardian",
+      "author": "Ashifa Kassam",
+      "headline": "Cruise ship at center of suspected hantavirus outbreak blocked from docking in Cape Verde",
+      "article_headline": "Cruise ship at center of suspected hantavirus outbreak blocked from docking in Cape Verde"
+    },
+    {
+      "link": "https://apple.news/Art8xJ1uKSKmXJS4k-7L57A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-04 11:20:17",
+      "pub_time": "2026-05-04 10:58:18",
+      "publication": "NPR",
+      "author": "Huo Jingnan",
+      "headline": "How algorithms wreaked havoc with these workers’ schedules and cut their pay",
+      "article_headline": "How algorithms wreaked havoc with these workers’ schedules and cut their pay"
+    },
+    {
+      "link": "https://apple.news/AQu_fPWNJStG4DNRU3vsQ9A",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-04 11:20:17",
+      "pub_time": "2026-05-04 10:58:45",
+      "publication": "The Guardian",
+      "author": "Ashifa Kassam",
+      "headline": "Cruise ship at center of suspected hantavirus outbreak blocked from docking in Cape Verde",
+      "article_headline": "Cruise ship at center of suspected hantavirus outbreak blocked from docking in Cape Verde"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 11:20:17",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The one tax the rich can’t escape",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-05-04 11:20:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The surprising ways cannabis can affect the aging brain, Sarah Klein",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-05-04 11:20:17",
+      "pub_time": "",
+      "publication": "Men’s Health",
+      "author": "",
+      "headline": "Warning signs of prostate trouble — and what can help, Kevin Dupzyk",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-05-04 11:20:17",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "This might be the biggest breakthrough in pancreatic cancer in decades, Helen Bradshaw",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

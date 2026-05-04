@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-05-04 07:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 07:00:16",
+      "pub_time": "2026-05-04 06:55:18",
+      "publication": "Apple News Plus",
+      "author": "Dan Diamond and Karen DeYoung",
+      "headline": "The Washington Post, Iran threatens retaliation after Trump says U.S. will guide ships in the Strait of Hormuz",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ALKzTmGjNSSCUH967fbKCmQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-04 07:00:16",
+      "pub_time": "",
+      "publication": "The Christian Science Monitor",
+      "author": "",
+      "headline": "Abortions are on the rise in the U.S., and so is the political clash over them",
+      "article_headline": "Abortions are on the rise in the U.S., and so is the political clash over them"
+    },
+    {
+      "link": "https://apple.news/Am2L7ebAPR9-hCEAsWDvtTA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-04 07:00:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "AI finds signs of pancreatic cancer before tumors develop",
+      "article_headline": "AI finds signs of pancreatic cancer before tumors develop"
+    },
+    {
+      "link": "https://apple.news/AM4Xj8wWQQmWfqJIwRqCABw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-04 07:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Why almost everyone loses — except a few sharks — on prediction markets",
+      "article_headline": "Why almost everyone loses — except a few sharks — on prediction markets"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 07:00:16",
+      "pub_time": "2026-05-04 06:54:50",
+      "publication": "Los Angeles Times",
+      "author": "Ian James",
+      "headline": "California, Arizona, and Nevada set new water-saving plan for the dwindling Colorado River",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 07:00:16",
+      "pub_time": "2026-05-04 06:54:50",
+      "publication": "National Geographic",
+      "author": "Pierpaolo Mittica and Simon Ostrovsky",
+      "headline": "Inside Chernobyl’s shadow community: what a nuclear disaster looks like 40 years on",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AIcKrSmqoR3uSRxXcxvhfzg",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-04 07:00:16",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Why Spirit Airlines abruptly shut down",
+      "article_headline": ""
+    }
+  ]
+}
