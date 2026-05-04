@@ -1,0 +1,39 @@
+{
+  "run_time": "2026-05-04 14:00:17",
+  "story_count": 3,
+  "stories": [
+    {
+      "link": "https://apple.news/ACakChqg9RxqIiyJ6bKF02w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-04 14:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Attacks strike UAE, ships as fighting escalates in Mideast, LIVE",
+      "article_headline": "Attacks Strike U.A.E., Ships as Fighting Escalates in Mideast"
+    },
+    {
+      "link": "https://apple.news/AdxXqHq_hRV-Z7SefEWR3fA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-04 14:00:17",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Supreme Court temporarily restores access to abortion pill",
+      "article_headline": "Supreme Court temporarily restores access to abortion pill"
+    },
+    {
+      "link": "https://apple.news/ABHtH2rTYQw21UKqasnRygQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-04 14:00:17",
+      "pub_time": "2026-05-04 13:50:19",
+      "publication": "The Washington Post",
+      "author": "Natalia Abbakumova and Catherine Belton",
+      "headline": "Poisonous black rain falls in Russia as Ukraine strikes oil facilities",
+      "article_headline": "Poisonous black rain falls in Russia as Ukraine strikes oil facilities"
+    }
+  ]
+}
