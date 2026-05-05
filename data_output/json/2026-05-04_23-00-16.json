@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-05-04 23:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AeEf7jMqQQDSHsKI94_ewWQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-04 23:00:16",
+      "pub_time": "2026-05-04 22:37:18",
+      "publication": "The Wall Street Journal",
+      "author": "Costas Paris, Jared Malsin, and Lara Seligman",
+      "headline": "Iran war takes a dangerous turn as fighting erupts in Hormuz",
+      "article_headline": "Iran War Takes a Dangerous Turn as Fighting Erupts in Hormuz"
+    },
+    {
+      "link": "https://apple.news/AveFwDVCcTH2ZmzjrzYrn-w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-04 23:00:16",
+      "pub_time": "2026-05-04 22:37:45",
+      "publication": "Reuters",
+      "author": "John Kruzel",
+      "headline": "Supreme Court lets Voting Rights Act ruling take effect ahead of schedule",
+      "article_headline": "Supreme Court lets Voting Rights Act ruling take effect ahead of schedule"
+    },
+    {
+      "link": "https://apple.news/AveFwDVCcTH2ZmzjrzYrn-w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-04 23:00:16",
+      "pub_time": "2026-05-04 22:37:17",
+      "publication": "Reuters",
+      "author": "John Kruzel",
+      "headline": "Supreme Court lets Voting Rights Act ruling take effect ahead of schedule",
+      "article_headline": "Supreme Court lets Voting Rights Act ruling take effect ahead of schedule"
+    },
+    {
+      "link": "https://apple.news/AbiD7AJJ2QpiBypsHKkJQQw?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RZOWtyS0FsdFNGbXViQVY1aFdPWHl3I25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-04 23:00:16",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "2026 Met Gala, Every dazzling look from the Met Gala red carpet, Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 23:00:16",
+      "pub_time": "2026-05-04 22:38:11",
+      "publication": "The Washington Post",
+      "author": "Sammy Westfall and Kendra Nichols",
+      "headline": "What to know about hantavirus after 3 died in suspected cruise ship outbreak",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 23:00:16",
+      "pub_time": "2026-05-04 22:37:16",
+      "publication": "The Washington Post",
+      "author": "Sammy Westfall and Kendra Nichols",
+      "headline": "What to know about hantavirus after 3 died in suspected cruise ship outbreak",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Afiz4O62LTPqbG8MAcmObAQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-04 23:00:16",
+      "pub_time": "2026-05-04 22:37:16",
+      "publication": "The Athletic",
+      "author": "James L. Edwards III, Tony Jones, Fred Katz, and Mike Vorkunov and Darnell Mayberry",
+      "headline": "Knicks notch new franchise record in blowout win over 76ers",
+      "article_headline": "Jalen Brunson, Knicks strike first (and often) against 76ers: Game 1 takeaways"
+    },
+    {
+      "link": "https://apple.news/Aof11T-f9Q_CI04h9GPLLfg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-04 23:00:16",
+      "pub_time": "2026-05-04 13:03:28",
+      "publication": "BuzzFeed",
+      "author": "Haein Jung",
+      "headline": "17 Things That Slowly Disappeared From Daily Life, And I'm Sitting Here Wondering What The Heck Happened",
+      "article_headline": "17 Things That Slowly Disappeared From Daily Life, And I'm Sitting Here Wondering What The Heck Happened"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-04 23:00:16",
+      "pub_time": "2026-05-04 12:03:56",
+      "publication": "",
+      "author": "Christa Sgobba",
+      "headline": "4 subtle signs you aren’t eating enough protein",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A41aFw_pARtSs1MNdFZrkcg",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-04 23:00:16",
+      "pub_time": "2026-05-04 15:04:02",
+      "publication": "Southern Living",
+      "author": "Cameron Beall",
+      "headline": "This Is The Home Size Empty Nesters Say Feels Just Right",
+      "article_headline": "This Is The Home Size Empty Nesters Say Feels Just Right"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-04 23:00:16",
+      "pub_time": "2026-05-04 19:04:29",
+      "publication": "",
+      "author": "Christian Allaire",
+      "headline": "Anne Hathaway’s Hand-Painted 2026 Met Gala Dress Was Inspired by a Poem",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "run_time": "2026-05-05 00:00:15",
+  "story_count": 4,
+  "stories": [
+    {
+      "link": "https://apple.news/AeEf7jMqQQDSHsKI94_ewWQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-05 00:00:15",
+      "pub_time": "2026-05-04 23:00:17",
+      "publication": "The Wall Street Journal",
+      "author": "Costas Paris, Jared Malsin, and Lara Seligman",
+      "headline": "Iran war takes a dangerous turn as fighting erupts in Hormuz",
+      "article_headline": "Iran War Takes a Dangerous Turn as Fighting Erupts in Hormuz"
+    },
+    {
+      "link": "https://apple.news/AveFwDVCcTH2ZmzjrzYrn-w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-05 00:00:15",
+      "pub_time": "2026-05-04 23:00:44",
+      "publication": "Reuters",
+      "author": "John Kruzel",
+      "headline": "Supreme Court lets Voting Rights Act ruling take effect ahead of schedule",
+      "article_headline": "Supreme Court lets Voting Rights Act ruling take effect ahead of schedule"
+    },
+    {
+      "link": "https://apple.news/AbiD7AJJ2QpiBypsHKkJQQw?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RZOWtyS0FsdFNGbXViQVY1aFdPWHl3I25mZl9paWQ%3D",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-05 00:00:15",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "2026 Met Gala, Every dazzling look from the Met Gala red carpet, Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 00:00:15",
+      "pub_time": "2026-05-04 23:01:42",
+      "publication": "The Washington Post",
+      "author": "Sammy Westfall and Kendra Nichols",
+      "headline": "What to know about hantavirus after 3 died in suspected cruise ship outbreak",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

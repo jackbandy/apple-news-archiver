@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-04 21:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AeEf7jMqQQDSHsKI94_ewWQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-04 21:20:17",
+      "pub_time": "2026-05-04 21:00:18",
+      "publication": "The Wall Street Journal",
+      "author": "Costas Paris, Jared Malsin, and Lara Seligman",
+      "headline": "Iran war takes a dangerous turn as fighting erupts in Hormuz",
+      "article_headline": "Iran War Takes a Dangerous Turn as Fighting Erupts in Hormuz"
+    },
+    {
+      "link": "https://apple.news/AveFwDVCcTH2ZmzjrzYrn-w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-04 21:20:17",
+      "pub_time": "2026-05-04 21:00:45",
+      "publication": "Reuters",
+      "author": "John Kruzel",
+      "headline": "Supreme Court lets Voting Rights Act ruling take effect ahead of schedule",
+      "article_headline": "Supreme Court lets Voting Rights Act ruling take effect ahead of schedule"
+    },
+    {
+      "link": "https://apple.news/AveFwDVCcTH2ZmzjrzYrn-w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-04 21:20:17",
+      "pub_time": "2026-05-04 21:00:18",
+      "publication": "Reuters",
+      "author": "John Kruzel",
+      "headline": "Supreme Court lets Voting Rights Act ruling take effect ahead of schedule",
+      "article_headline": "Supreme Court lets Voting Rights Act ruling take effect ahead of schedule"
+    },
+    {
+      "link": "https://apple.news/AbiD7AJJ2QpiBypsHKkJQQw?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RZOWtyS0FsdFNGbXViQVY1aFdPWHl3I25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-04 21:20:17",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "2026 Met Gala, Every dazzling look from the Met Gala red carpet, Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ATI_uEp7FSniDW2uuwBwZPQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-04 21:20:17",
+      "pub_time": "2026-05-04 21:01:11",
+      "publication": "NBC News",
+      "author": "Raquel Coronell Uribe, Monica Alba, and Lizzie Jensen",
+      "headline": "Secret Service says agent shot a man near the White House who allegedly fired toward officers",
+      "article_headline": "Secret Service says agent shot a man near the White House who allegedly fired toward officers"
+    },
+    {
+      "link": "https://apple.news/ATI_uEp7FSniDW2uuwBwZPQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-04 21:20:17",
+      "pub_time": "2026-05-04 21:00:44",
+      "publication": "NBC News",
+      "author": "Raquel Coronell Uribe, Monica Alba, and Lizzie Jensen",
+      "headline": "Secret Service says agent shot a man near the White House who allegedly fired toward officers",
+      "article_headline": "Secret Service says agent shot a man near the White House who allegedly fired toward officers"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 21:20:17",
+      "pub_time": "2026-05-04 21:01:12",
+      "publication": "The Washington Post",
+      "author": "Sammy Westfall and Kendra Nichols",
+      "headline": "What to know about hantavirus after 3 died in suspected cruise ship outbreak",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
