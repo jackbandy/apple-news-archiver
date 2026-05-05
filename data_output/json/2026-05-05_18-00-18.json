@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-05 18:00:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A0fIB_avwTAKhN-KB665Y3Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-05 18:00:18",
+      "pub_time": "2026-05-05 17:00:20",
+      "publication": "Bloomberg",
+      "author": "Eric Martin, Josh Wingrove, and Eltaf Najafizada",
+      "headline": "U.S. says offensive phase of Iran war over as cargo ship hit in Strait of Hormuz",
+      "article_headline": "US Says Offensive Phase of Iran War Over as Ship Hit in Strait"
+    },
+    {
+      "link": "https://apple.news/A4O5uxsh0S6yFb3dJ7S5Lkw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-05 18:00:18",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Senate Republicans seek $1 billion for Secret Service upgrades, including Trump’s ballroom",
+      "article_headline": "Senate Republicans seek $1 billion for Secret Service upgrades, including Trump’s ballroom"
+    },
+    {
+      "link": "https://apple.news/A6qRfiS7HRwyayDjBM_a8eQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-05 18:00:18",
+      "pub_time": "2026-05-05 17:01:20",
+      "publication": "The Washington Post",
+      "author": "Gerrit De Vynck",
+      "headline": "Federal officials will test Google and Microsoft AI models before release",
+      "article_headline": "Federal officials will test Google and Microsoft AI models before release"
+    },
+    {
+      "link": "https://apple.news/AlPZ3fVexQEaclP1ATk5MRw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-05 18:00:18",
+      "pub_time": "2026-05-05 17:01:48",
+      "publication": "POLITICO",
+      "author": "Kyle Cheney",
+      "headline": "Appeals court split on ICE’s mandatory-detention policy",
+      "article_headline": "Appeals court split on ICE’s mandatory-detention policy"
+    },
+    {
+      "link": "https://apple.news/AnDtMX8udQni9UEEjEwa5GQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-05 18:00:18",
+      "pub_time": "2026-05-05 17:02:22",
+      "publication": "The Hollywood Reporter",
+      "author": "Caitlin Huston and Hilary Lewis",
+      "headline": "Snubs and surprises from this year’s Tony nominations",
+      "article_headline": "Snubs and surprises from this year’s Tony nominations"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 18:00:18",
+      "pub_time": "2026-05-05 17:02:49",
+      "publication": "The Wall Street Journal",
+      "author": "Betsy McKay",
+      "headline": "A breakthrough heart procedure comes with risky trade-offs",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_aq1o55vRV-3WcYyuOzBQA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-05 18:00:18",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Cook County tax official Samantha Steele cleared of drunken-driving charge",
+      "article_headline": "Cook County tax official Samantha Steele cleared of drunken-driving charge"
+    }
+  ]
+}

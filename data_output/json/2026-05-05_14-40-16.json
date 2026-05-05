@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-05 14:40:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ASfwPatGfTryOxkoPAA_oPA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-05 14:40:16",
+      "pub_time": "2026-05-05 14:32:18",
+      "publication": "Reuters",
+      "author": "Idrees Ali, Phil Stewart, and Yomna Ehab",
+      "headline": "U.S. says Iran ceasefire holds despite exchange of fire and attacks on UAE",
+      "article_headline": "US says Iran ceasefire holds despite exchange of fire; UAE under attack"
+    },
+    {
+      "link": "https://apple.news/AaPDPKRZATJCBawfBnDUNKw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-05 14:40:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "GOP offers $1 billion for White House security, sparking dispute over ballroom",
+      "article_headline": "GOP offers $1 billion for White House security, sparking dispute over ballroom"
+    },
+    {
+      "link": "https://apple.news/ANaqNeNeDSRSkvq_11cFZjQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RNMk5BclBsOFN4YWFRTktQTGNvZXZRI25mZl9paWQ%3D",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-05 14:40:16",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Health, Inside the cruise ship at the center of a rare hantavirus outbreak, Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A__vVoWaCQgSJO43UoyGwNw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-05 14:40:16",
+      "pub_time": "2026-05-05 14:32:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Spirit Airlines has stopped flying. Here’s what happens next.",
+      "article_headline": "Spirit Airlines has stopped flying. Here’s what happens next."
+    },
+    {
+      "link": "https://apple.news/A__vVoWaCQgSJO43UoyGwNw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-05 14:40:16",
+      "pub_time": "2026-05-05 14:32:17",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Spirit Airlines has stopped flying. Here’s what happens next.",
+      "article_headline": "Spirit Airlines has stopped flying. Here’s what happens next."
+    },
+    {
+      "link": "https://apple.news/AnDtMX8udQni9UEEjEwa5GQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-05 14:40:16",
+      "pub_time": "2026-05-05 14:32:44",
+      "publication": "The Hollywood Reporter",
+      "author": "Caitlin Huston and Hilary Lewis",
+      "headline": "Snubs and surprises from this year’s Tony nominations",
+      "article_headline": "Snubs and surprises from this year’s Tony nominations"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 14:40:16",
+      "pub_time": "2026-05-05 14:33:11",
+      "publication": "The Wall Street Journal",
+      "author": "Betsy McKay",
+      "headline": "A breakthrough heart procedure comes with risky tradeoffs",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AuNyjMvjoQ9m-nAVJgGjBXA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-05 14:40:16",
+      "pub_time": "2026-05-05 12:43:48",
+      "publication": "HuffPost",
+      "author": "Ash Jurberg",
+      "headline": "Older Men Reveal The Things They've Completely Stopped Caring About — And They Have Zero Regrets",
+      "article_headline": "Older Men Reveal The Things They've Completely Stopped Caring About — And They Have Zero Regrets"
+    },
+    {
+      "link": "https://apple.news/Az66AhQpcQ8qhoMoA9mbPQw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-05 14:40:16",
+      "pub_time": "2026-05-05 13:44:21",
+      "publication": "BuzzFeed",
+      "author": "Megan Liscomb",
+      "headline": "People Are In Awe Of This 72-Year-Old Amazon Worker's Bravery After She Called Out Jeff Bezos In A Truly Jaw-Dropping Way",
+      "article_headline": "People Are In Awe Of This 72-Year-Old Amazon Worker's Bravery After She Called Out Jeff Bezos In A Truly Jaw-Dropping Way"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-05 14:40:16",
+      "pub_time": "2026-05-05 07:44:49",
+      "publication": "",
+      "author": "Rachel Burchfield",
+      "headline": "Bradley Cooper Joins Gigi Hadid for Surprise Met Gala Appearance After Her Rare Comments About Him",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-05 14:40:16",
+      "pub_time": "2026-05-04 14:44:49",
+      "publication": "",
+      "author": "Heide Brandes",
+      "headline": "Cutting This One Food Could Drastically Reduce Your Cancer Risk, Mainly in the Colon",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

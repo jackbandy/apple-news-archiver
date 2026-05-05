@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-05 14:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ASfwPatGfTryOxkoPAA_oPA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-05 14:20:16",
+      "pub_time": "2026-05-05 14:11:18",
+      "publication": "Reuters",
+      "author": "Idrees Ali, Phil Stewart, and Yomna Ehab",
+      "headline": "U.S. says Iran ceasefire holds despite exchange of fire and attacks on UAE",
+      "article_headline": "US says Iran ceasefire holds despite exchange of fire; UAE under attack"
+    },
+    {
+      "link": "https://apple.news/AaPDPKRZATJCBawfBnDUNKw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-05 14:20:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "GOP offers $1 billion for White House security, sparking dispute over ballroom",
+      "article_headline": "GOP offers $1 billion for White House security, sparking dispute over ballroom"
+    },
+    {
+      "link": "https://apple.news/ANaqNeNeDSRSkvq_11cFZjQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RNMk5BclBsOFN4YWFRTktQTGNvZXZRI25mZl9paWQ%3D",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-05 14:20:16",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Health, Inside the cruise ship at the center of a rare hantavirus outbreak, Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 14:20:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Why the collapse of Spirit Airlines means higher fares for everyone",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AnDtMX8udQni9UEEjEwa5GQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-05 14:20:16",
+      "pub_time": "2026-05-05 14:11:49",
+      "publication": "The Hollywood Reporter",
+      "author": "Caitlin Huston and Hilary Lewis",
+      "headline": "Snubs and surprises from this year’s Tony nominations",
+      "article_headline": "Snubs and surprises from this year’s Tony nominations"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 14:20:16",
+      "pub_time": "2026-05-05 14:12:16",
+      "publication": "The New Yorker",
+      "author": "Jay Caspian Kang",
+      "headline": "Will AI make college obsolete?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AnDtMX8udQni9UEEjEwa5GQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-05 14:20:16",
+      "pub_time": "2026-05-05 14:11:22",
+      "publication": "The Hollywood Reporter",
+      "author": "Caitlin Huston and Hilary Lewis",
+      "headline": "Snubs and surprises from this year’s Tony nominations",
+      "article_headline": "Snubs and surprises from this year’s Tony nominations"
+    }
+  ]
+}

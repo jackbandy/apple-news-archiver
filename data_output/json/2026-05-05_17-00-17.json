@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-05-05 17:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A0fIB_avwTAKhN-KB665Y3Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-05 17:00:17",
+      "pub_time": "2026-05-05 16:42:18",
+      "publication": "Bloomberg",
+      "author": "Eric Martin, Josh Wingrove, and Eltaf Najafizada",
+      "headline": "U.S. says offensive phase of Iran war over as cargo ship hit in Strait of Hormuz",
+      "article_headline": "US Says Offensive Phase of Iran War Over as Ship Hit in Strait"
+    },
+    {
+      "link": "https://apple.news/A4O5uxsh0S6yFb3dJ7S5Lkw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-05 17:00:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Senate Republicans seek $1 billion for Secret Service upgrades, including Trump’s ballroom",
+      "article_headline": "Senate Republicans seek $1 billion for Secret Service upgrades, including Trump’s ballroom"
+    },
+    {
+      "link": "https://apple.news/A6qRfiS7HRwyayDjBM_a8eQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-05 17:00:17",
+      "pub_time": "2026-05-05 16:41:18",
+      "publication": "The Washington Post",
+      "author": "Gerrit De Vynck",
+      "headline": "Federal officials will test Google and Microsoft AI models before release",
+      "article_headline": "Federal officials will test Google and Microsoft AI models before release"
+    },
+    {
+      "link": "https://apple.news/AlPZ3fVexQEaclP1ATk5MRw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-05 17:00:17",
+      "pub_time": "2026-05-05 16:41:46",
+      "publication": "POLITICO",
+      "author": "Kyle Cheney",
+      "headline": "Appeals court split on ICE’s mandatory-detention policy",
+      "article_headline": "Appeals court split on ICE’s mandatory-detention policy"
+    },
+    {
+      "link": "https://apple.news/A6qRfiS7HRwyayDjBM_a8eQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-05 17:00:17",
+      "pub_time": "2026-05-05 16:41:19",
+      "publication": "The Washington Post",
+      "author": "Gerrit De Vynck",
+      "headline": "Federal officials will test Google and Microsoft AI models before release",
+      "article_headline": "Federal officials will test Google and Microsoft AI models before release"
+    },
+    {
+      "link": "https://apple.news/AlPZ3fVexQEaclP1ATk5MRw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-05 17:00:17",
+      "pub_time": "2026-05-05 16:41:47",
+      "publication": "POLITICO",
+      "author": "Kyle Cheney",
+      "headline": "Appeals court split on ICE’s mandatory-detention policy",
+      "article_headline": "Appeals court split on ICE’s mandatory-detention policy"
+    },
+    {
+      "link": "https://apple.news/AnDtMX8udQni9UEEjEwa5GQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-05 17:00:17",
+      "pub_time": "2026-05-05 16:42:15",
+      "publication": "The Hollywood Reporter",
+      "author": "Caitlin Huston and Hilary Lewis",
+      "headline": "Snubs and surprises from this year’s Tony nominations",
+      "article_headline": "Snubs and surprises from this year’s Tony nominations"
+    },
+    {
+      "link": "https://apple.news/AuNyjMvjoQ9m-nAVJgGjBXA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-05 17:00:17",
+      "pub_time": "2026-05-05 12:04:17",
+      "publication": "HuffPost",
+      "author": "Ash Jurberg",
+      "headline": "Older Men Reveal The Things They've Completely Stopped Caring About — And They Have Zero Regrets",
+      "article_headline": "Older Men Reveal The Things They've Completely Stopped Caring About — And They Have Zero Regrets"
+    },
+    {
+      "link": "https://apple.news/AwvwbruRBTSeRvzJ2fCxDyw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-05 17:00:17",
+      "pub_time": "2026-05-05 08:04:45",
+      "publication": "EatingWell",
+      "author": "Christie Rotondo",
+      "headline": "This Common Drink May Be Harming Your Colon, According to Doctors and Dietitians",
+      "article_headline": "This Common Drink May Be Harming Your Colon, According to Doctors and Dietitians"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-05 17:00:17",
+      "pub_time": "2026-05-05 05:05:18",
+      "publication": "",
+      "author": "Rachel Chang",
+      "headline": "This Is the No. 1 Thing Pickpockets Are Targeting Now, According to Rick Steves—and No, It's Not Your Wallet",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AqP92aguXTqGEM3MrZ9suXQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-05 17:00:17",
+      "pub_time": "2026-05-05 11:05:18",
+      "publication": "Apartment Therapy",
+      "author": "Adrienne Breaux",
+      "headline": "She Turned a 450-Square-Foot Studio into a One-Bedroom Using Bookcases",
+      "article_headline": "She Turned a 450-Square-Foot Studio into a One-Bedroom Using Bookcases"
+    }
+  ]
+}
