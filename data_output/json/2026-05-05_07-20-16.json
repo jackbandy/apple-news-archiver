@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-05 07:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AmJ69RIsMQzi7rwDUz53qtw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-05 07:20:16",
+      "pub_time": "2026-05-05 06:20:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. tries to force open the Strait of Hormuz as Iran shoots back, threatening ceasefire",
+      "article_headline": "U.S. tries to force open the Strait of Hormuz as Iran shoots back, threatening ceasefire"
+    },
+    {
+      "link": "https://apple.news/A0k0YegLxRBuMHeWGD4QaHg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-05 07:20:16",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Ohio and Indiana primaries to test Trump’s grip on the GOP",
+      "article_headline": "Ohio and Indiana primaries to test Trump’s grip on the GOP"
+    },
+    {
+      "link": "https://apple.news/AaDHW0ivMQ7KqvCWT5HvEuQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-05 07:20:16",
+      "pub_time": "2026-05-05 06:21:17",
+      "publication": "POLITICO",
+      "author": "Associated Press",
+      "headline": "Alberta separatists say they have enough signatures to trigger referendum on leaving Canada",
+      "article_headline": "Alberta separatists say they have enough signatures to trigger referendum on leaving Canada"
+    },
+    {
+      "link": "https://apple.news/AbiD7AJJ2QpiBypsHKkJQQw?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RZOWtyS0FsdFNGbXViQVY1aFdPWHl3I25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-05 07:20:16",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "2026 Met Gala, Beyoncé in a bejeweled-skeleton gown and one weird trend: the Met Gala’s biggest moments, Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AxMyJoBFgSVeA9FaRc47HHw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-05 07:20:16",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "World Cup hotel bookings are running far below projections",
+      "article_headline": "World Cup hotel bookings are running far below projections"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 07:20:16",
+      "pub_time": "2026-05-05 06:22:43",
+      "publication": "The Wall Street Journal",
+      "author": "Deborah Acosta",
+      "headline": "Florida’s billionaires want more private schools. So they’re building their own.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AhYP4u8O6So-v9N8bIgMMnw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-05 07:20:16",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Fresh attacks in the Gulf threaten the fragile truce with Iran",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AMmbY4hTjSV-fkGJeMXrhSQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-05 07:20:16",
+      "pub_time": "2026-05-04 15:23:45",
+      "publication": "EatingWell",
+      "author": "Heide Brandes",
+      "headline": "Cutting This One Food Could Drastically Reduce Your Cancer Risk, Mainly in the Colon",
+      "article_headline": "Cutting This One Food Could Drastically Reduce Your Cancer Risk, Mainly in the Colon"
+    },
+    {
+      "link": "https://apple.news/A41aFw_pARtSs1MNdFZrkcg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-05 07:20:16",
+      "pub_time": "2026-05-04 15:24:18",
+      "publication": "Southern Living",
+      "author": "Cameron Beall",
+      "headline": "This Is The Home Size Empty Nesters Say Feels Just Right",
+      "article_headline": "This Is The Home Size Empty Nesters Say Feels Just Right"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-05 07:20:16",
+      "pub_time": "2026-05-04 11:24:45",
+      "publication": "",
+      "author": "Meryl Davids Landau",
+      "headline": "These surprising early symptoms may be linked to Alzheimer's",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-05 07:20:16",
+      "pub_time": "2026-05-04 20:24:45",
+      "publication": "",
+      "author": "Christian Allaire",
+      "headline": "The Best Dressed Stars at the 2026 Met Gala Embraced the Theme “Costume Art”",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
