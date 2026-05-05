@@ -21,7 +21,7 @@ import urllib.request
 import urllib.error
 from html.parser import HTMLParser
 
-CSV_PATH = 'data_output/stories.csv'
+CSV_PATH = 'docs/data/stories.csv'
 RATE_LIMIT_SECS = 0.5
 
 

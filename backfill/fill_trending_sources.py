@@ -16,8 +16,8 @@ from pathlib import Path
 
 import requests
 
-STORIES_CSV = Path('data_output/stories.csv')
-BANDAID_JSON = Path('data_output/trending_sources_bandaid.json')
+STORIES_CSV = Path('docs/data/stories.csv')
+BANDAID_JSON = Path('docs/data/trending_sources_bandaid.json')
 
 HEADERS = {
     'User-Agent': 'Twitterbot/1.0'

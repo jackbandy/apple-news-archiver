@@ -48,7 +48,7 @@ import subprocess
 from urllib.parse import urlparse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-CSV_PATH = os.path.join(HERE, '..', 'data_output', 'stories.csv')
+CSV_PATH = os.path.join(HERE, '..', 'docs', 'data', 'stories.csv')
 BACKUP_PATH = CSV_PATH + '.verify_bak'
 LOCK_PATH = '/tmp/apple_news_scraper.lock'  # shared with get_stories.py
 PENDING_PATH = '/tmp/get_stories_pending'  # written by get_stories.py when it wants to run

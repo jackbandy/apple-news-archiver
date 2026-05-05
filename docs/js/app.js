@@ -122,8 +122,8 @@ document.addEventListener('click', e => {
 let trendingSources = {};
 
 Promise.all([
-  fetch('../data_output/stories.csv').then(r => { if (!r.ok) throw new Error(r.statusText); return r.text(); }),
-  fetch('../data_output/trending_sources_bandaid.json').then(r => r.ok ? r.json() : {}).catch(() => ({}))
+  fetch('data/stories.csv').then(r => { if (!r.ok) throw new Error(r.statusText); return r.text(); }),
+  fetch('data/trending_sources_bandaid.json').then(r => r.ok ? r.json() : {}).catch(() => ({}))
 ]).then(([csvText, bandaid]) => {
   trendingSources = bandaid;
   stories = dedup(parseCSV(csvText));
@@ -140,7 +140,7 @@ Promise.all([
   render();
 }).catch(err => {
   document.getElementById('message').textContent =
-    'Could not load data. Run a local server (e.g. python3 -m http.server) from the repo root. (' + err.message + ')';
+    'Could not load data. (' + err.message + ')';
 });
 
 // ── Clear filters ────────────────────────────────────────────

@@ -29,16 +29,19 @@ After cloning this repository onto your computer,
 xcrun simctl list devices
 ```
 2. Choose a booted (or available) simulator, e.g. `iPhone 17 Pro (XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)`
-3. Open `get_stories.py` and fill in your device info at the top:
-```python
-# user-defined variables
-device_name_and_os = 'iPhone 17 Pro'
-device_os = '18.0'
-udid = 'XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX'
+3. Copy the demo config and fill in your device info:
 ```
-4. Change the output folder if desired:
+cp config_demo.py config_real.py
+```
+Edit `config_real.py`:
 ```python
-output_folder = 'data_output'
+DEVICES = [
+    ('iPhone 17 Pro', '18.0', 'YOUR-SIMULATOR-UDID-HERE'),
+]
+```
+Also set `APP_PATH` to the full path of your simulator's `News.app` bundle:
+```
+find ~/Library/Developer/CoreSimulator -name "News.app" 2>/dev/null
 ```
 
 
@@ -62,6 +65,9 @@ Then run the scraper:
 
 To run repeatedly, use cron. Run `crontab -e` and add:
 ```
-*/5 * * * * cd /Users/jack/dev/apple-news-scraper && .venv/bin/python get_stories.py >> logs/cron.log 2>&1
+*/20 * * * * cd /path/to/apple-news-scraper && .venv/bin/python get_stories.py >> logs/cron.log 2>&1
 ```
 Make sure `logs/` exists first: `mkdir -p logs`
+
+> **Note:** The scraper writes collected stories to `docs/data/stories.csv`.
+> Commit and push that file to update the live web dashboard.

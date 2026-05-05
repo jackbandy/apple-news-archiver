@@ -34,7 +34,7 @@ function render() {
       ? s.headline.replace(/,\s*\d+\s+\w+\s+ago.*$/i, '').replace(/,\s*apple news plus.*$/i, '').trim()
       : s.headline;
     const link = s.link
-      ? `<a href="${s.link}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(displayHeadline)}</a>`
+      ? `<a href="${esc(s.link)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(displayHeadline)}</a>`
       : esc(displayHeadline) || '—';
     const isEdited = s.section === 'top' && s.article_headline && headlinesWordDiffer(s.headline, s.article_headline, s.publication);
     const editedBadge = isEdited ? ' <span class="badge-edited">edited</span>' : '';

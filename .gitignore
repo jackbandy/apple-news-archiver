@@ -1,7 +1,15 @@
 prompts.txt
 logs/
 .DS_Store
+nohup.out
 config_real.py
 config-real.py
 .venv/
 .device_rotation
+.claude/
+data_output/*.bak
+data_output/*.verify_bak
+data_output/stories-old.csv
+data_output/stories_pre_march20.csv
+backfill/backfill-log.txt
+backfill/backfill_notes.md

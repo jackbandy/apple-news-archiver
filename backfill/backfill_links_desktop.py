@@ -27,7 +27,7 @@ import subprocess
 import ctypes
 import ctypes.util
 
-CSV_PATH = 'data_output/stories.csv'
+CSV_PATH = 'docs/data/stories.csv'
 BACKUP_PATH = CSV_PATH + '.bak'
 
 MATCH_THRESHOLD = 0.50
