@@ -14,8 +14,8 @@ device_os = DEVICES[0][1]
 udid = DEVICES[0][2]
 
 # Output paths
-output_folder = 'data_output'
-output_file = 'data_output/stories.csv'
+output_folder = 'data_output'       # raw per-run JSON files land here
+output_file = 'docs/data/stories.csv'  # main CSV (served by the web dashboard)
 
 # Set True to navigate into the Top Stories view and collect ranked stories there
 COLLECT_TOP_STORIES = False

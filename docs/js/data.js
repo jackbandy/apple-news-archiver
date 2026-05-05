@@ -80,8 +80,19 @@ function populateFilters() {
   const rows = Object.keys(sectionCounts).map(sec =>
     `<div class="stats-row"><span class="stats-label">${sectionLabels[sec]}</span><span class="stats-val">${sectionCounts[sec].toLocaleString()}</span></div>`
   ).join('');
-  document.getElementById('total-count').innerHTML =
+  document.getElementById('stats-tooltip').innerHTML =
     `<div class="stats-table">${rows}</div>`;
+
+  // Find latest run_time
+  let latestRun = '';
+  stories.forEach(s => {
+    s.appearances.forEach(a => {
+      if (a.run_time && a.run_time > latestRun) latestRun = a.run_time;
+    });
+  });
+  const latestDate = latestRun ? new Date(latestRun).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }) : '—';
+  document.getElementById('latest-run').textContent = `Latest scraper run: ${latestDate}`;
+  document.getElementById('total-count').textContent = `${stories.length.toLocaleString()} stories`;
 }
 
 // Labels/sources that Apple News appends after a comma at the end
@@ -103,7 +114,7 @@ function stripAppleNewsExtras(headline, publication) {
   // Strip leading source/label before comma: "CBS News, Headline" or "DEVELOPING, Headline"
   // Matches a short title-case/all-caps label (≤40 chars) followed by ", " and a headline-start char.
   // Loop to handle multi-part prefixes like "Local News, Chicago, Headline".
-  const prefixRe = /^[A-Z][A-Za-z\s.]{0,39},\s+(?=[A-Z0-9"'\u201c])/;
+  const prefixRe = /^[A-Z][A-Za-z.]*(?:\s+[A-Z][A-Za-z.]*){0,6},\s+(?=[A-Z0-9"'\u201c])/;
   for (let i = 0; i < 3; i++) {
     const h2 = h.replace(prefixRe, '');
     if (h2 === h) break;

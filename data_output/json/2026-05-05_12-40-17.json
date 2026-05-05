@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-05 12:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ASfwPatGfTryOxkoPAA_oPA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-05 12:40:17",
+      "pub_time": "2026-05-05 12:31:19",
+      "publication": "Reuters",
+      "author": "Idrees Ali, Phil Stewart, and Yomna Ehab",
+      "headline": "U.S. says Iran ceasefire holds despite exchange of fire and attacks on UAE",
+      "article_headline": "U.S. says Iran ceasefire holds despite exchange of fire and attacks on UAE"
+    },
+    {
+      "link": "https://apple.news/Aq8b2LSp4QBib8b5Bw2kgYw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-05 12:40:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Primary elections in Ohio, Indiana offer latest temperature check on Trump popularity",
+      "article_headline": "Primary elections in Ohio, Indiana offer latest temperature check on Trump popularity"
+    },
+    {
+      "link": "https://apple.news/AUwZL1CUxT-2dl0tKQ1FOFw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-05 12:40:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Inside the cruise ship at the center of a rare hantavirus outbreak",
+      "article_headline": "Inside the cruise ship at the center of a rare hantavirus outbreak"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 12:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Why the collapse of Spirit Airlines means higher fares for everyone",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AbiD7AJJ2QpiBypsHKkJQQw?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RZOWtyS0FsdFNGbXViQVY1aFdPWHl3I25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-05 12:40:17",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "2026 Met Gala, Beyoncé’s bejeweled skeleton gown — and one weird trend: the Met Gala’s biggest moments, Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 12:40:17",
+      "pub_time": "2026-05-05 12:31:18",
+      "publication": "The New Yorker",
+      "author": "Jay Caspian Kang",
+      "headline": "Will AI make college obsolete?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AhYP4u8O6So-v9N8bIgMMnw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-05 12:40:17",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Fresh attacks in the Gulf threaten the fragile truce with Iran",
+      "article_headline": ""
+    }
+  ]
+}
