@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-06 09:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ARetlcY0uTD6auDP23UdWzw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-06 09:20:16",
+      "pub_time": "2026-05-06 08:43:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "US and Iran appear to move closer to ending their war as Trump threatens more bombing",
+      "article_headline": "US and Iran appear to move closer to ending their war as Trump threatens more bombing"
+    },
+    {
+      "link": "https://apple.news/AgEFsvCr_TjWV12s1mqN1wg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-06 09:20:16",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Key takeaways from Tuesday’s primary elections in Indiana, Ohio",
+      "article_headline": "Key takeaways from Tuesday’s primary elections in Indiana, Ohio"
+    },
+    {
+      "link": "https://apple.news/AkDeGgfqPSrS2yp9OBQBwLg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-06 09:20:16",
+      "pub_time": "2026-05-06 08:42:17",
+      "publication": "The Guardian",
+      "author": "Jamie Grierson",
+      "headline": "Three more people evacuated from hantavirus-hit cruise ship",
+      "article_headline": "Three more people evacuated from hantavirus-hit cruise ship"
+    },
+    {
+      "link": "https://apple.news/Ao8w4VnQYQImF5DinCTjk0w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-06 09:20:16",
+      "pub_time": "2026-05-06 08:42:45",
+      "publication": "Reuters",
+      "author": "Joshua McElwee",
+      "headline": "A year into papacy, Pope Leo has become outspoken on world issues — and drawn the ire of Trump",
+      "article_headline": "A year into papacy, Pope Leo has become outspoken on world issues — and drawn the ire of Trump"
+    },
+    {
+      "link": "https://apple.news/AkDeGgfqPSrS2yp9OBQBwLg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-06 09:20:16",
+      "pub_time": "2026-05-06 08:42:18",
+      "publication": "The Guardian",
+      "author": "Jamie Grierson",
+      "headline": "Three more people evacuated from hantavirus-hit cruise ship",
+      "article_headline": "Three more people evacuated from hantavirus-hit cruise ship"
+    },
+    {
+      "link": "https://apple.news/Ao8w4VnQYQImF5DinCTjk0w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-06 09:20:16",
+      "pub_time": "2026-05-06 08:42:45",
+      "publication": "Reuters",
+      "author": "Joshua McElwee",
+      "headline": "A year into papacy, Pope Leo has become outspoken on world issues — and drawn the ire of Trump",
+      "article_headline": "A year into papacy, Pope Leo has become outspoken on world issues — and drawn the ire of Trump"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 09:20:16",
+      "pub_time": "2026-05-06 08:43:12",
+      "publication": "The Wall Street Journal",
+      "author": "Scott Calvert",
+      "headline": "Security cameras are failing spectacularly at common sense",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

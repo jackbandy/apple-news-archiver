@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-06 12:00:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AUykAuGJhT8-mtwLylIEGoQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-06 12:00:18",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Trump’s candidates oust GOP incumbents in Indiana — and more takeaways from Tuesday’s races",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ARetlcY0uTD6auDP23UdWzw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-06 12:00:18",
+      "pub_time": "2026-05-06 11:38:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. and Iran appear to move closer to ending war as Trump threatens more bombing",
+      "article_headline": "U.S. and Iran appear to move closer to ending war as Trump threatens more bombing"
+    },
+    {
+      "link": "https://apple.news/AhKTls8xJSzWANvJcr8GEMg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-06 12:00:18",
+      "pub_time": "2026-05-06 11:39:14",
+      "publication": "ABC News",
+      "author": "Aaron Katersky",
+      "headline": "Trump asks judges to pause E. Jean Carroll ruling so he can appeal case to SCOTUS",
+      "article_headline": "Trump asks judges to pause E. Jean Carroll ruling so he can appeal case to SCOTUS"
+    },
+    {
+      "link": "https://apple.news/ARetlcY0uTD6auDP23UdWzw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-06 12:00:18",
+      "pub_time": "2026-05-06 11:37:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. and Iran appear to move closer to ending war as Trump threatens more bombing",
+      "article_headline": "U.S. and Iran appear to move closer to ending war as Trump threatens more bombing"
+    },
+    {
+      "link": "https://apple.news/AhKTls8xJSzWANvJcr8GEMg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-06 12:00:18",
+      "pub_time": "2026-05-06 11:38:14",
+      "publication": "ABC News",
+      "author": "Aaron Katersky",
+      "headline": "Trump asks judges to pause E. Jean Carroll ruling so he can appeal case to SCOTUS",
+      "article_headline": "Trump asks judges to pause E. Jean Carroll ruling so he can appeal case to SCOTUS"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 12:00:18",
+      "pub_time": "2026-05-06 11:38:41",
+      "publication": "The Atlantic",
+      "author": "Katherine J. Wu",
+      "headline": "A brutal first for the cruise industry",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 12:00:18",
+      "pub_time": "2026-05-06 11:37:47",
+      "publication": "The Atlantic",
+      "author": "Katherine J. Wu",
+      "headline": "A brutal first for the cruise industry",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ABkeQ0O9WTHODhvy0rUAMmw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-06 12:00:18",
+      "pub_time": "2026-05-06 07:03:23",
+      "publication": "Popular Science",
+      "author": "Laura Baisas",
+      "headline": "A 1,578-foot tsunami struck a popular Alaskan cruise destination. Now we know why.",
+      "article_headline": "A 1,578-foot tsunami struck a popular Alaskan cruise destination. Now we know why."
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-06 12:00:18",
+      "pub_time": "2026-05-05 17:03:57",
+      "publication": "",
+      "author": "Emma Roth",
+      "headline": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AJdCkDDIIQueLj5xOK63Qdg",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-06 12:00:18",
+      "pub_time": "2026-05-06 10:03:57",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Why Gen Z is getting fired after being hired | The Excerpt",
+      "article_headline": "Why Gen Z is getting fired after being hired | The Excerpt"
+    },
+    {
+      "link": "https://apple.news/Ah0OXoKhHTmGxwsj6zw5pPw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-06 12:00:18",
+      "pub_time": "2026-05-06 05:04:24",
+      "publication": "BuzzFeed",
+      "author": "Hannah Marder",
+      "headline": "68 Photos That Show How Shockingly Different Things Are State-To-State In The US",
+      "article_headline": "68 Photos That Show How Shockingly Different Things Are State-To-State In The US"
+    }
+  ]
+}

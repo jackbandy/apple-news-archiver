@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-06 07:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AAvAs-diCRSa9yjtwa-Jmwg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-06 07:20:16",
+      "pub_time": "2026-05-06 06:46:18",
+      "publication": "NBC News",
+      "author": "Steve Kopack",
+      "headline": "Oil price plunges on report U.S. and Iran near a deal to end the war",
+      "article_headline": "Price of oil plunges and markets surge on report U.S. and Iran near deal to end war"
+    },
+    {
+      "link": "https://apple.news/AgEFsvCr_TjWV12s1mqN1wg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-06 07:20:16",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Trump’s GOP grip holds, and other key takeaways from primary elections in Indiana and Ohio",
+      "article_headline": "Trump’s GOP grip holds, and other key takeaways from primary elections in Indiana and Ohio"
+    },
+    {
+      "link": "https://apple.news/AcX5hAuuJSPylpQiT2WvIAw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-06 07:20:16",
+      "pub_time": "2026-05-06 06:46:19",
+      "publication": "Euronews",
+      "author": "",
+      "headline": "Canary Islands rejects docking of cruise ship with hantavirus on board",
+      "article_headline": "Canary Islands rejects docking of cruise ship with hantavirus on board"
+    },
+    {
+      "link": "https://apple.news/AuXQL1NzgRY6TbN3nLW3eCw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-06 07:20:16",
+      "pub_time": "2026-05-06 06:46:46",
+      "publication": "Bloomberg Law",
+      "author": "Justin Wise, Jordan Fischer, and Greg Stohr",
+      "headline": "Supreme Court sniping heats up as justices near their opinion season",
+      "article_headline": "Supreme Court sniping heats up as justices near their opinion season"
+    },
+    {
+      "link": "https://apple.news/AcX5hAuuJSPylpQiT2WvIAw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-06 07:20:16",
+      "pub_time": "2026-05-06 06:46:20",
+      "publication": "Euronews",
+      "author": "",
+      "headline": "Canary Islands rejects docking of cruise ship with hantavirus on board",
+      "article_headline": "Canary Islands rejects docking of cruise ship with hantavirus on board"
+    },
+    {
+      "link": "https://apple.news/AuXQL1NzgRY6TbN3nLW3eCw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-06 07:20:16",
+      "pub_time": "2026-05-06 06:46:46",
+      "publication": "Bloomberg Law",
+      "author": "Justin Wise, Jordan Fischer, and Greg Stohr",
+      "headline": "Supreme Court sniping heats up as justices near their opinion season",
+      "article_headline": "Supreme Court sniping heats up as justices near their opinion season"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 07:20:16",
+      "pub_time": "2026-05-06 06:47:14",
+      "publication": "The Wall Street Journal",
+      "author": "Scott Calvert",
+      "headline": "Security cameras are failing spectacularly at common sense",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
