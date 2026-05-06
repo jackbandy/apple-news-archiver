@@ -1,0 +1,119 @@
+{
+  "run_time": "2026-05-05 19:00:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/ARXWuJXm8R8OzyORHf0ZTDA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-05 19:00:17",
+      "pub_time": "2026-05-05 18:52:18",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Trump says U.S. pausing Hormuz operation in push for Iran deal",
+      "article_headline": "Trump says U.S. pausing Hormuz operation in push for Iran deal"
+    },
+    {
+      "link": "https://apple.news/A8B_OhCQyQZu-Iiy_xka--A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-05 19:00:17",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Vivek Ramaswamy wins GOP nomination for governor in Ohio",
+      "article_headline": "Vivek Ramaswamy wins GOP nomination for governor in Ohio"
+    },
+    {
+      "link": "https://apple.news/ACWP7u7dNTiipCHr1zwFMgw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-05 19:00:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "FDA announces its first authorization of flavored vapes for adults, in major shift under Trump",
+      "article_headline": "FDA announces its first authorization of flavored vapes for adults, in major shift under Trump"
+    },
+    {
+      "link": "https://apple.news/A6X-4__fsTgig-1-fp8RV5A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-05 19:00:17",
+      "pub_time": "2026-05-05 18:51:45",
+      "publication": "The Washington Post",
+      "author": "Anthony Faiola",
+      "headline": "Trump lashes out at Pope Leo again ahead of Marco Rubio’s trip to Rome",
+      "article_headline": "Trump lashes out at Pope Leo again ahead of Rubio trip to Rome"
+    },
+    {
+      "link": "https://apple.news/A6X-4__fsTgig-1-fp8RV5A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-05 19:00:17",
+      "pub_time": "2026-05-05 18:51:18",
+      "publication": "The Washington Post",
+      "author": "Anthony Faiola",
+      "headline": "Trump lashes out at Pope Leo again ahead of Marco Rubio’s trip to Rome",
+      "article_headline": "Trump lashes out at Pope Leo again ahead of Rubio trip to Rome"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 19:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Golf’s winning machine has rebooted, and nobody can stop her",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 19:00:17",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "Is America’s go-to autism therapy lifesaving — or traumatizing?, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Az66AhQpcQ8qhoMoA9mbPQw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-05 19:00:17",
+      "pub_time": "2026-05-05 13:03:20",
+      "publication": "BuzzFeed",
+      "author": "Megan Liscomb",
+      "headline": "\"Shame On You, Jeff Bezos\": A 72-Year-Old Amazon Warehouse Worker Is Going Viral For The Fiery Message She Shared Before The Met Gala",
+      "article_headline": "\"Shame On You, Jeff Bezos\": A 72-Year-Old Amazon Warehouse Worker Is Going Viral For The Fiery Message She Shared Before The Met Gala"
+    },
+    {
+      "link": "https://apple.news/AwvwbruRBTSeRvzJ2fCxDyw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-05 19:00:17",
+      "pub_time": "2026-05-05 08:03:52",
+      "publication": "EatingWell",
+      "author": "Christie Rotondo",
+      "headline": "This Common Drink May Be Harming Your Colon, According to Doctors and Dietitians",
+      "article_headline": "This Common Drink May Be Harming Your Colon, According to Doctors and Dietitians"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-05 19:00:17",
+      "pub_time": "2026-05-05 05:04:20",
+      "publication": "",
+      "author": "Rachel Chang",
+      "headline": "This Is the No. 1 Thing Pickpockets Are Targeting Now, According to Rick Steves—and No, It's Not Your Wallet",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

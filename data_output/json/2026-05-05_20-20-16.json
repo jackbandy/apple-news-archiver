@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-05-05 20:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ARXWuJXm8R8OzyORHf0ZTDA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-05 20:20:16",
+      "pub_time": "2026-05-05 19:58:17",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Trump says U.S. pausing Hormuz operation in push for Iran deal",
+      "article_headline": "Trump says U.S. pausing Hormuz operation in push for Iran deal"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 20:20:16",
+      "pub_time": "",
+      "publication": "The Columbus Dispatch",
+      "author": "",
+      "headline": "Vivek Ramaswamy wins GOP nomination for governor in Ohio",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ACWP7u7dNTiipCHr1zwFMgw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-05 20:20:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "FDA announces its first authorization of flavored vapes for adults, in major shift under Trump",
+      "article_headline": "FDA announces its first authorization of flavored vapes for adults, in major shift under Trump"
+    },
+    {
+      "link": "https://apple.news/A6X-4__fsTgig-1-fp8RV5A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-05 20:20:16",
+      "pub_time": "2026-05-05 19:59:16",
+      "publication": "The Washington Post",
+      "author": "Anthony Faiola",
+      "headline": "Trump lashes out at Pope Leo again ahead of Marco Rubio’s trip to Rome",
+      "article_headline": "Trump lashes out at Pope Leo again ahead of Rubio trip to Rome"
+    },
+    {
+      "link": "https://apple.news/A6X-4__fsTgig-1-fp8RV5A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-05 20:20:16",
+      "pub_time": "2026-05-05 19:57:50",
+      "publication": "The Washington Post",
+      "author": "Anthony Faiola",
+      "headline": "Trump lashes out at Pope Leo again ahead of Marco Rubio’s trip to Rome",
+      "article_headline": "Trump lashes out at Pope Leo again ahead of Rubio trip to Rome"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 20:20:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Golf’s winning machine has rebooted, and nobody can stop her",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 20:20:16",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "Is America’s go-to autism therapy lifesaving — or traumatizing?, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

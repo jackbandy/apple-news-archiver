@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-05-05 18:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A0fIB_avwTAKhN-KB665Y3Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-05 18:20:16",
+      "pub_time": "2026-05-05 18:17:18",
+      "publication": "Bloomberg",
+      "author": "Eric Martin, Josh Wingrove, and Eltaf Najafizada",
+      "headline": "U.S. says offensive phase of Iran war over as cargo ship hit in Strait of Hormuz",
+      "article_headline": "US Says Offensive Phase of Iran War Over as Ship Hit in Strait"
+    },
+    {
+      "link": "https://apple.news/A5tsTlxkHTb-UBApAyalmNg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-05 18:20:16",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Federal officials to review AI models for national security before public release",
+      "article_headline": "Federal officials to review AI models for national security before public release"
+    },
+    {
+      "link": "https://apple.news/ACWP7u7dNTiipCHr1zwFMgw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-05 18:20:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "FDA announces its first authorization of flavored vapes for adults, in major shift under Trump",
+      "article_headline": "FDA announces its first authorization of flavored vapes for adults, in major shift under Trump"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 18:20:16",
+      "pub_time": "2026-05-05 18:17:45",
+      "publication": "The Washington Post",
+      "author": "Anthony Faiola",
+      "headline": "Trump lashes out at Pope Leo again ahead of Marco Rubio’s trip to Rome",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 18:20:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Golf’s winning machine has rebooted, and nobody can stop her",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 18:20:16",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "Is America’s go-to autism therapy lifesaving — or traumatizing?, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AviF1W23SRZunDH-RzdRJqw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-05 18:20:16",
+      "pub_time": "2026-05-05 15:22:06",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Tired? About a third of adults don't get enough sleep",
+      "article_headline": "Tired? About a third of adults don't get enough sleep"
+    },
+    {
+      "link": "https://apple.news/Az66AhQpcQ8qhoMoA9mbPQw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-05 18:20:16",
+      "pub_time": "2026-05-05 13:22:54",
+      "publication": "BuzzFeed",
+      "author": "Megan Liscomb",
+      "headline": "\"Shame On You, Jeff Bezos\": A 72-Year-Old Amazon Warehouse Worker Is Going Viral For The Fiery Message She Shared Before The Met Gala",
+      "article_headline": "\"Shame On You, Jeff Bezos\": A 72-Year-Old Amazon Warehouse Worker Is Going Viral For The Fiery Message She Shared Before The Met Gala"
+    },
+    {
+      "link": "https://apple.news/AwvwbruRBTSeRvzJ2fCxDyw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-05 18:20:16",
+      "pub_time": "2026-05-05 08:23:27",
+      "publication": "EatingWell",
+      "author": "Christie Rotondo",
+      "headline": "This Common Drink May Be Harming Your Colon, According to Doctors and Dietitians",
+      "article_headline": "This Common Drink May Be Harming Your Colon, According to Doctors and Dietitians"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-05 18:20:16",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "The Artist Who Made America Look Like a Promised Land, Apple News Plus, Sebastian Smee",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AqP92aguXTqGEM3MrZ9suXQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-05 18:20:16",
+      "pub_time": "2026-05-05 11:23:54",
+      "publication": "Apartment Therapy",
+      "author": "Adrienne Breaux",
+      "headline": "She Turned a 450-Square-Foot Studio into a One-Bedroom Using Bookcases",
+      "article_headline": "She Turned a 450-Square-Foot Studio into a One-Bedroom Using Bookcases"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "run_time": "2026-05-05 20:40:16",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/ARXWuJXm8R8OzyORHf0ZTDA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-05 20:40:16",
+      "pub_time": "2026-05-05 20:30:18",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Trump says U.S. pausing Hormuz operation in push for Iran deal",
+      "article_headline": "Trump says U.S. pausing Hormuz operation in push for Iran deal"
+    },
+    {
+      "link": "https://apple.news/ApwUnr74BTomkeKlwNVWbRw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-05 20:40:16",
+      "pub_time": "",
+      "publication": "The Indianapolis Star",
+      "author": "",
+      "headline": "5 Trump-endorsed Indiana Senate challengers oust incumbents, one survives so far",
+      "article_headline": "5 Trump-endorsed Indiana Senate challengers oust incumbents, one survives so far"
+    },
+    {
+      "link": "https://apple.news/AmWPhU7j1QtqRtopLF2coOw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-05 20:40:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "FDA halts publication of studies on covid, shingles vaccines",
+      "article_headline": "FDA halts publication of studies on covid, shingles vaccines"
+    },
+    {
+      "link": "https://apple.news/AtNKneW1jQla8OenJJIwQGg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-05 20:40:16",
+      "pub_time": "2026-05-05 20:30:45",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "As Ukraine seeks to edge China out of its drone supply chain, Taiwan emerges as a quiet player",
+      "article_headline": "As Ukraine seeks to edge China out of its drone supply chain, Taiwan emerges as a quiet player"
+    },
+    {
+      "link": "https://apple.news/AtNKneW1jQla8OenJJIwQGg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-05 20:40:16",
+      "pub_time": "2026-05-05 20:30:19",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "As Ukraine seeks to edge China out of its drone supply chain, Taiwan emerges as a quiet player",
+      "article_headline": "As Ukraine seeks to edge China out of its drone supply chain, Taiwan emerges as a quiet player"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 20:40:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Golf’s winning machine has rebooted, and nobody can stop her",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-05 20:40:16",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "Is America’s go-to autism therapy lifesaving — or traumatizing?, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-05-05 20:40:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The tech-company retreat that went horribly wrong, Ellen Gamerman",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-05-05 20:40:16",
+      "pub_time": "",
+      "publication": "Scientific American",
+      "author": "",
+      "headline": "Scientists are unraveling the mystery of heart disease — and its ties to inflammation, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-05-05 20:40:16",
+      "pub_time": "",
+      "publication": "WIRED",
+      "author": "",
+      "headline": "A shingles infection can have lifelong consequences. Dangerously few are vaccinated. , Rosie Taylor",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
