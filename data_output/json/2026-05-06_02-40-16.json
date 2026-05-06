@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-06 02:40:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ASfwPatGfTryOxkoPAA_oPA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-06 02:40:16",
+      "pub_time": "2026-05-06 00:40:18",
+      "publication": "Reuters",
+      "author": "Steve Holland, Idrees Ali, and Yomna Ehab",
+      "headline": "Trump pauses effort to escort ships in Strait of Hormuz, citing deal progress",
+      "article_headline": "Trump pauses effort to escort ships in Strait of Hormuz, citing deal progress"
+    },
+    {
+      "link": "https://apple.news/AvLQq2gyBRWyD3CdZ_fuxcw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-06 02:40:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Takeaways from Indiana, Ohio and Michigan: Trump’s flex pays off and Democrats win special election",
+      "article_headline": "Takeaways from Indiana, Ohio and Michigan: Trump's flex pays off and Democrats win special election"
+    },
+    {
+      "link": "https://apple.news/AtNKneW1jQla8OenJJIwQGg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-06 02:40:16",
+      "pub_time": "2026-05-06 00:41:17",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "As Ukraine seeks to edge China out of its drone supply chain, Taiwan emerges as a quiet player",
+      "article_headline": "As Ukraine seeks to edge China out of its drone supply chain, Taiwan emerges as a quiet player"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 02:40:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "AI is forcing CEOs to make a stark choice: lay off workers or make them do more",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AnvU3yVrbQeWBZDw9jmJq1g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-06 02:40:16",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Thunder roll past Lakers in Game 1 of West semifinals",
+      "article_headline": "Thunder roll past Lakers in Game 1 of West semifinals"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 02:40:16",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "Is America’s go-to autism therapy lifesaving — or traumatizing?, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AWym7qut5ST2fnToWbOneIw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-06 02:40:16",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Mayor Johnson determined to block Bears’ move to Arlington Heights",
+      "article_headline": "Mayor Johnson determined to block Bears’ move to Arlington Heights"
+    },
+    {
+      "link": "https://apple.news/AP6OS5zAaQSqqvTWEj9Dyiw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-06 02:40:16",
+      "pub_time": "2026-05-05 13:43:25",
+      "publication": "TODAY",
+      "author": "Rachel Paula Abrahamson",
+      "headline": "Couple Welcomes Rare Identical Quadruplets and Gives All 4 Girls Matching 'A' Names",
+      "article_headline": "Couple Welcomes Rare Identical Quadruplets and Gives All 4 Girls Matching 'A' Names"
+    },
+    {
+      "link": "https://apple.news/AfFv3-24TR6Ork1y5VrmRhA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-06 02:40:16",
+      "pub_time": "2026-05-05 15:43:52",
+      "publication": "BuzzFeed",
+      "author": "Michelle No",
+      "headline": "I Can Literally Feel My Brain Melting After Reading These 21 Jaw-Dropping Facts That Barely Anyone Has Heard Before",
+      "article_headline": "I Can Literally Feel My Brain Melting After Reading These 21 Jaw-Dropping Facts That Barely Anyone Has Heard Before"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-06 02:40:16",
+      "pub_time": "2026-05-05 04:44:25",
+      "publication": "",
+      "author": "Audrey Valbuena and Gunjan Banerji",
+      "headline": "I Asked ChatGPT to Manage a Stock Portfolio. Here’s How It Did.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AdxfOcA0NSqCrPFstGwiaEw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-06 02:40:16",
+      "pub_time": "2026-05-05 17:44:25",
+      "publication": "NBC News",
+      "author": "Denise Chow",
+      "headline": "NASA released thousands more photos from Artemis II. Here are 9 of the best.",
+      "article_headline": "NASA released thousands more photos from Artemis II. Here are 9 of the best."
+    }
+  ]
+}

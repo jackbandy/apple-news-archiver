@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-06 05:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ASfwPatGfTryOxkoPAA_oPA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-06 05:20:16",
+      "pub_time": "2026-05-06 05:15:18",
+      "publication": "Reuters",
+      "author": "Steve Holland, Idrees Ali, and Yomna Ehab",
+      "headline": "Trump pauses effort to escort ships in Strait of Hormuz, citing deal progress",
+      "article_headline": "Trump pauses effort to escort ships in Strait of Hormuz, citing deal progress"
+    },
+    {
+      "link": "https://apple.news/AvLQq2gyBRWyD3CdZ_fuxcw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-06 05:20:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Takeaways from Indiana, Ohio and Michigan: Trump’s flex pays off and Democrats win special election",
+      "article_headline": "Takeaways from Indiana, Ohio and Michigan: Trump's flex pays off and Democrats win special election"
+    },
+    {
+      "link": "https://apple.news/AcX5hAuuJSPylpQiT2WvIAw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-06 05:20:16",
+      "pub_time": "2026-05-06 05:15:18",
+      "publication": "Euronews",
+      "author": "",
+      "headline": "Canary Islands rejects docking of hantavirus cruise ship",
+      "article_headline": "Canary Islands rejects docking of hantavirus cruise ship"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 05:20:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "AI is forcing CEOs to make a stark choice: lay off workers or make them do more",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AQh4U3bRER4y85XjFuM6fYw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-06 05:20:16",
+      "pub_time": "2026-05-06 05:15:50",
+      "publication": "ABC News",
+      "author": "Mary Kekatos",
+      "headline": "NASA releases more than 12,000 new images from historic Artemis II moon mission",
+      "article_headline": "NASA releases more than 12,000 new images from historic Artemis II moon mission"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 05:20:16",
+      "pub_time": "2026-05-06 05:15:18",
+      "publication": "Vox",
+      "author": "Elliot Haspel",
+      "headline": "Birth rates keep falling. Can America age gracefully?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AQh4U3bRER4y85XjFuM6fYw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-06 05:20:16",
+      "pub_time": "2026-05-06 05:14:23",
+      "publication": "ABC News",
+      "author": "Mary Kekatos",
+      "headline": "NASA releases more than 12,000 new images from historic Artemis II moon mission",
+      "article_headline": "NASA releases more than 12,000 new images from historic Artemis II moon mission"
+    }
+  ]
+}

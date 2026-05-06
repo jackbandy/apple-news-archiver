@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-06 05:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ASfwPatGfTryOxkoPAA_oPA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-06 05:40:17",
+      "pub_time": "2026-05-06 05:15:19",
+      "publication": "Reuters",
+      "author": "Steve Holland, Idrees Ali, and Yomna Ehab",
+      "headline": "Trump pauses effort to escort ships in Strait of Hormuz, citing deal progress",
+      "article_headline": "Trump pauses effort to escort ships in Strait of Hormuz, citing deal progress"
+    },
+    {
+      "link": "https://apple.news/AvLQq2gyBRWyD3CdZ_fuxcw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-06 05:40:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Takeaways from Indiana, Ohio and Michigan: Trump’s flex pays off and Democrats win special election",
+      "article_headline": "Takeaways from Indiana, Ohio and Michigan: Trump's flex pays off and Democrats win special election"
+    },
+    {
+      "link": "https://apple.news/AcX5hAuuJSPylpQiT2WvIAw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-06 05:40:17",
+      "pub_time": "2026-05-06 05:15:18",
+      "publication": "Euronews",
+      "author": "",
+      "headline": "Canary Islands rejects docking of hantavirus cruise ship",
+      "article_headline": "Canary Islands rejects docking of hantavirus cruise ship"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 05:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "AI is forcing CEOs to make a stark choice: lay off workers or make them do more",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AQh4U3bRER4y85XjFuM6fYw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-06 05:40:17",
+      "pub_time": "2026-05-06 05:14:51",
+      "publication": "ABC News",
+      "author": "Mary Kekatos",
+      "headline": "NASA releases more than 12,000 new images from historic Artemis II moon mission",
+      "article_headline": "NASA releases more than 12,000 new images from historic Artemis II moon mission"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 05:40:17",
+      "pub_time": "2026-05-06 05:15:19",
+      "publication": "Vox",
+      "author": "Elliot Haspel",
+      "headline": "Birth rates keep falling. Can America age gracefully?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AdfRiv0pEQfS5hlGZ-4FyxA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-06 05:40:17",
+      "pub_time": "2026-05-06 05:06:33",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "JetBlue and Southwest are flyer favorite airlines again this year",
+      "article_headline": "JetBlue and Southwest are flyer favorite airlines again this year"
+    },
+    {
+      "link": "https://apple.news/AP6OS5zAaQSqqvTWEj9Dyiw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-06 05:40:17",
+      "pub_time": "2026-05-05 13:43:23",
+      "publication": "TODAY",
+      "author": "Rachel Paula Abrahamson",
+      "headline": "Couple Welcomes Rare Identical Quadruplets and Gives All 4 Girls Matching 'A' Names",
+      "article_headline": "Couple Welcomes Rare Identical Quadruplets and Gives All 4 Girls Matching 'A' Names"
+    },
+    {
+      "link": "https://apple.news/AXgDsYD-GQ3ad4-ZYiaub5Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-06 05:40:17",
+      "pub_time": "2026-05-05 22:43:50",
+      "publication": "BuzzFeed",
+      "author": "Jake Farrington",
+      "headline": "\"My Husband And I Have Separate Bedrooms\": People Are Sharing The Societal Norms They Have Completely Ditched In 2026, And It Honestly Sounds So Freeing",
+      "article_headline": "\"My Husband And I Have Separate Bedrooms\": People Are Sharing The Societal Norms They Have Completely Ditched In 2026, And It Honestly Sounds So Freeing"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-06 05:40:17",
+      "pub_time": "2026-05-05 16:44:23",
+      "publication": "",
+      "author": "Emma Roth",
+      "headline": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A8YG1GlTUS_ubWAbnLHrcdg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-06 05:40:17",
+      "pub_time": "2026-05-05 20:44:23",
+      "publication": "The Wall Street Journal",
+      "author": "John Keilman",
+      "headline": "Storied Toolmaker Closes Its Last Hometown Plant—and Blames Its Tape Measures",
+      "article_headline": "Storied Toolmaker Closes Its Last Hometown Plant—and Blames Its Tape Measures"
+    }
+  ]
+}
