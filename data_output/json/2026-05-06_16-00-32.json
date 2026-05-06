@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-06 16:00:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AWGISCSDQQhq7WP4yc3B9IA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-06 16:00:32",
+      "pub_time": "2026-05-06 15:57:34",
+      "publication": "Reuters",
+      "author": "Ariba Shahid, Steve Holland, and Alexander Cornwell",
+      "headline": "Iran reviewing U.S. proposal to end war, though key demands remain unaddressed",
+      "article_headline": "Iran reviewing US proposal to end war, though key demands remain unaddressed"
+    },
+    {
+      "link": "https://apple.news/A2Gz5of-wRCiUeJdB0zuA2g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-06 16:00:32",
+      "pub_time": "",
+      "publication": "The Tennessean",
+      "author": "",
+      "headline": "Republicans unveil proposed congressional map that carves up Memphis",
+      "article_headline": "Republicans unveil proposed congressional map that carves up Memphis"
+    },
+    {
+      "link": "https://apple.news/At9pihqjXREKb4I8fPe8B7w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-06 16:00:32",
+      "pub_time": "2026-05-06 15:57:33",
+      "publication": "Los Angeles Times",
+      "author": "Matt Pearce and Meg James",
+      "headline": "Ted Turner, CNN creator who revolutionized the media industry, dies at 87",
+      "article_headline": "Ted Turner, CNN creator who revolutionized the media industry, dies at 87"
+    },
+    {
+      "link": "https://apple.news/AILfklhbqToOdkpsHVDk57g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-06 16:00:32",
+      "pub_time": "",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Babies are bleeding to death as parents reject a vitamin shot given at birth",
+      "article_headline": "Babies are bleeding to death as parents reject a vitamin shot given at birth"
+    },
+    {
+      "link": "https://apple.news/At9pihqjXREKb4I8fPe8B7w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-06 16:00:32",
+      "pub_time": "2026-05-06 15:57:34",
+      "publication": "Los Angeles Times",
+      "author": "Matt Pearce and Meg James",
+      "headline": "Ted Turner, CNN creator who revolutionized the media industry, dies at 87",
+      "article_headline": "Ted Turner, CNN creator who revolutionized the media industry, dies at 87"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 16:00:32",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Walks are surging in baseball. Blame the robot umpires.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 16:00:32",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Why the odds keep rising for the strongest El Niño in a century",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A5jRfukgoQHq0u3HrzDp9KA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-06 16:00:32",
+      "pub_time": "2026-05-06 13:03:38",
+      "publication": "InStyle",
+      "author": "Lara Walsh",
+      "headline": "Savannah Guthrie Suddenly Exits 'Today' Mid-Show Amid Ongoing Investigation Into Missing Mom",
+      "article_headline": "Savannah Guthrie Suddenly Exits 'Today' Mid-Show Amid Ongoing Investigation Into Missing Mom"
+    },
+    {
+      "link": "https://apple.news/A2dS3T74BQPqEYutCELdc8Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-06 16:00:32",
+      "pub_time": "2026-05-06 12:04:06",
+      "publication": "People",
+      "author": "Moná Thomas",
+      "headline": "German Shepherd Abandoned at a California Walmart with All of His Toys Gets a Second Chance",
+      "article_headline": "German Shepherd Abandoned at a California Walmart with All of His Toys Gets a Second Chance"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-06 16:00:32",
+      "pub_time": "2026-05-05 16:04:39",
+      "publication": "",
+      "author": "Roxana Ehsani, M.S., RD, CSSD, LDN",
+      "headline": "A Cardiologist Says This Is the No. 1 Fruit for Heart Health",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AdbeYJsqsQh-EEZP_PtcNCQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-06 16:00:32",
+      "pub_time": "2026-05-06 13:04:39",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Pope Leo called his bank's customer service line. They hung up on him",
+      "article_headline": "Pope Leo called his bank's customer service line. They hung up on him"
+    }
+  ]
+}

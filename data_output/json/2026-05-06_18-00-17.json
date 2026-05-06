@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-06 18:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AWGISCSDQQhq7WP4yc3B9IA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-06 18:00:17",
+      "pub_time": "2026-05-06 17:00:18",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Iran reviewing U.S. proposal to end war, though key demands remain unaddressed, MORE DETAILS",
+      "article_headline": "Iran reviewing US proposal to end war, though key demands remain unaddressed"
+    },
+    {
+      "link": "https://apple.news/A2Gz5of-wRCiUeJdB0zuA2g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-06 18:00:17",
+      "pub_time": "",
+      "publication": "The Tennessean",
+      "author": "",
+      "headline": "Republicans unveil new congressional map that carves up Memphis",
+      "article_headline": "Republicans unveil new congressional map that carves up Memphis"
+    },
+    {
+      "link": "https://apple.news/At9pihqjXREKb4I8fPe8B7w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-06 18:00:17",
+      "pub_time": "2026-05-06 17:01:17",
+      "publication": "Los Angeles Times",
+      "author": "Matt Pearce and Meg James",
+      "headline": "Ted Turner, CNN creator who revolutionized the media industry, dies at 87",
+      "article_headline": "Ted Turner, CNN creator who revolutionized the media industry, dies at 87"
+    },
+    {
+      "link": "https://apple.news/AILfklhbqToOdkpsHVDk57g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-06 18:00:17",
+      "pub_time": "",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Babies are bleeding to death as parents reject a vitamin shot given at birth",
+      "article_headline": "Babies are bleeding to death as parents reject a vitamin shot given at birth"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 18:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Walks are surging in baseball. Blame the robot umpires.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 18:00:17",
+      "pub_time": "2026-05-06 17:02:23",
+      "publication": "The Washington Post",
+      "author": "Ben Noll",
+      "headline": "Why the odds keep rising for the strongest El Niño in a century",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AOjRs8n4ZRtm4XYRHbYqgJA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-06 18:00:17",
+      "pub_time": "2026-05-06 17:38:37",
+      "publication": "CNBC",
+      "author": "Alexa LoMonaco",
+      "headline": "Jim Cramer says Big Tech cannot afford to be cheap on AI spending",
+      "article_headline": "Jim Cramer says Big Tech cannot afford to be cheap on AI spending"
+    },
+    {
+      "link": "https://apple.news/A2dS3T74BQPqEYutCELdc8Q",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-06 18:00:17",
+      "pub_time": "2026-05-06 12:03:26",
+      "publication": "People",
+      "author": "Moná Thomas",
+      "headline": "German Shepherd Abandoned at a California Walmart with All of His Toys Gets a Second Chance",
+      "article_headline": "German Shepherd Abandoned at a California Walmart with All of His Toys Gets a Second Chance"
+    },
+    {
+      "link": "https://apple.news/AYUrv8xlPQjKYBTRASDqV_g",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-06 18:00:17",
+      "pub_time": "2026-05-06 12:03:53",
+      "publication": "Autoblog",
+      "author": "John Tallodi",
+      "headline": "Acura vs Lexus Reliability: The Winner Isn’t Even Close",
+      "article_headline": "Acura vs Lexus Reliability: The Winner Isn’t Even Close"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-06 18:00:17",
+      "pub_time": "2026-05-05 18:04:21",
+      "publication": "",
+      "author": "Roxana Ehsani, M.S., RD, CSSD, LDN",
+      "headline": "A Cardiologist Says This Is the No. 1 Fruit for Heart Health",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AoOHHNn4qQVayLFZ9HcuWBg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-06 18:00:17",
+      "pub_time": "2026-05-06 17:23:26",
+      "publication": "TMZ",
+      "author": "TMZ Staff",
+      "headline": "Mike Vrabel, Dianna Russini Rented Private Boat While She Was Pregnant",
+      "article_headline": "Mike Vrabel, Dianna Russini Rented Private Boat While She Was Pregnant"
+    }
+  ]
+}

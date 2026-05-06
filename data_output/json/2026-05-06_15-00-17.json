@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-05-06 15:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AUykAuGJhT8-mtwLylIEGoQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-06 15:00:17",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Trump’s candidates oust GOP incumbents in Indiana — and more takeaways from Tuesday’s races",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ARetlcY0uTD6auDP23UdWzw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-06 15:00:17",
+      "pub_time": "2026-05-06 14:48:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
+      "article_headline": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war"
+    },
+    {
+      "link": "https://apple.news/AhKTls8xJSzWANvJcr8GEMg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-06 15:00:17",
+      "pub_time": "2026-05-06 14:49:13",
+      "publication": "ABC News",
+      "author": "Aaron Katersky",
+      "headline": "Trump asks judges to pause E. Jean Carroll ruling so he can appeal case to Supreme Court",
+      "article_headline": "Trump asks judges to pause E. Jean Carroll ruling so he can appeal case to Supreme Court"
+    },
+    {
+      "link": "https://apple.news/ARetlcY0uTD6auDP23UdWzw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-06 15:00:17",
+      "pub_time": "2026-05-06 14:47:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
+      "article_headline": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war"
+    },
+    {
+      "link": "https://apple.news/AhKTls8xJSzWANvJcr8GEMg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-06 15:00:17",
+      "pub_time": "2026-05-06 14:48:13",
+      "publication": "ABC News",
+      "author": "Aaron Katersky",
+      "headline": "Trump asks judges to pause E. Jean Carroll ruling so he can appeal case to Supreme Court",
+      "article_headline": "Trump asks judges to pause E. Jean Carroll ruling so he can appeal case to Supreme Court"
+    },
+    {
+      "link": "https://apple.news/At9pihqjXREKb4I8fPe8B7w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-06 15:00:17",
+      "pub_time": "2026-05-06 14:48:41",
+      "publication": "Los Angeles Times",
+      "author": "Matt Pearce and Meg James",
+      "headline": "Ted Turner, CNN creator who revolutionized the media industry, dies at 87",
+      "article_headline": "Ted Turner, CNN creator who revolutionized the media industry, dies at 87"
+    },
+    {
+      "link": "https://apple.news/At9pihqjXREKb4I8fPe8B7w",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-06 15:00:17",
+      "pub_time": "",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Babies are bleeding to death as parents reject a vitamin shot given at birth",
+      "article_headline": "Ted Turner, CNN creator who revolutionized the media industry, dies at 87"
+    },
+    {
+      "link": "https://apple.news/A5jRfukgoQHq0u3HrzDp9KA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-06 15:00:17",
+      "pub_time": "2026-05-06 13:04:22",
+      "publication": "InStyle",
+      "author": "Lara Walsh",
+      "headline": "Savannah Guthrie Suddenly Exits 'Today' Mid-Show Amid Ongoing Investigation Into Missing Mom",
+      "article_headline": "Savannah Guthrie Suddenly Exits 'Today' Mid-Show Amid Ongoing Investigation Into Missing Mom"
+    },
+    {
+      "link": "https://apple.news/AdbeYJsqsQh-EEZP_PtcNCQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-06 15:00:17",
+      "pub_time": "2026-05-06 13:04:50",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Pope Leo called his bank's customer service line. They hung up on him",
+      "article_headline": "Pope Leo called his bank's customer service line. They hung up on him"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-06 15:00:17",
+      "pub_time": "2026-05-05 15:05:23",
+      "publication": "",
+      "author": "Roxana Ehsani, M.S., RD, CSSD, LDN",
+      "headline": "A Cardiologist Says This Is the No. 1 Fruit for Heart Health",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ABkeQ0O9WTHODhvy0rUAMmw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-06 15:00:17",
+      "pub_time": "2026-05-06 07:05:23",
+      "publication": "Popular Science",
+      "author": "Laura Baisas",
+      "headline": "A 1,578-foot tsunami struck a popular Alaskan cruise destination. Now we know why.",
+      "article_headline": "A 1,578-foot tsunami struck a popular Alaskan cruise destination. Now we know why."
+    }
+  ]
+}

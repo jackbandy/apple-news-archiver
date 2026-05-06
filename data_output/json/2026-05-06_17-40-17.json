@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-06 17:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AWGISCSDQQhq7WP4yc3B9IA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-06 17:40:17",
+      "pub_time": "2026-05-06 16:40:18",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Iran reviewing U.S. proposal to end war, though key demands remain unaddressed, MORE DETAILS",
+      "article_headline": "Iran reviewing US proposal to end war, though key demands remain unaddressed"
+    },
+    {
+      "link": "https://apple.news/A2Gz5of-wRCiUeJdB0zuA2g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-06 17:40:17",
+      "pub_time": "",
+      "publication": "The Tennessean",
+      "author": "",
+      "headline": "Republicans unveil new congressional map that carves up Memphis",
+      "article_headline": "Republicans unveil new congressional map that carves up Memphis"
+    },
+    {
+      "link": "https://apple.news/At9pihqjXREKb4I8fPe8B7w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-06 17:40:17",
+      "pub_time": "2026-05-06 16:41:17",
+      "publication": "Los Angeles Times",
+      "author": "Matt Pearce and Meg James",
+      "headline": "Ted Turner, CNN creator who revolutionized the media industry, dies at 87",
+      "article_headline": "Ted Turner, CNN creator who revolutionized the media industry, dies at 87"
+    },
+    {
+      "link": "https://apple.news/AILfklhbqToOdkpsHVDk57g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-06 17:40:17",
+      "pub_time": "",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Babies are bleeding to death as parents reject a vitamin shot given at birth",
+      "article_headline": "Babies are bleeding to death as parents reject a vitamin shot given at birth"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 17:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Walks are surging in baseball. Blame the robot umpires.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 17:40:17",
+      "pub_time": "2026-05-06 16:42:23",
+      "publication": "The Washington Post",
+      "author": "Ben Noll",
+      "headline": "Why the odds keep rising for the strongest El Niño in a century",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A6iSWckPrRQC61-ywuI4lGQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-06 17:40:17",
+      "pub_time": "2026-05-06 16:42:38",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Nicholas Brendon's tragic death and what to know about cardiovascular disease",
+      "article_headline": "Nicholas Brendon's tragic death and what to know about cardiovascular disease"
+    },
+    {
+      "link": "https://apple.news/A2dS3T74BQPqEYutCELdc8Q",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-06 17:40:17",
+      "pub_time": "2026-05-06 11:43:25",
+      "publication": "People",
+      "author": "Moná Thomas",
+      "headline": "German Shepherd Abandoned at a California Walmart with All of His Toys Gets a Second Chance",
+      "article_headline": "German Shepherd Abandoned at a California Walmart with All of His Toys Gets a Second Chance"
+    },
+    {
+      "link": "https://apple.news/AYUrv8xlPQjKYBTRASDqV_g",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-06 17:40:17",
+      "pub_time": "2026-05-06 11:43:53",
+      "publication": "Autoblog",
+      "author": "John Tallodi",
+      "headline": "Acura vs Lexus Reliability: The Winner Isn’t Even Close",
+      "article_headline": "Acura vs Lexus Reliability: The Winner Isn’t Even Close"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-06 17:40:17",
+      "pub_time": "2026-05-05 17:44:20",
+      "publication": "",
+      "author": "Roxana Ehsani, M.S., RD, CSSD, LDN",
+      "headline": "A Cardiologist Says This Is the No. 1 Fruit for Heart Health",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A5EN_n9kuSZOAIKskBc3hBA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-06 17:40:17",
+      "pub_time": "2026-05-06 16:44:26",
+      "publication": "CBS News",
+      "author": "Mary Cunningham",
+      "headline": "iPhone owners could get up to $95 from a new Apple settlement",
+      "article_headline": "iPhone owners could get up to $95 from a new Apple settlement"
+    }
+  ]
+}
