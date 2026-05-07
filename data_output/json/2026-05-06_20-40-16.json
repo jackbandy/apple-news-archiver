@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-06 20:40:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AWGISCSDQQhq7WP4yc3B9IA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-06 20:40:16",
+      "pub_time": "2026-05-06 18:40:17",
+      "publication": "Reuters",
+      "author": "Ariba Shahid, Steve Holland, and Alexander Cornwell",
+      "headline": "Iran reviewing U.S. proposal to end war, though key demands remain unaddressed",
+      "article_headline": "Iran reviewing US proposal to end war, though key demands remain unaddressed"
+    },
+    {
+      "link": "https://apple.news/A2Gz5of-wRCiUeJdB0zuA2g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-06 20:40:16",
+      "pub_time": "",
+      "publication": "The Tennessean",
+      "author": "",
+      "headline": "Republicans unveil new congressional map that carves up Memphis",
+      "article_headline": "Republicans unveil new congressional map that carves up Memphis"
+    },
+    {
+      "link": "https://apple.news/A3fFmGFj9TxeO-eIXHfN27A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-06 20:40:16",
+      "pub_time": "2026-05-06 18:41:17",
+      "publication": "POLITICO",
+      "author": "Myah Ward, Jordain Carney, and Daniel Lippman",
+      "headline": "Trump administration axes fast-track training for new ICE recruits",
+      "article_headline": "Trump administration axes fast-track training for new ICE recruits"
+    },
+    {
+      "link": "https://apple.news/A2GFryZxGQjexpWlIuNoRNg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-06 20:40:16",
+      "pub_time": "2026-05-06 18:41:44",
+      "publication": "The Guardian",
+      "author": "Mollie Reilly and Uwa Ede-Osifo",
+      "headline": "Alleged suicide note written by Jeffrey Epstein unsealed by federal judge",
+      "article_headline": "Alleged suicide note written by Jeffrey Epstein unsealed by federal judge"
+    },
+    {
+      "link": "https://apple.news/AILfklhbqToOdkpsHVDk57g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-06 20:40:16",
+      "pub_time": "",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Babies are bleeding to death as parents reject a vitamin shot given at birth",
+      "article_headline": "Babies are bleeding to death as parents reject a vitamin shot given at birth"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 20:40:16",
+      "pub_time": "",
+      "publication": "Texas Monthly",
+      "author": "",
+      "headline": "He remade the Southern Baptist Convention in his image. Then came the abuse allegations., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-06 20:40:16",
+      "pub_time": "2026-05-06 19:42:59",
+      "publication": "The Wall Street Journal",
+      "author": "Katherine Bindley",
+      "headline": "What Is a ‘Compute Tax’ and Why Is the Idea Gaining Traction?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A2dS3T74BQPqEYutCELdc8Q",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-06 20:40:16",
+      "pub_time": "2026-05-06 11:43:19",
+      "publication": "People",
+      "author": "Moná Thomas",
+      "headline": "German Shepherd Abandoned at a California Walmart with All of His Toys Gets a Second Chance",
+      "article_headline": "German Shepherd Abandoned at a California Walmart with All of His Toys Gets a Second Chance"
+    },
+    {
+      "link": "https://apple.news/A5EN_n9kuSZOAIKskBc3hBA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-06 20:40:16",
+      "pub_time": "2026-05-06 19:57:46",
+      "publication": "CBS News",
+      "author": "Mary Cunningham",
+      "headline": "iPhone owners could get up to $95 from a new Apple settlement",
+      "article_headline": "iPhone owners could get up to $95 from a new Apple settlement"
+    },
+    {
+      "link": "https://apple.news/A5EN_n9kuSZOAIKskBc3hBA",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-06 20:40:16",
+      "pub_time": "2026-05-06 19:57:19",
+      "publication": "CBS News",
+      "author": "Mary Cunningham",
+      "headline": "iPhone owners could get up to $95 from a new Apple settlement",
+      "article_headline": "iPhone owners could get up to $95 from a new Apple settlement"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-06 20:40:16",
+      "pub_time": "2026-05-06 08:44:47",
+      "publication": "",
+      "author": "Megan I. Gannon",
+      "headline": "A 1,500-foot tsunami took scientists by surprise. Now we know why it happened",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
