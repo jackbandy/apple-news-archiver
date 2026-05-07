@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-07 15:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A3U6x1evxTSSotMaeLUt-Jg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-07 15:00:16",
+      "pub_time": "2026-05-07 14:47:18",
+      "publication": "POLITICO",
+      "author": "Samuel Benson",
+      "headline": "Tennessee Republicans pass new congressional map following Supreme Court’s Voting Rights Act ruling",
+      "article_headline": "Tennessee Republicans pass new congressional map following Supreme Court’s Voting Rights Act ruling"
+    },
+    {
+      "link": "https://apple.news/AFj3mjJSdSwSlHJGZFFRQpw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-07 15:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "U.S. awaits Iran’s response to its latest peace-talks proposal, LIVE",
+      "article_headline": "U.S. Awaits Iran’s Response to Latest Peace-Talks Proposal"
+    },
+    {
+      "link": "https://apple.news/AbqeLin6BQm6Itl2EKnkqcg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-07 15:00:16",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Global race is underway to trace passengers who left hantavirus ship before outbreak confirmed",
+      "article_headline": "Global race is underway to trace passengers who left hantavirus ship before outbreak confirmed"
+    },
+    {
+      "link": "https://apple.news/AHRRIZTUjS52F18d29EYxsQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-07 15:00:16",
+      "pub_time": "2026-05-07 14:47:46",
+      "publication": "NBC News",
+      "author": "Corky Siemaszko",
+      "headline": "More than a dozen former NFL players join sex-abuse lawsuits against Ohio State University",
+      "article_headline": "More than a dozen former NFL players join sex-abuse lawsuits against Ohio State University"
+    },
+    {
+      "link": "https://apple.news/AHRRIZTUjS52F18d29EYxsQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-07 15:00:16",
+      "pub_time": "2026-05-07 14:47:19",
+      "publication": "NBC News",
+      "author": "Corky Siemaszko",
+      "headline": "More than a dozen former NFL players join sex-abuse lawsuits against Ohio State University",
+      "article_headline": "More than a dozen former NFL players join sex-abuse lawsuits against Ohio State University"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-07 15:00:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "NCAA Tournament expanding to 76 teams in biggest change to format in decades",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-07 15:00:16",
+      "pub_time": "2026-05-07 14:47:46",
+      "publication": "The Washington Post",
+      "author": "Dan Morse",
+      "headline": "They thought their daughter with a disability was safe. A pregnancy revealed her rape.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

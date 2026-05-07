@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-05-07 18:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AnWWRXsVFR4yDKu3U_4JL3Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-07 18:00:17",
+      "pub_time": "2026-05-07 17:57:18",
+      "publication": "Axios",
+      "author": "Barak Ravid and Dave Lawler",
+      "headline": "Iran and U.S. exchange fire in Strait of Hormuz",
+      "article_headline": "Iran and U.S. exchange fire in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AQXMfNeeWScCw02FSIwQ6eg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-07 18:00:17",
+      "pub_time": "2026-05-07 17:57:46",
+      "publication": "Reuters",
+      "author": "Dietrich Knauth",
+      "headline": "Trade court rules against Trump’s 10% global tariffs",
+      "article_headline": "Trade court rules against Trump’s 10% global tariffs"
+    },
+    {
+      "link": "https://apple.news/AQXMfNeeWScCw02FSIwQ6eg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-07 18:00:17",
+      "pub_time": "2026-05-07 17:57:19",
+      "publication": "Reuters",
+      "author": "Dietrich Knauth",
+      "headline": "Trade court rules against Trump’s 10% global tariffs",
+      "article_headline": "Trade court rules against Trump’s 10% global tariffs"
+    },
+    {
+      "link": "https://apple.news/AY94F7OZoS2uwKzP-fVzhTA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-07 18:00:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Tennessee Republicans pass a map to break up the state’s lone Democratic House seat",
+      "article_headline": "Tennessee Republicans pass a map to break up the state’s lone Democratic House seat"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-07 18:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The 33-day “Atlantic odyssey” that turned into a hantavirus nightmare",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/An6kM2LikTO-p4cS1PMTW0Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-07 18:00:17",
+      "pub_time": "2026-05-07 17:57:19",
+      "publication": "Fox Business",
+      "author": "Eric Revell",
+      "headline": "Gas-price surge hitting low-income households hardest, Fed study finds",
+      "article_headline": "Gas-price surge hitting low-income households hardest, Fed study finds"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-07 18:00:17",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "Inside the new gold rush sweeping California, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Au3CIlQ7jQy6AJeXhN3mBaQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-07 18:00:17",
+      "pub_time": "2026-05-07 13:03:23",
+      "publication": "Popular Science",
+      "author": "Andrew Paul",
+      "headline": "Hiker stumbles on 6th century gold sword scabbard under fallen tree",
+      "article_headline": "Hiker stumbles on 6th century gold sword scabbard under fallen tree"
+    },
+    {
+      "link": "https://apple.news/AQuicFIz1R92fit6lodCuyg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-07 18:00:17",
+      "pub_time": "2026-05-06 23:03:51",
+      "publication": "Travel + Leisure",
+      "author": "Genevieve Cepeda",
+      "headline": "The 1 Place You Should Never Put Your Passport—Plus the Best Hack That Always Keeps It Safe",
+      "article_headline": "The 1 Place You Should Never Put Your Passport—Plus the Best Hack That Always Keeps It Safe"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-07 18:00:17",
+      "pub_time": "2026-05-06 18:04:24",
+      "publication": "",
+      "author": "Lucy Notarantonio",
+      "headline": "Stray cat waits in the same place each night—tears as internet realizes why",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-07 18:00:17",
+      "pub_time": "2026-05-07 17:04:24",
+      "publication": "",
+      "author": "Wesley Stenzel",
+      "headline": "Stanley Tucci gets candid about his 21-year age gap with wife Felicity Blunt: 'It just sort of made sense'",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

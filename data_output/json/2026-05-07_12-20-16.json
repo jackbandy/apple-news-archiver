@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-07 12:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ANtn5SHPsT9qOdroNqYQ1aQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-07 12:20:16",
+      "pub_time": "2026-05-07 12:16:18",
+      "publication": "Reuters",
+      "author": "Ariba Shahid, Steve Holland, and Nayera Abdallah",
+      "headline": "U.S. and Iran explore short-term deal to end fighting",
+      "article_headline": "U.S. and Iran explore short-term deal to end fighting"
+    },
+    {
+      "link": "https://apple.news/Akhdt26HLS9OFaM6ymfU2Lg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-07 12:20:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Undeterred by polls and courts, Trump pushes ballroom, honors donors",
+      "article_headline": "Undeterred by polls and courts, Trump pushes ballroom, honors donors"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-07 12:20:16",
+      "pub_time": "2026-05-07 12:15:18",
+      "publication": "The Wall Street Journal",
+      "author": "Alison Sider and Brian Schwartz",
+      "headline": "Jet-fuel prices are spiking, and Trump’s advisers are worried",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_-WWF57vQh2t4bCh-Okdhw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-07 12:20:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "U.S. monitoring hantavirus cruise passengers; dozens left ship after first death",
+      "article_headline": "U.S. monitoring hantavirus cruise passengers; dozens left ship after 1st death"
+    },
+    {
+      "link": "https://apple.news/Agc6UdB-zRGiTFrFQ7Adbsg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-07 12:20:16",
+      "pub_time": "2026-05-07 12:15:51",
+      "publication": "The Guardian",
+      "author": "Benjamin Lee",
+      "headline": "Report shows banned nonfiction books doubled over past school year in U.S.",
+      "article_headline": "Report shows banned nonfiction books doubled over past school year in U.S."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-07 12:20:16",
+      "pub_time": "2026-05-07 12:16:19",
+      "publication": "Los Angeles Times",
+      "author": "Terry Castleman",
+      "headline": "Why L.A. is struggling while San Francisco is beginning to boom again",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Agc6UdB-zRGiTFrFQ7Adbsg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-07 12:20:16",
+      "pub_time": "2026-05-07 12:15:25",
+      "publication": "The Guardian",
+      "author": "Benjamin Lee",
+      "headline": "Report shows banned nonfiction books doubled over past school year in U.S.",
+      "article_headline": "Report shows banned nonfiction books doubled over past school year in U.S."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-05-07 14:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ALJaf1g77QTCeVxICB7CDpQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-07 14:00:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Tennessee House approves congressional map aimed at giving Republicans an advantage",
+      "article_headline": "Tennessee House approves congressional map aimed at giving Republicans an advantage"
+    },
+    {
+      "link": "https://apple.news/AFj3mjJSdSwSlHJGZFFRQpw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-07 14:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "U.S. awaits Iran’s response to its latest peace-talks proposal, LIVE",
+      "article_headline": "U.S. Awaits Iran’s Response to Latest Peace-Talks Proposal"
+    },
+    {
+      "link": "https://apple.news/AbqeLin6BQm6Itl2EKnkqcg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-07 14:00:17",
+      "pub_time": "2026-05-07 13:50:13",
+      "publication": "The Guardian",
+      "author": "Rory Carroll and Sam Jones",
+      "headline": "Global race is underway to trace passengers who left hantavirus ship before outbreak confirmed",
+      "article_headline": "Global race is underway to trace passengers who left hantavirus ship before outbreak confirmed"
+    },
+    {
+      "link": "https://apple.news/AbqeLin6BQm6Itl2EKnkqcg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-07 14:00:17",
+      "pub_time": "2026-05-07 13:49:46",
+      "publication": "The Guardian",
+      "author": "Rory Carroll and Sam Jones",
+      "headline": "Global race is underway to trace passengers who left hantavirus ship before outbreak confirmed",
+      "article_headline": "Global race is underway to trace passengers who left hantavirus ship before outbreak confirmed"
+    },
+    {
+      "link": "https://apple.news/AHRRIZTUjS52F18d29EYxsQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-07 14:00:17",
+      "pub_time": "2026-05-07 13:49:14",
+      "publication": "NBC News",
+      "author": "Corky Siemaszko",
+      "headline": "More than a dozen former NFL players join sex-abuse lawsuits against Ohio State University",
+      "article_headline": "More than a dozen former NFL players join sex-abuse lawsuits against Ohio State University"
+    },
+    {
+      "link": "https://apple.news/AHRRIZTUjS52F18d29EYxsQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-07 14:00:17",
+      "pub_time": "2026-05-07 13:48:47",
+      "publication": "NBC News",
+      "author": "Corky Siemaszko",
+      "headline": "More than a dozen former NFL players join sex-abuse lawsuits against Ohio State University",
+      "article_headline": "More than a dozen former NFL players join sex-abuse lawsuits against Ohio State University"
+    },
+    {
+      "link": "https://apple.news/AsdsBEqnBQJiu8BO8AUU78A",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-07 14:00:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Pennsylvania is suing an AI company over claims its chatbot posed as a doctor",
+      "article_headline": "Pennsylvania is suing an AI company over claims its chatbot posed as a doctor"
+    }
+  ]
+}

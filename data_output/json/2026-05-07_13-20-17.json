@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-07 13:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ALJaf1g77QTCeVxICB7CDpQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-07 13:20:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Tennessee House approves congressional map aimed at giving Republicans advantage",
+      "article_headline": "Tennessee House approves congressional map aimed at giving Republicans advantage"
+    },
+    {
+      "link": "https://apple.news/ANtn5SHPsT9qOdroNqYQ1aQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-07 13:20:17",
+      "pub_time": "2026-05-07 13:01:46",
+      "publication": "Reuters",
+      "author": "Ariba Shahid, Steve Holland, and Nayera Abdallah",
+      "headline": "U.S. and Iran explore short-term deal to end fighting",
+      "article_headline": "U.S. and Iran explore short-term deal to end fighting"
+    },
+    {
+      "link": "https://apple.news/ANtn5SHPsT9qOdroNqYQ1aQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-07 13:20:17",
+      "pub_time": "2026-05-07 13:01:18",
+      "publication": "Reuters",
+      "author": "Ariba Shahid, Steve Holland, and Nayera Abdallah",
+      "headline": "U.S. and Iran explore short-term deal to end fighting",
+      "article_headline": "U.S. and Iran explore short-term deal to end fighting"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-07 13:20:17",
+      "pub_time": "2026-05-07 13:01:45",
+      "publication": "The Wall Street Journal",
+      "author": "Alison Sider and Brian Schwartz",
+      "headline": "Jet-fuel prices are spiking, and Trump’s advisers are worried",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_-WWF57vQh2t4bCh-Okdhw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-07 13:20:17",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "U.S. monitoring hantavirus cruise passengers; dozens left ship after first death",
+      "article_headline": "U.S. monitoring hantavirus cruise passengers; dozens left ship after 1st death"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-07 13:20:17",
+      "pub_time": "2026-05-07 13:01:18",
+      "publication": "The Wall Street Journal",
+      "author": "Alison Sider and Brian Schwartz",
+      "headline": "Jet-fuel prices are spiking, and Trump’s advisers are worried",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Agc6UdB-zRGiTFrFQ7Adbsg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-07 13:20:17",
+      "pub_time": "2026-05-07 13:01:18",
+      "publication": "The Guardian",
+      "author": "Benjamin Lee",
+      "headline": "Report shows banned nonfiction books doubled over past school year in U.S.",
+      "article_headline": "Report shows banned nonfiction books doubled over past school year in U.S."
+    }
+  ]
+}
