@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-07 10:00:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AlvT9zu5STUymGAcYmwxgQA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-07 10:00:18",
+      "pub_time": "2026-05-07 09:00:20",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran reviewing U.S. proposal after Trump pressures Tehran for a deal to end the war",
+      "article_headline": "Iran reviewing US proposal as Trump pressures Tehran for agreement on deal to end war"
+    },
+    {
+      "link": "https://apple.news/A_-WWF57vQh2t4bCh-Okdhw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-07 10:00:18",
+      "pub_time": "2026-05-07 09:00:47",
+      "publication": "NBC News",
+      "author": "Patrick Smith, Camille Behnke, and Minyvonne Burke",
+      "headline": "U.S. monitoring hantavirus cruise passengers; dozens left ship after first death",
+      "article_headline": "U.S. monitoring hantavirus cruise passengers; dozens left ship after 1st death"
+    },
+    {
+      "link": "https://apple.news/Aeqtr9EAxS9mAWQArmpuetQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-07 10:00:18",
+      "pub_time": "",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "Trump pardon recipients face congressional probe over “pay-to-play” questions",
+      "article_headline": "Trump pardon recipients face congressional probe over “pay-to-play” questions"
+    },
+    {
+      "link": "https://apple.news/AjN14lr7zTJKg24UutfWh-Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-07 10:00:18",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Gas prices keep rising, but do big oil companies plan to drill more? Not so far.",
+      "article_headline": "Gas prices keep rising, but do big oil companies plan to drill more? Not so far."
+    },
+    {
+      "link": "https://apple.news/A_1HkUSHjRNypmQhOKf2SQg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-07 10:00:18",
+      "pub_time": "2026-05-07 09:02:20",
+      "publication": "Reuters",
+      "author": "Lisi Niesner",
+      "headline": "A small town in Germany braces for end to decades of living alongside U.S. troops",
+      "article_headline": "A small town in Germany braces for end to decades of living alongside U.S. troops"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-07 10:00:18",
+      "pub_time": "2026-05-07 09:02:47",
+      "publication": "The Wall Street Journal",
+      "author": "Anvee Bhutani",
+      "headline": "Young New Yorkers have a new hot spot: Sunday Mass",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ARgat_2vBT4uP_Q9yxYT7jg",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-07 10:00:18",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "The U.S. and Iran inch closer to peace talks. What to know.",
+      "article_headline": ""
+    }
+  ]
+}
