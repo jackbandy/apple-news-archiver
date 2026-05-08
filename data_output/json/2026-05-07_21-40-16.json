@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-07 21:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ANtn5SHPsT9qOdroNqYQ1aQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-07 21:40:16",
+      "pub_time": "2026-05-07 20:40:18",
+      "publication": "Reuters",
+      "author": "Idrees Ali, Humeyra Pamuk, and Parisa Hafezi",
+      "headline": "U.S. and Iran exchange fire, but Trump says ceasefire still in effect",
+      "article_headline": "US and Iran exchange fire, but Trump says ceasefire still in effect"
+    },
+    {
+      "link": "https://apple.news/AWmKf_W60QvKcgNNmDo-KRw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-07 21:40:16",
+      "pub_time": "2026-05-07 20:40:45",
+      "publication": "POLITICO",
+      "author": "Ari Hawkins",
+      "headline": "Trade court rules Trump’s replacement tariffs illegal",
+      "article_headline": "Trade court rules Trump’s replacement tariffs illegal"
+    },
+    {
+      "link": "https://apple.news/AKc_bb77lS_iGfVFbUYep9w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-07 21:40:16",
+      "pub_time": "",
+      "publication": "Fox News",
+      "author": "",
+      "headline": "Tennessee passes new congressional map likely to flip state’s final Democratic seat",
+      "article_headline": "Tennessee passes new congressional map likely to flip state’s final Democratic seat"
+    },
+    {
+      "link": "https://apple.news/AnpjrSeOsTP6iI4-O4-B16g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-07 21:40:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Cyberattack hits Canvas system used by thousands of schools as finals loom",
+      "article_headline": "Cyberattack hits Canvas system used by thousands of schools as finals loom"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-07 21:40:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The 33-day “Atlantic odyssey” that turned into a hantavirus nightmare",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-07 21:40:16",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "Inside the new gold rush sweeping California, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ac10HAqPwTVyUb4-aSDJ8LA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-07 21:40:16",
+      "pub_time": "2026-05-07 11:42:33",
+      "publication": "Fox News",
+      "author": "Andrea Margolis",
+      "headline": "Stunning vacation hot spot turns into overcrowded nightmare as tourists flood streets",
+      "article_headline": "Stunning vacation hot spot turns into overcrowded nightmare as tourists flood streets"
+    }
+  ]
+}

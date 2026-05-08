@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-07 18:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AnWWRXsVFR4yDKu3U_4JL3Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-07 18:40:16",
+      "pub_time": "2026-05-07 18:11:17",
+      "publication": "Axios",
+      "author": "Barak Ravid and Dave Lawler",
+      "headline": "Iran and U.S. exchange fire in Strait of Hormuz",
+      "article_headline": "Iran and U.S. exchange fire in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AWmKf_W60QvKcgNNmDo-KRw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-07 18:40:16",
+      "pub_time": "2026-05-07 18:11:45",
+      "publication": "POLITICO",
+      "author": "Ari Hawkins",
+      "headline": "Trade court rules Trump’s replacement tariffs illegal",
+      "article_headline": "Trade court rules Trump’s replacement tariffs illegal"
+    },
+    {
+      "link": "https://apple.news/AWmKf_W60QvKcgNNmDo-KRw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-07 18:40:16",
+      "pub_time": "2026-05-07 18:11:19",
+      "publication": "POLITICO",
+      "author": "Ari Hawkins",
+      "headline": "Trade court rules Trump’s replacement tariffs illegal",
+      "article_headline": "Trade court rules Trump’s replacement tariffs illegal"
+    },
+    {
+      "link": "https://apple.news/ALJaf1g77QTCeVxICB7CDpQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-07 18:40:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Tennessee lawmakers approve new House map to eliminate Democratic-held seat",
+      "article_headline": "Tennessee lawmakers approve new House map to eliminate Democratic-held seat"
+    },
+    {
+      "link": "https://apple.news/AOfaVky5kRQqo0FMjlNui0w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-07 18:40:16",
+      "pub_time": "2026-05-07 18:12:14",
+      "publication": "Reuters",
+      "author": "Jasper Ward",
+      "headline": "New York state set to ban law enforcement, including ICE, from wearing masks",
+      "article_headline": "New York state set to ban law enforcement, including ICE, from wearing masks"
+    },
+    {
+      "link": "https://apple.news/AOfaVky5kRQqo0FMjlNui0w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-07 18:40:16",
+      "pub_time": "2026-05-07 18:11:47",
+      "publication": "Reuters",
+      "author": "Jasper Ward",
+      "headline": "New York state set to ban law enforcement, including ICE, from wearing masks",
+      "article_headline": "New York state set to ban law enforcement, including ICE, from wearing masks"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-07 18:40:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The 33-day “Atlantic odyssey” that turned into a hantavirus nightmare",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

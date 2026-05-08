@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-07 20:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AnWWRXsVFR4yDKu3U_4JL3Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-07 20:20:16",
+      "pub_time": "2026-05-07 18:20:18",
+      "publication": "Axios",
+      "author": "Barak Ravid and Dave Lawler",
+      "headline": "Iran and U.S. exchange fire in Strait of Hormuz",
+      "article_headline": "Iran and U.S. exchange fire in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AWmKf_W60QvKcgNNmDo-KRw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-07 20:20:16",
+      "pub_time": "2026-05-07 18:20:46",
+      "publication": "POLITICO",
+      "author": "Ari Hawkins",
+      "headline": "Trade court rules Trump’s replacement tariffs illegal",
+      "article_headline": "Trade court rules Trump’s replacement tariffs illegal"
+    },
+    {
+      "link": "https://apple.news/ALJaf1g77QTCeVxICB7CDpQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-07 20:20:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Tennessee lawmakers approve new House map to eliminate Democratic-held seat",
+      "article_headline": "Tennessee lawmakers approve new House map to eliminate Democratic-held seat"
+    },
+    {
+      "link": "https://apple.news/AOfaVky5kRQqo0FMjlNui0w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-07 20:20:16",
+      "pub_time": "2026-05-07 18:21:46",
+      "publication": "Reuters",
+      "author": "Jasper Ward",
+      "headline": "New York state set to ban law enforcement, including ICE, from wearing masks",
+      "article_headline": "New York state set to ban law enforcement, including ICE, from wearing masks"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-07 20:20:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The 33-day “Atlantic odyssey” that turned into a hantavirus nightmare",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-07 20:20:16",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "Inside the new gold rush sweeping California, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AZY9ny3vJQzq3XcuCmnFrvg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-07 20:20:16",
+      "pub_time": "2026-05-07 12:22:34",
+      "publication": "TheStreet",
+      "author": "Hillary Remy and Celine Provini",
+      "headline": "New York Fed reveals troubling reality about wealthy Americans",
+      "article_headline": "New York Fed reveals troubling reality about wealthy Americans"
+    },
+    {
+      "link": "https://apple.news/Au_aq7pqJT2W0Xi1-N92iqA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-07 20:20:16",
+      "pub_time": "2026-05-07 10:23:23",
+      "publication": "People",
+      "author": "Georgia Slater",
+      "headline": "Mom Sent Daughter to School for Picture Day. When the Photos Came Back, She Immediately Realized Her 'Parenting Fail' (Exclusive)",
+      "article_headline": "Mom Sent Daughter to School for Picture Day. When the Photos Came Back, She Immediately Realized Her 'Parenting Fail' (Exclusive)"
+    },
+    {
+      "link": "https://apple.news/Au3CIlQ7jQy6AJeXhN3mBaQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-07 20:20:16",
+      "pub_time": "2026-05-07 13:23:56",
+      "publication": "Popular Science",
+      "author": "Andrew Paul",
+      "headline": "Hiker stumbles on 6th century gold sword scabbard under fallen tree",
+      "article_headline": "Hiker stumbles on 6th century gold sword scabbard under fallen tree"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-07 20:20:16",
+      "pub_time": "2026-05-06 20:24:24",
+      "publication": "",
+      "author": "Oyin Adedoyin",
+      "headline": "The Super Prime Credit Score Club Is Growing Rapidly",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A-bqt-MhYRBScfiEcrW9DMg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-07 20:20:16",
+      "pub_time": "2026-05-07 11:24:24",
+      "publication": "Southern Living",
+      "author": "Brandee Gruener",
+      "headline": "Should You Leave Your Porch Lights On Overnight? Most People Get This Wrong",
+      "article_headline": "Should You Leave Your Porch Lights On Overnight? Most People Get This Wrong"
+    }
+  ]
+}
