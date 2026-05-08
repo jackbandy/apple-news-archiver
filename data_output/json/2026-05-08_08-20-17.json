@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-08 08:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 08:20:17",
+      "pub_time": "2026-05-08 08:13:19",
+      "publication": "Apple News Plus",
+      "author": "Chao Deng",
+      "headline": "The Wall Street Journal, U.S. adds 115,000 jobs with solid hiring across sectors",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AEJvLW_6YSrOxaSnzXK5nGA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-08 08:20:17",
+      "pub_time": "2026-05-08 08:13:19",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe, Karen DeYoung, and Tara Copp",
+      "headline": "Trump says ceasefire still intact after burst of violence with Iran",
+      "article_headline": "Trump says ceasefire still intact after burst of violence with Iran"
+    },
+    {
+      "link": "https://apple.news/AYpBoy4OoTL-rVx-5TEN1Eg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-08 08:20:17",
+      "pub_time": "2026-05-08 08:13:47",
+      "publication": "Fox News",
+      "author": "Peter Doocy and Robert McGreevy",
+      "headline": "Trump administration releases highly anticipated files documenting UFOs",
+      "article_headline": "Trump administration releases highly anticipated files documenting UFOs"
+    },
+    {
+      "link": "https://apple.news/AEJvLW_6YSrOxaSnzXK5nGA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-08 08:20:17",
+      "pub_time": "2026-05-08 08:12:20",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe, Karen DeYoung, and Tara Copp",
+      "headline": "Trump says ceasefire still intact after burst of violence with Iran",
+      "article_headline": "Trump says ceasefire still intact after burst of violence with Iran"
+    },
+    {
+      "link": "https://apple.news/AYpBoy4OoTL-rVx-5TEN1Eg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-08 08:20:17",
+      "pub_time": "2026-05-08 08:12:47",
+      "publication": "Fox News",
+      "author": "Peter Doocy and Robert McGreevy",
+      "headline": "Trump administration releases highly anticipated files documenting UFOs",
+      "article_headline": "Trump administration releases highly anticipated files documenting UFOs"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 08:20:17",
+      "pub_time": "",
+      "publication": "Vox",
+      "author": "",
+      "headline": "How worrying is the hantavirus?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ARUfQw21oSpuQK0mXgi9WUw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-08 08:20:17",
+      "pub_time": "2026-05-08 08:12:20",
+      "publication": "Los Angeles Times",
+      "author": "Jenny Jarvie",
+      "headline": "Why it took 65 years for Los Angeles to build its most important rail line",
+      "article_headline": "Why it took 65 years for Los Angeles to build its most important rail line"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-08 07:00:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AWWEnHqB_RgeQJsQOHYSLQg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-08 07:00:18",
+      "pub_time": "",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Clash between U.S. and Iran in the Gulf threatens hopes for a quick peace deal",
+      "article_headline": "Clash between U.S. and Iran in the Gulf threatens hopes for a quick peace deal"
+    },
+    {
+      "link": "https://apple.news/Arif1Y4KXTd61uBkO3rwtUw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-08 07:00:18",
+      "pub_time": "2026-05-08 06:56:47",
+      "publication": "ABC News",
+      "author": "Max Zahn",
+      "headline": "Monthly jobs report set to show hiring as Iran war took hold",
+      "article_headline": "Monthly jobs report set to show hiring as Iran war took hold"
+    },
+    {
+      "link": "https://apple.news/Av7OOMjZXRBCmohoQom4R2Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-08 07:00:18",
+      "pub_time": "2026-05-08 06:57:15",
+      "publication": "The Guardian",
+      "author": "Kiran Stacey",
+      "headline": "Leadership of British PM Starmer is on the line after a disastrous election night",
+      "article_headline": "Leadership of British PM Starmer is on the line after a disastrous election night"
+    },
+    {
+      "link": "https://apple.news/Arif1Y4KXTd61uBkO3rwtUw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-08 07:00:18",
+      "pub_time": "2026-05-08 06:56:48",
+      "publication": "ABC News",
+      "author": "Max Zahn",
+      "headline": "Monthly jobs report set to show hiring as Iran war took hold",
+      "article_headline": "Monthly jobs report set to show hiring as Iran war took hold"
+    },
+    {
+      "link": "https://apple.news/Av7OOMjZXRBCmohoQom4R2Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-08 07:00:18",
+      "pub_time": "2026-05-08 06:57:16",
+      "publication": "The Guardian",
+      "author": "Kiran Stacey",
+      "headline": "Leadership of British PM Starmer is on the line after a disastrous election night",
+      "article_headline": "Leadership of British PM Starmer is on the line after a disastrous election night"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 07:00:18",
+      "pub_time": "2026-05-08 06:56:44",
+      "publication": "Vox",
+      "author": "Dylan Scott",
+      "headline": "How worrying is the hantavirus?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 07:00:18",
+      "pub_time": "2026-05-08 06:56:05",
+      "publication": "Vox",
+      "author": "Dylan Scott",
+      "headline": "How worrying is the hantavirus?",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-05-08 08:40:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ADfkj8O-8Tqu5WUTZu3bUPQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-08 08:40:16",
+      "pub_time": "2026-05-08 08:13:18",
+      "publication": "The Wall Street Journal",
+      "author": "Chao Deng",
+      "headline": "U.S. adds 115,000 jobs with solid hiring across sectors",
+      "article_headline": "U.S. adds 115,000 jobs with solid hiring across sectors"
+    },
+    {
+      "link": "https://apple.news/AEJvLW_6YSrOxaSnzXK5nGA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-08 08:40:16",
+      "pub_time": "2026-05-08 08:13:45",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe, Karen DeYoung, and Tara Copp",
+      "headline": "Trump says ceasefire still intact after burst of violence with Iran",
+      "article_headline": "Trump says ceasefire still intact after burst of violence with Iran"
+    },
+    {
+      "link": "https://apple.news/AYpBoy4OoTL-rVx-5TEN1Eg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-08 08:40:16",
+      "pub_time": "2026-05-08 08:14:13",
+      "publication": "Fox News",
+      "author": "Peter Doocy and Robert McGreevy",
+      "headline": "Trump administration releases highly anticipated files documenting UFOs",
+      "article_headline": "Trump administration releases highly anticipated files documenting UFOs"
+    },
+    {
+      "link": "https://apple.news/AEJvLW_6YSrOxaSnzXK5nGA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-08 08:40:16",
+      "pub_time": "2026-05-08 08:12:45",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe, Karen DeYoung, and Tara Copp",
+      "headline": "Trump says ceasefire still intact after burst of violence with Iran",
+      "article_headline": "Trump says ceasefire still intact after burst of violence with Iran"
+    },
+    {
+      "link": "https://apple.news/AYpBoy4OoTL-rVx-5TEN1Eg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-08 08:40:16",
+      "pub_time": "2026-05-08 08:13:13",
+      "publication": "Fox News",
+      "author": "Peter Doocy and Robert McGreevy",
+      "headline": "Trump administration releases highly anticipated files documenting UFOs",
+      "article_headline": "Trump administration releases highly anticipated files documenting UFOs"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 08:40:16",
+      "pub_time": "",
+      "publication": "Vox",
+      "author": "",
+      "headline": "How worrying is the hantavirus?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ARUfQw21oSpuQK0mXgi9WUw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-08 08:40:16",
+      "pub_time": "2026-05-08 08:12:46",
+      "publication": "Los Angeles Times",
+      "author": "Jenny Jarvie",
+      "headline": "Why it took 65 years for Los Angeles to build its most important rail line",
+      "article_headline": "Why it took 65 years for Los Angeles to build its most important rail line"
+    },
+    {
+      "link": "https://apple.news/Aa5jQ6hmtRnesGyxpdxgaSg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-08 08:40:16",
+      "pub_time": "2026-05-07 22:43:51",
+      "publication": "NBC News",
+      "author": "Phil Helsel",
+      "headline": "Missing hiker found dead of suspected bear attack in Glacier National Park",
+      "article_headline": "Missing hiker found dead of suspected bear attack in Glacier National Park"
+    },
+    {
+      "link": "https://apple.news/A-ixAeBWeTl-_lTjzYMn2Qg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-08 08:40:16",
+      "pub_time": "2026-05-07 13:44:19",
+      "publication": "Real Simple",
+      "author": "Lisa Milbrand",
+      "headline": "8 Things You Should Never Store in Your Bedroom Closet, According to Organizers",
+      "article_headline": "8 Things You Should Never Store in Your Bedroom Closet, According to Organizers"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-08 08:40:16",
+      "pub_time": "2026-05-07 08:44:46",
+      "publication": "",
+      "author": "Darren Orf",
+      "headline": "A Boeing 737 Flew Itself for 2 Hours Before Crashing. Only One Person Remained Conscious.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A7afgfWFFQceVRrcWiOYLBA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-08 08:40:16",
+      "pub_time": "2026-05-08 05:44:53",
+      "publication": "Mashable",
+      "author": "Shannon Connellan",
+      "headline": "John Krasinski's interview with Stephen Colbert is a wild ride",
+      "article_headline": "John Krasinski's interview with Stephen Colbert is a wild ride"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-08 06:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AWWEnHqB_RgeQJsQOHYSLQg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-08 06:40:17",
+      "pub_time": "2026-05-08 06:22:18",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Clash between U.S. and Iran in the Gulf threatens hopes for a quick peace deal",
+      "article_headline": "Clash between U.S. and Iran in the Gulf threatens hopes for a quick peace deal"
+    },
+    {
+      "link": "https://apple.news/Arif1Y4KXTd61uBkO3rwtUw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-08 06:40:17",
+      "pub_time": "2026-05-08 06:22:46",
+      "publication": "ABC News",
+      "author": "Max Zahn",
+      "headline": "Monthly jobs report set to show hiring as Iran war took hold",
+      "article_headline": "Monthly jobs report set to show hiring as Iran war took hold"
+    },
+    {
+      "link": "https://apple.news/Arif1Y4KXTd61uBkO3rwtUw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-08 06:40:17",
+      "pub_time": "2026-05-08 06:21:18",
+      "publication": "ABC News",
+      "author": "Max Zahn",
+      "headline": "Monthly jobs report set to show hiring as Iran war took hold",
+      "article_headline": "Monthly jobs report set to show hiring as Iran war took hold"
+    },
+    {
+      "link": "https://apple.news/Av7OOMjZXRBCmohoQom4R2Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-08 06:40:17",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Leadership of British PM Starmer is on the line after a disastrous election night",
+      "article_headline": "Leadership of British PM Starmer is on the line after a disastrous election night"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 06:40:17",
+      "pub_time": "2026-05-08 06:22:14",
+      "publication": "Vox",
+      "author": "Dylan Scott",
+      "headline": "How worrying is the hantavirus?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 06:40:17",
+      "pub_time": "2026-05-08 06:21:20",
+      "publication": "Vox",
+      "author": "Dylan Scott",
+      "headline": "How worrying is the hantavirus?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ARUfQw21oSpuQK0mXgi9WUw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-08 06:40:17",
+      "pub_time": "2026-05-08 06:21:20",
+      "publication": "Los Angeles Times",
+      "author": "Jenny Jarvie",
+      "headline": "Why it took 65 years for Los Angeles to build its most important rail line",
+      "article_headline": "Why it took 65 years for Los Angeles to build its most important rail line"
+    }
+  ]
+}

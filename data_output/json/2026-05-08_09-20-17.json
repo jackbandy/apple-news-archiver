@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-05-08 09:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ADfkj8O-8Tqu5WUTZu3bUPQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-08 09:20:17",
+      "pub_time": "2026-05-08 08:44:18",
+      "publication": "The Wall Street Journal",
+      "author": "Chao Deng",
+      "headline": "U.S. adds 115,000 jobs with solid hiring across sectors",
+      "article_headline": "U.S. adds 115,000 jobs with solid hiring across sectors"
+    },
+    {
+      "link": "https://apple.news/AEJvLW_6YSrOxaSnzXK5nGA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-08 09:20:17",
+      "pub_time": "2026-05-08 08:44:45",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe, Karen DeYoung, and Tara Copp",
+      "headline": "Trump says ceasefire still intact after burst of violence with Iran",
+      "article_headline": "Trump says ceasefire still intact after burst of violence with Iran"
+    },
+    {
+      "link": "https://apple.news/AYpBoy4OoTL-rVx-5TEN1Eg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-08 09:20:17",
+      "pub_time": "2026-05-08 08:45:13",
+      "publication": "Fox News",
+      "author": "Peter Doocy and Robert McGreevy",
+      "headline": "Trump administration releases highly anticipated files documenting UFOs",
+      "article_headline": "Trump administration releases highly anticipated files documenting UFOs"
+    },
+    {
+      "link": "https://apple.news/AEJvLW_6YSrOxaSnzXK5nGA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-08 09:20:17",
+      "pub_time": "2026-05-08 08:44:46",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe, Karen DeYoung, and Tara Copp",
+      "headline": "Trump says ceasefire still intact after burst of violence with Iran",
+      "article_headline": "Trump says ceasefire still intact after burst of violence with Iran"
+    },
+    {
+      "link": "https://apple.news/AYpBoy4OoTL-rVx-5TEN1Eg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-08 09:20:17",
+      "pub_time": "2026-05-08 08:45:14",
+      "publication": "Fox News",
+      "author": "Peter Doocy and Robert McGreevy",
+      "headline": "Trump administration releases highly anticipated files documenting UFOs",
+      "article_headline": "Trump administration releases highly anticipated files documenting UFOs"
+    },
+    {
+      "link": "https://apple.news/AAO6vVhqITE2PpSvKK2vpAA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-08 09:20:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Spain readies for evacuations as a hantavirus-hit cruise ship heads for the Canary Islands",
+      "article_headline": "Spain readies for evacuations as a hantavirus-hit cruise ship heads for the Canary Islands"
+    },
+    {
+      "link": "https://apple.news/AL9BDeNMKQ_uBg-o8TSZ5mw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-08 09:20:17",
+      "pub_time": "2026-05-08 08:45:13",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Security incident hits education platform Canvas as finals loom for students across U.S.",
+      "article_headline": "Security incident hits education platform Canvas as finals loom for students across U.S."
+    }
+  ]
+}
