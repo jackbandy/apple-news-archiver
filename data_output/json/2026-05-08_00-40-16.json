@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-05-08 00:40:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ARYu_S_SqQEeeH8GbkNAQUw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-08 00:40:16",
+      "pub_time": "2026-05-08 00:00:18",
+      "publication": "Reuters",
+      "author": "Idrees Ali and Hatem Maher",
+      "headline": "Trump says ceasefire still holds after fighting between the U.S. and Iran flares",
+      "article_headline": "Trump says ceasefire still holds after fighting between the US and Iran flares"
+    },
+    {
+      "link": "https://apple.news/AVjMLtw5NTQ2Wyi9ethvvWA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-08 00:40:16",
+      "pub_time": "",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "U.S. trade court rules against Trump’s latest global tariffs",
+      "article_headline": "U.S. trade court rules against Trump’s latest global tariffs"
+    },
+    {
+      "link": "https://apple.news/AvS9njphaQyGsi1yCpbsTCg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-08 00:40:16",
+      "pub_time": "2026-05-08 00:00:18",
+      "publication": "The Colorado Sun",
+      "author": "",
+      "headline": "Man gets life in prison in Colorado firebombing attack on pro-Israel demonstrators",
+      "article_headline": "Man gets life in prison in Colorado firebombing attack on pro-Israel demonstrators"
+    },
+    {
+      "link": "https://apple.news/AQYCVcU5KRW6c9BR10elgoQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-08 00:40:16",
+      "pub_time": "2026-05-08 00:00:45",
+      "publication": "The Washington Post",
+      "author": "Meryl Kornfield",
+      "headline": "Judge rules DOGE’s cuts to humanities grants were unconstitutional",
+      "article_headline": "Judge rules DOGE’s cuts to humanities grants were unconstitutional"
+    },
+    {
+      "link": "https://apple.news/AvS9njphaQyGsi1yCpbsTCg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-08 00:40:16",
+      "pub_time": "2026-05-08 00:00:19",
+      "publication": "The Colorado Sun",
+      "author": "",
+      "headline": "Man gets life in prison in Colorado firebombing attack on pro-Israel demonstrators",
+      "article_headline": "Man gets life in prison in Colorado firebombing attack on pro-Israel demonstrators"
+    },
+    {
+      "link": "https://apple.news/AQYCVcU5KRW6c9BR10elgoQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-08 00:40:16",
+      "pub_time": "2026-05-08 00:00:45",
+      "publication": "The Washington Post",
+      "author": "Meryl Kornfield",
+      "headline": "Judge rules DOGE’s cuts to humanities grants were unconstitutional",
+      "article_headline": "Judge rules DOGE’s cuts to humanities grants were unconstitutional"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 00:40:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Scientists have finally figured out how fast the universe is expanding",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ab-1wZaauQkqCjGo1hN1C_A",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-08 00:40:16",
+      "pub_time": "2026-05-07 14:43:49",
+      "publication": "Good Housekeeping",
+      "author": "Brigitt Earley",
+      "headline": "Most People Do This Before Starting the Washer—but Shouldn’t",
+      "article_headline": "Most People Do This Before Starting the Washer—but Shouldn’t"
+    },
+    {
+      "link": "https://apple.news/ALOLtrhttTV6rzjabiUcIiw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-08 00:40:16",
+      "pub_time": "2026-05-07 15:44:16",
+      "publication": "House Beautiful",
+      "author": "Alyssa Khan",
+      "headline": "Here’s What American Bedrooms Looked Like the Year You Were Born",
+      "article_headline": "Here’s What American Bedrooms Looked Like the Year You Were Born"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-08 00:40:16",
+      "pub_time": "2026-05-07 11:44:50",
+      "publication": "",
+      "author": "Kat Brancato",
+      "headline": "8 Plants You Should Never Deadhead, Expert Gardeners Say",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AFwcozK2fRNmFeIzisbdGjw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-08 00:40:16",
+      "pub_time": "2026-05-07 17:44:50",
+      "publication": "People",
+      "author": "Desiree Anello",
+      "headline": "Robotic Dog on Leashed Walk Leaves Golden Retriever Too Stunned to Move",
+      "article_headline": "Robotic Dog on Leashed Walk Leaves Golden Retriever Too Stunned to Move"
+    }
+  ]
+}

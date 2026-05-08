@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-08 04:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ARYu_S_SqQEeeH8GbkNAQUw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-08 04:00:17",
+      "pub_time": "2026-05-08 00:00:18",
+      "publication": "Reuters",
+      "author": "Idrees Ali and Hatem Maher",
+      "headline": "Trump says ceasefire still holds after fighting between the U.S. and Iran flares",
+      "article_headline": "Trump says ceasefire still holds after fighting between the US and Iran flares"
+    },
+    {
+      "link": "https://apple.news/AVjMLtw5NTQ2Wyi9ethvvWA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-08 04:00:17",
+      "pub_time": "",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "U.S. trade court rules against Trump’s latest global tariffs",
+      "article_headline": "U.S. trade court rules against Trump’s latest global tariffs"
+    },
+    {
+      "link": "https://apple.news/AvS9njphaQyGsi1yCpbsTCg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-08 04:00:17",
+      "pub_time": "2026-05-08 00:01:18",
+      "publication": "The Colorado Sun",
+      "author": "",
+      "headline": "Man gets life in prison in Colorado firebombing attack on pro-Israel demonstrators",
+      "article_headline": "Man gets life in prison in Colorado firebombing attack on pro-Israel demonstrators"
+    },
+    {
+      "link": "https://apple.news/AQYCVcU5KRW6c9BR10elgoQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-08 04:00:17",
+      "pub_time": "2026-05-08 00:01:45",
+      "publication": "The Washington Post",
+      "author": "Meryl Kornfield",
+      "headline": "Judge rules DOGE’s cuts to humanities grants were unconstitutional",
+      "article_headline": "Judge rules DOGE’s cuts to humanities grants were unconstitutional"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 04:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Scientists have finally figured out how fast the universe is expanding",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 04:00:17",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "Inside the new gold rush sweeping California, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A881qEiJCQrmPqNHTffVYiA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-08 04:00:17",
+      "pub_time": "2026-05-08 02:02:32",
+      "publication": "The Guardian",
+      "author": "Helen Pilcher",
+      "headline": "Opinion | I made my husband ill with a few words – nobody is immune to the power of the nocebo effect",
+      "article_headline": "Opinion | I made my husband ill with a few words – nobody is immune to the power of the nocebo effect"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-08 06:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ARYu_S_SqQEeeH8GbkNAQUw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-08 06:00:17",
+      "pub_time": "2026-05-08 05:11:18",
+      "publication": "Reuters",
+      "author": "Idrees Ali and Hatem Maher",
+      "headline": "Trump says ceasefire still holds after fighting between the U.S. and Iran flares",
+      "article_headline": "Trump says ceasefire still holds after fighting between the US and Iran flares"
+    },
+    {
+      "link": "https://apple.news/AVjMLtw5NTQ2Wyi9ethvvWA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-08 06:00:17",
+      "pub_time": "",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "U.S. trade court rules against Trump’s latest global tariffs",
+      "article_headline": "U.S. trade court rules against Trump’s latest global tariffs"
+    },
+    {
+      "link": "https://apple.news/Arif1Y4KXTd61uBkO3rwtUw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-08 06:00:17",
+      "pub_time": "2026-05-08 05:11:19",
+      "publication": "ABC News",
+      "author": "Max Zahn",
+      "headline": "Monthly jobs report set to show hiring as Iran war took hold",
+      "article_headline": "Monthly jobs report set to show hiring as Iran war took hold"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 06:00:17",
+      "pub_time": "2026-05-08 05:11:46",
+      "publication": "The Wall Street Journal",
+      "author": "Jacob Passy",
+      "headline": "The 33-day “Atlantic Odyssey” that turned into a hantavirus nightmare",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ARUfQw21oSpuQK0mXgi9WUw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-08 06:00:17",
+      "pub_time": "2026-05-08 05:11:52",
+      "publication": "Los Angeles Times",
+      "author": "Jenny Jarvie",
+      "headline": "Why it took 65 years for Los Angeles to build its most important rail line",
+      "article_headline": "Why it took 65 years for Los Angeles to build its most important rail line"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 06:00:17",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "The unexpected, small-business ripple effects of the war in Iran",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ARUfQw21oSpuQK0mXgi9WUw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-08 06:00:17",
+      "pub_time": "2026-05-08 05:11:26",
+      "publication": "Los Angeles Times",
+      "author": "Jenny Jarvie",
+      "headline": "Why it took 65 years for Los Angeles to build its most important rail line",
+      "article_headline": "Why it took 65 years for Los Angeles to build its most important rail line"
+    },
+    {
+      "link": "https://apple.news/Ab-1wZaauQkqCjGo1hN1C_A",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-08 06:00:17",
+      "pub_time": "2026-05-07 15:03:24",
+      "publication": "Good Housekeeping",
+      "author": "Brigitt Earley",
+      "headline": "Most People Do This Before Starting the Washer—but Shouldn’t",
+      "article_headline": "Most People Do This Before Starting the Washer—but Shouldn’t"
+    },
+    {
+      "link": "https://apple.news/As51j5cFGTEe3ELZr5C8cpA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-08 06:00:17",
+      "pub_time": "2026-05-07 18:03:56",
+      "publication": "TheStreet",
+      "author": "Veronika Bondarenko",
+      "headline": "Another airline cancels flights until June, travelers offered refunds",
+      "article_headline": "Another airline cancels flights until June, travelers offered refunds"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-08 06:00:17",
+      "pub_time": "2026-05-07 16:04:23",
+      "publication": "",
+      "author": "Natalia Senanayake",
+      "headline": "Pregnant Natalie Portman Offers Rare Look into Her Life in ‘Paris Lately’ After Leaving U.S.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aa5jQ6hmtRnesGyxpdxgaSg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-08 06:00:17",
+      "pub_time": "2026-05-07 23:04:23",
+      "publication": "NBC News",
+      "author": "Phil Helsel",
+      "headline": "Missing hiker found dead of suspected bear attack in Glacier National Park",
+      "article_headline": "Missing hiker found dead of suspected bear attack in Glacier National Park"
+    }
+  ]
+}

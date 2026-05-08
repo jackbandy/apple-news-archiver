@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-08 05:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ARYu_S_SqQEeeH8GbkNAQUw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-08 05:40:17",
+      "pub_time": "2026-05-08 05:11:18",
+      "publication": "Reuters",
+      "author": "Idrees Ali and Hatem Maher",
+      "headline": "Trump says ceasefire still holds after fighting between the U.S. and Iran flares",
+      "article_headline": "Trump says ceasefire still holds after fighting between the US and Iran flares"
+    },
+    {
+      "link": "https://apple.news/AVjMLtw5NTQ2Wyi9ethvvWA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-08 05:40:17",
+      "pub_time": "",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "U.S. trade court rules against Trump’s latest global tariffs",
+      "article_headline": "U.S. trade court rules against Trump’s latest global tariffs"
+    },
+    {
+      "link": "https://apple.news/Arif1Y4KXTd61uBkO3rwtUw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-08 05:40:17",
+      "pub_time": "2026-05-08 05:11:18",
+      "publication": "ABC News",
+      "author": "Max Zahn",
+      "headline": "Monthly jobs report set to show hiring as Iran war took hold",
+      "article_headline": "Monthly jobs report set to show hiring as Iran war took hold"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 05:40:17",
+      "pub_time": "2026-05-08 05:11:46",
+      "publication": "The Wall Street Journal",
+      "author": "Jacob Passy",
+      "headline": "The 33-day “Atlantic Odyssey” that turned into a hantavirus nightmare",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ARUfQw21oSpuQK0mXgi9WUw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-08 05:40:17",
+      "pub_time": "2026-05-08 05:10:51",
+      "publication": "Los Angeles Times",
+      "author": "Jenny Jarvie",
+      "headline": "Why it took 65 years for Los Angeles to build its most important rail line",
+      "article_headline": "Why it took 65 years for Los Angeles to build its most important rail line"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 05:40:17",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "The unexpected, small-business ripple effects of the war in Iran",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aye3cZcvNSjSwVS_YdY0_bw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-08 05:40:17",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "How the world is racing to contact trace a rare virus",
+      "article_headline": ""
+    }
+  ]
+}
