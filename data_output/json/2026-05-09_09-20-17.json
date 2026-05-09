@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-09 09:20:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AaotZgxXwSeKOMGeAIe0k4A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-09 09:20:17",
+      "pub_time": "2026-05-09 08:20:19",
+      "publication": "The Wall Street Journal",
+      "author": "Summer Said and Sune Engel Rasmussen",
+      "headline": "Muted U.S. response to Iranian attacks deepens Gulf fears about ceasefire",
+      "article_headline": "Muted U.S. Response to Iranian Attacks Deepens Gulf Fears About Cease-Fire"
+    },
+    {
+      "link": "https://apple.news/ALHWphshhSBSaWXIYozNFGw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-09 09:20:17",
+      "pub_time": "2026-05-09 08:20:46",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "U.S. sending charter flight to bring Americans home from hantavirus cruise ship",
+      "article_headline": "U.S. sending charter flight to bring Americans home from hantavirus cruise ship"
+    },
+    {
+      "link": "https://apple.news/A9JxjpUKOSR6pFpEa0mbDng",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-09 09:20:17",
+      "pub_time": "2026-05-09 08:21:13",
+      "publication": "The Hill",
+      "author": "Steff Danielle Thomas",
+      "headline": "NTSB investigating after pedestrian hit by Frontier flight in Denver",
+      "article_headline": "NTSB investigating after pedestrian hit by Frontier flight in Denver"
+    },
+    {
+      "link": "https://apple.news/AsktS_Vq6STGKIFoDe4H3MQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-09 09:20:17",
+      "pub_time": "2026-05-09 08:21:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "What Russia’s low‑key Victory Day celebrations reveal about Putin and the war in Ukraine",
+      "article_headline": "What Russia’s low‑key Victory Day celebrations reveal about Putin and the war in Ukraine"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-09 09:20:17",
+      "pub_time": "2026-05-09 08:22:18",
+      "publication": "WIRED",
+      "author": "Lily Hay Newman and Andy Greenberg",
+      "headline": "The Canvas hack is a new kind of ransomware debacle",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-09 09:20:17",
+      "pub_time": "2026-05-09 08:22:18",
+      "publication": "The Washington Post",
+      "author": "Sydney Page",
+      "headline": "They knew they were dying soon, so they threw a party",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AVUPHqyHeRUuEzhzb5Vd2Nw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-09 09:20:17",
+      "pub_time": "",
+      "publication": "Why so many working people are homeless",
+      "author": "",
+      "headline": "A Pulitzer Prize–winning book exposes an invisible problem.,  Play Now  39 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AMo1ddrOPSFSkwMGm67scUw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-09 09:20:17",
+      "pub_time": "2026-05-09 03:23:31",
+      "publication": "Fast Company",
+      "author": "",
+      "headline": "If you see this iCloud message on your iPhone, don’t click it—it’s a scam",
+      "article_headline": "If you see this iCloud message on your iPhone, don’t click it—it’s a scam"
+    },
+    {
+      "link": "https://apple.news/AdK_4jBLySkmq-7obHI_2wA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-09 09:20:17",
+      "pub_time": "2026-05-09 06:23:58",
+      "publication": "TheStreet",
+      "author": "Jeffrey Quiggle",
+      "headline": "Fidelity sounds alarm on Social Security, 401(k)s, IRAs",
+      "article_headline": "Fidelity sounds alarm on Social Security, 401(k)s, IRAs"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-09 09:20:17",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Why So Many Women Are Running High, Apple News Plus, Anna Medaris",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AhXusDC9wTha3PKg0iSWG5Q",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-09 09:20:17",
+      "pub_time": "2026-05-08 16:24:31",
+      "publication": "CBS News",
+      "author": "Matt Richardson",
+      "headline": "$100,000 CD vs. $100,000 high-yield savings account vs. $100,000 money market account: Here's which will earn more interest now",
+      "article_headline": "$100,000 CD vs. $100,000 high-yield savings account vs. $100,000 money market account: Here's which will earn more interest now"
+    }
+  ]
+}

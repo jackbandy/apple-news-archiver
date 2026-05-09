@@ -1,0 +1,166 @@
+{
+  "run_time": "2026-05-09 11:20:16",
+  "story_count": 14,
+  "stories": [
+    {
+      "link": "https://apple.news/ACEZBVErJQCioEAc_MkPT-g",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-09 11:20:16",
+      "pub_time": "2026-05-09 11:09:18",
+      "publication": "Reuters",
+      "author": "Idrees Ali, Erin Banco, and Hatem Maher",
+      "headline": "U.S. and Iran no closer to ending the war as Tehran weighs its response",
+      "article_headline": "U.S. and Iran no closer to ending the war as Tehran weighs its response"
+    },
+    {
+      "link": "https://apple.news/AsnqyXi7QRt22Axga8YmgaQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-09 11:20:16",
+      "pub_time": "2026-05-09 11:09:45",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Canary Islands brace for arrival of hantavirus-hit cruise ship",
+      "article_headline": "Canary Islands brace for arrival of hantavirus-hit cruise ship"
+    },
+    {
+      "link": "https://apple.news/A9JxjpUKOSR6pFpEa0mbDng",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-09 11:20:16",
+      "pub_time": "2026-05-09 11:10:12",
+      "publication": "The Hill",
+      "author": "Steff Danielle Thomas",
+      "headline": "NTSB investigating after pedestrian hit by Frontier flight in Denver",
+      "article_headline": "NTSB investigating after pedestrian hit by Frontier flight in Denver"
+    },
+    {
+      "link": "https://apple.news/AsnqyXi7QRt22Axga8YmgaQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-09 11:20:16",
+      "pub_time": "2026-05-09 11:08:45",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Canary Islands brace for arrival of hantavirus-hit cruise ship",
+      "article_headline": "Canary Islands brace for arrival of hantavirus-hit cruise ship"
+    },
+    {
+      "link": "https://apple.news/A9JxjpUKOSR6pFpEa0mbDng",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-09 11:20:16",
+      "pub_time": "2026-05-09 11:09:12",
+      "publication": "The Hill",
+      "author": "Steff Danielle Thomas",
+      "headline": "NTSB investigating after pedestrian hit by Frontier flight in Denver",
+      "article_headline": "NTSB investigating after pedestrian hit by Frontier flight in Denver"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-09 11:20:16",
+      "pub_time": "2026-05-09 11:09:39",
+      "publication": "The Wall Street Journal",
+      "author": "Matthew Luxmoore",
+      "headline": "Putin presides over downsized military parade as Ukraine war drags on",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-09 11:20:16",
+      "pub_time": "2026-05-09 11:08:45",
+      "publication": "The Wall Street Journal",
+      "author": "Matthew Luxmoore",
+      "headline": "Putin presides over downsized military parade as Ukraine war drags on",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AMo1ddrOPSFSkwMGm67scUw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-09 11:20:16",
+      "pub_time": "2026-05-09 03:22:51",
+      "publication": "Fast Company",
+      "author": "",
+      "headline": "If you see this iCloud message on your iPhone, don’t click it—it’s a scam",
+      "article_headline": "If you see this iCloud message on your iPhone, don’t click it—it’s a scam"
+    },
+    {
+      "link": "https://apple.news/Ai6wPsok1S0yF6_yDvAh49g",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-09 11:20:16",
+      "pub_time": "2026-05-09 07:23:25",
+      "publication": "BuzzFeed",
+      "author": "Dave Stopera",
+      "headline": "I Hate To Break It To You, But If You're Old Enough To Recognize Even ONE Of These 50 Pictures, You Are Officially Ancient",
+      "article_headline": "I Hate To Break It To You, But If You're Old Enough To Recognize Even ONE Of These 50 Pictures, You Are Officially Ancient"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-09 11:20:16",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Why So Many Women Are Running High, Apple News Plus, Anna Medaris",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A6JMEvDGdQBeGVbZ8qCYq-A",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-09 11:20:16",
+      "pub_time": "2026-05-09 06:23:52",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Dear Abby: She's retired, lonely and wants a cat, but husband says no",
+      "article_headline": "Dear Abby: She's retired, lonely and wants a cat, but husband says no"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-05-09 11:20:16",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "Can exercise offset the health risks of alcohol? , Hannah Singleton",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-05-09 11:20:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "This detox could undo years of social media’s effect on your brain, Ariana Eunjung Cha",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-05-09 11:20:16",
+      "pub_time": "",
+      "publication": "Consumer Reports",
+      "author": "",
+      "headline": "Eight cars you should never buy, according to experts",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
