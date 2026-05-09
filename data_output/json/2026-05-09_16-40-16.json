@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-05-09 16:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AjY4RxHY_RZassQk6P9E2NA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-09 16:40:16",
+      "pub_time": "2026-05-09 16:18:18",
+      "publication": "Louisiana Illuminator",
+      "author": "Wesley Muller",
+      "headline": "Louisiana’s start to U.S. House redistricting riles lawmakers, voting rights advocates",
+      "article_headline": "Louisiana’s start to U.S. House redistricting riles lawmakers, voting rights advocates"
+    },
+    {
+      "link": "https://apple.news/ACEZBVErJQCioEAc_MkPT-g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-09 16:40:16",
+      "pub_time": "2026-05-09 16:18:45",
+      "publication": "Reuters",
+      "author": "Idrees Ali, Erin Banco, and Hatem Maher",
+      "headline": "U.S., Iran no closer to ending the war as Qatari tanker sails toward Strait of Hormuz",
+      "article_headline": "U.S., Iran no closer to ending the war as Qatari tanker sails toward Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AEKGsmiWzQmiRk-vWB1IVFw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-09 16:40:16",
+      "pub_time": "2026-05-09 16:19:13",
+      "publication": "The Guardian",
+      "author": "Ashifa Kassam and Flora Garamvolgyi",
+      "headline": "Péter Magyar becomes Hungary’s prime minister, ending the 16-year Viktor Orbán era",
+      "article_headline": "Péter Magyar becomes Hungary’s prime minister, ending the 16-year Viktor Orbán era"
+    },
+    {
+      "link": "https://apple.news/ACEZBVErJQCioEAc_MkPT-g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-09 16:40:16",
+      "pub_time": "2026-05-09 16:18:46",
+      "publication": "Reuters",
+      "author": "Idrees Ali, Erin Banco, and Hatem Maher",
+      "headline": "U.S., Iran no closer to ending the war as Qatari tanker sails toward Strait of Hormuz",
+      "article_headline": "U.S., Iran no closer to ending the war as Qatari tanker sails toward Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AEKGsmiWzQmiRk-vWB1IVFw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-09 16:40:16",
+      "pub_time": "2026-05-09 16:19:14",
+      "publication": "The Guardian",
+      "author": "Ashifa Kassam and Flora Garamvolgyi",
+      "headline": "Péter Magyar becomes Hungary’s prime minister, ending the 16-year Viktor Orbán era",
+      "article_headline": "Péter Magyar becomes Hungary’s prime minister, ending the 16-year Viktor Orbán era"
+    },
+    {
+      "link": "https://apple.news/AQmc0y8EVQpuv7BUqYqZDhg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-09 16:40:16",
+      "pub_time": "2026-05-09 16:18:41",
+      "publication": "NPR",
+      "author": "Alana Wise",
+      "headline": "CDC says threat of widespread outbreak of hantavirus remains low",
+      "article_headline": "CDC says threat of widespread outbreak of hantavirus remains low"
+    },
+    {
+      "link": "https://apple.news/AQmc0y8EVQpuv7BUqYqZDhg",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-09 16:40:16",
+      "pub_time": "2026-05-09 16:18:14",
+      "publication": "NPR",
+      "author": "Alana Wise",
+      "headline": "CDC says threat of widespread outbreak of hantavirus remains low",
+      "article_headline": "CDC says threat of widespread outbreak of hantavirus remains low"
+    }
+  ]
+}
