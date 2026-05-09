@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-09 04:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AaotZgxXwSeKOMGeAIe0k4A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-09 04:00:17",
+      "pub_time": "2026-05-09 01:00:19",
+      "publication": "The Wall Street Journal",
+      "author": "Summer Said and Sune Engel Rasmussen",
+      "headline": "Muted U.S. response to Iranian attacks deepens Gulf fears about ceasefire",
+      "article_headline": "Muted U.S. Response to Iranian Attacks Deepens Gulf Fears About Cease-Fire"
+    },
+    {
+      "link": "https://apple.news/ALHWphshhSBSaWXIYozNFGw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-09 04:00:17",
+      "pub_time": "2026-05-09 01:00:46",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "U.S. sending charter flight to bring Americans home from hantavirus cruise ship",
+      "article_headline": "U.S. sending charter flight to bring Americans home from hantavirus cruise ship"
+    },
+    {
+      "link": "https://apple.news/AsktS_Vq6STGKIFoDe4H3MQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-09 04:00:17",
+      "pub_time": "2026-05-09 01:01:13",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "What Russia’s low‑key Victory Day celebrations reveal about Putin and the war in Ukraine",
+      "article_headline": "What Russia’s low‑key Victory Day celebrations reveal about Putin and the war in Ukraine"
+    },
+    {
+      "link": "https://apple.news/AYcJCSKvsTHOuOU2nwDKEEg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-09 04:00:17",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Trump administration ramps up denaturalization campaign",
+      "article_headline": "Trump administration ramps up denaturalization campaign"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-09 04:00:17",
+      "pub_time": "2026-05-09 00:02:19",
+      "publication": "WIRED",
+      "author": "Lily Hay Newman and Andy Greenberg",
+      "headline": "The Canvas hack is a new kind of ransomware debacle",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-09 04:00:17",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The Savannah Bananas are bringing back a controversial Negro Leagues team, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_rdIav6GSmSXX7v2hP-oVw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-09 04:00:17",
+      "pub_time": "2026-05-08 09:02:24",
+      "publication": "Entrepreneur",
+      "author": "",
+      "headline": "Burger King's CEO Took Calls From 1,500 Customers. What Happened Next Is Already Showing Up in Restaurants.",
+      "article_headline": "Burger King's CEO Took Calls From 1,500 Customers. What Happened Next Is Already Showing Up in Restaurants."
+    },
+    {
+      "link": "https://apple.news/Av49aQWcyRfW7ImH8G-QCuQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-09 04:00:17",
+      "pub_time": "2026-05-08 20:02:51",
+      "publication": "BuzzFeed",
+      "author": "Dave Stopera",
+      "headline": "I'm Extremely Worried That The Entire World Is Getting Dumber And Dumber And These 50 Incredibly Dumb Posts Are All The Proof I Need",
+      "article_headline": "I'm Extremely Worried That The Entire World Is Getting Dumber And Dumber And These 50 Incredibly Dumb Posts Are All The Proof I Need"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-09 04:00:17",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Why So Many Women Are Running High, Apple News Plus, Anna Medaris",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A9PHP3eDJQz-i_XGsH0C_nQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-09 04:00:17",
+      "pub_time": "2026-05-08 15:03:25",
+      "publication": "TheStreet",
+      "author": "Nina Zdinjak and Celine Provini",
+      "headline": "Papa Johns sees three alarming shifts in customer behavior",
+      "article_headline": "Papa Johns sees three alarming shifts in customer behavior"
+    },
+    {
+      "link": "https://apple.news/AalZ-V4GhSb2MZi2B3QQYcw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-09 04:00:17",
+      "pub_time": "2026-05-08 04:04:07",
+      "publication": "People",
+      "author": "Chiara Kim and Caroline Killilea",
+      "headline": "Stanley Tucci Breaks His Own Rule of Not Exposing Restaurants He Dislikes by Roasting Olive Garden: 'I Still Bear the Scars'",
+      "article_headline": "Stanley Tucci Breaks His Own Rule of Not Exposing Restaurants He Dislikes by Roasting Olive Garden: 'I Still Bear the Scars'"
+    }
+  ]
+}

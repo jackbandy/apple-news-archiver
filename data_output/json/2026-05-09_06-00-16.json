@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-09 06:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AaotZgxXwSeKOMGeAIe0k4A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-09 06:00:16",
+      "pub_time": "2026-05-09 01:00:18",
+      "publication": "The Wall Street Journal",
+      "author": "Summer Said and Sune Engel Rasmussen",
+      "headline": "Muted U.S. response to Iranian attacks deepens Gulf fears about ceasefire",
+      "article_headline": "Muted U.S. Response to Iranian Attacks Deepens Gulf Fears About Cease-Fire"
+    },
+    {
+      "link": "https://apple.news/ALHWphshhSBSaWXIYozNFGw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-09 06:00:16",
+      "pub_time": "2026-05-09 01:00:46",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "U.S. sending charter flight to bring Americans home from hantavirus cruise ship",
+      "article_headline": "U.S. sending charter flight to bring Americans home from hantavirus cruise ship"
+    },
+    {
+      "link": "https://apple.news/AsktS_Vq6STGKIFoDe4H3MQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-09 06:00:16",
+      "pub_time": "2026-05-09 01:01:13",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "What Russia’s low‑key Victory Day celebrations reveal about Putin and the war in Ukraine",
+      "article_headline": "What Russia’s low‑key Victory Day celebrations reveal about Putin and the war in Ukraine"
+    },
+    {
+      "link": "https://apple.news/AYcJCSKvsTHOuOU2nwDKEEg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-09 06:00:16",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Trump administration ramps up denaturalization campaign",
+      "article_headline": "Trump administration ramps up denaturalization campaign"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-09 06:00:16",
+      "pub_time": "2026-05-09 00:02:12",
+      "publication": "WIRED",
+      "author": "Lily Hay Newman and Andy Greenberg",
+      "headline": "The Canvas hack is a new kind of ransomware debacle",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-09 06:00:16",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The Savannah Bananas are bringing back a controversial Negro Leagues team, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AThG0UcBNQRKKUzd4BRHABw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-09 06:00:16",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Chicago-area woman finally gets a kidney transplant, thanks to a Sun-Times reader, after years of searching",
+      "article_headline": "Chicago-area woman finally gets a kidney transplant, thanks to a Sun-Times reader, after years of searching"
+    }
+  ]
+}
