@@ -1,0 +1,74 @@
+{
+  "run_time": "2026-05-08 20:40:14",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/A4HPvQmBNRNusY-b1j-uDNA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-08 20:40:14",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Virginia court tosses Democratic map, dealing major blow to party’s midterm hopes",
+      "article_headline": "Virginia court tosses Democratic map, dealing major blow to party’s midterm hopes"
+    },
+    {
+      "link": "https://apple.news/Ae8eblQzHTZmgnn8kdupuRg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-08 20:40:14",
+      "pub_time": "2026-05-08 18:40:43",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
+      "article_headline": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AVUiFkXkCTsOqy0IbTIQXOw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-08 20:40:14",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Disney’s ABC challenges the FCC, escalating fight over free speech",
+      "article_headline": "Disney's ABC challenges FCC, escalating fight over free speech"
+    },
+    {
+      "link": "https://apple.news/AP38BS5-NQTGKxWBb47fcvA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-08 20:40:14",
+      "pub_time": "2026-05-08 18:41:42",
+      "publication": "The Wall Street Journal",
+      "author": "Josh Dawsey and Liz Essley Whyte",
+      "headline": "Trump is planning to fire FDA Commissioner Marty Makary",
+      "article_headline": "Trump is planning to fire FDA Commissioner Marty Makary"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 20:40:14",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "Pregnancy reshapes the brain. But each pregnancy may do it differently.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 20:40:14",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The Savannah Bananas are bringing back a controversial Negro Leagues team, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

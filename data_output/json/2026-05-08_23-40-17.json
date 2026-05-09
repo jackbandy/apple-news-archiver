@@ -1,0 +1,74 @@
+{
+  "run_time": "2026-05-08 23:40:17",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/ARYu_S_SqQEeeH8GbkNAQUw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-08 23:40:17",
+      "pub_time": "2026-05-08 21:40:18",
+      "publication": "Reuters",
+      "author": "Idrees Ali, Erin Banco, and Hatem Maher",
+      "headline": "Iran could withstand U.S. blockade for four months, CIA report shows, as fighting flares",
+      "article_headline": "Tehran could withstand blockade for four months, CIA report shows, as fighting flares"
+    },
+    {
+      "link": "https://apple.news/AEiZCMcfVTB2sbrEN3cMm9g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-08 23:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump’s team expands redistricting push after scoring wins in court",
+      "article_headline": "Trump’s Team Expands Redistricting Push After Scoring Wins in Court"
+    },
+    {
+      "link": "https://apple.news/ApvBZZyUATC6I0iXHvX8DGg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-08 23:40:17",
+      "pub_time": "2026-05-08 21:41:18",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Rachel Roubein",
+      "headline": "White House prepares to replace FDA leader Marty Makary amid agency turmoil",
+      "article_headline": "White House prepares to replace FDA leader Marty Makary amid agency turmoil"
+    },
+    {
+      "link": "https://apple.news/Aqm-BH7NqSMSV41fmEViTlQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-08 23:40:17",
+      "pub_time": "2026-05-08 21:41:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. military strike on alleged drug boat in the eastern Pacific kills 2, leaves a survivor",
+      "article_headline": "US military strike on alleged drug boat in the eastern Pacific kills 2, leaves a survivor"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 23:40:17",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "Pregnancy reshapes the brain. But each pregnancy may do it differently.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-08 23:40:17",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The Savannah Bananas are bringing back a controversial Negro Leagues team, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
