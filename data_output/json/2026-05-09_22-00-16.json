@@ -1,0 +1,74 @@
+{
+  "run_time": "2026-05-09 22:00:16",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/A1N-G2wb9RGiXkdnpG3kceA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-09 22:00:16",
+      "pub_time": "2026-05-09 20:00:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Experts wonder “Where is the CDC?” as a hantavirus outbreak unfolds on a cruise ship",
+      "article_headline": "Experts wonder “Where is the CDC?” as a hantavirus outbreak unfolds on a cruise ship"
+    },
+    {
+      "link": "https://apple.news/AGP-mJaHETXSh8IXJvwVu7w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-09 22:00:16",
+      "pub_time": "2026-05-09 20:00:45",
+      "publication": "The Guardian",
+      "author": "Jason Burke",
+      "headline": "U.S. awaiting response from Iran over proposals for ceasefire deal, says Rubio",
+      "article_headline": "U.S. awaiting response from Iran over proposals for ceasefire deal, says Rubio"
+    },
+    {
+      "link": "https://apple.news/A8VAK2a8MRNGAwnuyhWbP6g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-09 22:00:16",
+      "pub_time": "2026-05-09 20:01:13",
+      "publication": "POLITICO",
+      "author": "Arianna Skibell",
+      "headline": "A data center drained 30 million gallons of water — until residents complained about low water pressure",
+      "article_headline": "A data center drained 30 million gallons of water — until residents complained about low water pressure"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-09 22:00:16",
+      "pub_time": "2026-05-09 20:01:46",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Saeedy and Ashley Wong",
+      "headline": "The JPMorgan banker behind the sexual-assault suit captivating Wall Street",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ArwXxkZjDR7mvvnsOnkMXmw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-09 22:00:16",
+      "pub_time": "2026-05-09 20:01:51",
+      "publication": "Axios",
+      "author": "Natalie Daher",
+      "headline": "Why so many small businesses are selling hats now",
+      "article_headline": "Why so many small businesses are selling hats now"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-09 22:00:16",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "The secret ways Delta caters to its elite flyers — as coach gets more miserable, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-09 20:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A1N-G2wb9RGiXkdnpG3kceA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-09 20:40:17",
+      "pub_time": "2026-05-09 19:58:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Experts wonder “Where is the CDC?” as a hantavirus outbreak unfolds on a cruise ship",
+      "article_headline": "Experts wonder “Where is the CDC?” as a hantavirus outbreak unfolds on a cruise ship"
+    },
+    {
+      "link": "https://apple.news/AGP-mJaHETXSh8IXJvwVu7w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-09 20:40:17",
+      "pub_time": "2026-05-09 19:57:45",
+      "publication": "The Guardian",
+      "author": "Jason Burke",
+      "headline": "U.S. awaiting response from Iran over proposals for ceasefire deal, says Rubio",
+      "article_headline": "U.S. awaiting response from Iran over proposals for ceasefire deal, says Rubio"
+    },
+    {
+      "link": "https://apple.news/A8VAK2a8MRNGAwnuyhWbP6g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-09 20:40:17",
+      "pub_time": "2026-05-09 19:58:13",
+      "publication": "POLITICO",
+      "author": "Arianna Skibell",
+      "headline": "A data center drained 30 million gallons of water — until residents complained about low water pressure",
+      "article_headline": "A data center drained 30 million gallons of water — until residents complained about low water pressure"
+    },
+    {
+      "link": "https://apple.news/AGP-mJaHETXSh8IXJvwVu7w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-09 20:40:17",
+      "pub_time": "2026-05-09 19:57:46",
+      "publication": "The Guardian",
+      "author": "Jason Burke",
+      "headline": "U.S. awaiting response from Iran over proposals for ceasefire deal, says Rubio",
+      "article_headline": "U.S. awaiting response from Iran over proposals for ceasefire deal, says Rubio"
+    },
+    {
+      "link": "https://apple.news/A8VAK2a8MRNGAwnuyhWbP6g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-09 20:40:17",
+      "pub_time": "2026-05-09 19:58:14",
+      "publication": "POLITICO",
+      "author": "Arianna Skibell",
+      "headline": "A data center drained 30 million gallons of water — until residents complained about low water pressure",
+      "article_headline": "A data center drained 30 million gallons of water — until residents complained about low water pressure"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-09 20:40:17",
+      "pub_time": "2026-05-09 19:58:42",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Saeedy and Ashley Wong",
+      "headline": "The JPMorgan banker behind the sexual-assault suit captivating Wall Street",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-09 20:40:17",
+      "pub_time": "2026-05-09 19:57:47",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Saeedy and Ashley Wong",
+      "headline": "The JPMorgan banker behind the sexual-assault suit captivating Wall Street",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AxPjpbx7nQtGZl8lULyO-Jg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-09 20:40:17",
+      "pub_time": "2026-05-09 06:43:38",
+      "publication": "HuffPost",
+      "author": "Katherine Speller",
+      "headline": "Gmail Users Were Automatically Opted In to This Controversial Setting. Here's How To Turn It Off.",
+      "article_headline": "Gmail Users Were Automatically Opted In to This Controversial Setting. Here's How To Turn It Off."
+    },
+    {
+      "link": "https://apple.news/AdyNU4AIxQRyrYX_EjeBwXQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-09 20:40:17",
+      "pub_time": "2026-05-09 06:44:05",
+      "publication": "BuzzFeed",
+      "author": "Brian Galindo",
+      "headline": "People Who Grew Up Poor Are Sharing Things Middle-Class People Say That Reveal They've Never Really Struggled",
+      "article_headline": "People Who Grew Up Poor Are Sharing Things Middle-Class People Say That Reveal They've Never Really Struggled"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-09 20:40:17",
+      "pub_time": "2026-05-08 20:44:39",
+      "publication": "",
+      "author": "Kristin Wong",
+      "headline": "I Accidentally Opened My Girlfriend’s Tax Return. I Learned She’s Been Lying to Me for Years.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ay-FvMGWlR2WtFqtD87VRDg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-09 20:40:17",
+      "pub_time": "2026-05-09 18:44:39",
+      "publication": "NBC News",
+      "author": "Weekend Nightly",
+      "headline": "Dramatic video shows moment Frontier Airlines flight hits trespasser on runway",
+      "article_headline": "Dramatic video shows moment Frontier Airlines flight hits trespasser on runway"
+    }
+  ]
+}
