@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-10 02:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ADi3C71zHQFmPLwf3SqZifg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-10 02:20:16",
+      "pub_time": "2026-05-09 23:20:18",
+      "publication": "The Washington Post",
+      "author": "Maegan Vazquez",
+      "headline": "U.S. outlines plan to monitor Americans returning from hantavirus-hit ship",
+      "article_headline": "U.S. outlines plan to monitor Americans returning from hantavirus-hit ship"
+    },
+    {
+      "link": "https://apple.news/A1jb4CGFcTju6IqSQc5iR7w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-10 02:20:16",
+      "pub_time": "2026-05-09 23:20:45",
+      "publication": "Reuters",
+      "author": "Vladimir Soldatkin and Guy Faulconbridge",
+      "headline": "Putin says he thinks Russia-Ukraine war is coming to an end",
+      "article_headline": "Putin says he thinks Russia-Ukraine war is coming to an end"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-10 02:20:16",
+      "pub_time": "2026-05-09 23:21:18",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon, Henna Moussavi, and Margherita Stancati",
+      "headline": "Iran’s supreme leader is MIA, just when negotiators need him most",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/APhcYu_wrTqe80ofJY456Dw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-10 02:20:16",
+      "pub_time": "",
+      "publication": "Inside Climate News",
+      "author": "",
+      "headline": "As a Colorado aquifer runs low, dangerous heavy metals threaten rural communities’ drinking water",
+      "article_headline": "As a Colorado aquifer runs low, dangerous heavy metals threaten rural communities’ drinking water"
+    },
+    {
+      "link": "https://apple.news/A_YCa0dyrSJuf1EnMXCKQ9g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-10 02:20:16",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Steve Kerr is staying with the Warriors. What’s next for Steph Curry and Draymond Green?",
+      "article_headline": "Steve Kerr is staying with the Warriors. What’s next for Steph Curry and Draymond Green?"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-10 02:20:16",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "The secret ways Delta caters to its elite flyers — as coach gets more miserable, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AVUPHqyHeRUuEzhzb5Vd2Nw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-10 02:20:16",
+      "pub_time": "",
+      "publication": "Why so many working people are homeless",
+      "author": "",
+      "headline": "A Pulitzer Prize–winning book exposes an invisible problem.,  Play Now  39 min",
+      "article_headline": ""
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-10 05:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ADi3C71zHQFmPLwf3SqZifg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-10 05:00:17",
+      "pub_time": "2026-05-10 00:00:19",
+      "publication": "The Washington Post",
+      "author": "Maegan Vazquez",
+      "headline": "U.S. outlines plan to monitor Americans returning from hantavirus-hit ship",
+      "article_headline": "U.S. outlines plan to monitor Americans returning from hantavirus-hit ship"
+    },
+    {
+      "link": "https://apple.news/A1jb4CGFcTju6IqSQc5iR7w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-10 05:00:17",
+      "pub_time": "2026-05-10 00:00:46",
+      "publication": "Reuters",
+      "author": "Vladimir Soldatkin and Guy Faulconbridge",
+      "headline": "Putin says he thinks Russia-Ukraine war is coming to an end",
+      "article_headline": "Putin says he thinks Russia-Ukraine war is coming to an end"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-10 05:00:17",
+      "pub_time": "2026-05-10 00:01:19",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon, Henna Moussavi, and Margherita Stancati",
+      "headline": "Iran’s supreme leader is MIA, just when negotiators need him most",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/APhcYu_wrTqe80ofJY456Dw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-10 05:00:17",
+      "pub_time": "",
+      "publication": "Inside Climate News",
+      "author": "",
+      "headline": "As a Colorado aquifer runs low, dangerous heavy metals threaten rural communities’ drinking water",
+      "article_headline": "As a Colorado aquifer runs low, dangerous heavy metals threaten rural communities’ drinking water"
+    },
+    {
+      "link": "https://apple.news/A_YCa0dyrSJuf1EnMXCKQ9g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-10 05:00:17",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Steve Kerr is staying with the Warriors. What’s next for Steph Curry and Draymond Green?",
+      "article_headline": "Steve Kerr is staying with the Warriors. What’s next for Steph Curry and Draymond Green?"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-10 05:00:17",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "The secret ways Delta caters to its elite flyers — as coach gets more miserable, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AlhqHr8_LQeKL7u105ZZjeg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-10 05:00:17",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Jim’s Original, known for its Maxwell Street Polish, has to move for UIC redevelopment",
+      "article_headline": "Jim’s Original, known for its Maxwell Street Polish, has to move for UIC redevelopment"
+    },
+    {
+      "link": "https://apple.news/AvsxN4DQVSame_FX7fAi51Q",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-10 05:00:17",
+      "pub_time": "2026-05-09 06:03:46",
+      "publication": "Travel + Leisure",
+      "author": "Olivia Young",
+      "headline": "This Inflatable Glamping Tent Looks Like a Tiny Home—and Costs Less Than 1 Night in a Hotel",
+      "article_headline": "This Inflatable Glamping Tent Looks Like a Tiny Home—and Costs Less Than 1 Night in a Hotel"
+    },
+    {
+      "link": "https://apple.news/AxebuZ1WmQyq3_fV1E9D_8w",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-10 05:00:17",
+      "pub_time": "2026-05-09 06:04:13",
+      "publication": "HuffPost",
+      "author": "Jillian Wilson",
+      "headline": "Experts Warn These Early Dementia Signs Often Get Missed — But Early Detection Makes A Big Difference",
+      "article_headline": "Experts Warn These Early Dementia Signs Often Get Missed — But Early Detection Makes A Big Difference"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-10 05:00:17",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Why So Many Women Are Running High, Apple News Plus, Anna Medaris",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AeRmIlZd8RCqeXdZ1qWnoSA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-10 05:00:17",
+      "pub_time": "2026-05-09 16:04:46",
+      "publication": "Real Simple",
+      "author": "Mary Marlowe Leverette",
+      "headline": "Does Cold Water Clean Clothes as Well as Hot? Here's What Experts Say",
+      "article_headline": "Does Cold Water Clean Clothes as Well as Hot? Here's What Experts Say"
+    }
+  ]
+}
