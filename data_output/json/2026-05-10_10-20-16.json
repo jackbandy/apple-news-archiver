@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-05-10 10:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A1rjI8ZjXQbqk_TO3GdL7Wg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-10 10:20:16",
+      "pub_time": "2026-05-10 09:50:18",
+      "publication": "NBC News",
+      "author": "Phil Helsel, Mo Abbas, Daniele Hamamdjian, and Freddie Clayton",
+      "headline": "Evacuation of passengers from hantavirus-hit cruise ship begins in Tenerife",
+      "article_headline": "Evacuation of passengers from hantavirus-hit cruise ship begins in Tenerife"
+    },
+    {
+      "link": "https://apple.news/A1KaYbNXoT0uFNqeQ4yAmeA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-10 10:20:16",
+      "pub_time": "2026-05-10 09:50:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran responds to ceasefire proposal as drones target Gulf nations",
+      "article_headline": "Iran responds to ceasefire proposal as drones target Gulf nations"
+    },
+    {
+      "link": "https://apple.news/A5FYdMo-QQkCZxwKlEjehMg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-10 10:20:16",
+      "pub_time": "2026-05-10 09:51:13",
+      "publication": "NPR",
+      "author": "Chandelis Duster",
+      "headline": "Keir Starmer’s party lost big in U.K. local elections. Here’s what comes next.",
+      "article_headline": "Keir Starmer’s party lost big in U.K. local elections. Here’s what comes next."
+    },
+    {
+      "link": "https://apple.news/A1KaYbNXoT0uFNqeQ4yAmeA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-10 10:20:16",
+      "pub_time": "2026-05-10 09:50:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran responds to ceasefire proposal as drones target Gulf nations",
+      "article_headline": "Iran responds to ceasefire proposal as drones target Gulf nations"
+    },
+    {
+      "link": "https://apple.news/A5FYdMo-QQkCZxwKlEjehMg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-10 10:20:16",
+      "pub_time": "2026-05-10 09:51:13",
+      "publication": "NPR",
+      "author": "Chandelis Duster",
+      "headline": "Keir Starmer’s party lost big in U.K. local elections. Here’s what comes next.",
+      "article_headline": "Keir Starmer’s party lost big in U.K. local elections. Here’s what comes next."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-10 10:20:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Why the Colorado River is once again facing a water crisis",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AZNcOq-pxSDmhzFNs0gijcA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-10 10:20:16",
+      "pub_time": "",
+      "publication": "Yahoo Sports",
+      "author": "",
+      "headline": "Ranking the top 60 prospects in this year's NBA Draft Lottery class",
+      "article_headline": "Ranking the top 60 prospects in this year's NBA Draft Lottery class"
+    },
+    {
+      "link": "https://apple.news/A4Ufr8PUqTDWnaQFZzaZZaw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-10 10:20:16",
+      "pub_time": "2026-05-10 06:23:19",
+      "publication": "HuffPost",
+      "author": "Julie Kendrick",
+      "headline": "We're Food Safety Lawyers — Here Are 3 Things We'd Never Eat",
+      "article_headline": "We're Food Safety Lawyers — Here Are 3 Things We'd Never Eat"
+    },
+    {
+      "link": "https://apple.news/AaGBc1jGmR5-2KWlSMs50Kw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-10 10:20:16",
+      "pub_time": "2026-05-10 09:23:51",
+      "publication": "CNBC",
+      "author": "Dr. Howard Tucker, Contributor",
+      "headline": "At 103 years old, I’m the ‘world’s oldest doctor’: My 3 rules for a long, happy life are simple",
+      "article_headline": "At 103 years old, I’m the ‘world’s oldest doctor’: My 3 rules for a long, happy life are simple"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-10 10:20:16",
+      "pub_time": "2026-05-10 03:24:19",
+      "publication": "",
+      "author": "Dillon Evans",
+      "headline": "You Should Replace These 8 Toxic Kitchen Tools ASAP — I Made the Swap Already, and Here's What I Use Now",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AY-tD5Ts3RciecqB52Ci9vQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-10 10:20:16",
+      "pub_time": "2026-05-09 20:24:19",
+      "publication": "The Guardian",
+      "author": "Jackson Ryan",
+      "headline": "The emerging cancer treatment that’s exciting scientists: ‘We’ve just scratched the surface on what’s possible’",
+      "article_headline": "The emerging cancer treatment that’s exciting scientists: ‘We’ve just scratched the surface on what’s possible’"
+    }
+  ]
+}

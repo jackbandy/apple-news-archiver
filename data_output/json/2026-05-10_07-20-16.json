@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-10 07:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A1rjI8ZjXQbqk_TO3GdL7Wg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-10 07:20:16",
+      "pub_time": "2026-05-10 06:20:18",
+      "publication": "NBC News",
+      "author": "Phil Helsel, Mo Abbas, Daniele Hamamdjian, and Freddie Clayton",
+      "headline": "Hantavirus-stricken cruise ship arrives in Tenerife",
+      "article_headline": "Hantavirus-stricken cruise ship arrives in Tenerife"
+    },
+    {
+      "link": "https://apple.news/A1jb4CGFcTju6IqSQc5iR7w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-10 07:20:16",
+      "pub_time": "2026-05-10 06:20:46",
+      "publication": "Reuters",
+      "author": "Vladimir Soldatkin and Guy Faulconbridge",
+      "headline": "Putin says he thinks Russia-Ukraine war is coming to an end",
+      "article_headline": "Putin says he thinks Russia-Ukraine war is coming to an end"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-10 07:20:16",
+      "pub_time": "2026-05-10 06:21:18",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon, Henna Moussavi, and Margherita Stancati",
+      "headline": "Iran’s supreme leader is MIA, just when negotiators need him most",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/APhcYu_wrTqe80ofJY456Dw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-10 07:20:16",
+      "pub_time": "",
+      "publication": "Inside Climate News",
+      "author": "",
+      "headline": "As a Colorado aquifer runs low, dangerous heavy metals threaten rural communities’ drinking water",
+      "article_headline": "As a Colorado aquifer runs low, dangerous heavy metals threaten rural communities’ drinking water"
+    },
+    {
+      "link": "https://apple.news/A_YCa0dyrSJuf1EnMXCKQ9g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-10 07:20:16",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Steve Kerr is staying with the Warriors. What’s next for Steph Curry and Draymond Green?",
+      "article_headline": "Steve Kerr is staying with the Warriors. What’s next for Steph Curry and Draymond Green?"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-10 07:20:16",
+      "pub_time": "2026-05-10 06:22:19",
+      "publication": "Vanity Fair",
+      "author": "Bomani Jones",
+      "headline": "He’s making millions playing college football. The NCAA wants to stop him.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AVUPHqyHeRUuEzhzb5Vd2Nw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-10 07:20:16",
+      "pub_time": "",
+      "publication": "Why so many working people are homeless",
+      "author": "",
+      "headline": "A Pulitzer Prize–winning book exposes an invisible problem.,  Play Now  39 min",
+      "article_headline": ""
+    }
+  ]
+}

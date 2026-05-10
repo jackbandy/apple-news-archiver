@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-05-10 09:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A1rjI8ZjXQbqk_TO3GdL7Wg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-10 09:40:17",
+      "pub_time": "2026-05-10 08:40:19",
+      "publication": "NBC News",
+      "author": "Phil Helsel, Mo Abbas, Daniele Hamamdjian, and Freddie Clayton",
+      "headline": "Evacuation of passengers from hantavirus-hit cruise ship begins in Tenerife",
+      "article_headline": "Evacuation of passengers from hantavirus-hit cruise ship begins in Tenerife"
+    },
+    {
+      "link": "https://apple.news/A1KaYbNXoT0uFNqeQ4yAmeA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-10 09:40:17",
+      "pub_time": "2026-05-10 08:40:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran responds to ceasefire proposal as drones target Gulf nations",
+      "article_headline": "Iran responds to ceasefire proposal as drones target Gulf nations"
+    },
+    {
+      "link": "https://apple.news/A1jb4CGFcTju6IqSQc5iR7w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-10 09:40:17",
+      "pub_time": "2026-05-10 08:41:13",
+      "publication": "Reuters",
+      "author": "Vladimir Soldatkin and Guy Faulconbridge",
+      "headline": "Putin says he thinks Russia-Ukraine war is coming to an end",
+      "article_headline": "Putin says he thinks Russia-Ukraine war is coming to an end"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-10 09:40:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Why the Colorado River is once again facing a water crisis",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_YCa0dyrSJuf1EnMXCKQ9g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-10 09:40:17",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Steve Kerr is staying with the Warriors. What’s next for Steph Curry and Draymond Green?",
+      "article_headline": "Steve Kerr is staying with the Warriors. What’s next for Steph Curry and Draymond Green?"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-10 09:40:17",
+      "pub_time": "2026-05-10 08:42:19",
+      "publication": "Vanity Fair",
+      "author": "Bomani Jones",
+      "headline": "He’s making millions playing college football. The NCAA wants to stop him.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AVUPHqyHeRUuEzhzb5Vd2Nw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-10 09:40:17",
+      "pub_time": "",
+      "publication": "Why so many working people are homeless",
+      "author": "",
+      "headline": "A Pulitzer Prize–winning book exposes an invisible problem.,  Play Now  39 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A4Ufr8PUqTDWnaQFZzaZZaw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-10 09:40:17",
+      "pub_time": "2026-05-10 06:43:01",
+      "publication": "HuffPost",
+      "author": "Julie Kendrick",
+      "headline": "We're Food Safety Lawyers — Here Are 3 Things We'd Never Eat",
+      "article_headline": "We're Food Safety Lawyers — Here Are 3 Things We'd Never Eat"
+    },
+    {
+      "link": "https://apple.news/AWfHHd8U-SyGnCDLvLuHctw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-10 09:40:17",
+      "pub_time": "2026-05-10 06:43:28",
+      "publication": "The Atlantic",
+      "author": "Honor Jones",
+      "headline": "One of the Best First Sentences in Modern Literature",
+      "article_headline": "One of the Best First Sentences in Modern Literature"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-10 09:40:17",
+      "pub_time": "2026-05-10 03:43:56",
+      "publication": "",
+      "author": "Dillon Evans",
+      "headline": "You Should Replace These 8 Toxic Kitchen Tools ASAP — I Made the Swap Already, and Here's What I Use Now",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-10 09:40:17",
+      "pub_time": "2026-05-10 02:44:03",
+      "publication": "",
+      "author": "Dillon Evans",
+      "headline": "You Should Replace These 8 Toxic Kitchen Tools ASAP — I Made the Swap Already, and Here's What I Use Now",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
