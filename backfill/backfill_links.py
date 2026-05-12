@@ -21,24 +21,20 @@ import re
 import csv
 import sys
 import time
-import json
 import shutil
 import argparse
 import difflib
-import datetime
-import subprocess
-from glob import glob
-from shutil import rmtree
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
-from appium import webdriver
-from appium.options.ios.xcuitest.base import XCUITestOptions
 from appium.webdriver.common.appiumby import AppiumBy
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.actions.action_builder import ActionBuilder
 from selenium.webdriver.common.actions.pointer_input import PointerInput
 from selenium.webdriver.common.actions import interaction
+
+from util.appium_session import start_driver
+from util.setup import wda_needs_rebuild, clear_wda_derived_data
 
 from config import (
     device_name_and_os, device_os, udid,
@@ -51,11 +47,6 @@ MATCH_THRESHOLD = 0.55    # minimum similarity ratio to accept a search result
 MAX_RESULTS_TO_CHECK = 5  # how many search result cells to try per query
 SEARCH_WAIT_SECS = 3.0    # wait after typing before reading results
 BETWEEN_SEARCH_SECS = 1.5 # pause between consecutive searches
-
-_WDA_DERIVED_DATA_PATTERN = os.path.expanduser(
-    '~/Library/Developer/Xcode/DerivedData/WebDriverAgent-*'
-)
-_XCTESTRUN_GLOB = os.path.join(_WDA_DERIVED_DATA_PATTERN, 'Build/Products/*.xctestrun')
 
 # Headlines that are generic/uninformative and cannot be matched reliably
 SKIP_HEADLINES = {
@@ -84,52 +75,6 @@ def best_headline(row):
     if h and len(h) > 10:
         return h
     return (row.get('headline') or '').strip()
-
-
-# ---------------------------------------------------------------------------
-# WDA rebuild helpers (mirrors get_stories.py)
-# ---------------------------------------------------------------------------
-
-def wda_needs_rebuild(target_udid):
-    xctestrun_files = glob(_XCTESTRUN_GLOB)
-    if not xctestrun_files:
-        return True
-    try:
-        result = subprocess.run(
-            ['xcrun', 'simctl', 'list', 'devices', '--json'],
-            capture_output=True, text=True, check=True,
-        )
-        devices_json = json.loads(result.stdout)
-    except Exception as e:
-        print('wda_needs_rebuild: could not query simctl ({}) — skipping'.format(e))
-        return False
-    sim_version = None
-    for runtime_key, device_list in devices_json.get('devices', {}).items():
-        for device in device_list:
-            if device.get('udid') == target_udid:
-                m = re.search(r'iOS-(\d+)-(\d+)', runtime_key)
-                if m:
-                    sim_version = '{}.{}'.format(m.group(1), m.group(2))
-                break
-        if sim_version:
-            break
-    if not sim_version:
-        return False
-    for path in xctestrun_files:
-        if 'iphonesimulator{}'.format(sim_version) in os.path.basename(path):
-            return False
-    print('wda_needs_rebuild: simulator is iOS {} but WDA was built for: {}'.format(
-        sim_version, [os.path.basename(p) for p in xctestrun_files]))
-    return True
-
-
-def clear_wda_derived_data():
-    for path in glob(_WDA_DERIVED_DATA_PATTERN):
-        try:
-            rmtree(path)
-            print('clear_wda_derived_data: removed {}'.format(path))
-        except Exception as e:
-            print('clear_wda_derived_data: could not remove {} ({})'.format(path, e))
 
 
 # ---------------------------------------------------------------------------
@@ -378,22 +323,14 @@ def main():
         print('WDA DerivedData is stale or missing — clearing for rebuild')
         clear_wda_derived_data()
 
-    options = XCUITestOptions()
-    options.app = APP_PATH
-    options.device_name = device_name_and_os
-    options.udid = udid
-    options.platform_version = device_os
-    options.no_reset = True
-    options.set_capability('locationServicesEnabled', True)
-    if rebuild:
-        options.set_capability('usePrebuiltWDA', False)
-        options.set_capability('wdaLaunchTimeout', 300000)
-        options.set_capability('wdaConnectionTimeout', 300000)
-
     try:
-        driver = webdriver.Remote(
-            command_executor='http://localhost:4723',
-            options=options
+        driver = start_driver(
+            app_path=APP_PATH,
+            device_name=device_name_and_os,
+            udid=udid,
+            platform_version=device_os,
+            rebuild_wda=rebuild,
+            clear_wda_derived_data_fn=clear_wda_derived_data,
         )
     except Exception as e:
         print('Error connecting to Appium: {}'.format(e))

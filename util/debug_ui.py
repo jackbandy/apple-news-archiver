@@ -10,21 +10,18 @@ import os
 import sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
-from appium import webdriver
-from appium.options.ios.xcuitest.base import XCUITestOptions
 from appium.webdriver.common.appiumby import AppiumBy
 import xml.dom.minidom
 
 from config import device_name_and_os, device_os, udid, APP_PATH
+from util.appium_session import start_driver
 
-options = XCUITestOptions()
-options.app = APP_PATH
-options.device_name = device_name_and_os
-options.udid = udid
-options.platform_version = device_os
-options.no_reset = True
-
-driver = webdriver.Remote(command_executor='http://localhost:4723', options=options)
+driver = start_driver(
+    app_path=APP_PATH,
+    device_name=device_name_and_os,
+    udid=udid,
+    platform_version=device_os,
+)
 
 print("\n=== PAGE SOURCE (pretty-printed) ===\n")
 raw = driver.page_source
