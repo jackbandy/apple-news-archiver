@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-12 06:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AfTrnHHZoSNWLWJLLbAIiGg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-12 06:40:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Hopes fade for peace deal with Iran as Trump says ceasefire is on “life support”",
+      "article_headline": "Hopes fade for peace deal with Iran as Trump says ceasefire is on “life support”"
+    },
+    {
+      "link": "https://apple.news/A-DLawwATThC-efkeiwKItw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-12 06:40:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Inflation expected to jump to a 3-year high as war continues to fuel rising prices",
+      "article_headline": "Inflation expected to jump to a 3-year high as war continues to fuel rising prices"
+    },
+    {
+      "link": "https://apple.news/ALzPiVpTJRV-m5Kf1eCYx2Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-12 06:40:16",
+      "pub_time": "2026-05-12 06:19:18",
+      "publication": "The Guardian",
+      "author": "Jessica Elgot and Pippa Crerar",
+      "headline": "Defiant British PM Starmer tells Cabinet he will not quit after crushing elections",
+      "article_headline": "Defiant British PM Starmer tells Cabinet he will not quit after crushing elections"
+    },
+    {
+      "link": "https://apple.news/A2YhuYrD9Q8qz2A-SZdAVNA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-12 06:40:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "A super El Niño wiped out millions of people in 1877. Are we better prepared now?",
+      "article_headline": "A super El Niño wiped out millions of people in 1877. Are we better prepared now?"
+    },
+    {
+      "link": "https://apple.news/ALzPiVpTJRV-m5Kf1eCYx2Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-12 06:40:16",
+      "pub_time": "2026-05-12 06:19:19",
+      "publication": "The Guardian",
+      "author": "Jessica Elgot and Pippa Crerar",
+      "headline": "Defiant British PM Starmer tells Cabinet he will not quit after crushing elections",
+      "article_headline": "Defiant British PM Starmer tells Cabinet he will not quit after crushing elections"
+    },
+    {
+      "link": "https://apple.news/A78G5LElRTa2X6D2PhEQMMg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-12 06:40:16",
+      "pub_time": "2026-05-12 06:19:47",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Trump administration ends Biden-era policy protecting public lands",
+      "article_headline": "Trump administration ends Biden-era policy protecting public lands"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-12 06:40:16",
+      "pub_time": "2026-05-12 06:20:14",
+      "publication": "The Wall Street Journal",
+      "author": "Andrew Beaton, Dana Mattioli, Joe Flint, and Josh Dawsey",
+      "headline": "Rupert Murdoch’s high-stakes blitz against the NFL",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

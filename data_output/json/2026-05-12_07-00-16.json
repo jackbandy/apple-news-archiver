@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-12 07:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AfTrnHHZoSNWLWJLLbAIiGg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-12 07:00:16",
+      "pub_time": "2026-05-12 06:57:18",
+      "publication": "Reuters",
+      "author": "Nandita Bose and Nayera Abdallah",
+      "headline": "Hopes fade for peace deal with Iran as Trump says ceasefire is on “life support”",
+      "article_headline": "Hopes fade for peace deal with Iran as Trump says ceasefire is on “life support”"
+    },
+    {
+      "link": "https://apple.news/A-DLawwATThC-efkeiwKItw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-12 07:00:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Inflation expected to jump to a 3-year high as war continues to fuel rising prices",
+      "article_headline": "Inflation expected to jump to a 3-year high as war continues to fuel rising prices"
+    },
+    {
+      "link": "https://apple.news/Aon_PcLw_QnG4HhNLoWyolw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-12 07:00:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "What to know about Trump-Xi summit, with trade, Taiwan, and Iran on the agenda",
+      "article_headline": "What to know about Trump-Xi summit, with trade, Taiwan, and Iran on the agenda"
+    },
+    {
+      "link": "https://apple.news/ALzPiVpTJRV-m5Kf1eCYx2Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-12 07:00:16",
+      "pub_time": "2026-05-12 06:57:46",
+      "publication": "The Guardian",
+      "author": "Jessica Elgot and Pippa Crerar",
+      "headline": "Defiant British PM Starmer tells Cabinet he will not quit after crushing elections",
+      "article_headline": "Defiant British PM Starmer tells Cabinet he will not quit after crushing elections"
+    },
+    {
+      "link": "https://apple.news/ALzPiVpTJRV-m5Kf1eCYx2Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-12 07:00:16",
+      "pub_time": "2026-05-12 06:57:19",
+      "publication": "The Guardian",
+      "author": "Jessica Elgot and Pippa Crerar",
+      "headline": "Defiant British PM Starmer tells Cabinet he will not quit after crushing elections",
+      "article_headline": "Defiant British PM Starmer tells Cabinet he will not quit after crushing elections"
+    },
+    {
+      "link": "https://apple.news/A2YhuYrD9Q8qz2A-SZdAVNA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-12 07:00:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "A super El Niño wiped out millions of people in 1877. Are we better prepared now?",
+      "article_headline": "A super El Niño wiped out millions of people in 1877. Are we better prepared now?"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-12 07:00:16",
+      "pub_time": "2026-05-12 06:58:15",
+      "publication": "The Wall Street Journal",
+      "author": "Andrew Beaton, Dana Mattioli, Joe Flint, and Josh Dawsey",
+      "headline": "Rupert Murdoch’s high-stakes blitz against the NFL",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
