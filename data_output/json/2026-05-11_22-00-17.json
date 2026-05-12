@@ -1,0 +1,122 @@
+{
+  "run_time": "2026-05-11 22:00:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/Ac6ypprmXSziGw_OfpLnT6Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-11 22:00:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Supreme Court clears way for Alabama Republicans to pursue new voting map",
+      "article_headline": "Supreme Court clears way for Alabama Republicans to pursue new voting map"
+    },
+    {
+      "link": "https://apple.news/AlYS-O_YsQ62PABjjGzrCRA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-11 22:00:17",
+      "pub_time": "2026-05-11 21:00:46",
+      "publication": "The Guardian",
+      "author": "Patrick Wintour",
+      "headline": "Trump says ceasefire with Iran on “life support” after rejecting peace proposals",
+      "article_headline": "Trump says ceasefire with Iran on “life support” after rejecting peace proposals"
+    },
+    {
+      "link": "https://apple.news/A1JLdgoqvSmO2y4-v1Rxzpg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-11 22:00:17",
+      "pub_time": "2026-05-11 21:01:14",
+      "publication": "POLITICO",
+      "author": "Kyle Cheney",
+      "headline": "Third federal appeals court rejects ICE’s mandatory-detention push",
+      "article_headline": "Third federal appeals court rejects ICE’s mandatory-detention push"
+    },
+    {
+      "link": "https://apple.news/ArCq-QXBgRpWPu-EOPtsN0A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-11 22:00:17",
+      "pub_time": "2026-05-11 21:01:47",
+      "publication": "Video",
+      "author": "Nicole Brown Chau",
+      "headline": "CBS News, Why Americans from the hantavirus-stricken ship were taken to Omaha",
+      "article_headline": "Why Americans from the hantavirus-stricken ship were taken to Omaha"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-11 22:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Housing market’s spring season is shaping up as a bust after April sales were flat",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-11 22:00:17",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "A poker dealer couldn’t stop placing bets of his own. Then the FBI knocked on his door., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-11 22:00:17",
+      "pub_time": "2026-05-11 15:02:46",
+      "publication": "Real Simple",
+      "author": "Naomi Barr",
+      "headline": "Is Sleeping Without Underwear Better for You? Doctors Weigh In",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-05-11 22:00:17",
+      "pub_time": "",
+      "publication": "Barron’s",
+      "author": "",
+      "headline": "Adult kids are getting their inheritances sooner. Here’s why parents are doing it., Alice Kantor",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-05-11 22:00:17",
+      "pub_time": "",
+      "publication": "TIME",
+      "author": "",
+      "headline": "Five symptoms neurologists say to never ignore, BY ANGELA HAUPT",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-05-11 22:00:17",
+      "pub_time": "",
+      "publication": "BBC Science Focus Magazine",
+      "author": "",
+      "headline": "A “horrifying” fungal invasion is sweeping America. It may be too late to stop it. ",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
