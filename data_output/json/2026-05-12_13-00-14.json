@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-12 13:00:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AgGoqF-8HR6-l_RZElpXz0g?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-12 13:00:14",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Fuel, food, and flight prices have surged as the Iran war hits the U.S. economy",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AoYA9rfhmQkGEM-afrt25xw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-12 13:00:14",
+      "pub_time": "2026-05-12 12:50:43",
+      "publication": "The Washington Post",
+      "author": "Rachel Roubein and Dan Diamond",
+      "headline": "FDA Commissioner Marty Makary expected to resign amid agency turmoil",
+      "article_headline": "FDA Commissioner Marty Makary expected to resign amid agency turmoil"
+    },
+    {
+      "link": "https://apple.news/AoYA9rfhmQkGEM-afrt25xw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-12 13:00:14",
+      "pub_time": "2026-05-12 12:50:17",
+      "publication": "The Washington Post",
+      "author": "Rachel Roubein and Dan Diamond",
+      "headline": "FDA Commissioner Marty Makary expected to resign amid agency turmoil",
+      "article_headline": "FDA Commissioner Marty Makary expected to resign amid agency turmoil"
+    },
+    {
+      "link": "https://apple.news/Atnx1Sq6oReW0MHzL-P4Row",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-12 13:00:14",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Hantavirus cases rise to 11 as cruise-ship passengers quarantine",
+      "article_headline": "Hantavirus cases rise to 11 as cruise ship passengers quarantine"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-12 13:00:14",
+      "pub_time": "2026-05-12 12:51:12",
+      "publication": "The Christian Science Monitor",
+      "author": "Howard LaFranchi",
+      "headline": "As Russia pushes spring offensive, shift on battlefield buoys Ukrainians",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-12 13:00:14",
+      "pub_time": "2026-05-12 12:50:18",
+      "publication": "The Christian Science Monitor",
+      "author": "Howard LaFranchi",
+      "headline": "As Russia pushes spring offensive, shift on battlefield buoys Ukrainians",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AoFFfYlv-SB2CR6A3ixen0A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-12 13:00:14",
+      "pub_time": "2026-05-12 12:50:18",
+      "publication": "Fox News",
+      "author": "Michael Ruiz",
+      "headline": "Nancy Guthrie missing 100 days as sheriff says “nothing new” and volunteer groups are shut out of search",
+      "article_headline": "Nancy Guthrie missing 100 days as sheriff says “nothing new” and volunteer groups are shut out of search"
+    }
+  ]
+}
