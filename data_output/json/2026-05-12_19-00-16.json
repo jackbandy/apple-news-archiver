@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-05-12 19:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A1ydE0O-5SPyMgRZ-MKg4Pg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-12 19:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "FDA Commissioner Marty Makary, under pressure from Trump, resigns",
+      "article_headline": "FDA Commissioner Marty Makary, Under Pressure From Trump, Resigns"
+    },
+    {
+      "link": "https://apple.news/AmMk-V_-rSqWqpCKjU_A50Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-12 19:00:16",
+      "pub_time": "2026-05-12 18:12:45",
+      "publication": "The Washington Post",
+      "author": "Noah Robertson",
+      "headline": "Hegseth, Caine encounter intense bipartisan frustration with Iran war",
+      "article_headline": "Hegseth, Caine encounter intense bipartisan frustration with Iran war"
+    },
+    {
+      "link": "https://apple.news/AVG3ShzTeSTipK__hEOynYg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-12 19:00:16",
+      "pub_time": "2026-05-12 18:13:13",
+      "publication": "POLITICO",
+      "author": "Alec Hernandez and Andrew Howard",
+      "headline": "South Carolina Republicans tank redistricting, for now",
+      "article_headline": "South Carolina Republicans tank redistricting, for now"
+    },
+    {
+      "link": "https://apple.news/AmMk-V_-rSqWqpCKjU_A50Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-12 19:00:16",
+      "pub_time": "2026-05-12 18:11:46",
+      "publication": "The Washington Post",
+      "author": "Noah Robertson",
+      "headline": "Hegseth, Caine encounter intense bipartisan frustration with Iran war",
+      "article_headline": "Hegseth, Caine encounter intense bipartisan frustration with Iran war"
+    },
+    {
+      "link": "https://apple.news/AVG3ShzTeSTipK__hEOynYg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-12 19:00:16",
+      "pub_time": "2026-05-12 18:12:13",
+      "publication": "POLITICO",
+      "author": "Alec Hernandez and Andrew Howard",
+      "headline": "South Carolina Republicans tank redistricting, for now",
+      "article_headline": "South Carolina Republicans tank redistricting, for now"
+    },
+    {
+      "link": "https://apple.news/ApBw5Y7DSRAanR-PUB-VwDA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-12 19:00:16",
+      "pub_time": "2026-05-12 18:12:40",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Colombia sees worst civilian impact from conflict in a decade, says Red Cross",
+      "article_headline": "Colombia sees worst civilian impact from conflict in a decade, says Red Cross"
+    },
+    {
+      "link": "https://apple.news/ApBw5Y7DSRAanR-PUB-VwDA",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-12 19:00:16",
+      "pub_time": "2026-05-12 18:12:13",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Colombia sees worst civilian impact from conflict in a decade, says Red Cross",
+      "article_headline": "Colombia sees worst civilian impact from conflict in a decade, says Red Cross"
+    }
+  ]
+}

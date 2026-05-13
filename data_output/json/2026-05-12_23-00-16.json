@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-12 23:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AZRjY6Ze_SAGiaTYmvR5LvQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-12 23:00:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Nebraska Democrats in tight primary race for state’s “blue dot” House seat",
+      "article_headline": "Nebraska Democrats in tight primary race for state's 'blue dot' US House seat"
+    },
+    {
+      "link": "https://apple.news/AE0h3arpMQTK9cEgfyH1fNg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-12 23:00:16",
+      "pub_time": "2026-05-12 22:04:45",
+      "publication": "POLITICO",
+      "author": "Aaron Pellish",
+      "headline": "GOP scores another gerrymandering victory with Missouri Supreme Court win",
+      "article_headline": "GOP scores another gerrymandering victory with Missouri Supreme Court win"
+    },
+    {
+      "link": "https://apple.news/AVZsSeFp-R_eQhVMb7CiiWA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-12 23:00:16",
+      "pub_time": "2026-05-12 22:05:13",
+      "publication": "NPR",
+      "author": "Ximena Bustillo",
+      "headline": "Former private prison official to serve as acting ICE chief",
+      "article_headline": "Former private prison official to serve as acting ICE chief"
+    },
+    {
+      "link": "https://apple.news/AE0h3arpMQTK9cEgfyH1fNg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-12 23:00:16",
+      "pub_time": "2026-05-12 22:04:46",
+      "publication": "POLITICO",
+      "author": "Aaron Pellish",
+      "headline": "GOP scores another gerrymandering victory with Missouri Supreme Court win",
+      "article_headline": "GOP scores another gerrymandering victory with Missouri Supreme Court win"
+    },
+    {
+      "link": "https://apple.news/AVZsSeFp-R_eQhVMb7CiiWA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-12 23:00:16",
+      "pub_time": "2026-05-12 22:05:13",
+      "publication": "NPR",
+      "author": "Ximena Bustillo",
+      "headline": "Former private prison official to serve as acting ICE chief",
+      "article_headline": "Former private prison official to serve as acting ICE chief"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-12 23:00:16",
+      "pub_time": "2026-05-12 22:04:41",
+      "publication": "The Wall Street Journal",
+      "author": "Matthew Luxmoore",
+      "headline": "He was missing part of his arm. Russia sent him into battle anyway.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-12 23:00:16",
+      "pub_time": "2026-05-12 22:03:46",
+      "publication": "The Wall Street Journal",
+      "author": "Matthew Luxmoore",
+      "headline": "He was missing part of his arm. Russia sent him into battle anyway.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
