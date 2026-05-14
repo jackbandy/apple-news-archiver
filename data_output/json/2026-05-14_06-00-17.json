@@ -1,0 +1,120 @@
+{
+  "run_time": "2026-05-14 06:00:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AFRtMvPMaTomkIeW1wjnvSA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-14 06:00:17",
+      "pub_time": "2026-05-14 05:36:18",
+      "publication": "NBC News",
+      "author": "Katherine Doyle and Jennifer Jett",
+      "headline": "Xi warns Trump of possible conflict over Taiwan at grand Beijing summit",
+      "article_headline": "Xi warns Trump of possible conflict over Taiwan at grand Beijing summit"
+    },
+    {
+      "link": "https://apple.news/ArBFOvESbSZymG1hqYR-NGw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-14 06:00:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Denise Powell wins Democratic primary for Nebraska’s 2nd congressional district",
+      "article_headline": "Denise Powell wins Democratic primary for Nebraska’s 2nd congressional district"
+    },
+    {
+      "link": "https://apple.news/AcsLR961JTdSfTIH0rXmTqw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-14 06:00:17",
+      "pub_time": "2026-05-14 05:36:19",
+      "publication": "The Guardian",
+      "author": "Peter Beaumont",
+      "headline": "Ukraine hit by second day of large-scale Russian missile and drone strikes",
+      "article_headline": "Ukraine hit by second day of large-scale Russian missile and drone strikes"
+    },
+    {
+      "link": "https://apple.news/AAKyGOXN8TbGLiQiFif12gw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-14 06:00:17",
+      "pub_time": "2026-05-14 05:36:47",
+      "publication": "Reuters",
+      "author": "Dave Sherwood",
+      "headline": "Cuba has run out of diesel and fuel oil amid U.S. blockade",
+      "article_headline": "Cuba has run out of diesel and fuel oil amid U.S. blockade"
+    },
+    {
+      "link": "https://apple.news/AcsLR961JTdSfTIH0rXmTqw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-14 06:00:17",
+      "pub_time": "2026-05-14 05:36:20",
+      "publication": "The Guardian",
+      "author": "Peter Beaumont",
+      "headline": "Ukraine hit by second day of large-scale Russian missile and drone strikes",
+      "article_headline": "Ukraine hit by second day of large-scale Russian missile and drone strikes"
+    },
+    {
+      "link": "https://apple.news/AAKyGOXN8TbGLiQiFif12gw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-14 06:00:17",
+      "pub_time": "2026-05-14 05:36:48",
+      "publication": "Reuters",
+      "author": "Dave Sherwood",
+      "headline": "Cuba has run out of diesel and fuel oil amid U.S. blockade",
+      "article_headline": "Cuba has run out of diesel and fuel oil amid U.S. blockade"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-14 06:00:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "What to know as golf’s best begin the PGA Championship near Philadelphia",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-05-14 06:00:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Can vaping raise your cancer risk? The latest research, explained., Mikkael Sekeres, MD",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-05-14 06:00:17",
+      "pub_time": "",
+      "publication": "Business Insider",
+      "author": "",
+      "headline": "There’s really only one way to get a new job now, Tim Paradis",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-05-14 06:00:17",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "What the collapse of Spirit Airlines will cost American travelers, Vanessa Ogle",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
