@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-14 13:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AczRk_myfR-yK35Ph58_xNQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-14 13:20:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Xi’s Taiwan warning to Trump highlights tensions in Beijing summit",
+      "article_headline": "Xi’s Taiwan Warning to Trump Highlights Tensions in Beijing Summit"
+    },
+    {
+      "link": "https://apple.news/Adb-cobIlQ9melDNHgq-Mqw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-14 13:20:16",
+      "pub_time": "2026-05-14 12:20:45",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Ukraine rescuers pull dead from rubble of Kyiv apartments after massive Russian strikes",
+      "article_headline": "Ukraine rescuers pull dead from rubble of Kyiv apartments after massive Russian strikes"
+    },
+    {
+      "link": "https://apple.news/ApC-NOoxzSXuiwnQY68mCFQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-14 13:20:16",
+      "pub_time": "2026-05-14 12:21:12",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "New El Niño forecast warns of a powerful shift amid hurricane season",
+      "article_headline": "New El Niño forecast warns of a powerful shift amid hurricane season"
+    },
+    {
+      "link": "https://apple.news/AsD1BgZCpQeSYEDxCg30Ppg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-14 13:20:16",
+      "pub_time": "",
+      "publication": "Bloomberg",
+      "author": "",
+      "headline": "Lake Tahoe power crunch shows AI’s growing energy toll in the West",
+      "article_headline": "Lake Tahoe power crunch shows AI’s growing energy toll in the West"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-14 13:20:16",
+      "pub_time": "",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "“Blue-dot fever” spreads as major concert tours get canceled. What does it mean?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-14 13:20:16",
+      "pub_time": "2026-05-14 12:22:18",
+      "publication": "The Washington Post",
+      "author": "Lauren Kaori Gurley and Federica Cocco",
+      "headline": "Why young and old men are leaving the labor force at record rates",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AC9RV60JyQ1GUT9FgqVl8Ug",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-14 13:20:16",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Trump touches down in Beijing — and gets a warning from Xi",
+      "article_headline": ""
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-14 17:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ALFQOmPSzTk-hQfVddgy4DA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-14 17:00:17",
+      "pub_time": "2026-05-14 16:53:19",
+      "publication": "The 19th News",
+      "author": "Shefali Luthra",
+      "headline": "Supreme Court rules abortion pills can remain available by mail nationwide amid legal battle",
+      "article_headline": "Supreme Court rules abortion pills can continue to be mailed"
+    },
+    {
+      "link": "https://apple.news/AgMy7ebvkTCGQrYWSD7bB2w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-14 17:00:17",
+      "pub_time": "2026-05-14 16:53:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "What to know about Xi’s warning to Trump over the “Taiwan question”",
+      "article_headline": "What to know about Xi’s warning to Trump over the “Taiwan question”"
+    },
+    {
+      "link": "https://apple.news/AgMy7ebvkTCGQrYWSD7bB2w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-14 17:00:17",
+      "pub_time": "2026-05-14 16:53:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "What to know about Xi’s warning to Trump over the “Taiwan question”",
+      "article_headline": "What to know about Xi’s warning to Trump over the “Taiwan question”"
+    },
+    {
+      "link": "https://apple.news/AEI1fx3obToK_QIhTuCC3rw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-14 17:00:17",
+      "pub_time": "",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "U.S. Border Patrol Chief Mike Banks resigns in latest shake-up of immigration leadership",
+      "article_headline": "U.S. Border Patrol Chief Mike Banks resigns in latest shake-up of immigration leadership"
+    },
+    {
+      "link": "https://apple.news/AubsT8bblTte9CZEZ0DYLxg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-14 17:00:17",
+      "pub_time": "2026-05-14 16:54:12",
+      "publication": "Axios",
+      "author": "Kate Santaliz",
+      "headline": "House Ethics panel announces sexual-harassment investigation into Rep. Chuck Edwards",
+      "article_headline": "House Ethics panel announces sexual-harassment investigation into Rep. Chuck Edwards"
+    },
+    {
+      "link": "https://apple.news/AubsT8bblTte9CZEZ0DYLxg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-14 17:00:17",
+      "pub_time": "2026-05-14 16:53:46",
+      "publication": "Axios",
+      "author": "Kate Santaliz",
+      "headline": "House Ethics panel announces sexual-harassment investigation into Rep. Chuck Edwards",
+      "article_headline": "House Ethics panel announces sexual-harassment investigation into Rep. Chuck Edwards"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-14 17:00:17",
+      "pub_time": "2026-05-14 16:54:13",
+      "publication": "The Washington Post",
+      "author": "Carolyn Y. Johnson",
+      "headline": "A 59,000-year-old tooth reshapes what we know about Neanderthal dentistry",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAkm5KgGTROCI3ECvPJ_GEQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-14 17:00:17",
+      "pub_time": "2026-05-14 03:03:49",
+      "publication": "Fast Company",
+      "author": "",
+      "headline": "Want to raise successful kids? Harvard research says it all comes down to 1 simple word",
+      "article_headline": "Want to raise successful kids? Harvard research says it all comes down to 1 simple word"
+    },
+    {
+      "link": "https://apple.news/AcFBIDJqmSnqEkXL8VMpUFg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-14 17:00:17",
+      "pub_time": "2026-05-14 09:04:17",
+      "publication": "CNBC",
+      "author": "Michiko Tomioka, Contributor",
+      "headline": "Japanese nutritionist: The 'essential' nutrient that Americans aren't eating enough",
+      "article_headline": "Japanese nutritionist: The 'essential' nutrient that Americans aren't eating enough"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-14 17:00:17",
+      "pub_time": "2026-05-14 04:04:45",
+      "publication": "",
+      "author": "Angelique Jackson, Jack Dunn, and Zack Sharf",
+      "headline": "Vin Diesel Cries Remembering Paul Walker at 'The Fast and the Furious' Cannes Midnight Screening: ‘I Pray That in Your Life You Have a Brother Like Paul’",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-14 17:00:17",
+      "pub_time": "2026-05-14 03:04:50",
+      "publication": "",
+      "author": "Angelique Jackson, Jack Dunn, and Zack Sharf",
+      "headline": "Vin Diesel Cries Remembering Paul Walker at 'The Fast and the Furious' Cannes Midnight Screening: ‘I Pray That in Your Life You Have a Brother Like Paul’",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
