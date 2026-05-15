@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-15 08:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AzG7qEqTxQUODKQacRDBdwQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-15 08:00:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump, Xi cite progress stabilizing U.S.-China relations as summit ends. But differences persist.",
+      "article_headline": "Trump, Xi cite progress stabilizing U.S.-China relations as summit ends. But differences persist."
+    },
+    {
+      "link": "https://apple.news/A3nizfjIWQFWGu8jKAVWZtA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-15 08:00:16",
+      "pub_time": "2026-05-15 07:13:45",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Democrats are losing the redistricting wars. So now what?",
+      "article_headline": "Democrats are losing the redistricting wars. So now what?"
+    },
+    {
+      "link": "https://apple.news/AU0F2CKipTL63U0bc0HYujA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-15 08:00:16",
+      "pub_time": "2026-05-15 07:14:13",
+      "publication": "Reuters",
+      "author": "Anita Komuves",
+      "headline": "Orbán’s media empire quickly crumbles after election defeat in Hungary",
+      "article_headline": "Orbán’s media empire quickly crumbles after election defeat in Hungary"
+    },
+    {
+      "link": "https://apple.news/A3nizfjIWQFWGu8jKAVWZtA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-15 08:00:16",
+      "pub_time": "2026-05-15 07:13:45",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Democrats are losing the redistricting wars. So now what?",
+      "article_headline": "Democrats are losing the redistricting wars. So now what?"
+    },
+    {
+      "link": "https://apple.news/AU0F2CKipTL63U0bc0HYujA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-15 08:00:16",
+      "pub_time": "2026-05-15 07:14:13",
+      "publication": "Reuters",
+      "author": "Anita Komuves",
+      "headline": "Orbán’s media empire quickly crumbles after election defeat in Hungary",
+      "article_headline": "Orbán’s media empire quickly crumbles after election defeat in Hungary"
+    },
+    {
+      "link": "https://apple.news/AL4yrQjD7RN-KLU-KmL01qA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-15 08:00:16",
+      "pub_time": "",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "New outbreak of Ebola kills 65 in eastern Congo",
+      "article_headline": "New outbreak of Ebola kills 65 in eastern Congo"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-15 08:00:16",
+      "pub_time": "",
+      "publication": "The Times of London",
+      "author": "",
+      "headline": "David Beckham joins ranks of sports billionaires after bet on Miami soccer team pays off",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

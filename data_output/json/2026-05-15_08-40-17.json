@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-05-15 08:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AzG7qEqTxQUODKQacRDBdwQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-15 08:40:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump weighs Taiwan arms package after summit aimed at steadying U.S.-China ties",
+      "article_headline": "Trump weighs Taiwan arms package after summit aimed at steadying U.S.-China ties"
+    },
+    {
+      "link": "https://apple.news/ASud_sTFIQYaGjUF2vPXoig",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-15 08:40:17",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Jerome Powell term as Federal Reserve chief ends clouded by Trump tumult",
+      "article_headline": "Jerome Powell term as Federal Reserve chief ends clouded by Trump tumult"
+    },
+    {
+      "link": "https://apple.news/Arew2cK8xSxaMkL7h8yQ2-Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-15 08:40:17",
+      "pub_time": "2026-05-15 08:33:18",
+      "publication": "Reuters",
+      "author": "Yurii Kovalenko and Olena Harmash",
+      "headline": "Zelenskyy rages at Russia after strike on Kyiv apartment building kills 24",
+      "article_headline": "Zelenskyy rages at Russia after strike on Kyiv apartment building kills 24"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-15 08:40:17",
+      "pub_time": "2026-05-15 08:33:45",
+      "publication": "BBC Sky at Night Magazine",
+      "author": "Iain Todd",
+      "headline": "Asteroid the size of a basketball court to skim past Earth, even closer than the moon",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-15 08:40:17",
+      "pub_time": "",
+      "publication": "The Times of London",
+      "author": "",
+      "headline": "David Beckham joins ranks of sports billionaires after bet on Miami soccer team pays off",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-15 08:40:17",
+      "pub_time": "2026-05-15 08:33:50",
+      "publication": "The Wall Street Journal",
+      "author": "Roshan Fernandez",
+      "headline": "The only thing harder than getting into college is getting off the wait list",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AX67A0puXRiWl8Uol5q9AwQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-15 08:40:17",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Vessels attacked in the Strait of Hormuz as sailors grow desperate",
+      "article_headline": ""
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-15 09:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AicGrXCh9TrOxuvaHp2zmRA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-15 09:00:16",
+      "pub_time": "",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Trump and China’s Xi conclude “very successful” talks but no deals announced",
+      "article_headline": "Trump and China’s Xi conclude “very successful” talks but no deals announced"
+    },
+    {
+      "link": "https://apple.news/AgyN0TLapQ6e1vVjSaUTB2g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-15 09:00:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Powell’s tenure as Fed chair marked by fight for independence while trying to tame inflation",
+      "article_headline": "Powell’s tenure as Fed chair marked by fight for independence while trying to tame inflation"
+    },
+    {
+      "link": "https://apple.news/Arew2cK8xSxaMkL7h8yQ2-Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-15 09:00:16",
+      "pub_time": "2026-05-15 08:56:18",
+      "publication": "Reuters",
+      "author": "Yurii Kovalenko and Olena Harmash",
+      "headline": "Zelenskyy rages at Russia after strike on Kyiv apartment building kills 24",
+      "article_headline": "Zelenskyy rages at Russia after strike on Kyiv apartment building kills 24"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-15 09:00:16",
+      "pub_time": "2026-05-15 08:56:44",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Cuba accepts U.S. offer of $100 million in aid as country says it has run out of oil",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ade5Q1_1yTtedFWIIeJ4sfw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-15 09:00:16",
+      "pub_time": "2026-05-15 08:56:50",
+      "publication": "BBC Sky at Night Magazine",
+      "author": "Iain Todd",
+      "headline": "Asteroid the size of a basketball court to skim past Earth, even closer than the moon",
+      "article_headline": "Asteroid the size of a basketball court to skim past Earth, even closer than the moon"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-15 09:00:16",
+      "pub_time": "2026-05-15 08:56:17",
+      "publication": "The Wall Street Journal",
+      "author": "Roshan Fernandez",
+      "headline": "The only thing harder than getting into college is getting off the wait list",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ade5Q1_1yTtedFWIIeJ4sfw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-15 09:00:16",
+      "pub_time": "2026-05-15 08:56:23",
+      "publication": "BBC Sky at Night Magazine",
+      "author": "Iain Todd",
+      "headline": "Asteroid the size of a basketball court to skim past Earth, even closer than the moon",
+      "article_headline": "Asteroid the size of a basketball court to skim past Earth, even closer than the moon"
+    }
+  ]
+}
