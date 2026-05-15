@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-05-15 03:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Ayua9WpbxQ8WtDbfALRnVgg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-15 03:00:17",
+      "pub_time": "2026-05-15 00:00:18",
+      "publication": "ABC News",
+      "author": "Meghan Mistry, Fritz Farrow, and Nicholas Kerr",
+      "headline": "Trump and Xi holding second round of talks ahead of high-stakes summit’s conclusion",
+      "article_headline": "Trump and Xi end 2nd round of talks in high-stakes summit"
+    },
+    {
+      "link": "https://apple.news/AsuyRmgsaQU2P5WFSiu8tbg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-15 03:00:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Supreme Court ruling preserves abortion pill access for now as other challenges loom",
+      "article_headline": "Supreme Court ruling preserves abortion pill access for now as other challenges loom"
+    },
+    {
+      "link": "https://apple.news/AH5WzpkmpSgSbAweqHFTkBQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-15 03:00:17",
+      "pub_time": "2026-05-15 00:01:18",
+      "publication": "The Washington Post",
+      "author": "Karen DeYoung and Warren Strobel",
+      "headline": "CIA director travels to Cuba as fuel reserves hit zero",
+      "article_headline": "CIA director travels to Cuba as fuel reserves hit zero"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-15 03:00:17",
+      "pub_time": "2026-05-15 00:01:46",
+      "publication": "The Wall Street Journal",
+      "author": "Douglas Belkin",
+      "headline": "Yale medical school discriminated against white applicants, Justice Department finds",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AHVUyI28uQ6iX3FLZ1sxhZA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-15 03:00:17",
+      "pub_time": "2026-05-15 00:01:51",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "“Not my son’s fault”: The women bearing the children of Sudan’s war rapes",
+      "article_headline": "“Not my son’s fault”: The women bearing the children of Sudan’s war rapes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-15 03:00:17",
+      "pub_time": "2026-05-15 00:02:18",
+      "publication": "The Atlantic",
+      "author": "Ariel Sabar",
+      "headline": "The mystery of the golden coffin",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-15 03:00:17",
+      "pub_time": "",
+      "publication": "Coastal Living",
+      "author": "",
+      "headline": "Block Island Travel Guide to New England’s Best Kept Secret, Tracey Minkin",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaOorby5_SkyNbrkculLfEg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-15 03:00:17",
+      "pub_time": "2026-05-14 18:02:52",
+      "publication": "HuffPost",
+      "author": "Kimberley Richards",
+      "headline": "Engaging In This Beloved Activity May Actually Slow Biological Aging, Study Suggests",
+      "article_headline": "Engaging In This Beloved Activity May Actually Slow Biological Aging, Study Suggests"
+    },
+    {
+      "link": "https://apple.news/A3kcxV72TStuiEKoPQfA4Mw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-15 03:00:17",
+      "pub_time": "2026-05-14 15:03:25",
+      "publication": "TheStreet",
+      "author": "Patricia Battle and Celine Provini",
+      "headline": "Home Depot and Lowe’s hidden anti-theft system alarms shoppers",
+      "article_headline": "Home Depot and Lowe’s hidden anti-theft system alarms shoppers"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-15 03:00:17",
+      "pub_time": "2026-05-14 18:03:52",
+      "publication": "",
+      "author": "Raechal Shewfelt",
+      "headline": "Claudine Longet, singer and actress who fatally shot Olympic skier boyfriend, dies at 84",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-15 03:00:17",
+      "pub_time": "2026-05-14 20:03:52",
+      "publication": "Reuters",
+      "author": "Dave Stopera",
+      "headline": "75 Extremely Dumb Pictures That Inexplicably Never Fail To Make Me Laugh Uncontrollably No Matter How Many Times I've Seen Them",
+      "article_headline": "Supreme Court ruling preserves abortion pill access for now as other challenges loom"
+    }
+  ]
+}

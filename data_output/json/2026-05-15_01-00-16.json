@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-15 01:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ayua9WpbxQ8WtDbfALRnVgg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-15 01:00:16",
+      "pub_time": "2026-05-15 00:00:18",
+      "publication": "ABC News",
+      "author": "Meghan Mistry, Fritz Farrow, and Nicholas Kerr",
+      "headline": "Trump and Xi holding second round of talks ahead of high-stakes summit’s conclusion",
+      "article_headline": "Trump and Xi holding 2nd round of talks ahead of high-stakes summit's conclusion"
+    },
+    {
+      "link": "https://apple.news/AsuyRmgsaQU2P5WFSiu8tbg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-15 01:00:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Supreme Court ruling preserves abortion pill access for now as other challenges loom",
+      "article_headline": "Supreme Court ruling preserves abortion pill access for now as other challenges loom"
+    },
+    {
+      "link": "https://apple.news/AH5WzpkmpSgSbAweqHFTkBQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-15 01:00:16",
+      "pub_time": "2026-05-15 00:01:18",
+      "publication": "The Washington Post",
+      "author": "Karen DeYoung and Warren Strobel",
+      "headline": "CIA director travels to Cuba as fuel reserves hit zero",
+      "article_headline": "CIA director travels to Cuba as fuel reserves hit zero"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-15 01:00:16",
+      "pub_time": "2026-05-15 00:01:46",
+      "publication": "The Wall Street Journal",
+      "author": "Douglas Belkin",
+      "headline": "Yale medical school discriminated against white applicants, Justice Department finds",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AHVUyI28uQ6iX3FLZ1sxhZA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-15 01:00:16",
+      "pub_time": "2026-05-15 00:01:51",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "“Not my son’s fault”: The women bearing the children of Sudan’s war rapes",
+      "article_headline": "“Not my son’s fault”: The women bearing the children of Sudan’s war rapes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-15 01:00:16",
+      "pub_time": "2026-05-15 00:02:18",
+      "publication": "The Atlantic",
+      "author": "Ariel Sabar",
+      "headline": "The mystery of the golden coffin",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ArcLA8p_rQ96PYgh_hIwwWA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-15 01:00:16",
+      "pub_time": "2026-05-14 18:02:33",
+      "publication": "BuzzFeed",
+      "author": "Victoria Vouloumanos",
+      "headline": "People Around The World Are Talking About These 15 Stories That Aren't Breaking Through In The US — And It's Eye-Opening To See What We're Missing",
+      "article_headline": "People Around The World Are Talking About These 15 Stories That Aren't Breaking Through In The US — And It's Eye-Opening To See What We're Missing"
+    }
+  ]
+}
