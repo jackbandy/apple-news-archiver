@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-16 08:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AEHggXssGT_2mLsbzcQyFfg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-16 08:00:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Sen. Cassidy battles Trump-backed challenger in Louisiana Republican primary",
+      "article_headline": "Sen. Cassidy battles Trump-backed challenger in Louisiana Republican primary"
+    },
+    {
+      "link": "https://apple.news/A6XGSGJFPQiWAEOx5RSA5oA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-16 08:00:16",
+      "pub_time": "2026-05-16 07:00:45",
+      "publication": "Haaretz",
+      "author": "Jack Khoury",
+      "headline": "Hamas military chief confirmed dead after Israeli strikes on Gaza, Hamas official and IDF say",
+      "article_headline": "Hamas military chief confirmed dead after Israeli strikes on Gaza, Hamas official and IDF say"
+    },
+    {
+      "link": "https://apple.news/AFStAjQWlSniI3SyY51Y4RA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-16 08:00:16",
+      "pub_time": "2026-05-16 07:01:12",
+      "publication": "NBC News",
+      "author": "Lawrence Hurley",
+      "headline": "Supreme Court rejects Virginia Democrats’ attempt to revive new congressional map",
+      "article_headline": "Supreme Court rejects Virginia Democrats’ attempt to revive new congressional map"
+    },
+    {
+      "link": "https://apple.news/AGhZdFaqKSeKFbp-4vHnzzw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-16 08:00:16",
+      "pub_time": "2026-05-16 07:01:45",
+      "publication": "New York Post",
+      "author": "Anna Young",
+      "headline": "Long Island Rail Road strike begins after MTA fails to reach wage hike deal with union",
+      "article_headline": "Long Island Rail Road strike begins after MTA fails to reach wage hike deal with union"
+    },
+    {
+      "link": "https://apple.news/AcQKNWBk7RMiIpJHkYpZDqQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RVOXh4R1dSV1NQU011R0xGMTR0VF9BI25mZl9paWQ%3D",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-16 08:00:16",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Climate, The world's largest lake is shrinking. Plus, a volcano cleans up its own pollution.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-16 08:00:16",
+      "pub_time": "2026-05-16 07:02:44",
+      "publication": "The Wall Street Journal",
+      "author": "Joe Barrett",
+      "headline": "The fight to free hundreds of beagles from a rural Wisconsin research lab",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-16 08:00:16",
+      "pub_time": "",
+      "publication": "How a Supreme Court ruling is fueling a bitter political battle",
+      "author": "",
+      "headline": "Here’s what’s at stake.,  Play Now  24 min",
+      "article_headline": ""
+    }
+  ]
+}
