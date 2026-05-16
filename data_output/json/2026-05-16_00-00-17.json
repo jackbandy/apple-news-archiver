@@ -1,0 +1,121 @@
+{
+  "run_time": "2026-05-16 00:00:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/A1_47qAytQXOahmcDDjG3XQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-16 00:00:17",
+      "pub_time": "2026-05-15 23:39:19",
+      "publication": "Reuters",
+      "author": "Dave Sherwood",
+      "headline": "U.S. plans to indict Raul Castro raise Cubans’ fears of force",
+      "article_headline": "U.S. plans to indict Raul Castro raise Cubans’ fears of force"
+    },
+    {
+      "link": "https://apple.news/AFStAjQWlSniI3SyY51Y4RA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-16 00:00:17",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Supreme Court rejects Virginia Democrats’ attempt to revive new congressional map",
+      "article_headline": "Supreme Court rejects Virginia Democrats’ attempt to revive new congressional map"
+    },
+    {
+      "link": "https://apple.news/AoeH-reUzS2Wk3YA2j7_j2A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-16 00:00:17",
+      "pub_time": "2026-05-15 23:38:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Long Island Rail Road go on strike, halting busiest U.S. commuter rail system",
+      "article_headline": "Long Island Rail Road go on strike, halting busiest U.S. commuter rail system"
+    },
+    {
+      "link": "https://apple.news/Av4BgtCZrQ3K2_0E6ZkUgZw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-16 00:00:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Researchers unearth Southeast Asia’s largest dinosaur",
+      "article_headline": "Researchers unearth Southeast Asia’s largest dinosaur"
+    },
+    {
+      "link": "https://apple.news/AoeH-reUzS2Wk3YA2j7_j2A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-16 00:00:17",
+      "pub_time": "2026-05-15 23:38:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Long Island Rail Road go on strike, halting busiest U.S. commuter rail system",
+      "article_headline": "Long Island Rail Road go on strike, halting busiest U.S. commuter rail system"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-16 00:00:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "How the Pistons clawed back against the Cavs to force another Game 7",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-16 00:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The era of the Tiger Mom is over. Enter the “beta mom.”, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-05-16 00:00:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The surprising ways cannabis can affect the aging brain, Sarah Klein",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-05-16 00:00:17",
+      "pub_time": "",
+      "publication": "Business Insider",
+      "author": "",
+      "headline": "There’s really only one way to get a new job now, Tim Paradis",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-05-16 00:00:17",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "What the collapse of Spirit Airlines will cost American travelers, Vanessa Ogle",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

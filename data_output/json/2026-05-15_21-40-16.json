@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-15 21:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AJscZRcqLQeK2aVki6NSHBw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-15 21:40:16",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Supreme Court rejects Virginia Democrats’ bid to revive new congressional map",
+      "article_headline": "Supreme Court rejects Virginia Democrats' bid to revive new congressional map"
+    },
+    {
+      "link": "https://apple.news/A9s3uTYtuS9mqIlXpln4y3Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-15 21:40:16",
+      "pub_time": "2026-05-15 21:30:46",
+      "publication": "Reuters",
+      "author": "Simon Lewis",
+      "headline": "Israel, Lebanon extend ceasefire by 45 days as Washington talks conclude",
+      "article_headline": "Israel, Lebanon extend ceasefire by 45 days as Washington talks conclude"
+    },
+    {
+      "link": "https://apple.news/A9s3uTYtuS9mqIlXpln4y3Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-15 21:40:16",
+      "pub_time": "2026-05-15 21:29:19",
+      "publication": "Reuters",
+      "author": "Simon Lewis",
+      "headline": "Israel, Lebanon extend ceasefire by 45 days as Washington talks conclude",
+      "article_headline": "Israel, Lebanon extend ceasefire by 45 days as Washington talks conclude"
+    },
+    {
+      "link": "https://apple.news/AaTmR7A72QgW4qFNWvd_xxg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-15 21:40:16",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "“Irresponsible”: backlash as Utah approves data center twice the size of Manhattan",
+      "article_headline": "“Irresponsible”: backlash as Utah approves data center twice the size of Manhattan"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-15 21:40:16",
+      "pub_time": "2026-05-15 21:30:13",
+      "publication": "The Athletic",
+      "author": "Joe Vardon, Hunter Patterson, and Eric Nehm and Jason Lloyd",
+      "headline": "How the Pistons clawed back against the Cavs to force another Game 7",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-15 21:40:16",
+      "pub_time": "2026-05-15 21:29:19",
+      "publication": "The Athletic",
+      "author": "Joe Vardon, Hunter Patterson, and Eric Nehm and Jason Lloyd",
+      "headline": "How the Pistons clawed back against the Cavs to force another Game 7",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ANAyakpjCTMyT1YvxjBNoFQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-15 21:40:16",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "A closely guarded plan to cool Earth is revealed",
+      "article_headline": "A closely guarded plan to cool Earth is revealed"
+    }
+  ]
+}
