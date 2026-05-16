@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-05-16 06:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A1_47qAytQXOahmcDDjG3XQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-16 06:00:16",
+      "pub_time": "2026-05-16 00:00:18",
+      "publication": "Reuters",
+      "author": "Dave Sherwood",
+      "headline": "U.S. plans to indict Raul Castro raise Cubans’ fears of force",
+      "article_headline": "U.S. plans to indict Raul Castro raise Cubans’ fears of force"
+    },
+    {
+      "link": "https://apple.news/AFStAjQWlSniI3SyY51Y4RA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-16 06:00:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Supreme Court rejects Virginia Democrats’ attempt to revive new congressional map",
+      "article_headline": "Supreme Court rejects Virginia Democrats’ attempt to revive new congressional map"
+    },
+    {
+      "link": "https://apple.news/AoeH-reUzS2Wk3YA2j7_j2A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-16 06:00:16",
+      "pub_time": "2026-05-16 00:01:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Long Island Rail Road go on strike, halting busiest U.S. commuter rail system",
+      "article_headline": "Long Island Rail Road go on strike, halting busiest U.S. commuter rail system"
+    },
+    {
+      "link": "https://apple.news/Av4BgtCZrQ3K2_0E6ZkUgZw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-16 06:00:16",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Researchers unearth Southeast Asia’s largest dinosaur",
+      "article_headline": "Researchers unearth Southeast Asia’s largest dinosaur"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-16 06:00:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "How the Pistons clawed back against the Cavs to force another Game 7",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-16 06:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The era of the Tiger Mom is over. Enter the “beta mom.”, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-16 06:00:16",
+      "pub_time": "2026-05-16 05:02:34",
+      "publication": "The Washington Post",
+      "author": "Matthew Cappucci",
+      "headline": "Analysis | In Tornado Alley, a low-precipitation supercell stuns with its beauty and power",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A37HoupkBTUG4fR4-wkTgHQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-16 06:00:16",
+      "pub_time": "2026-05-15 18:03:07",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Why dogs eat grass and what vets want you to know",
+      "article_headline": "Why dogs eat grass and what vets want you to know"
+    },
+    {
+      "link": "https://apple.news/AzWfEaYO4QheTG0vDCrDDtQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-16 06:00:16",
+      "pub_time": "2026-05-16 01:03:35",
+      "publication": "BuzzFeed",
+      "author": "Crystal Ro",
+      "headline": "19 Celebrities Who Were Forced To “Hide” Their Ethnicity To Make It In Hollywood",
+      "article_headline": "19 Celebrities Who Were Forced To “Hide” Their Ethnicity To Make It In Hollywood"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-16 06:00:16",
+      "pub_time": "2026-05-15 06:04:08",
+      "publication": "",
+      "author": "Christopher Mims",
+      "headline": "Analysis | Used EVs Are Now the Most Affordable Cars. Here’s How to Buy a Good One.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AfEdU8hbISzCFF6FJV0H5_g",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-16 06:00:16",
+      "pub_time": "2026-05-15 14:04:08",
+      "publication": "CNBC",
+      "author": "Gili Malinsky",
+      "headline": "This is the one human need ‘we cannot ignore,’ according to bestselling author",
+      "article_headline": "This is the one human need ‘we cannot ignore,’ according to bestselling author"
+    }
+  ]
+}
