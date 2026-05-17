@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-17 00:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A9pQiWnAuQxKU896yqMIdPQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-17 00:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump nemesis Sen. Bill Cassidy defeated in GOP primary",
+      "article_headline": "Trump nemesis Sen. Bill Cassidy defeated in GOP primary"
+    },
+    {
+      "link": "https://apple.news/AwFC4yy-ETjGtqKLjKXLNWg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-17 00:00:16",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Canada confirms first suspected hantavirus case linked to cruise ship",
+      "article_headline": "Canada confirms first suspected hantavirus case linked to cruise ship"
+    },
+    {
+      "link": "https://apple.news/AZn9-6XG1Q0eINuYa3PC2Wg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-17 00:00:16",
+      "pub_time": "2026-05-16 23:01:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Drones are making Sudan’s war even deadlier for civilians",
+      "article_headline": "Drones are making Sudan’s war even deadlier for civilians"
+    },
+    {
+      "link": "https://apple.news/AVqBIQcvMStGBYrMLgtCyRw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-17 00:00:16",
+      "pub_time": "2026-05-16 23:01:46",
+      "publication": "NBC News",
+      "author": "Mike Hixenbaugh",
+      "headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom",
+      "article_headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-17 00:00:16",
+      "pub_time": "2026-05-16 23:02:20",
+      "publication": "The Washington Post",
+      "author": "Steve Thompson",
+      "headline": "His mother warned him to be careful. By evening, the D.C. student was dying.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-17 00:00:16",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "How Jeff Bezos’s low-key successor is trying to transform Amazon, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AzsnKqv5PSK20KBuoLTxa5g",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-17 00:00:16",
+      "pub_time": "",
+      "publication": "How a Supreme Court ruling is fueling a bitter political battle",
+      "author": "",
+      "headline": "Here’s what’s at stake.,  Play Now  24 min",
+      "article_headline": ""
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-16 23:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A9pQiWnAuQxKU896yqMIdPQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-16 23:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump nemesis Sen. Bill Cassidy defeated in GOP primary",
+      "article_headline": "Trump nemesis Sen. Bill Cassidy defeated in GOP primary"
+    },
+    {
+      "link": "https://apple.news/AwFC4yy-ETjGtqKLjKXLNWg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-16 23:40:17",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Canada confirms first suspected hantavirus case linked to cruise ship",
+      "article_headline": "Canada confirms first suspected hantavirus case linked to cruise ship"
+    },
+    {
+      "link": "https://apple.news/AZn9-6XG1Q0eINuYa3PC2Wg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-16 23:40:17",
+      "pub_time": "2026-05-16 22:45:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Drones are making Sudan’s war even deadlier for civilians",
+      "article_headline": "Drones are making Sudan’s war even deadlier for civilians"
+    },
+    {
+      "link": "https://apple.news/AVqBIQcvMStGBYrMLgtCyRw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-16 23:40:17",
+      "pub_time": "2026-05-16 22:45:46",
+      "publication": "NBC News",
+      "author": "Mike Hixenbaugh",
+      "headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom",
+      "article_headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom"
+    },
+    {
+      "link": "https://apple.news/AZn9-6XG1Q0eINuYa3PC2Wg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-16 23:40:17",
+      "pub_time": "2026-05-16 22:44:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Drones are making Sudan’s war even deadlier for civilians",
+      "article_headline": "Drones are making Sudan’s war even deadlier for civilians"
+    },
+    {
+      "link": "https://apple.news/AVqBIQcvMStGBYrMLgtCyRw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-16 23:40:17",
+      "pub_time": "2026-05-16 22:44:46",
+      "publication": "NBC News",
+      "author": "Mike Hixenbaugh",
+      "headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom",
+      "article_headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-16 23:40:17",
+      "pub_time": "2026-05-16 22:45:14",
+      "publication": "The Washington Post",
+      "author": "Steve Thompson",
+      "headline": "His mother warned him to be careful. By evening, the D.C. student was dying.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-16 22:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A9pQiWnAuQxKU896yqMIdPQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-16 22:40:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump nemesis Sen. Bill Cassidy defeated in GOP primary",
+      "article_headline": "Trump nemesis Sen. Bill Cassidy defeated in GOP primary"
+    },
+    {
+      "link": "https://apple.news/A9Vv0MpkSRgKD8Z8nOIrz6Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-16 22:40:16",
+      "pub_time": "2026-05-16 22:38:45",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Venezuela expels Maduro ally Alex Saab to the U.S.",
+      "article_headline": "Venezuela expels Maduro ally Alex Saab to the U.S."
+    },
+    {
+      "link": "https://apple.news/A9Vv0MpkSRgKD8Z8nOIrz6Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-16 22:40:16",
+      "pub_time": "2026-05-16 22:38:18",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Venezuela expels Maduro ally Alex Saab to the U.S.",
+      "article_headline": "Venezuela expels Maduro ally Alex Saab to the U.S."
+    },
+    {
+      "link": "https://apple.news/AwFC4yy-ETjGtqKLjKXLNWg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-16 22:40:16",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Canada confirms first suspected hantavirus case linked to cruise ship",
+      "article_headline": "Canada confirms first suspected hantavirus case linked to cruise ship"
+    },
+    {
+      "link": "https://apple.news/A_fPf06plTLijQxj_1K_IUw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-16 22:40:16",
+      "pub_time": "2026-05-16 22:39:12",
+      "publication": "The Guardian",
+      "author": "Melody Schreiber",
+      "headline": "Abortion providers brace for more disruptions after mail-order mifepristone whiplash",
+      "article_headline": "Abortion providers brace for more disruptions after mail-order mifepristone whiplash"
+    },
+    {
+      "link": "https://apple.news/A_fPf06plTLijQxj_1K_IUw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-16 22:40:16",
+      "pub_time": "2026-05-16 22:37:46",
+      "publication": "The Guardian",
+      "author": "Melody Schreiber",
+      "headline": "Abortion providers brace for more disruptions after mail-order mifepristone whiplash",
+      "article_headline": "Abortion providers brace for more disruptions after mail-order mifepristone whiplash"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-16 22:40:16",
+      "pub_time": "2026-05-16 22:38:14",
+      "publication": "The Washington Post",
+      "author": "Steve Thompson",
+      "headline": "His mother warned him to be careful. By evening, the D.C. student was dying.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
