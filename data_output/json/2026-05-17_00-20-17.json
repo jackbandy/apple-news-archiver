@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-17 00:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A9pQiWnAuQxKU896yqMIdPQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-17 00:20:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump nemesis Sen. Bill Cassidy defeated in GOP primary",
+      "article_headline": "Trump nemesis Sen. Bill Cassidy defeated in GOP primary"
+    },
+    {
+      "link": "https://apple.news/AyoyMTD4nSIm2eCRBnQOXKQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-17 00:20:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda",
+      "article_headline": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda"
+    },
+    {
+      "link": "https://apple.news/A43PEQhxYTF2qvtc-Vb0DaQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-17 00:20:17",
+      "pub_time": "2026-05-17 00:05:18",
+      "publication": "The Trace",
+      "author": "Jennifer Mascia",
+      "headline": "People might soon be able to ship handguns through the mail. Here’s why it matters.",
+      "article_headline": "People might soon be able to ship handguns through the mail. Here’s why it matters."
+    },
+    {
+      "link": "https://apple.news/AVqBIQcvMStGBYrMLgtCyRw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-17 00:20:17",
+      "pub_time": "2026-05-17 00:05:46",
+      "publication": "NBC News",
+      "author": "Mike Hixenbaugh",
+      "headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom",
+      "article_headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom"
+    },
+    {
+      "link": "https://apple.news/A43PEQhxYTF2qvtc-Vb0DaQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-17 00:20:17",
+      "pub_time": "2026-05-17 00:05:19",
+      "publication": "The Trace",
+      "author": "Jennifer Mascia",
+      "headline": "People might soon be able to ship handguns through the mail. Here’s why it matters.",
+      "article_headline": "People might soon be able to ship handguns through the mail. Here’s why it matters."
+    },
+    {
+      "link": "https://apple.news/AVqBIQcvMStGBYrMLgtCyRw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-17 00:20:17",
+      "pub_time": "2026-05-17 00:05:47",
+      "publication": "NBC News",
+      "author": "Mike Hixenbaugh",
+      "headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom",
+      "article_headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-17 00:20:17",
+      "pub_time": "2026-05-17 00:06:15",
+      "publication": "The Washington Post",
+      "author": "Steve Thompson",
+      "headline": "His mother warned him to be careful. By evening, the D.C. student was dying.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "run_time": "2026-05-17 05:00:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/A9pQiWnAuQxKU896yqMIdPQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-17 05:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump nemesis Sen. Bill Cassidy defeated in GOP primary",
+      "article_headline": "Trump nemesis Sen. Bill Cassidy defeated in GOP primary"
+    },
+    {
+      "link": "https://apple.news/AyoyMTD4nSIm2eCRBnQOXKQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-17 05:00:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda",
+      "article_headline": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda"
+    },
+    {
+      "link": "https://apple.news/A43PEQhxYTF2qvtc-Vb0DaQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-17 05:00:17",
+      "pub_time": "2026-05-17 01:01:19",
+      "publication": "The Trace",
+      "author": "Jennifer Mascia",
+      "headline": "People might soon be able to ship handguns through the mail. Here’s why it matters.",
+      "article_headline": "People might soon be able to ship handguns through the mail. Here’s why it matters."
+    },
+    {
+      "link": "https://apple.news/AVqBIQcvMStGBYrMLgtCyRw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-17 05:00:17",
+      "pub_time": "2026-05-17 01:01:46",
+      "publication": "NBC News",
+      "author": "Mike Hixenbaugh",
+      "headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom",
+      "article_headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-17 05:00:17",
+      "pub_time": "2026-05-17 01:02:20",
+      "publication": "The Washington Post",
+      "author": "Steve Thompson",
+      "headline": "His mother warned him to be careful. By evening, the D.C. student was dying.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-17 05:00:17",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "How Jeff Bezos’s low-key successor is trying to transform Amazon, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AR8zOnRDtTRaBBxVGlJRbHA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-17 05:00:17",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Johnson aide pokes holes in Chicago's Bears stadium rivals, says city not yet out",
+      "article_headline": "Johnson aide pokes holes in Chicago's Bears stadium rivals, says city not yet out"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-05-17 05:00:17",
+      "pub_time": "",
+      "publication": "Men’s Health",
+      "author": "",
+      "headline": "America has a new favorite anxiety drug, Gregory Scott Brown",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-05-17 05:00:17",
+      "pub_time": "",
+      "publication": "Investopedia",
+      "author": "",
+      "headline": "The 401(k) benchmark only 14% of workers hit — and how to achieve it, Jake Safane",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-05-17 05:00:17",
+      "pub_time": "",
+      "publication": "Prevention",
+      "author": "",
+      "headline": "The six steps to unlock happiness, according to psychologists, Sharlene Breakey",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
