@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-19 03:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AmfdBxO4CRiqgzBeYUMU5QA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-19 03:20:17",
+      "pub_time": "2026-05-19 00:20:18",
+      "publication": "The Guardian",
+      "author": "Maya Yang and Maanvi Singh",
+      "headline": "3 people killed in shooting at San Diego’s largest mosque; 2 suspects also dead",
+      "article_headline": "3 people killed in shooting at San Diego’s largest mosque; 2 suspects also dead"
+    },
+    {
+      "link": "https://apple.news/AC3qcP1AaT960UlRVL51oMA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-19 03:20:17",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "What to watch for in Tuesday’s primaries across 6 states",
+      "article_headline": "What to watch for in Tuesday’s primaries across 6 states"
+    },
+    {
+      "link": "https://apple.news/A_soAEcQ9R1ioguDl_5YkEQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-19 03:20:17",
+      "pub_time": "2026-05-19 00:21:20",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Israel, Hezbollah war persists despite truce extension as Lebanon's death toll passes 3,000",
+      "article_headline": "Israel, Hezbollah war persists despite truce extension as Lebanon's death toll passes 3,000"
+    },
+    {
+      "link": "https://apple.news/ABb-aixulRmyUAaBagmR-Ug",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-19 03:20:17",
+      "pub_time": "2026-05-19 00:21:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration plans to admit more white South Africans as refugees this year",
+      "article_headline": "Trump administration plans to admit more white South Africans as refugees this year"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-19 03:20:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Victor Wembanyama leads Spurs past Thunder in double-overtime playoff thriller",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-19 03:20:17",
+      "pub_time": "",
+      "publication": "The Verge",
+      "author": "",
+      "headline": "The subletter that upended an L.A. woman’s life, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AGBcEK3pISWe3Psp7AKMoQg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-19 03:20:17",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Chicago History Museum violated law after firing employees for unionizing, federal labor board alleges",
+      "article_headline": "Chicago History Museum violated law after firing employees for unionizing, federal labor board alleges"
+    }
+  ]
+}

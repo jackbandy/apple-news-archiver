@@ -1,0 +1,119 @@
+{
+  "run_time": "2026-05-19 05:20:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/ALv8f_dCcQg-DQ432excQ5A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-19 05:20:17",
+      "pub_time": "2026-05-19 05:14:19",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Iran says peace proposal includes reparations for war damage and U.S. troop withdrawal",
+      "article_headline": "Iran says peace proposal includes reparations for war damage and U.S. troop withdrawal"
+    },
+    {
+      "link": "https://apple.news/A4tx7Tf43QOuWpobS076cIw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-19 05:20:17",
+      "pub_time": "2026-05-19 05:14:46",
+      "publication": "NBC News",
+      "author": "Tim Stelloh",
+      "headline": "What is known about the San Diego shooting victims, suspects, possible motive, and more",
+      "article_headline": "What is known about the San Diego shooting victims, suspects, possible motive, and more"
+    },
+    {
+      "link": "https://apple.news/AghDqggXoRVaArsID_5zjlA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-19 05:20:17",
+      "pub_time": "2026-05-19 05:15:14",
+      "publication": "The Guardian",
+      "author": "Kat Lay",
+      "headline": "WHO head “deeply concerned” by Ebola outbreak as cases and deaths rise in Congo",
+      "article_headline": "WHO head “deeply concerned” by Ebola outbreak as cases and deaths rise in Congo"
+    },
+    {
+      "link": "https://apple.news/A4tx7Tf43QOuWpobS076cIw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-19 05:20:17",
+      "pub_time": "2026-05-19 05:13:48",
+      "publication": "NBC News",
+      "author": "Tim Stelloh",
+      "headline": "What is known about the San Diego shooting victims, suspects, possible motive, and more",
+      "article_headline": "What is known about the San Diego shooting victims, suspects, possible motive, and more"
+    },
+    {
+      "link": "https://apple.news/AghDqggXoRVaArsID_5zjlA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-19 05:20:17",
+      "pub_time": "2026-05-19 05:14:16",
+      "publication": "The Guardian",
+      "author": "Kat Lay",
+      "headline": "WHO head “deeply concerned” by Ebola outbreak as cases and deaths rise in Congo",
+      "article_headline": "WHO head “deeply concerned” by Ebola outbreak as cases and deaths rise in Congo"
+    },
+    {
+      "link": "https://apple.news/AC3qcP1AaT960UlRVL51oMA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-19 05:20:17",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "What to watch for in Tuesday’s primaries across 6 states",
+      "article_headline": "What to watch for in Tuesday’s primaries across 6 states"
+    },
+    {
+      "link": "https://apple.news/A_9zkGjCNRu2_-xepYScg0g",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-19 05:20:17",
+      "pub_time": "2026-05-19 05:14:16",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Selling children to survive: Afghan fathers forced to make impossible choices",
+      "article_headline": "Selling children to survive: Afghan fathers forced to make impossible choices"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-05-19 05:20:17",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "Can exercise offset the health risks of alcohol? , Hannah Singleton",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-05-19 05:20:17",
+      "pub_time": "",
+      "publication": "Barron’s",
+      "author": "",
+      "headline": "Adult kids are getting their inheritances sooner. Here’s why parents are doing it., Alice Kantor",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-05-19 05:20:17",
+      "pub_time": "",
+      "publication": "Investopedia",
+      "author": "",
+      "headline": "Are you financially ahead or behind? Americans’ average net worth by age., Daniel Liberto",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
