@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-19 16:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AY7eTokXlTcCMZTBnKnfxmQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-19 16:20:16",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "New deal bars IRS from tax audits of Trump, his family and businesses",
+      "article_headline": "New deal bars IRS from tax audits of Trump, his family and businesses"
+    },
+    {
+      "link": "https://apple.news/AhGhV9PzKQEuWHVNf-SUgUg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-19 16:20:16",
+      "pub_time": "2026-05-19 16:14:46",
+      "publication": "Los Angeles Times",
+      "author": "Richard Winton, Hannah Fry, Salvador Hernandez, and Clara Harter",
+      "headline": "Authorities try to unravel what led 2 teens to attack San Diego Islamic Center, killing 3",
+      "article_headline": "Authorities try to unravel what led 2 teens to attack San Diego Islamic Center, killing 3"
+    },
+    {
+      "link": "https://apple.news/AJKxvCJdIS4qJcwTz0YI0Gw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-19 16:20:16",
+      "pub_time": "2026-05-19 16:15:14",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward and Summer Said",
+      "headline": "Mediators see little progress in U.S.-Iran talks",
+      "article_headline": "Mediators see little progress in U.S.-Iran talks"
+    },
+    {
+      "link": "https://apple.news/AhGhV9PzKQEuWHVNf-SUgUg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-19 16:20:16",
+      "pub_time": "2026-05-19 16:14:45",
+      "publication": "Los Angeles Times",
+      "author": "Richard Winton, Hannah Fry, Salvador Hernandez, and Clara Harter",
+      "headline": "Authorities try to unravel what led 2 teens to attack San Diego Islamic Center, killing 3",
+      "article_headline": "Authorities try to unravel what led 2 teens to attack San Diego Islamic Center, killing 3"
+    },
+    {
+      "link": "https://apple.news/AJKxvCJdIS4qJcwTz0YI0Gw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-19 16:20:16",
+      "pub_time": "2026-05-19 16:15:13",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward and Summer Said",
+      "headline": "Mediators see little progress in U.S.-Iran talks",
+      "article_headline": "Mediators see little progress in U.S.-Iran talks"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-19 16:20:16",
+      "pub_time": "2026-05-19 16:15:40",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Trump endorses Texas AG Ken Paxton in heated race for Texas U.S. Senate seat",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-19 16:20:16",
+      "pub_time": "2026-05-19 16:14:46",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Trump endorses Texas AG Ken Paxton in heated race for Texas U.S. Senate seat",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AXk-VwsH4RiyCZgYuVm_Ktw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-19 16:20:16",
+      "pub_time": "2026-05-19 07:23:21",
+      "publication": "HuffPost",
+      "author": "Sydney Wingfield",
+      "headline": "Older Women Have Stopped Caring About These 6 Things — And It Feels Like Freedom",
+      "article_headline": "Older Women Have Stopped Caring About These 6 Things — And It Feels Like Freedom"
+    },
+    {
+      "link": "https://apple.news/A3WuYj-_ESEG3zKzUr4i_Aw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-19 16:20:16",
+      "pub_time": "2026-05-19 11:23:54",
+      "publication": "CNBC",
+      "author": "Dr. Steven Gundry, Contributor",
+      "headline": "I’m a surgeon and gut health expert—the No. 1 'magical' food I eat for a longer life",
+      "article_headline": "I’m a surgeon and gut health expert—the No. 1 'magical' food I eat for a longer life"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-19 16:20:16",
+      "pub_time": "2026-05-19 14:24:22",
+      "publication": "",
+      "author": "Amil Niazi",
+      "headline": "Midlife Crisis–ing in the End-times",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AUygwUHU_QWirYBGktPoLgA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-19 16:20:16",
+      "pub_time": "2026-05-19 09:24:22",
+      "publication": "TheStreet",
+      "author": "Aditya Raghunath",
+      "headline": "Exxon CEO delivers blunt message on Strait of Hormuz, oil prices",
+      "article_headline": "Exxon CEO delivers blunt message on Strait of Hormuz, oil prices"
+    }
+  ]
+}

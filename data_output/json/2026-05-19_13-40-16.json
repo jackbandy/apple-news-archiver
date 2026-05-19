@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-19 13:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AW_rtgwV-T0q-aQm75sBtDw?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-19 13:40:16",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Trump makes long-awaited endorsement in Texas Senate race as 6 key states hold primaries",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AhGhV9PzKQEuWHVNf-SUgUg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-19 13:40:16",
+      "pub_time": "2026-05-19 13:25:45",
+      "publication": "Los Angeles Times",
+      "author": "Richard Winton, Hannah Fry, Salvador Hernandez, and Clara Harter",
+      "headline": "Authorities try to unravel what led 2 teens to attack San Diego Islamic Center, killing 3",
+      "article_headline": "Authorities try to unravel what led 2 teens to attack San Diego Islamic Center, killing 3"
+    },
+    {
+      "link": "https://apple.news/A6F-M5smHRk-Fm5L57ZC5OQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-19 13:40:16",
+      "pub_time": "2026-05-19 13:26:13",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Acting AG doesn’t rule out payments for violent Jan. 6 rioters as he defends $1.8 billion fund",
+      "article_headline": "Acting AG doesn’t rule out payments for violent Jan. 6 rioters as he defends $1.8 billion fund"
+    },
+    {
+      "link": "https://apple.news/AhGhV9PzKQEuWHVNf-SUgUg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-19 13:40:16",
+      "pub_time": "2026-05-19 13:24:45",
+      "publication": "Los Angeles Times",
+      "author": "Richard Winton, Hannah Fry, Salvador Hernandez, and Clara Harter",
+      "headline": "Authorities try to unravel what led 2 teens to attack San Diego Islamic Center, killing 3",
+      "article_headline": "Authorities try to unravel what led 2 teens to attack San Diego Islamic Center, killing 3"
+    },
+    {
+      "link": "https://apple.news/A6F-M5smHRk-Fm5L57ZC5OQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-19 13:40:16",
+      "pub_time": "2026-05-19 13:25:12",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Acting AG doesn’t rule out payments for violent Jan. 6 rioters as he defends $1.8 billion fund",
+      "article_headline": "Acting AG doesn’t rule out payments for violent Jan. 6 rioters as he defends $1.8 billion fund"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-19 13:40:16",
+      "pub_time": "2026-05-19 13:25:40",
+      "publication": "The Wall Street Journal",
+      "author": "Anastasiia Malenko and Marcus Walker",
+      "headline": "Russia’s war is going badly — on the ground and in the air",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-19 13:40:16",
+      "pub_time": "2026-05-19 13:24:45",
+      "publication": "The Wall Street Journal",
+      "author": "Anastasiia Malenko and Marcus Walker",
+      "headline": "Russia’s war is going badly — on the ground and in the air",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

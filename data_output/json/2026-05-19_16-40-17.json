@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-19 16:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AY7eTokXlTcCMZTBnKnfxmQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-19 16:40:17",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "New deal bars IRS from tax audits of Trump, his family, and his businesses",
+      "article_headline": "New deal bars IRS from tax audits of Trump, his family, and his businesses"
+    },
+    {
+      "link": "https://apple.news/AhGhV9PzKQEuWHVNf-SUgUg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-19 16:40:17",
+      "pub_time": "2026-05-19 16:34:46",
+      "publication": "Los Angeles Times",
+      "author": "Richard Winton, Hannah Fry, Salvador Hernandez, and Clara Harter",
+      "headline": "Authorities try to unravel what led 2 teens to attack San Diego Islamic Center, killing 3",
+      "article_headline": "Authorities try to unravel what led 2 teens to attack San Diego Islamic Center, killing 3"
+    },
+    {
+      "link": "https://apple.news/AhGhV9PzKQEuWHVNf-SUgUg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-19 16:40:17",
+      "pub_time": "2026-05-19 16:34:20",
+      "publication": "Los Angeles Times",
+      "author": "Richard Winton, Hannah Fry, Salvador Hernandez, and Clara Harter",
+      "headline": "Authorities try to unravel what led 2 teens to attack San Diego Islamic Center, killing 3",
+      "article_headline": "Authorities try to unravel what led 2 teens to attack San Diego Islamic Center, killing 3"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-19 16:40:17",
+      "pub_time": "2026-05-19 16:34:48",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward and Summer Said",
+      "headline": "Mediators see little progress in U.S.-Iran talks",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AcNSiMiw-QASQDN6BeP9UzQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-19 16:40:17",
+      "pub_time": "2026-05-19 16:34:48",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Trump endorses Texas AG Ken Paxton in heated race for U.S. Senate seat",
+      "article_headline": "Trump endorses Texas AG Ken Paxton in heated race for U.S. Senate seat"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-19 16:40:17",
+      "pub_time": "2026-05-19 16:34:20",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward and Summer Said",
+      "headline": "Mediators see little progress in U.S.-Iran talks",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AcNSiMiw-QASQDN6BeP9UzQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-19 16:40:17",
+      "pub_time": "2026-05-19 16:34:20",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Trump endorses Texas AG Ken Paxton in heated race for U.S. Senate seat",
+      "article_headline": "Trump endorses Texas AG Ken Paxton in heated race for U.S. Senate seat"
+    }
+  ]
+}
