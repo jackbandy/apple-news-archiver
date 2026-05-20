@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-19 21:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A4xXMnGEMQCG4iT_9XJ-w9Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-19 21:40:17",
+      "pub_time": "2026-05-19 21:38:18",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Rep. Thomas Massie defeated in Kentucky GOP primary after attacks from Trump, MORE COVERAGE",
+      "article_headline": "Rep. Thomas Massie defeated in Kentucky GOP primary after attacks from Trump"
+    },
+    {
+      "link": "https://apple.news/AhX4Rc4tYQGadmtFDAAX6Xw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-19 21:40:17",
+      "pub_time": "2026-05-19 21:38:50",
+      "publication": "Reuters",
+      "author": "Patricia Zengerle",
+      "headline": "Senate advances measure curbing Trump’s Iran war powers",
+      "article_headline": "Senate advances measure curbing Trump’s Iran war powers"
+    },
+    {
+      "link": "https://apple.news/A1iAk9c_fTBulZDJ65Skc5Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-19 21:40:17",
+      "pub_time": "2026-05-19 21:39:17",
+      "publication": "The Washington Post",
+      "author": "Tara Copp",
+      "headline": "Pentagon says U.S. will cut thousands of troops from Europe",
+      "article_headline": "Pentagon says U.S. will cut thousands of troops from Europe"
+    },
+    {
+      "link": "https://apple.news/AhX4Rc4tYQGadmtFDAAX6Xw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-19 21:40:17",
+      "pub_time": "2026-05-19 21:38:50",
+      "publication": "Reuters",
+      "author": "Patricia Zengerle",
+      "headline": "Senate advances measure curbing Trump’s Iran war powers",
+      "article_headline": "Senate advances measure curbing Trump’s Iran war powers"
+    },
+    {
+      "link": "https://apple.news/A1iAk9c_fTBulZDJ65Skc5Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-19 21:40:17",
+      "pub_time": "2026-05-19 21:39:17",
+      "publication": "The Washington Post",
+      "author": "Tara Copp",
+      "headline": "Pentagon says U.S. will cut thousands of troops from Europe",
+      "article_headline": "Pentagon says U.S. will cut thousands of troops from Europe"
+    },
+    {
+      "link": "https://apple.news/AMeSg5UlETRW2Ip4pb1OsNw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-19 21:40:17",
+      "pub_time": "2026-05-19 21:39:45",
+      "publication": "The Christian Science Monitor",
+      "author": "Fred Weir",
+      "headline": "First Trump, now Putin: Beijing receives Russian leader to bolster “partnership”",
+      "article_headline": "First Trump, now Putin: Beijing receives Russian leader to bolster ‘partnership’"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-19 21:40:17",
+      "pub_time": "",
+      "publication": "New Scientist",
+      "author": "",
+      "headline": "The “doomsday” glacier’s giant ice shelf is about to break away",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

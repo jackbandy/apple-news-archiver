@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-19 22:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A4xXMnGEMQCG4iT_9XJ-w9Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-19 22:00:16",
+      "pub_time": "2026-05-19 21:48:17",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Rep. Thomas Massie defeated in Kentucky GOP primary after attacks from Trump, MORE COVERAGE",
+      "article_headline": "Rep. Thomas Massie defeated in Kentucky GOP primary after attacks from Trump"
+    },
+    {
+      "link": "https://apple.news/AhX4Rc4tYQGadmtFDAAX6Xw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-19 22:00:16",
+      "pub_time": "2026-05-19 21:48:49",
+      "publication": "Reuters",
+      "author": "Patricia Zengerle",
+      "headline": "Senate advances measure curbing Trump’s Iran war powers",
+      "article_headline": "Senate advances measure curbing Trump’s Iran war powers"
+    },
+    {
+      "link": "https://apple.news/A1iAk9c_fTBulZDJ65Skc5Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-19 22:00:16",
+      "pub_time": "2026-05-19 21:49:17",
+      "publication": "The Washington Post",
+      "author": "Tara Copp",
+      "headline": "Pentagon says U.S. will cut thousands of troops from Europe",
+      "article_headline": "Pentagon says U.S. will cut thousands of troops from Europe"
+    },
+    {
+      "link": "https://apple.news/AhX4Rc4tYQGadmtFDAAX6Xw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-19 22:00:16",
+      "pub_time": "2026-05-19 21:47:50",
+      "publication": "Reuters",
+      "author": "Patricia Zengerle",
+      "headline": "Senate advances measure curbing Trump’s Iran war powers",
+      "article_headline": "Senate advances measure curbing Trump’s Iran war powers"
+    },
+    {
+      "link": "https://apple.news/A1iAk9c_fTBulZDJ65Skc5Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-19 22:00:16",
+      "pub_time": "2026-05-19 21:48:17",
+      "publication": "The Washington Post",
+      "author": "Tara Copp",
+      "headline": "Pentagon says U.S. will cut thousands of troops from Europe",
+      "article_headline": "Pentagon says U.S. will cut thousands of troops from Europe"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-19 22:00:16",
+      "pub_time": "2026-05-19 21:48:45",
+      "publication": "The Christian Science Monitor",
+      "author": "Fred Weir",
+      "headline": "First Trump, now Putin: Beijing receives Russian leader to bolster “partnership”",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-19 22:00:16",
+      "pub_time": "",
+      "publication": "New Scientist",
+      "author": "",
+      "headline": "The “doomsday” glacier’s giant ice shelf is about to break away",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AENhKAdsySwmbZBXCqN1N_Q",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-19 22:00:16",
+      "pub_time": "2026-05-19 17:03:28",
+      "publication": "Entertainment Weekly",
+      "author": "Marina Watts",
+      "headline": "Phil Collins makes rare public appearance after revealing he requires 24-hour care",
+      "article_headline": "Phil Collins makes rare public appearance after revealing he requires 24-hour care"
+    },
+    {
+      "link": "https://apple.news/AOW4aZ9N0T0KhKwQcU1jOKA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-19 22:00:16",
+      "pub_time": "2026-05-19 15:03:55",
+      "publication": "ABC News",
+      "author": "Yi-Jin Yu",
+      "headline": "Service dog steals the spotlight at graduation ceremony",
+      "article_headline": "Service dog steals the spotlight at graduation ceremony"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-19 22:00:16",
+      "pub_time": "2026-05-19 08:04:22",
+      "publication": "",
+      "author": "Michael Cappetta",
+      "headline": "Royal Caribbean Cancels All Stops to This Caribbean Destination Through Next Year",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AeDtaU2GbQ1CPvRybUiClHQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-19 22:00:16",
+      "pub_time": "2026-05-19 15:04:29",
+      "publication": "The Guardian",
+      "author": "Edward Helmore",
+      "headline": "New York woman dies after stepping out of car into open manhole",
+      "article_headline": "New York woman dies after stepping out of car into open manhole"
+    }
+  ]
+}

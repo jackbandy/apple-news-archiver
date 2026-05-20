@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-19 21:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AEZga-uWsQESH5V0L_oUmHQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-19 21:20:17",
+      "pub_time": "2026-05-19 21:02:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Rep. Thomas Massie loses Kentucky GOP primary to Ed Gallrein in another victory for Trump, MORE COVERAGE",
+      "article_headline": "Rep. Thomas Massie loses Kentucky GOP primary to Ed Gallrein in another victory for Trump"
+    },
+    {
+      "link": "https://apple.news/AhX4Rc4tYQGadmtFDAAX6Xw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-19 21:20:17",
+      "pub_time": "2026-05-19 21:02:49",
+      "publication": "Reuters",
+      "author": "Patricia Zengerle",
+      "headline": "Senate advances measure curbing Trump’s Iran war powers",
+      "article_headline": "Senate advances measure curbing Trump’s Iran war powers"
+    },
+    {
+      "link": "https://apple.news/AM55vfNLrRz6rQiNn73EI9Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-19 21:20:17",
+      "pub_time": "2026-05-19 21:03:17",
+      "publication": "The Wall Street Journal",
+      "author": "Richard Rubin",
+      "headline": "Trump’s deal with his administration also ends his tax audits",
+      "article_headline": "Trump’s deal with his administration also ends his tax audits"
+    },
+    {
+      "link": "https://apple.news/AhX4Rc4tYQGadmtFDAAX6Xw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-19 21:20:17",
+      "pub_time": "2026-05-19 21:01:50",
+      "publication": "Reuters",
+      "author": "Patricia Zengerle",
+      "headline": "Senate advances measure curbing Trump’s Iran war powers",
+      "article_headline": "Senate advances measure curbing Trump’s Iran war powers"
+    },
+    {
+      "link": "https://apple.news/AM55vfNLrRz6rQiNn73EI9Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-19 21:20:17",
+      "pub_time": "2026-05-19 21:02:16",
+      "publication": "The Wall Street Journal",
+      "author": "Richard Rubin",
+      "headline": "Trump’s deal with his administration also ends his tax audits",
+      "article_headline": "Trump’s deal with his administration also ends his tax audits"
+    },
+    {
+      "link": "https://apple.news/ACPFbJVjyS523Bhv_N79szA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-19 21:20:17",
+      "pub_time": "2026-05-19 21:02:43",
+      "publication": "The Guardian",
+      "author": "Amanda Ulrich",
+      "headline": "Witnesses describe shock and disbelief after San Diego mosque attack",
+      "article_headline": "Witnesses describe shock and disbelief after San Diego mosque attack"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-19 21:20:17",
+      "pub_time": "",
+      "publication": "New Scientist",
+      "author": "",
+      "headline": "The “doomsday” glacier’s giant ice shelf is about to break away",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
