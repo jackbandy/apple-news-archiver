@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-20 00:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A4xXMnGEMQCG4iT_9XJ-w9Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-20 00:40:16",
+      "pub_time": "2026-05-20 00:00:17",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Rep. Thomas Massie defeated in Kentucky GOP primary after attacks from Trump, MORE COVERAGE",
+      "article_headline": "Thomas Massie Defeated in GOP Primary After Attacks From Trump"
+    },
+    {
+      "link": "https://apple.news/AryaNiuWOQAqoDPWOr_wi9g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-20 00:40:16",
+      "pub_time": "2026-05-20 00:00:49",
+      "publication": "The Guardian",
+      "author": "Joseph Gedeon",
+      "headline": "Pentagon watchdog opens inquiry into U.S. airstrikes on alleged drug boats",
+      "article_headline": "Pentagon watchdog opens inquiry into U.S. airstrikes on alleged drug boats"
+    },
+    {
+      "link": "https://apple.news/AryaNiuWOQAqoDPWOr_wi9g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-20 00:40:16",
+      "pub_time": "2026-05-20 00:00:23",
+      "publication": "The Guardian",
+      "author": "Joseph Gedeon",
+      "headline": "Pentagon watchdog opens inquiry into U.S. airstrikes on alleged drug boats",
+      "article_headline": "Pentagon watchdog opens inquiry into U.S. airstrikes on alleged drug boats"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-20 00:40:16",
+      "pub_time": "2026-05-20 00:00:51",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Trump escalates Cuba pressure, building case for potential military action",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AiEFyuW18SIqpO1b1SyjdDg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-20 00:40:16",
+      "pub_time": "2026-05-20 00:00:51",
+      "publication": "Axios",
+      "author": "Russell Contreras",
+      "headline": "A great exurban surge is reshaping America",
+      "article_headline": "A great exurban surge is reshaping America"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-20 00:40:16",
+      "pub_time": "2026-05-20 00:00:24",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Trump escalates Cuba pressure, building case for potential military action",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AiEFyuW18SIqpO1b1SyjdDg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-20 00:40:16",
+      "pub_time": "2026-05-20 00:00:24",
+      "publication": "Axios",
+      "author": "Russell Contreras",
+      "headline": "A great exurban surge is reshaping America",
+      "article_headline": "A great exurban surge is reshaping America"
+    }
+  ]
+}

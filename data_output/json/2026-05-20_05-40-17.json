@@ -1,0 +1,119 @@
+{
+  "run_time": "2026-05-20 05:40:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/A-SYwNachQaW3pgKe-W7TPg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-20 05:40:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Key primaries show Trump’s power over the GOP",
+      "article_headline": "Key primaries show Trump’s power over the GOP"
+    },
+    {
+      "link": "https://apple.news/AryaNiuWOQAqoDPWOr_wi9g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-20 05:40:17",
+      "pub_time": "2026-05-20 05:10:47",
+      "publication": "The Guardian",
+      "author": "Joseph Gedeon",
+      "headline": "Pentagon watchdog opens inquiry into U.S. airstrikes on alleged drug boats",
+      "article_headline": "Pentagon watchdog opens inquiry into U.S. airstrikes on alleged drug boats"
+    },
+    {
+      "link": "https://apple.news/A5RIHAVbrTKStpDRvD1r1fg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-20 05:40:17",
+      "pub_time": "2026-05-20 05:11:15",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Trump’s Greenland envoy faces uphill battle on first mission to make “friends”",
+      "article_headline": "Trump’s Greenland envoy faces uphill battle on first mission to make “friends”"
+    },
+    {
+      "link": "https://apple.news/AryaNiuWOQAqoDPWOr_wi9g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-20 05:40:17",
+      "pub_time": "2026-05-20 05:10:46",
+      "publication": "The Guardian",
+      "author": "Joseph Gedeon",
+      "headline": "Pentagon watchdog opens inquiry into U.S. airstrikes on alleged drug boats",
+      "article_headline": "Pentagon watchdog opens inquiry into U.S. airstrikes on alleged drug boats"
+    },
+    {
+      "link": "https://apple.news/A5RIHAVbrTKStpDRvD1r1fg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-20 05:40:17",
+      "pub_time": "2026-05-20 05:11:14",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Trump’s Greenland envoy faces uphill battle on first mission to make “friends”",
+      "article_headline": "Trump’s Greenland envoy faces uphill battle on first mission to make “friends”"
+    },
+    {
+      "link": "https://apple.news/AiEFyuW18SIqpO1b1SyjdDg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-20 05:40:17",
+      "pub_time": "2026-05-20 05:10:41",
+      "publication": "Axios",
+      "author": "Russell Contreras",
+      "headline": "A great exurban surge is reshaping America",
+      "article_headline": "A great exurban surge is reshaping America"
+    },
+    {
+      "link": "https://apple.news/AiEFyuW18SIqpO1b1SyjdDg",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-20 05:40:17",
+      "pub_time": "2026-05-20 05:10:15",
+      "publication": "Axios",
+      "author": "Russell Contreras",
+      "headline": "A great exurban surge is reshaping America",
+      "article_headline": "A great exurban surge is reshaping America"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-05-20 05:40:17",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The worst airport in America, Ellen Cushing",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-05-20 05:40:17",
+      "pub_time": "",
+      "publication": "Men’s Health",
+      "author": "",
+      "headline": "Warning signs of prostate trouble — and what can help, Kevin Dupzyk",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-05-20 05:40:17",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "What cannabis does to your memory — and how to fix it, Steve Midway",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
