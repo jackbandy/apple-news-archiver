@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-05-20 09:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AUEnWcQHzQ26QJPukMxcYEA?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-20 09:00:16",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Key takeaways from Tuesday’s primaries: Trump’s endorsements continue to knock out opponents, and more",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ABNlDjBxEQg6JAngd2mDE4w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-20 09:00:16",
+      "pub_time": "2026-05-20 08:55:46",
+      "publication": "Bloomberg",
+      "author": "Patrick Sykes and Eltaf Najafizada",
+      "headline": "Iran threatens to retaliate beyond Middle East if U.S. restarts attacks",
+      "article_headline": "Iran threatens to retaliate beyond Middle East if U.S. restarts attacks"
+    },
+    {
+      "link": "https://apple.news/AUyeWviVnSKK9rIPPfBdhlQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-20 09:00:16",
+      "pub_time": "2026-05-20 08:56:14",
+      "publication": "NBC News",
+      "author": "Daniel Arkin",
+      "headline": "Former Rep. Barney Frank, champion of Wall Street reform and LGBTQ trailblazer, dies at 86",
+      "article_headline": "Former Rep. Barney Frank, champion of Wall Street reform and LGBTQ trailblazer, dies at 86"
+    },
+    {
+      "link": "https://apple.news/ABNlDjBxEQg6JAngd2mDE4w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-20 09:00:16",
+      "pub_time": "2026-05-20 08:55:47",
+      "publication": "Bloomberg",
+      "author": "Patrick Sykes and Eltaf Najafizada",
+      "headline": "Iran threatens to retaliate beyond Middle East if U.S. restarts attacks",
+      "article_headline": "Iran threatens to retaliate beyond Middle East if U.S. restarts attacks"
+    },
+    {
+      "link": "https://apple.news/AUyeWviVnSKK9rIPPfBdhlQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-20 09:00:16",
+      "pub_time": "2026-05-20 08:56:14",
+      "publication": "NBC News",
+      "author": "Daniel Arkin",
+      "headline": "Former Rep. Barney Frank, champion of Wall Street reform and LGBTQ trailblazer, dies at 86",
+      "article_headline": "Former Rep. Barney Frank, champion of Wall Street reform and LGBTQ trailblazer, dies at 86"
+    },
+    {
+      "link": "https://apple.news/AqGQkDmIIRhW26rXxEgUaSg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-20 09:00:16",
+      "pub_time": "2026-05-20 08:56:42",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Oily sludge is flooding their dream home. Oklahoma regulators say they can’t help.",
+      "article_headline": "Oily sludge is flooding their dream home. Oklahoma regulators say they can’t help."
+    },
+    {
+      "link": "https://apple.news/AqGQkDmIIRhW26rXxEgUaSg",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-20 09:00:16",
+      "pub_time": "2026-05-20 08:56:15",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Oily sludge is flooding their dream home. Oklahoma regulators say they can’t help.",
+      "article_headline": "Oily sludge is flooding their dream home. Oklahoma regulators say they can’t help."
+    },
+    {
+      "link": "https://apple.news/AU-UBEGxeSfGMKg8TOwKkZQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-20 09:00:16",
+      "pub_time": "2026-05-20 06:04:20",
+      "publication": "HuffPost",
+      "author": "Nandini Maharaj",
+      "headline": "Therapists Say This Common Fear Is One Of The Biggest Signs Of Avoidant Personality Disorder",
+      "article_headline": "Therapists Say This Common Fear Is One Of The Biggest Signs Of Avoidant Personality Disorder"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-20 09:00:16",
+      "pub_time": "2026-05-19 18:04:47",
+      "publication": "",
+      "author": "Ashlyn Needham",
+      "headline": "5 Things You Should Be Washing Every Week (But Probably Aren’t)",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-20 09:00:16",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Depression scales may not work the same for highly intelligent people, Apple News Plus, Simon Makin",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aqe0vPsZxSHOJVKEejk_WdA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-20 09:00:16",
+      "pub_time": "2026-05-19 10:05:04",
+      "publication": "EatingWell",
+      "author": "Adam Meyer",
+      "headline": "5 Vegetables to Eat More of for Better Kidney Health, According to Experts",
+      "article_headline": "5 Vegetables to Eat More of for Better Kidney Health, According to Experts"
+    }
+  ]
+}

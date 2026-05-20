@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-20 10:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AUEnWcQHzQ26QJPukMxcYEA?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-20 10:20:16",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Key takeaways from Tuesday’s primaries: Trump’s endorsement continues to knock out opponents, and more",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ABNlDjBxEQg6JAngd2mDE4w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-20 10:20:16",
+      "pub_time": "2026-05-20 10:08:45",
+      "publication": "Bloomberg",
+      "author": "Patrick Sykes and Eltaf Najafizada",
+      "headline": "Iran threatens to retaliate beyond Middle East if U.S. restarts attacks",
+      "article_headline": "Iran threatens to retaliate beyond Middle East if U.S. restarts attacks"
+    },
+    {
+      "link": "https://apple.news/ABNlDjBxEQg6JAngd2mDE4w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-20 10:20:16",
+      "pub_time": "2026-05-20 10:07:18",
+      "publication": "Bloomberg",
+      "author": "Patrick Sykes and Eltaf Najafizada",
+      "headline": "Iran threatens to retaliate beyond Middle East if U.S. restarts attacks",
+      "article_headline": "Iran threatens to retaliate beyond Middle East if U.S. restarts attacks"
+    },
+    {
+      "link": "https://apple.news/AUyeWviVnSKK9rIPPfBdhlQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-20 10:20:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Former Rep. Barney Frank, champion of Wall Street reform and LGBTQ+ trailblazer, dies at 86",
+      "article_headline": "Former Rep. Barney Frank, champion of Wall Street reform and LGBTQ+ trailblazer, dies at 86"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-20 10:20:16",
+      "pub_time": "2026-05-20 10:08:14",
+      "publication": "The Wall Street Journal",
+      "author": "Roshan Fernandez",
+      "headline": "Harvard votes to cap number of A’s in effort to curb grade inflation",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-20 10:20:16",
+      "pub_time": "2026-05-20 10:07:19",
+      "publication": "The Wall Street Journal",
+      "author": "Roshan Fernandez",
+      "headline": "Harvard votes to cap number of A’s in effort to curb grade inflation",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AyRFluikJRQ6fIqXwpCw7qQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-20 10:20:16",
+      "pub_time": "2026-05-20 10:07:19",
+      "publication": "AccuWeather",
+      "author": "",
+      "headline": "Northeast’s temperatures to crash 25-50 degrees ahead of Memorial Day weekend",
+      "article_headline": "Northeast’s temperatures to crash 25-50 degrees ahead of Memorial Day weekend"
+    },
+    {
+      "link": "https://apple.news/Aw_FNya1fSaGxRpC9Phmp_A",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-20 10:20:16",
+      "pub_time": "2026-05-20 07:23:23",
+      "publication": "Real Simple",
+      "author": "Leslie Corona",
+      "headline": "Say Goodbye to Granite and Marble—This Countertop Material Will Be Everywhere This Year",
+      "article_headline": "Say Goodbye to Granite and Marble—This Countertop Material Will Be Everywhere This Year"
+    },
+    {
+      "link": "https://apple.news/AGvqVEHEtTU2LRUbxfqkuWA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-20 10:20:16",
+      "pub_time": "2026-05-20 08:23:50",
+      "publication": "HuffPost",
+      "author": "Monica Torres",
+      "headline": "This Walking Habit Might Be One Of The Easiest Ways To Improve Your Balance",
+      "article_headline": "This Walking Habit Might Be One Of The Easiest Ways To Improve Your Balance"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-20 10:20:16",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Depression scales may not work the same for highly intelligent people, Apple News Plus, Simon Makin",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ABRPa75LPRV2beg8UIiRxkQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-20 10:20:16",
+      "pub_time": "2026-05-19 15:24:24",
+      "publication": "Martha Stewart",
+      "author": "Louise Parks",
+      "headline": "8 Things You Should Never Do During a Power Outage, According to Electricians",
+      "article_headline": "8 Things You Should Never Do During a Power Outage, According to Electricians"
+    }
+  ]
+}

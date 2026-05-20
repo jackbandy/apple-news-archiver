@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-05-20 10:00:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AUEnWcQHzQ26QJPukMxcYEA?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-20 10:00:18",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Key takeaways from Tuesday’s primaries: Trump’s endorsement continues to knock out opponents, and more",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ABNlDjBxEQg6JAngd2mDE4w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-20 10:00:18",
+      "pub_time": "2026-05-20 09:08:47",
+      "publication": "Bloomberg",
+      "author": "Patrick Sykes and Eltaf Najafizada",
+      "headline": "Iran threatens to retaliate beyond Middle East if U.S. restarts attacks",
+      "article_headline": "Iran threatens to retaliate beyond Middle East if U.S. restarts attacks"
+    },
+    {
+      "link": "https://apple.news/AUyeWviVnSKK9rIPPfBdhlQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-20 10:00:18",
+      "pub_time": "2026-05-20 09:09:15",
+      "publication": "NBC News",
+      "author": "Daniel Arkin",
+      "headline": "Former Rep. Barney Frank, champion of Wall Street reform and LGBTQ+ trailblazer, dies at 86",
+      "article_headline": "Former Rep. Barney Frank, champion of Wall Street reform and LGBTQ+ trailblazer, dies at 86"
+    },
+    {
+      "link": "https://apple.news/ABNlDjBxEQg6JAngd2mDE4w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-20 10:00:18",
+      "pub_time": "2026-05-20 09:08:48",
+      "publication": "Bloomberg",
+      "author": "Patrick Sykes and Eltaf Najafizada",
+      "headline": "Iran threatens to retaliate beyond Middle East if U.S. restarts attacks",
+      "article_headline": "Iran threatens to retaliate beyond Middle East if U.S. restarts attacks"
+    },
+    {
+      "link": "https://apple.news/AUyeWviVnSKK9rIPPfBdhlQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-20 10:00:18",
+      "pub_time": "2026-05-20 09:09:16",
+      "publication": "NBC News",
+      "author": "Daniel Arkin",
+      "headline": "Former Rep. Barney Frank, champion of Wall Street reform and LGBTQ+ trailblazer, dies at 86",
+      "article_headline": "Former Rep. Barney Frank, champion of Wall Street reform and LGBTQ+ trailblazer, dies at 86"
+    },
+    {
+      "link": "https://apple.news/Av5--AuogTAaSitNHptUgiQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-20 10:00:18",
+      "pub_time": "",
+      "publication": "TIME",
+      "author": "",
+      "headline": "Trump moves to tighten banking access for non-citizens",
+      "article_headline": "Trump moves to tighten banking access for non-citizens"
+    },
+    {
+      "link": "https://apple.news/AyRFluikJRQ6fIqXwpCw7qQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-20 10:00:18",
+      "pub_time": "2026-05-20 09:08:17",
+      "publication": "AccuWeather",
+      "author": "",
+      "headline": "Northeast’s temperatures to crash 25-50 degrees ahead of Memorial Day weekend",
+      "article_headline": "Northeast’s temperatures to crash 25-50 degrees ahead of Memorial Day weekend"
+    },
+    {
+      "link": "https://apple.news/AzWxvRlb6TLCVkFXFZylTPw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-20 10:00:18",
+      "pub_time": "2026-05-20 06:04:20",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Dear Abby: Wife goes to other men’s homes at all hours of the night",
+      "article_headline": "Dear Abby: Wife goes to other men’s homes at all hours of the night"
+    },
+    {
+      "link": "https://apple.news/AGvqVEHEtTU2LRUbxfqkuWA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-20 10:00:18",
+      "pub_time": "2026-05-20 08:04:53",
+      "publication": "HuffPost",
+      "author": "Monica Torres",
+      "headline": "This Walking Habit Might Be One Of The Easiest Ways To Improve Your Balance",
+      "article_headline": "This Walking Habit Might Be One Of The Easiest Ways To Improve Your Balance"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-20 10:00:18",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Depression scales may not work the same for highly intelligent people, Apple News Plus, Simon Makin",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aw_FNya1fSaGxRpC9Phmp_A",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-20 10:00:18",
+      "pub_time": "2026-05-20 07:05:21",
+      "publication": "Real Simple",
+      "author": "Leslie Corona",
+      "headline": "Say Goodbye to Granite and Marble—This Countertop Material Will Be Everywhere This Year",
+      "article_headline": "Say Goodbye to Granite and Marble—This Countertop Material Will Be Everywhere This Year"
+    }
+  ]
+}
