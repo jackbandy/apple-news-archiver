@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-21 05:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AHNrcd79rS92lwVwREx24Ig",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-21 05:20:17",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Iran-U.S. diplomacy intensifies to break deadlock in the war",
+      "article_headline": "Iran-U.S. diplomacy intensifies to break deadlock in the war"
+    },
+    {
+      "link": "https://apple.news/AVYEekMXFTRW-TeRWfWHJ-g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-21 05:20:17",
+      "pub_time": "2026-05-21 05:16:46",
+      "publication": "Reuters",
+      "author": "Jan Wolfe",
+      "headline": "Supreme Court rulings loom in four major Trump-related cases",
+      "article_headline": "Supreme Court rulings loom in four major Trump-related cases"
+    },
+    {
+      "link": "https://apple.news/AVYEekMXFTRW-TeRWfWHJ-g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-21 05:20:17",
+      "pub_time": "2026-05-21 05:16:19",
+      "publication": "Reuters",
+      "author": "Jan Wolfe",
+      "headline": "Supreme Court rulings loom in four major Trump-related cases",
+      "article_headline": "Supreme Court rulings loom in four major Trump-related cases"
+    },
+    {
+      "link": "https://apple.news/A-duhHuuYSb6JmNEzZW42zw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-21 05:20:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.N. votes to support action on climate change despite U.S. attempts to derail the measure",
+      "article_headline": "U.N. votes to support action on climate change despite U.S. attempts to derail the measure"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-21 05:20:17",
+      "pub_time": "2026-05-21 05:17:13",
+      "publication": "The Washington Post",
+      "author": "Elahe Izadi",
+      "headline": "What Colbert’s show ending means for the rest of late-night TV",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-21 05:20:17",
+      "pub_time": "2026-05-21 05:16:19",
+      "publication": "The Washington Post",
+      "author": "Elahe Izadi",
+      "headline": "What Colbert’s show ending means for the rest of late-night TV",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADMByC_2fRF2Dg7YLb9_AZQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-21 05:20:17",
+      "pub_time": "2026-05-21 05:16:19",
+      "publication": "Inside Climate News",
+      "author": "",
+      "headline": "Fire in the “Galapagos of North America” risks species found nowhere else",
+      "article_headline": "Fire in the “Galapagos of North America” risks species found nowhere else"
+    }
+  ]
+}

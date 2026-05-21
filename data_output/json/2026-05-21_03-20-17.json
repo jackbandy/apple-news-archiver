@@ -1,0 +1,166 @@
+{
+  "run_time": "2026-05-21 03:20:17",
+  "story_count": 14,
+  "stories": [
+    {
+      "link": "https://apple.news/AVYEekMXFTRW-TeRWfWHJ-g",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-21 03:20:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Supreme Court rulings loom in four major Trump-related cases",
+      "article_headline": "Supreme Court rulings loom in four major Trump-related cases"
+    },
+    {
+      "link": "https://apple.news/A-duhHuuYSb6JmNEzZW42zw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-21 03:20:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.N. votes to support action on climate change despite U.S. attempts to derail the measure",
+      "article_headline": "U.N. votes to support action on climate change despite U.S. attempts to derail the measure"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-21 03:20:17",
+      "pub_time": "2026-05-21 00:21:18",
+      "publication": "The Wall Street Journal",
+      "author": "Henna Moussavi",
+      "headline": "The longest internet blackout in history is crippling Iran’s economy",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AGlqc8HxaRLG4L8iUXQypOg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-21 03:20:17",
+      "pub_time": "2026-05-21 00:21:18",
+      "publication": "The Washington Post",
+      "author": "Lior Soroka",
+      "headline": "Israeli minister draws global rebuke over treatment of flotilla activists",
+      "article_headline": "Israeli minister draws global rebuke over treatment of flotilla activists"
+    },
+    {
+      "link": "https://apple.news/AzJ7-B7uiTGKya-LbuxmT5A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-21 03:20:17",
+      "pub_time": "2026-05-21 00:21:51",
+      "publication": "Scientific American",
+      "author": "Adam Kovac",
+      "headline": "The Colorado Avalanche is dominating the NHL. The reason could lie in a quirk of geography.",
+      "article_headline": "The Colorado Avalanche is dominating the NHL. The reason could lie in a quirk of geography."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-21 03:20:17",
+      "pub_time": "2026-05-21 00:22:18",
+      "publication": "New York Magazine",
+      "author": "Lauren Smiley",
+      "headline": "The billionaire blanketing San Francisco in cameras — and reshaping the city",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ATFrJxCJgQJCoEKnFPv8Qdg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-21 03:20:17",
+      "pub_time": "2026-05-20 23:22:34",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Thai Princess Bajrakitiyabha's condition worsens after multiple infections, royal palace says",
+      "article_headline": "Thai Princess Bajrakitiyabha's condition worsens after multiple infections, royal palace says"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-05-21 03:20:17",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "A little-known type of cholesterol can quadruple heart-attack risk, Meryl Davids Landau",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-05-21 03:20:17",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The worst airport in America, Ellen Cushing",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-05-21 03:20:17",
+      "pub_time": "",
+      "publication": "Men’s Health",
+      "author": "",
+      "headline": "Warning signs of prostate trouble — and what can help, Kevin Dupzyk",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ag444vySXSrSqFPEQrWHIqg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-21 03:20:17",
+      "pub_time": "2026-05-20 15:23:30",
+      "publication": "TheStreet",
+      "author": "Patricia Battle and Celine Provini",
+      "headline": "Target sees unexpected shift in customer behavior",
+      "article_headline": "Target sees unexpected shift in customer behavior"
+    },
+    {
+      "link": "https://apple.news/Ay970AF0MSBOjpav99GiLeQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-21 03:20:17",
+      "pub_time": "2026-05-20 12:23:57",
+      "publication": "Southern Living",
+      "author": "Brandee Gruener",
+      "headline": "7 Items You Should Never Buy At The Grocery Store",
+      "article_headline": "7 Items You Should Never Buy At The Grocery Store"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-21 03:20:17",
+      "pub_time": "2026-05-20 03:24:30",
+      "publication": "",
+      "author": "Anna Skinner",
+      "headline": "Two months' worth of rain could fall in Texas within days",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ain_AOLNNRB-H95aQmgDcNQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-21 03:20:17",
+      "pub_time": "2026-05-20 17:24:30",
+      "publication": "BuzzFeed",
+      "author": "Arsheen Kaur Sahni",
+      "headline": "25 Scientific Discoveries That Sounds Fake But Are Real, And These 100% Will FREAK You Out",
+      "article_headline": "25 Scientific Discoveries That Sounds Fake But Are Real, And These 100% Will FREAK You Out"
+    }
+  ]
+}
