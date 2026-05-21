@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-21 08:40:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AHNrcd79rS92lwVwREx24Ig",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-21 08:40:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Iran-U.S. diplomacy intensifies to break deadlock in the war",
+      "article_headline": "Iran-U.S. diplomacy intensifies to break deadlock in the war"
+    },
+    {
+      "link": "https://apple.news/AB1UB4zCQSfWkCuOfXUuqbw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-21 08:40:16",
+      "pub_time": "2026-05-21 06:40:46",
+      "publication": "The Wall Street Journal",
+      "author": "José de Córdoba and Santiago Pérez",
+      "headline": "With Castro indictment, Trump bets his Venezuela playbook will work in Cuba",
+      "article_headline": "With Castro indictment, Trump bets his Venezuela playbook will work in Cuba"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-21 08:40:16",
+      "pub_time": "2026-05-21 06:41:24",
+      "publication": "The Washington Post",
+      "author": "Elahe Izadi",
+      "headline": "What Colbert’s show ending means for the rest of late-night TV",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-21 08:40:16",
+      "pub_time": "2026-05-21 06:41:34",
+      "publication": "The Wall Street Journal",
+      "author": "Ray A. Smith",
+      "headline": "A master’s degree isn’t the job guarantee it used to be",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_TxxIK7lSpm0NQL7wJIoLQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-21 08:40:16",
+      "pub_time": "",
+      "publication": "ABC7 Chicago",
+      "author": "",
+      "headline": "Local News, Chicago, Former Dolton Mayor Tiffany Henyard wins primary in Fulton County, Georgia",
+      "article_headline": "Former Dolton Mayor Tiffany Henyard wins primary in Fulton County, Georgia"
+    },
+    {
+      "link": "https://apple.news/ANdDdmtsVRdCbaQ3Zi41yhQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-21 08:40:16",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Why the DOJ just charged Cuba’s Raúl Castro with murder",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ANdDdmtsVRdCbaQ3Zi41yhQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-21 08:40:16",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Why the DOJ just charged Cuba’s Raúl Castro with murder",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Au59GXTa-RHa-jVeyw2hOEQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-21 08:40:16",
+      "pub_time": "2026-05-20 22:43:32",
+      "publication": "People",
+      "author": "Madison E. Goldberg",
+      "headline": "3 Dead, 18 First Responders Quarantined and Hospitalized After Exposure to ‘Unknown Substance’ During Response Call",
+      "article_headline": "3 Dead, 18 First Responders Quarantined and Hospitalized After Exposure to ‘Unknown Substance’ During Response Call"
+    },
+    {
+      "link": "https://apple.news/AmIRyFuuuTQqcre8QSwEO-g",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-21 08:40:16",
+      "pub_time": "2026-05-20 11:44:05",
+      "publication": "Apartment Therapy",
+      "author": "Adrienne Breaux",
+      "headline": "This Artist Calls Her Tiny Rental a “Studio with a Bed Nook” — And the Photos Prove It",
+      "article_headline": "This Artist Calls Her Tiny Rental a “Studio with a Bed Nook” — And the Photos Prove It"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-21 08:40:16",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Depression scales may not work the same for highly intelligent people, Apple News Plus, Simon Makin",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AzuwPp-xXQ5av1SbFd-qDFg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-21 08:40:16",
+      "pub_time": "2026-05-20 15:44:33",
+      "publication": "Fast Company",
+      "author": "",
+      "headline": "This sentence about AI got Apple co-founder Steve Wozniak applause—not boos—for his commencement speech",
+      "article_headline": "This sentence about AI got Apple co-founder Steve Wozniak applause—not boos—for his commencement speech"
+    }
+  ]
+}

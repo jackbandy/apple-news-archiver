@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-21 10:00:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AHNrcd79rS92lwVwREx24Ig",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-21 10:00:19",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Iran-U.S. diplomacy intensifies to break deadlock in the war",
+      "article_headline": "Iran-U.S. diplomacy intensifies to break deadlock in the war"
+    },
+    {
+      "link": "https://apple.news/A3vxEGTOiRb-8WqH2ImDyDA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-21 10:00:19",
+      "pub_time": "2026-05-21 09:18:48",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Air France flight bound for Detroit rerouted after possible Ebola exposure",
+      "article_headline": "Air France flight bound for Detroit rerouted after possible Ebola exposure"
+    },
+    {
+      "link": "https://apple.news/A3vxEGTOiRb-8WqH2ImDyDA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-21 10:00:19",
+      "pub_time": "2026-05-21 09:18:26",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Air France flight bound for Detroit rerouted after possible Ebola exposure",
+      "article_headline": "Air France flight bound for Detroit rerouted after possible Ebola exposure"
+    },
+    {
+      "link": "https://apple.news/AbfAfq-crSxyyjboZzF6jrA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-21 10:00:19",
+      "pub_time": "2026-05-21 09:18:54",
+      "publication": "Video",
+      "author": "Jacob Rosen and Melissa Quinn",
+      "headline": "CBS News, Is Trump’s $1.8 billion “anti-weaponization fund” legal? Experts weigh in.",
+      "article_headline": "Is Trump’s $1.8 billion “anti-weaponization fund” legal? Experts weigh in."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-21 10:00:19",
+      "pub_time": "2026-05-21 09:19:21",
+      "publication": "The Washington Post",
+      "author": "Elahe Izadi",
+      "headline": "What the end of Stephen Colbert’s show means for the rest of late-night TV",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-21 10:00:19",
+      "pub_time": "2026-05-21 09:18:27",
+      "publication": "The Washington Post",
+      "author": "Elahe Izadi",
+      "headline": "What the end of Stephen Colbert’s show means for the rest of late-night TV",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADMByC_2fRF2Dg7YLb9_AZQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-21 10:00:19",
+      "pub_time": "",
+      "publication": "Inside Climate News",
+      "author": "",
+      "headline": "Fire in the “Galápagos of North America” risks species found nowhere else",
+      "article_headline": "Fire in the “Galápagos of North America” risks species found nowhere else"
+    }
+  ]
+}

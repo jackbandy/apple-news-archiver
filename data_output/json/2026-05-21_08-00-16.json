@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-21 08:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AHNrcd79rS92lwVwREx24Ig",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-21 08:00:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Iran-U.S. diplomacy intensifies to break deadlock in the war",
+      "article_headline": "Iran-U.S. diplomacy intensifies to break deadlock in the war"
+    },
+    {
+      "link": "https://apple.news/AB1UB4zCQSfWkCuOfXUuqbw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-21 08:00:16",
+      "pub_time": "2026-05-21 07:00:45",
+      "publication": "The Wall Street Journal",
+      "author": "José de Córdoba and Santiago Pérez",
+      "headline": "With Castro indictment, Trump bets his Venezuela playbook will work in Cuba",
+      "article_headline": "With Castro indictment, Trump bets his Venezuela playbook will work in Cuba"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-21 08:00:16",
+      "pub_time": "2026-05-21 07:01:23",
+      "publication": "The Washington Post",
+      "author": "Elahe Izadi",
+      "headline": "What Colbert’s show ending means for the rest of late-night TV",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADMByC_2fRF2Dg7YLb9_AZQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-21 08:00:16",
+      "pub_time": "",
+      "publication": "Inside Climate News",
+      "author": "",
+      "headline": "Fire in the “Galápagos of North America” risks species found nowhere else",
+      "article_headline": "Fire in the “Galápagos of North America” risks species found nowhere else"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-21 08:00:16",
+      "pub_time": "2026-05-21 07:01:56",
+      "publication": "The Wall Street Journal",
+      "author": "Ray A. Smith",
+      "headline": "A master’s degree isn’t the job guarantee it used to be",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ANdDdmtsVRdCbaQ3Zi41yhQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-21 08:00:16",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Why the DOJ just charged Cuba’s Raúl Castro with murder",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A2TKfYOy6TpO4QSszFuOb7g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-21 08:00:16",
+      "pub_time": "2026-05-21 04:02:37",
+      "publication": "Fox News",
+      "author": "Douglas MacKinnon",
+      "headline": "Opinion | Terrifying fact of Iran war is America is no longer safe from this new threat",
+      "article_headline": "Opinion | Terrifying fact of Iran war is America is no longer safe from this new threat"
+    },
+    {
+      "link": "https://apple.news/Au59GXTa-RHa-jVeyw2hOEQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-21 08:00:16",
+      "pub_time": "2026-05-20 23:03:26",
+      "publication": "People",
+      "author": "Madison E. Goldberg",
+      "headline": "3 Dead, 18 First Responders Quarantined and Hospitalized After Exposure to ‘Unknown Substance’ During Response Call",
+      "article_headline": "3 Dead, 18 First Responders Quarantined and Hospitalized After Exposure to ‘Unknown Substance’ During Response Call"
+    },
+    {
+      "link": "https://apple.news/AM24aEi9bT5yR7UaeR3KTzg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-21 08:00:16",
+      "pub_time": "2026-05-21 06:03:59",
+      "publication": "Mashable",
+      "author": "Sam Haysom",
+      "headline": "Jimmy Kimmel gives a moving farewell to Stephen Colbert",
+      "article_headline": "Jimmy Kimmel gives a moving farewell to Stephen Colbert"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-21 08:00:16",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Depression scales may not work the same for highly intelligent people, Apple News Plus, Simon Makin",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Am0x7wi45R6ipR4t6YXkmZg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-21 08:00:16",
+      "pub_time": "2026-05-21 05:04:26",
+      "publication": "BuzzFeed",
+      "author": "Angelica Martinez",
+      "headline": "24 Non-American Parents Reveal The Differences Between Their Countries And The US, And They're...Stark",
+      "article_headline": "24 Non-American Parents Reveal The Differences Between Their Countries And The US, And They're...Stark"
+    }
+  ]
+}

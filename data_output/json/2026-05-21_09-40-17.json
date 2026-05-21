@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-21 09:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AHNrcd79rS92lwVwREx24Ig",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-21 09:40:17",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Iran-U.S. diplomacy intensifies to break deadlock in the war",
+      "article_headline": "Iran-U.S. diplomacy intensifies to break deadlock in the war"
+    },
+    {
+      "link": "https://apple.news/A3vxEGTOiRb-8WqH2ImDyDA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-21 09:40:17",
+      "pub_time": "2026-05-21 09:18:46",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Air France flight bound for Detroit rerouted after possible Ebola exposure",
+      "article_headline": "Air France flight bound for Detroit rerouted after possible Ebola exposure"
+    },
+    {
+      "link": "https://apple.news/A3vxEGTOiRb-8WqH2ImDyDA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-21 09:40:17",
+      "pub_time": "2026-05-21 09:18:24",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Air France flight bound for Detroit rerouted after possible Ebola exposure",
+      "article_headline": "Air France flight bound for Detroit rerouted after possible Ebola exposure"
+    },
+    {
+      "link": "https://apple.news/AbfAfq-crSxyyjboZzF6jrA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-21 09:40:17",
+      "pub_time": "2026-05-21 09:18:52",
+      "publication": "Video",
+      "author": "Jacob Rosen and Melissa Quinn",
+      "headline": "CBS News, Is Trump’s $1.8 billion “anti-weaponization fund” legal? Experts weigh in.",
+      "article_headline": "Is Trump’s $1.8 billion “anti-weaponization fund” legal? Experts weigh in."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-21 09:40:17",
+      "pub_time": "2026-05-21 09:19:19",
+      "publication": "The Washington Post",
+      "author": "Elahe Izadi",
+      "headline": "What the end of Stephen Colbert’s show means for the rest of late-night TV",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-21 09:40:17",
+      "pub_time": "2026-05-21 09:18:25",
+      "publication": "The Washington Post",
+      "author": "Elahe Izadi",
+      "headline": "What the end of Stephen Colbert’s show means for the rest of late-night TV",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADMByC_2fRF2Dg7YLb9_AZQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-21 09:40:17",
+      "pub_time": "",
+      "publication": "Inside Climate News",
+      "author": "",
+      "headline": "Fire in the “Galápagos of North America” risks species found nowhere else",
+      "article_headline": "Fire in the “Galápagos of North America” risks species found nowhere else"
+    },
+    {
+      "link": "https://apple.news/Au59GXTa-RHa-jVeyw2hOEQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-21 09:40:17",
+      "pub_time": "2026-05-20 22:43:29",
+      "publication": "People",
+      "author": "Madison E. Goldberg",
+      "headline": "3 Dead, 18 First Responders Quarantined and Hospitalized After Exposure to ‘Unknown Substance’ During Response Call",
+      "article_headline": "3 Dead, 18 First Responders Quarantined and Hospitalized After Exposure to ‘Unknown Substance’ During Response Call"
+    },
+    {
+      "link": "https://apple.news/AuWRVaPFnQ-uKITGhyEhzTQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-21 09:40:17",
+      "pub_time": "2026-05-20 20:43:56",
+      "publication": "BuzzFeed",
+      "author": "Dannica Ramirez",
+      "headline": "\"It's A Skill That's Now Lost\": People Are Sharing The Once Common, Everyday Jobs From The Past That Basically Don't Exist Anymore",
+      "article_headline": "\"It's A Skill That's Now Lost\": People Are Sharing The Once Common, Everyday Jobs From The Past That Basically Don't Exist Anymore"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-21 09:40:17",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Depression scales may not work the same for highly intelligent people, Apple News Plus, Simon Makin",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AFmLqpjjVTSabsDuvcm2CZQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-21 09:40:17",
+      "pub_time": "2026-05-21 04:44:30",
+      "publication": "Fast Company",
+      "author": "",
+      "headline": "AI may replace 80% of skills. This last 20% will make you irreplaceable",
+      "article_headline": "AI may replace 80% of skills. This last 20% will make you irreplaceable"
+    }
+  ]
+}
