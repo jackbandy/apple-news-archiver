@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-22 11:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AKPF2CBVURj-3LeA7amHKAQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-22 11:20:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Pushed to the limit, Republicans show rare defiance to Trump's demands",
+      "article_headline": "Pushed to the limit, Republicans show rare defiance to Trump's demands"
+    },
+    {
+      "link": "https://apple.news/AeJIiFKIESK2GdAyaKX6ZrQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-22 11:20:17",
+      "pub_time": "",
+      "publication": "CNBC",
+      "author": "",
+      "headline": "Iran war leaves U.S. gas prices at highest levels in nearly 4 years ahead of Memorial Day weekend",
+      "article_headline": "Iran war leaves U.S. gas prices at highest levels in nearly 4 years ahead of Memorial Day weekend"
+    },
+    {
+      "link": "https://apple.news/AG2hnBvZlRaqT0DJpA-tmwA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-22 11:20:17",
+      "pub_time": "2026-05-22 10:47:19",
+      "publication": "The Guardian",
+      "author": "Zahra Joya",
+      "headline": "Taliban “legitimize child marriage” with new law, activists warn",
+      "article_headline": "Taliban “legitimize child marriage” with new law, activists warn"
+    },
+    {
+      "link": "https://apple.news/AVOuQFwItQP6a5YNFaHvnxw?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RZOWtyS0FsdFNGbXViQVY1aFdPWHl3I25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-22 11:20:17",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Entertainment, Stephen Colbert signed off ‘The Late Show’ with help from a Beatle — and a black hole, Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AG2hnBvZlRaqT0DJpA-tmwA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-22 11:20:17",
+      "pub_time": "2026-05-22 10:47:18",
+      "publication": "The Guardian",
+      "author": "Zahra Joya",
+      "headline": "Taliban “legitimize child marriage” with new law, activists warn",
+      "article_headline": "Taliban “legitimize child marriage” with new law, activists warn"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-22 11:20:17",
+      "pub_time": "2026-05-22 10:47:46",
+      "publication": "The Washington Post",
+      "author": "Ashley Fetters Maloy",
+      "headline": "Everlane’s sale to Shein has fans feeling betrayed but not entirely surprised",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-22 11:20:17",
+      "pub_time": "2026-05-22 10:47:46",
+      "publication": "Bloomberg Businessweek",
+      "author": "Victor Swezey and Jo Constantz",
+      "headline": "College kids don’t want your AI",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
