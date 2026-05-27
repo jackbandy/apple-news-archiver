@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-26 22:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AyeyaUVrbTXWwf0m1CANATg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-26 22:00:17",
+      "pub_time": "",
+      "publication": "The Texas Tribune",
+      "author": "",
+      "headline": "Ken Paxton defeats John Cornyn for Texas GOP Senate nomination",
+      "article_headline": "Ken Paxton defeats John Cornyn for Texas GOP Senate nomination"
+    },
+    {
+      "link": "https://apple.news/AwET4C-qFRT2ZgZ3npGnRGg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-26 22:00:17",
+      "pub_time": "2026-05-26 21:00:46",
+      "publication": "The Guardian",
+      "author": "Patrick Wintour",
+      "headline": "Iran remains in peace talks despite “bad faith” U.S. bombings of Iranian targets",
+      "article_headline": "Iran remains in peace talks despite “bad faith” U.S. bombings of Iranian targets"
+    },
+    {
+      "link": "https://apple.news/A4m-TIJLvTOyBSGNcB24lfw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-26 22:00:17",
+      "pub_time": "2026-05-26 21:01:14",
+      "publication": "Houston Public Media",
+      "author": "",
+      "headline": "Rep. Christian Menefee defeats Rep. Al Green in Democratic runoff for Texas’ newly redrawn district",
+      "article_headline": "Rep. Christian Menefee defeats Rep. Al Green in Democratic runoff for Texas’ newly redrawn district"
+    },
+    {
+      "link": "https://apple.news/A6H0MJf3BSRKRIzdG_mfoXw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-26 22:00:17",
+      "pub_time": "2026-05-26 21:01:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "At least 1 dead, 9 others missing in chemical-tank implosion at Washington state mill",
+      "article_headline": "At least 1 dead, 9 others missing in chemical tank implosion at Washington state mill"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-26 22:00:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Supreme Court denies NFL appeal, allowing former coach’s racial discrimination lawsuit to proceed",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-26 22:00:17",
+      "pub_time": "2026-05-26 21:02:19",
+      "publication": "Bloomberg Businessweek",
+      "author": "Adam Chandler",
+      "headline": "The surprisingly simple experiment that turned Barnes & Noble around",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AZv_Md3uEQLmep1nOtTfxyg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-26 22:00:17",
+      "pub_time": "2026-05-26 21:12:34",
+      "publication": "Entertainment Weekly",
+      "author": "Kathleen Perricone",
+      "headline": "Autopsy report for Martin Short's daughter Katherine released",
+      "article_headline": "Autopsy report for Martin Short's daughter Katherine released"
+    }
+  ]
+}

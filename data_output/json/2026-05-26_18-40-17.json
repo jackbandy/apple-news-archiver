@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-05-26 18:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AeFwHNg3eT92JeHdfy-AAvg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-26 18:40:17",
+      "pub_time": "",
+      "publication": "The Dallas Morning News",
+      "author": "",
+      "headline": "Decision day in Texas Senate runoff with Republicans John Cornyn and Ken Paxton",
+      "article_headline": "Decision day in Texas Senate runoff with Republicans John Cornyn and Ken Paxton"
+    },
+    {
+      "link": "https://apple.news/AcC8QqWQMQSiUv_jAy6gfGQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-26 18:40:17",
+      "pub_time": "2026-05-26 18:23:46",
+      "publication": "The Washington Post",
+      "author": "Sammy Westfall, Mohamad El Chamaa, Suzan Haidamous, Lior Soroka, and Susannah George",
+      "headline": "Lebanon ceasefire falters as Trump pushes for Iran deal",
+      "article_headline": "Lebanon ceasefire falters as Trump pushes for Iran deal"
+    },
+    {
+      "link": "https://apple.news/As-dh8ydNTuWilrc0H5HusQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-26 18:40:17",
+      "pub_time": "2026-05-26 18:24:14",
+      "publication": "The Wall Street Journal",
+      "author": "Alyssa Lukpat and Mariah Timms",
+      "headline": "New congressional maps blocked in Alabama and South Carolina",
+      "article_headline": "New congressional maps blocked in Alabama and South Carolina"
+    },
+    {
+      "link": "https://apple.news/AcC8QqWQMQSiUv_jAy6gfGQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-26 18:40:17",
+      "pub_time": "2026-05-26 18:23:46",
+      "publication": "The Washington Post",
+      "author": "Sammy Westfall, Mohamad El Chamaa, Suzan Haidamous, Lior Soroka, and Susannah George",
+      "headline": "Lebanon ceasefire falters as Trump pushes for Iran deal",
+      "article_headline": "Lebanon ceasefire falters as Trump pushes for Iran deal"
+    },
+    {
+      "link": "https://apple.news/As-dh8ydNTuWilrc0H5HusQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-26 18:40:17",
+      "pub_time": "2026-05-26 18:24:14",
+      "publication": "The Wall Street Journal",
+      "author": "Alyssa Lukpat and Mariah Timms",
+      "headline": "New congressional maps blocked in Alabama and South Carolina",
+      "article_headline": "New congressional maps blocked in Alabama and South Carolina"
+    },
+    {
+      "link": "https://apple.news/A6H0MJf3BSRKRIzdG_mfoXw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-26 18:40:17",
+      "pub_time": "2026-05-26 18:24:41",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Chemical-tank implosion at Washington pulp and paper mill leaves 10 injured, unknown number dead",
+      "article_headline": "Chemical tank implosion at Washington pulp and paper mill leaves 10 injured, unknown number dead"
+    },
+    {
+      "link": "https://apple.news/A6H0MJf3BSRKRIzdG_mfoXw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-26 18:40:17",
+      "pub_time": "2026-05-26 18:24:14",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Chemical-tank implosion at Washington pulp and paper mill leaves 10 injured, unknown number dead",
+      "article_headline": "Chemical tank implosion at Washington pulp and paper mill leaves 10 injured, unknown number dead"
+    },
+    {
+      "link": "https://apple.news/AO5oqDUo3SDm5e0tRV9zStA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-26 18:40:17",
+      "pub_time": "2026-05-26 11:43:46",
+      "publication": "People",
+      "author": "Jordan Greene",
+      "headline": "Couple Bought Home with Abandoned Pool, Were Horrified at What They Found After Pulling Back Cover (Exclusive)",
+      "article_headline": "Couple Bought Home with Abandoned Pool, Were Horrified at What They Found After Pulling Back Cover (Exclusive)"
+    },
+    {
+      "link": "https://apple.news/AmpsRMrlJTSm_jj6J-GUD8g",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-26 18:40:17",
+      "pub_time": "2026-05-26 11:44:13",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Dog shoots woman with shotgun at Nebraska convenience store",
+      "article_headline": "Dog shoots woman with shotgun at Nebraska convenience store"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-26 18:40:17",
+      "pub_time": "2026-05-26 14:44:47",
+      "publication": "",
+      "author": "Rachel Burchfield",
+      "headline": "King Charles and Prince Harry’s “Very Emotional” Face-to-Face Meetup Included “Hugs and Tears”",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A28UrmZyNThmB1zC-xiJaiQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-26 18:40:17",
+      "pub_time": "2026-05-26 10:44:47",
+      "publication": "Apartment Therapy",
+      "author": "Erica Finamore",
+      "headline": "My Grandparents Had This “Weird” Ceramic Chicken for Decades — Now I Know Why",
+      "article_headline": "My Grandparents Had This “Weird” Ceramic Chicken for Decades — Now I Know Why"
+    }
+  ]
+}

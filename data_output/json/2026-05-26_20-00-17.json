@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-26 20:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AeFwHNg3eT92JeHdfy-AAvg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-26 20:00:17",
+      "pub_time": "",
+      "publication": "The Dallas Morning News",
+      "author": "",
+      "headline": "Ken Paxton jumps to early lead over John Cornyn in Texas GOP Senate runoff",
+      "article_headline": "Ken Paxton jumps to early lead over John Cornyn in Texas GOP Senate runoff"
+    },
+    {
+      "link": "https://apple.news/AcC8QqWQMQSiUv_jAy6gfGQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-26 20:00:17",
+      "pub_time": "2026-05-26 19:00:47",
+      "publication": "The Washington Post",
+      "author": "Sammy Westfall, Mohamad El Chamaa, Suzan Haidamous, Lior Soroka, and Susannah George",
+      "headline": "Lebanon ceasefire falters as Trump pushes for Iran deal",
+      "article_headline": "Lebanon ceasefire falters as Trump pushes for Iran deal"
+    },
+    {
+      "link": "https://apple.news/As-dh8ydNTuWilrc0H5HusQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-26 20:00:17",
+      "pub_time": "2026-05-26 19:01:14",
+      "publication": "The Wall Street Journal",
+      "author": "Alyssa Lukpat and Mariah Timms",
+      "headline": "New congressional maps blocked in Alabama and South Carolina",
+      "article_headline": "New congressional maps blocked in Alabama and South Carolina"
+    },
+    {
+      "link": "https://apple.news/A6H0MJf3BSRKRIzdG_mfoXw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-26 20:00:17",
+      "pub_time": "2026-05-26 19:01:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Chemical-tank implosion at Washington pulp and paper mill leaves 10 injured, unknown number dead",
+      "article_headline": "At least 1 dead, 9 others missing in chemical tank implosion at Washington state mill"
+    },
+    {
+      "link": "https://apple.news/AhIcAgjqdQFOBlj3-ggnwOw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-26 20:00:17",
+      "pub_time": "2026-05-26 19:02:18",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Clarence B. Jones, Civil Rights lawyer and adviser to MLK, dies at 95",
+      "article_headline": "Clarence B. Jones, Civil Rights lawyer and adviser to MLK, dies at 95"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-26 20:00:17",
+      "pub_time": "2026-05-26 19:02:45",
+      "publication": "Bloomberg Businessweek",
+      "author": "Adam Chandler",
+      "headline": "The surprisingly simple experiment that turned Barnes & Noble around",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ARq2IyjZGTu6bPNWyf-hyVg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-26 20:00:17",
+      "pub_time": "2026-05-26 15:03:00",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Most of us retire earlier than planned. Here are the top reasons",
+      "article_headline": "Most of us retire earlier than planned. Here are the top reasons"
+    }
+  ]
+}
