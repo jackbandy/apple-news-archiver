@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-05-27 05:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AekmKmiDrQlueDHMUes6YRw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-27 05:00:16",
+      "pub_time": "2026-05-27 00:00:18",
+      "publication": "The Washington Post",
+      "author": "Matthew Choi",
+      "headline": "Ken Paxton ousts Sen. John Cornyn in Texas GOP runoff after getting Trump’s endorsement",
+      "article_headline": "Ken Paxton ousts Sen. John Cornyn in Texas GOP runoff after getting Trump’s endorsement"
+    },
+    {
+      "link": "https://apple.news/AmcCY87ZlSi-9K_7jY0m8bA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-27 05:00:16",
+      "pub_time": "2026-05-27 00:00:46",
+      "publication": "NPR",
+      "author": "Tom Dreisbach",
+      "headline": "Justice Department mass-deletes info on Jan. 6 riot cases, including violent assaults on cops",
+      "article_headline": "Justice Department mass-deletes info on Jan. 6 riot cases, including violent assaults on cops"
+    },
+    {
+      "link": "https://apple.news/AIFwmqUFDQMaS3C6tqRPZBA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-27 05:00:16",
+      "pub_time": "2026-05-27 00:01:13",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump gathers Cabinet as he looks to seal deal to end Iran war",
+      "article_headline": "Trump gathers Cabinet as he looks to seal deal to end Iran war"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 05:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "U.S. races to set up quarantine facility in Kenya for Americans exposed to Ebola",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AYeI9qnieRliQ8osC4zcBeA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-27 05:00:16",
+      "pub_time": "2026-05-27 00:01:51",
+      "publication": "ABC News",
+      "author": "Matthew Glasser and Briana Alvarado",
+      "headline": "NASA reveals new details on plan to build a base on the moon",
+      "article_headline": "NASA reveals new details on plan to build a base on the moon"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 05:00:16",
+      "pub_time": "2026-05-27 00:02:18",
+      "publication": "Bloomberg Businessweek",
+      "author": "Adam Chandler",
+      "headline": "The surprisingly simple experiment that turned Barnes & Noble around",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 05:00:16",
+      "pub_time": "",
+      "publication": "olive",
+      "author": "",
+      "headline": "This UK region keeps finding its way on to must-visit lists: these are the hidden gems where a local eats",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

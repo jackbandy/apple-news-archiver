@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-27 06:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AekmKmiDrQlueDHMUes6YRw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-27 06:00:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Ken Paxton ousts Sen. John Cornyn in Texas GOP runoff after getting Trump’s endorsement",
+      "article_headline": "Ken Paxton ousts Sen. John Cornyn in Texas GOP runoff after getting Trump’s endorsement"
+    },
+    {
+      "link": "https://apple.news/AIFwmqUFDQMaS3C6tqRPZBA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-27 06:00:16",
+      "pub_time": "2026-05-27 05:45:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump gathers Cabinet as he looks to seal deal to end Iran war",
+      "article_headline": "Trump gathers Cabinet as he looks to seal deal to end Iran war"
+    },
+    {
+      "link": "https://apple.news/AVdT8b-vtR16EmB3kOZBeTQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-27 06:00:16",
+      "pub_time": "2026-05-27 05:46:13",
+      "publication": "ABC News",
+      "author": "Alexander Mallin",
+      "headline": "Biden sues DOJ to block release of audio recordings tied to special-counsel probe",
+      "article_headline": "Biden sues DOJ to block release of audio recordings tied to special-counsel probe"
+    },
+    {
+      "link": "https://apple.news/AIFwmqUFDQMaS3C6tqRPZBA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-27 06:00:16",
+      "pub_time": "2026-05-27 05:45:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump gathers Cabinet as he looks to seal deal to end Iran war",
+      "article_headline": "Trump gathers Cabinet as he looks to seal deal to end Iran war"
+    },
+    {
+      "link": "https://apple.news/AVdT8b-vtR16EmB3kOZBeTQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-27 06:00:16",
+      "pub_time": "2026-05-27 05:46:13",
+      "publication": "ABC News",
+      "author": "Alexander Mallin",
+      "headline": "Biden sues DOJ to block release of audio recordings tied to special-counsel probe",
+      "article_headline": "Biden sues DOJ to block release of audio recordings tied to special-counsel probe"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 06:00:16",
+      "pub_time": "2026-05-27 05:45:41",
+      "publication": "The Wall Street Journal",
+      "author": "Liz Essley Whyte and Sabrina Siddiqui",
+      "headline": "U.S. races to set up quarantine facility in Kenya for Americans exposed to Ebola",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 06:00:16",
+      "pub_time": "2026-05-27 05:45:03",
+      "publication": "The Wall Street Journal",
+      "author": "Liz Essley Whyte and Sabrina Siddiqui",
+      "headline": "U.S. races to set up quarantine facility in Kenya for Americans exposed to Ebola",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

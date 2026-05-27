@@ -1,0 +1,121 @@
+{
+  "run_time": "2026-05-27 04:40:14",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AekmKmiDrQlueDHMUes6YRw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-27 04:40:14",
+      "pub_time": "2026-05-27 00:40:16",
+      "publication": "The Washington Post",
+      "author": "Matthew Choi",
+      "headline": "Ken Paxton ousts Sen. John Cornyn in Texas GOP runoff after getting Trump’s endorsement",
+      "article_headline": "Ken Paxton ousts Sen. John Cornyn in Texas GOP runoff after getting Trump’s endorsement"
+    },
+    {
+      "link": "https://apple.news/AmcCY87ZlSi-9K_7jY0m8bA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-27 04:40:14",
+      "pub_time": "2026-05-27 00:40:44",
+      "publication": "NPR",
+      "author": "Tom Dreisbach",
+      "headline": "Justice Department mass-deletes info on Jan. 6 riot cases, including violent assaults on cops",
+      "article_headline": "Justice Department mass-deletes info on Jan. 6 riot cases, including violent assaults on cops"
+    },
+    {
+      "link": "https://apple.news/AIFwmqUFDQMaS3C6tqRPZBA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-27 04:40:14",
+      "pub_time": "2026-05-27 00:41:11",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump gathers Cabinet as he looks to seal deal to end Iran war",
+      "article_headline": "Trump gathers Cabinet as he looks to seal deal to end Iran war"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 04:40:14",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "U.S. races to set up quarantine facility in Kenya for Americans exposed to Ebola",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AYeI9qnieRliQ8osC4zcBeA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-27 04:40:14",
+      "pub_time": "2026-05-27 00:41:48",
+      "publication": "ABC News",
+      "author": "Matthew Glasser and Briana Alvarado",
+      "headline": "NASA reveals new details on plan to build a base on the moon",
+      "article_headline": "NASA reveals new details on plan to build a base on the moon"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 04:40:14",
+      "pub_time": "2026-05-27 00:42:16",
+      "publication": "Bloomberg Businessweek",
+      "author": "Adam Chandler",
+      "headline": "The surprisingly simple experiment that turned Barnes & Noble around",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AVHry78t4QsKONiQ45Ly3zA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-27 04:40:14",
+      "pub_time": "2026-05-27 02:42:30",
+      "publication": "BuzzFeed",
+      "author": "Ajani Bazile-Dutes",
+      "headline": "Divorced Men Are Sharing The Final Straw That Made Them Leave Their Wives, And Whoa",
+      "article_headline": "Divorced Men Are Sharing The Final Straw That Made Them Leave Their Wives, And Whoa"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-05-27 04:40:14",
+      "pub_time": "",
+      "publication": "Investopedia",
+      "author": "",
+      "headline": "The 401(k) benchmark only 14% of workers hit — and how to achieve it, Jake Safane",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-05-27 04:40:14",
+      "pub_time": "",
+      "publication": "Men’s Health",
+      "author": "",
+      "headline": "America has a new favorite anxiety drug, Gregory Scott Brown",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-05-27 04:40:14",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "What cannabis does to your memory — and how to fix it, Steve Midway",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
