@@ -1,0 +1,61 @@
+{
+  "run_time": "2026-05-27 07:00:17",
+  "story_count": 5,
+  "stories": [
+    {
+      "link": "https://apple.news/A0JHWPDxtTZWHOe1VHiDtrw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-27 07:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump and Democrats get Paxton in Texas, the Senate nominee they all wanted",
+      "article_headline": "Trump and Democrats get Paxton in Texas, the Senate nominee they all wanted"
+    },
+    {
+      "link": "https://apple.news/AwIiJ2NZgRTKrQCt_FU4YlA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-27 07:00:17",
+      "pub_time": "2026-05-27 06:52:46",
+      "publication": "The Washington Post",
+      "author": "Natalie Allison",
+      "headline": "Trump to hold Cabinet meeting amid declining approval on Iran and the economy",
+      "article_headline": "Trump to hold Cabinet meeting amid declining approval on Iran and the economy"
+    },
+    {
+      "link": "https://apple.news/AVdT8b-vtR16EmB3kOZBeTQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-27 07:00:17",
+      "pub_time": "2026-05-27 06:53:14",
+      "publication": "ABC News",
+      "author": "Alexander Mallin",
+      "headline": "Biden sues DOJ to block release of audio recordings tied to special-counsel probe",
+      "article_headline": "Biden sues DOJ to block release of audio recordings tied to special-counsel probe"
+    },
+    {
+      "link": "https://apple.news/AwIiJ2NZgRTKrQCt_FU4YlA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-27 07:00:17",
+      "pub_time": "2026-05-27 06:52:48",
+      "publication": "The Washington Post",
+      "author": "Natalie Allison",
+      "headline": "Trump to hold Cabinet meeting amid declining approval on Iran and the economy",
+      "article_headline": "Trump to hold Cabinet meeting amid declining approval on Iran and the economy"
+    },
+    {
+      "link": "https://apple.news/AVdT8b-vtR16EmB3kOZBeTQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-27 07:00:17",
+      "pub_time": "2026-05-27 06:53:15",
+      "publication": "ABC News",
+      "author": "Alexander Mallin",
+      "headline": "Biden sues DOJ to block release of audio recordings tied to special-counsel probe",
+      "article_headline": "Biden sues DOJ to block release of audio recordings tied to special-counsel probe"
+    }
+  ]
+}
