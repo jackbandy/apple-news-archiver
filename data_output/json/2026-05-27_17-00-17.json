@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-05-27 17:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AIFwmqUFDQMaS3C6tqRPZBA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-27 17:00:17",
+      "pub_time": "2026-05-27 16:00:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump says Iran is “negotiating on fumes,” insists midterm elections won’t affect his war strategy",
+      "article_headline": "Trump says Iran is “negotiating on fumes,” insists midterm elections won’t affect his war strategy"
+    },
+    {
+      "link": "https://apple.news/AFhF8EPcvTUa3b1GCi29OtQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-27 17:00:17",
+      "pub_time": "",
+      "publication": "The Texas Tribune",
+      "author": "",
+      "headline": "Senate Republicans spent months trashing Paxton. They’ll need each other to win in November.",
+      "article_headline": "Senate Republicans spent months trashing Paxton. They’ll need each other to win in November."
+    },
+    {
+      "link": "https://apple.news/AgrK2BJhgSkqaMsVThA6ITg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-27 17:00:17",
+      "pub_time": "2026-05-27 16:01:19",
+      "publication": "KING 5",
+      "author": "",
+      "headline": "Second death confirmed as recovery operations continue for 9 missing after paper-mill implosion",
+      "article_headline": "Second death confirmed as recovery operations continue for 9 missing after paper-mill implosion"
+    },
+    {
+      "link": "https://apple.news/ABB1Kf9CjTY6KGCjWBu0H3Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-27 17:00:17",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Matthew Perry’s assistant gets more than 3 years in prison for the actor’s death",
+      "article_headline": "Matthew Perry’s assistant gets more than 3 years in prison for the actor’s death"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 17:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The NFL’s worst-kept secret is the blockbuster trade of the summer",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 17:00:17",
+      "pub_time": "2026-05-27 16:02:19",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "These wealthy Bay Area suburbs have become a microcosm of India",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 17:00:17",
+      "pub_time": "",
+      "publication": "Simply Recipes",
+      "author": "",
+      "headline": "The Top 10 Dinners Our Readers Come Back to Again and Again",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

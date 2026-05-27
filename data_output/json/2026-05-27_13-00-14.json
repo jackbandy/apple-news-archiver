@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-27 13:00:14",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AA_B__EHNTxyz__6z2kB4IA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-27 13:00:14",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump-backed candidate’s landslide in Texas gives Democrats hope in November",
+      "article_headline": "Trump-backed candidate’s landslide in Texas gives Democrats hope in November"
+    },
+    {
+      "link": "https://apple.news/AXii2KSTdSOOCg-_7R3Io0Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-27 13:00:14",
+      "pub_time": "2026-05-27 12:01:43",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Alabama asks Supreme Court to allow pro-Republican map that diluted Black vote",
+      "article_headline": "Alabama asks Supreme Court to allow pro-Republican map that diluted Black vote"
+    },
+    {
+      "link": "https://apple.news/AXii2KSTdSOOCg-_7R3Io0Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-27 13:00:14",
+      "pub_time": "2026-05-27 12:01:21",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Alabama asks Supreme Court to allow pro-Republican map that diluted Black vote",
+      "article_headline": "Alabama asks Supreme Court to allow pro-Republican map that diluted Black vote"
+    },
+    {
+      "link": "https://apple.news/AgjHcEUgCTZ-KAcxxG6mS6Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-27 13:00:14",
+      "pub_time": "2026-05-27 12:01:48",
+      "publication": "Video",
+      "author": "Jacob Rosen",
+      "headline": "CBS News, Former Attorney General Pam Bondi undergoing treatment for thyroid cancer",
+      "article_headline": "Former Attorney General Pam Bondi undergoing treatment for thyroid cancer"
+    },
+    {
+      "link": "https://apple.news/AQbrgtuCgRSeHl-Y0rZ3bmw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-27 13:00:14",
+      "pub_time": "",
+      "publication": "Bloomberg",
+      "author": "",
+      "headline": "Americans are about to pay even more at the grocery store",
+      "article_headline": "Americans are about to pay even more at the grocery store"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 13:00:14",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "New York, New Jersey subpoena FIFA over World Cup ticketing practices",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 13:00:14",
+      "pub_time": "2026-05-27 12:02:49",
+      "publication": "The Atlantic",
+      "author": "Lila Shroff",
+      "headline": "There’s never been a better time to study computer science",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ASlNHJVjHRxq_BFPx3E88Kg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-27 13:00:14",
+      "pub_time": "2026-05-27 06:03:26",
+      "publication": "BuzzFeed",
+      "author": "Angelica Martinez",
+      "headline": "I Was Today Years Old When I Learned About These 22 \"Hidden Features\" Of My iPhone",
+      "article_headline": "I Was Today Years Old When I Learned About These 22 \"Hidden Features\" Of My iPhone"
+    },
+    {
+      "link": "https://apple.news/Ai3yG2nqBSf24L5EG2LuhKw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-27 13:00:14",
+      "pub_time": "2026-05-27 10:03:59",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Doctor explains the complication that made Kyle Busch’s illness deadly",
+      "article_headline": "Doctor explains the complication that made Kyle Busch’s illness deadly"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-27 13:00:14",
+      "pub_time": "2026-05-27 07:04:26",
+      "publication": "",
+      "author": "",
+      "headline": "These wealthy Bay Area suburbs have become a microcosm of India",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Af6p1xRxuT7-fZ3ww6Tb51w",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-27 13:00:14",
+      "pub_time": "2026-05-27 08:04:26",
+      "publication": "TheStreet",
+      "author": "Jodi Ireland and Don Sena",
+      "headline": "Beware of this scam targeting seniors’ bank accounts",
+      "article_headline": "Beware of this scam targeting seniors’ bank accounts"
+    }
+  ]
+}
