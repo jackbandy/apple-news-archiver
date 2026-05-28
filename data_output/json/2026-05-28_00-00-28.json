@@ -1,0 +1,163 @@
+{
+  "run_time": "2026-05-28 00:00:28",
+  "story_count": 14,
+  "stories": [
+    {
+      "link": "https://apple.news/AmCu6EWOFSHKYMUgN-SM6lQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-28 00:00:28",
+      "pub_time": "2026-05-27 23:57:32",
+      "publication": "Reuters",
+      "author": "Jana Choukeir, Enas Alashray, and Phil Stewart",
+      "headline": "Iran and U.S. trade air strikes after Trump dismisses report of Hormuz deal",
+      "article_headline": "Iran and US trade air strikes after Trump dismisses report of Hormuz deal"
+    },
+    {
+      "link": "https://apple.news/AX6nvftlBRjqqG-sGFWDd2g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-28 00:00:28",
+      "pub_time": "2026-05-27 23:57:59",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah",
+      "article_headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah"
+    },
+    {
+      "link": "https://apple.news/AX6nvftlBRjqqG-sGFWDd2g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-28 00:00:28",
+      "pub_time": "2026-05-27 23:57:31",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah",
+      "article_headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah"
+    },
+    {
+      "link": "https://apple.news/Alh44tlgVQwmaepabLPRZSQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-28 00:00:28",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Justice Department opens probe into Trump accuser E. Jean Carroll",
+      "article_headline": "Justice Department Opens Probe Into Trump Accuser E. Jean Carroll"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 00:00:28",
+      "pub_time": "2026-05-27 23:58:26",
+      "publication": "The Washington Post",
+      "author": "Maegan Vazquez",
+      "headline": "Former federal judges ask court to reopen Trump’s IRS lawsuit, investigate payout fund",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 00:00:28",
+      "pub_time": "2026-05-27 23:57:32",
+      "publication": "The Washington Post",
+      "author": "Maegan Vazquez",
+      "headline": "Former federal judges ask court to reopen Trump’s IRS lawsuit, investigate payout fund",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AyARr1Ll8SG-RQFS5WNK32Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-28 00:00:28",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "“The new Rafa”: A rising star from Spain is captivating the French Open crowds",
+      "article_headline": "“The new Rafa”: A rising star from Spain is captivating the French Open crowds"
+    },
+    {
+      "link": "https://apple.news/AaUryEgnwRcWdM9_B3v3ruw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-28 00:00:28",
+      "pub_time": "2026-05-27 07:03:45",
+      "publication": "FOOD & WINE",
+      "author": "Andi Breitowich",
+      "headline": "This Woman Lived to 117. Her Daily Diet May Help Explain Why",
+      "article_headline": "This Woman Lived to 117. Her Daily Diet May Help Explain Why"
+    },
+    {
+      "link": "https://apple.news/A9fed6Iz7SMKlDt7t6YuUkw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-28 00:00:28",
+      "pub_time": "2026-05-27 20:04:12",
+      "publication": "HuffPost",
+      "author": "Herag Hamboyan",
+      "headline": "My Patient Invited Me To Her Home To Watch Her Die. What I Saw When I Arrived Gave Me Goosebumps.",
+      "article_headline": "My Patient Invited Me To Her Home To Watch Her Die. What I Saw When I Arrived Gave Me Goosebumps."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-28 00:00:28",
+      "pub_time": "2026-05-27 14:04:39",
+      "publication": "",
+      "author": "Ashley Tysiac",
+      "headline": "The Most Dangerous Volcanic Threat to America Is Coming. And It Doesn’t Need an Eruption to Begin.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Awav9GwuRQ3KxR1A_q_A1Iw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-28 00:00:28",
+      "pub_time": "2026-05-27 17:04:46",
+      "publication": "Real Simple",
+      "author": "Wendy Rose Gould",
+      "headline": "Tomato Plants Will Produce More Fruit If You Use This One Method",
+      "article_headline": "Tomato Plants Will Produce More Fruit If You Use This One Method"
+    },
+    {
+      "link": "https://apple.news/Arf1fjDVZSDKOvGQasOFvyA",
+      "rank": 1,
+      "section": "illinois_politics",
+      "run_time": "2026-05-28 00:00:28",
+      "pub_time": "2026-05-27 22:06:46",
+      "publication": "WCBU",
+      "author": "Molly Hughes",
+      "headline": "Peoria Public Radio, Tazewell County Board freezes clerk's salary for 4 years",
+      "article_headline": "Peoria Public Radio, Tazewell County Board freezes clerk's salary for 4 years"
+    },
+    {
+      "link": "https://apple.news/AclIWoPZTRv23Ts4J2QgTZw",
+      "rank": 2,
+      "section": "illinois_politics",
+      "run_time": "2026-05-28 00:00:28",
+      "pub_time": "2026-05-27 18:07:18",
+      "publication": "WNIJ | Northern Public Radio",
+      "author": "",
+      "headline": "State Sen. Dale Fowler says he’ll step down at end of legislative session",
+      "article_headline": "State Sen. Dale Fowler says he’ll step down at end of legislative session"
+    },
+    {
+      "link": "https://apple.news/AK6HjCpLtS4acPMsSmCO80g",
+      "rank": 3,
+      "section": "illinois_politics",
+      "run_time": "2026-05-28 00:00:28",
+      "pub_time": "2026-05-27 17:07:45",
+      "publication": "WNIJ | Northern Public Radio",
+      "author": "",
+      "headline": "Reducing gas tax, prepping for future shortfalls among late budget sticking points",
+      "article_headline": "Reducing gas tax, prepping for future shortfalls among late budget sticking points"
+    }
+  ]
+}

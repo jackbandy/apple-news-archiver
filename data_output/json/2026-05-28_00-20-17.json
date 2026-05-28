@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-28 00:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AmCu6EWOFSHKYMUgN-SM6lQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-28 00:20:17",
+      "pub_time": "2026-05-27 23:57:18",
+      "publication": "Reuters",
+      "author": "Jana Choukeir, Enas Alashray, and Phil Stewart",
+      "headline": "Iran and U.S. trade air strikes after Trump dismisses report of Hormuz deal",
+      "article_headline": "Iran and US trade air strikes after Trump dismisses report of Hormuz deal"
+    },
+    {
+      "link": "https://apple.news/AX6nvftlBRjqqG-sGFWDd2g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-28 00:20:17",
+      "pub_time": "2026-05-27 23:57:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah",
+      "article_headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah"
+    },
+    {
+      "link": "https://apple.news/AX6nvftlBRjqqG-sGFWDd2g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-28 00:20:17",
+      "pub_time": "2026-05-27 23:57:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah",
+      "article_headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah"
+    },
+    {
+      "link": "https://apple.news/Alh44tlgVQwmaepabLPRZSQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-28 00:20:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Justice Department opens probe into Trump accuser E. Jean Carroll",
+      "article_headline": "Justice Department Opens Probe Into Trump Accuser E. Jean Carroll"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 00:20:17",
+      "pub_time": "2026-05-27 23:58:12",
+      "publication": "The Washington Post",
+      "author": "Maegan Vazquez",
+      "headline": "Former federal judges ask court to reopen Trump’s IRS lawsuit, investigate payout fund",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 00:20:17",
+      "pub_time": "2026-05-27 23:57:17",
+      "publication": "The Washington Post",
+      "author": "Maegan Vazquez",
+      "headline": "Former federal judges ask court to reopen Trump’s IRS lawsuit, investigate payout fund",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AyARr1Ll8SG-RQFS5WNK32Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-28 00:20:17",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "“The new Rafa”: A rising star from Spain is captivating the French Open crowds",
+      "article_headline": "“The new Rafa”: A rising star from Spain is captivating the French Open crowds"
+    }
+  ]
+}

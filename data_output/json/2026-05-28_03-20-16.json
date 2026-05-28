@@ -1,0 +1,120 @@
+{
+  "run_time": "2026-05-28 03:20:16",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AmCu6EWOFSHKYMUgN-SM6lQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-28 03:20:16",
+      "pub_time": "2026-05-28 00:20:18",
+      "publication": "Reuters",
+      "author": "Jana Choukeir, Enas Alashray, and Phil Stewart",
+      "headline": "Iran and U.S. trade air strikes after Trump dismisses report of Hormuz deal",
+      "article_headline": "Iran and US trade air strikes after Trump dismisses report of Hormuz deal"
+    },
+    {
+      "link": "https://apple.news/AX6nvftlBRjqqG-sGFWDd2g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-28 03:20:16",
+      "pub_time": "2026-05-28 00:20:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah",
+      "article_headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah"
+    },
+    {
+      "link": "https://apple.news/Alh44tlgVQwmaepabLPRZSQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-28 03:20:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Justice Department opens probe into Trump accuser E. Jean Carroll",
+      "article_headline": "Justice Department Opens Probe Into Trump Accuser E. Jean Carroll"
+    },
+    {
+      "link": "https://apple.news/ATUh4NkPGTQaXaG4Xa7reYg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-28 03:20:16",
+      "pub_time": "2026-05-28 00:21:44",
+      "publication": "The Washington Post",
+      "author": "Maegan Vazquez",
+      "headline": "Former federal judges ask court to reopen Trump’s IRS lawsuit, investigate payout fund",
+      "article_headline": "Ex-federal judges ask court to reopen Trump’s IRS lawsuit, probe payout fund"
+    },
+    {
+      "link": "https://apple.news/AyARr1Ll8SG-RQFS5WNK32Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-28 03:20:16",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "“The new Rafa”: A rising star from Spain is captivating the French Open crowds",
+      "article_headline": "“The new Rafa”: A rising star from Spain is captivating the French Open crowds"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 03:20:16",
+      "pub_time": "2026-05-28 00:22:46",
+      "publication": "Boston.com",
+      "author": "",
+      "headline": "The oldest cold-case murder ever solved in Massachusetts",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Af-CadPEZQA6vbnezst7rCg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-28 03:20:16",
+      "pub_time": "2026-05-27 13:23:00",
+      "publication": "Popular Science",
+      "author": "Bill Gourgey",
+      "headline": "100 years ago, ‘ghost ship’ sails baffled Einstein—now they’re making a comeback",
+      "article_headline": "100 years ago, ‘ghost ship’ sails baffled Einstein—now they’re making a comeback"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-05-28 03:20:16",
+      "pub_time": "",
+      "publication": "Investopedia",
+      "author": "",
+      "headline": "The 401(k) benchmark only 14% of workers hit — and how to achieve it, Jake Safane",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-05-28 03:20:16",
+      "pub_time": "",
+      "publication": "Men’s Health",
+      "author": "",
+      "headline": "America has a new favorite anxiety drug, Gregory Scott Brown",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-05-28 03:20:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "10 hidden-gem beaches tourists haven’t ruined, Andrea Sachs, Hannah Sampson, and Natalie Compton",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
