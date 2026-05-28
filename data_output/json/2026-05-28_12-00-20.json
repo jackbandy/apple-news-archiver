@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-05-28 12:00:20",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ANZhTvrweRuemmA2uLUlDcA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-28 12:00:20",
+      "pub_time": "2026-05-28 11:41:22",
+      "publication": "The Washington Post",
+      "author": "Gerry Shih, Dan Lamothe, Natalie Allison, Mohamad El Chamaa, and Lior Soroka",
+      "headline": "U.S. and Iran trade strikes as Trump says he feels no pressure for peace deal",
+      "article_headline": "U.S. and Iran trade strikes as Trump says he feels no pressure for peace deal"
+    },
+    {
+      "link": "https://apple.news/AGr3FQXxKTqe093udKJw9hA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-28 12:00:20",
+      "pub_time": "",
+      "publication": "Votebeat",
+      "author": "",
+      "headline": "Federal judge declines to block Trump’s executive order on mail voting — for now",
+      "article_headline": "Federal judge declines to block Trump’s executive order on mail voting — for now"
+    },
+    {
+      "link": "https://apple.news/AZ2AeiP7nSsWInZvmUOjN7Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-28 12:00:20",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Trump wants a gas-tax holiday. There’s a much bigger problem looming.",
+      "article_headline": "Trump wants a gas-tax holiday. There’s a much bigger problem looming."
+    },
+    {
+      "link": "https://apple.news/AP711NnlUSySyFDgHyUCJ7A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-28 12:00:20",
+      "pub_time": "2026-05-28 11:41:50",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Supreme Court sides with Black man on Mississippi’s death row who claimed racial bias in makeup of jury",
+      "article_headline": "Supreme Court sides with Black man on Mississippi’s death row who claimed racial bias in makeup of jury"
+    },
+    {
+      "link": "https://apple.news/AP711NnlUSySyFDgHyUCJ7A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-28 12:00:20",
+      "pub_time": "2026-05-28 11:41:23",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Supreme Court sides with Black man on Mississippi’s death row who claimed racial bias in makeup of jury",
+      "article_headline": "Supreme Court sides with Black man on Mississippi’s death row who claimed racial bias in makeup of jury"
+    },
+    {
+      "link": "https://apple.news/AlsYbB7YqTzCcyqmiQNnlbg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-28 12:00:20",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World No. 1 Jannik Sinner knocked out of French Open in shocking second-round upset ",
+      "article_headline": "Jannik Sinner wilts in French Open upset, throwing men’s draw wide open"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 12:00:20",
+      "pub_time": "2026-05-28 11:42:18",
+      "publication": "The New Yorker",
+      "author": "James Lasdun",
+      "headline": "How a small-town clerk’s misdeeds upturned the Murdaugh verdict",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaUO7Gka0SiOdvjACQYl1kA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-28 12:00:20",
+      "pub_time": "2026-05-28 07:03:58",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Dozens of hikers fall ill along Pacific Crest Trail in California",
+      "article_headline": "Dozens of hikers fall ill along Pacific Crest Trail in California"
+    },
+    {
+      "link": "https://apple.news/AJTpENibqRW2HZom4tVF-ww",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-28 12:00:20",
+      "pub_time": "2026-05-27 19:04:25",
+      "publication": "BuzzFeed",
+      "author": "Brian Galindo",
+      "headline": "25 American Things Non-Americans Swore Were Fake In Movies… Until They Found Out They're Real",
+      "article_headline": "25 American Things Non-Americans Swore Were Fake In Movies… Until They Found Out They're Real"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-28 12:00:20",
+      "pub_time": "2026-05-28 09:04:59",
+      "publication": "",
+      "author": "Michael Cappetta",
+      "headline": "Canada Is Offering Free Admission to Its National Parks This Summer—What to Know",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AuVFMnoaGQGmH6YnDgKZzmQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-28 12:00:20",
+      "pub_time": "2026-05-28 07:04:59",
+      "publication": "Real Simple",
+      "author": "Lisa Milbrand",
+      "headline": "My Book Club Has Read Hundreds of Books—These Are the Ones We Can't Stop Raving About",
+      "article_headline": "My Book Club Has Read Hundreds of Books—These Are the Ones We Can't Stop Raving About"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-28 10:00:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ADibRSR2WTBexdUnGwXV6JA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-28 10:00:18",
+      "pub_time": "2026-05-28 09:00:19",
+      "publication": "NBC News",
+      "author": "Courtney Kube, Jennifer Jett, and Alexander Smith",
+      "headline": "Iran and U.S. exchange new strikes as Trump dismisses pressure to end war",
+      "article_headline": "Iran and U.S. exchange new strikes as Trump dismisses pressure to end war"
+    },
+    {
+      "link": "https://apple.news/A6Vajl_hwQFi91b2Rf0mRLw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-28 10:00:18",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Judge allows Trump to implement executive order tightening rules on mail-in voting",
+      "article_headline": "Judge allows Trump to implement executive order tightening rules on mail-in voting"
+    },
+    {
+      "link": "https://apple.news/Azn65lX_qRhuui_J-eOClQQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-28 10:00:18",
+      "pub_time": "2026-05-28 09:01:19",
+      "publication": "The Washington Post",
+      "author": "Warren Strobel",
+      "headline": "Prosecutors say former CIA official stole $40 million in gold bars from the agency",
+      "article_headline": "Prosecutors say former CIA official stole $40 million in gold bars from the agency"
+    },
+    {
+      "link": "https://apple.news/AZ2AeiP7nSsWInZvmUOjN7Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-28 10:00:18",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Trump wants a gas-tax holiday. There’s a much bigger problem looming.",
+      "article_headline": "Trump wants a gas-tax holiday. There’s a much bigger problem looming."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 10:00:18",
+      "pub_time": "2026-05-28 09:02:21",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Why one Cal State program produces some of the country’s highest-paid grads",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 10:00:18",
+      "pub_time": "2026-05-28 09:02:21",
+      "publication": "The Wall Street Journal",
+      "author": "Chao Deng",
+      "headline": "This Arkansas town is humming with the sound of missile making",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AvdVcj6PRTVKEc2NYc85bTQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-28 10:00:18",
+      "pub_time": "",
+      "publication": "The White House made a big",
+      "author": "",
+      "headline": "quiet change to immigration policy, Listen to today’s top stories.,  Play Now  13 min",
+      "article_headline": ""
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-28 10:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ANZhTvrweRuemmA2uLUlDcA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-28 10:40:17",
+      "pub_time": "2026-05-28 10:21:19",
+      "publication": "The Washington Post",
+      "author": "Gerry Shih, Dan Lamothe, Natalie Allison, Mohamad El Chamaa, and Lior Soroka",
+      "headline": "U.S. and Iran trade strikes as Trump says he feels no pressure for peace deal",
+      "article_headline": "U.S. and Iran trade strikes as Trump says he feels no pressure for peace deal"
+    },
+    {
+      "link": "https://apple.news/A6Vajl_hwQFi91b2Rf0mRLw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-28 10:40:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Judge declines to block Trump’s executive order that would tighten rules on mail-in voting",
+      "article_headline": "Judge declines to block Trump’s executive order that would tighten rules on mail-in voting"
+    },
+    {
+      "link": "https://apple.news/AZ2AeiP7nSsWInZvmUOjN7Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-28 10:40:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Trump wants a gas-tax holiday. There’s a much bigger problem looming.",
+      "article_headline": "Trump wants a gas-tax holiday. There’s a much bigger problem looming."
+    },
+    {
+      "link": "https://apple.news/AP711NnlUSySyFDgHyUCJ7A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-28 10:40:17",
+      "pub_time": "2026-05-28 10:21:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Supreme Court sides with Black man on Mississippi’s death row who claimed racial bias in makeup of jury",
+      "article_headline": "Supreme Court sides with Black man on Mississippi’s death row who claimed racial bias in makeup of jury"
+    },
+    {
+      "link": "https://apple.news/AP711NnlUSySyFDgHyUCJ7A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-28 10:40:17",
+      "pub_time": "2026-05-28 10:21:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Supreme Court sides with Black man on Mississippi’s death row who claimed racial bias in makeup of jury",
+      "article_headline": "Supreme Court sides with Black man on Mississippi’s death row who claimed racial bias in makeup of jury"
+    },
+    {
+      "link": "https://apple.news/AlsYbB7YqTzCcyqmiQNnlbg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-28 10:40:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World No. 1 Jannik Sinner knocked out of French Open in shocking second-round upset ",
+      "article_headline": "Jannik Sinner wilts in French Open heat, throwing men’s draw wide open"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 10:40:17",
+      "pub_time": "2026-05-28 10:22:14",
+      "publication": "The New Yorker",
+      "author": "James Lasdun",
+      "headline": "How a small-town clerk’s misdeeds upturned the Murdaugh verdict",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

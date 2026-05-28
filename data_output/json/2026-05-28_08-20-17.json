@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-05-28 08:20:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ADibRSR2WTBexdUnGwXV6JA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-28 08:20:17",
+      "pub_time": "2026-05-28 08:17:18",
+      "publication": "NBC News",
+      "author": "Courtney Kube, Jennifer Jett, and Alexander Smith",
+      "headline": "Iran and U.S. exchange new strikes as Trump dismisses pressure to end war",
+      "article_headline": "Iran and U.S. exchange new strikes as Trump dismisses pressure to end war"
+    },
+    {
+      "link": "https://apple.news/A6Vajl_hwQFi91b2Rf0mRLw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-28 08:20:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Judge allows Trump to implement executive order tightening rules on mail-in voting",
+      "article_headline": "Judge allows Trump to implement executive order tightening rules on mail-in voting"
+    },
+    {
+      "link": "https://apple.news/Azn65lX_qRhuui_J-eOClQQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-28 08:20:17",
+      "pub_time": "2026-05-28 08:17:18",
+      "publication": "The Washington Post",
+      "author": "Warren Strobel",
+      "headline": "Prosecutors say former CIA official stole $40 million in gold bars from the agency",
+      "article_headline": "Prosecutors say former CIA official stole $40 million in gold bars from the agency"
+    },
+    {
+      "link": "https://apple.news/AZ2AeiP7nSsWInZvmUOjN7Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-28 08:20:17",
+      "pub_time": "2026-05-28 08:17:46",
+      "publication": "NPR",
+      "author": "Camila Domonoske and Stephan Bisaha",
+      "headline": "Trump wants a gas-tax holiday. There’s a much bigger problem looming.",
+      "article_headline": "Trump wants a gas-tax holiday. There’s a much bigger problem looming."
+    },
+    {
+      "link": "https://apple.news/Azn65lX_qRhuui_J-eOClQQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-28 08:20:17",
+      "pub_time": "2026-05-28 08:17:18",
+      "publication": "The Washington Post",
+      "author": "Warren Strobel",
+      "headline": "Prosecutors say former CIA official stole $40 million in gold bars from the agency",
+      "article_headline": "Prosecutors say former CIA official stole $40 million in gold bars from the agency"
+    },
+    {
+      "link": "https://apple.news/AZ2AeiP7nSsWInZvmUOjN7Q",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-28 08:20:17",
+      "pub_time": "2026-05-28 08:17:46",
+      "publication": "NPR",
+      "author": "Camila Domonoske and Stephan Bisaha",
+      "headline": "Trump wants a gas-tax holiday. There’s a much bigger problem looming.",
+      "article_headline": "Trump wants a gas-tax holiday. There’s a much bigger problem looming."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 08:20:17",
+      "pub_time": "2026-05-28 08:18:14",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Why one Cal State program produces some of the country’s highest-paid grads",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Am5QmDA5CQPa03k2LNIK-2A",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-28 08:20:17",
+      "pub_time": "2026-05-27 20:23:50",
+      "publication": "BuzzFeed",
+      "author": "Jennifer McPhee",
+      "headline": "People Are Spilling The \"Painfully Out Of Touch\" Things They've Witnessed The Ultra-Rich Do With Their Money",
+      "article_headline": "People Are Spilling The \"Painfully Out Of Touch\" Things They've Witnessed The Ultra-Rich Do With Their Money"
+    },
+    {
+      "link": "https://apple.news/A9fOlJehVSxywowigYR6u0Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-28 08:20:17",
+      "pub_time": "2026-05-27 10:24:23",
+      "publication": "House Beautiful",
+      "author": "Kate McGregor",
+      "headline": "Experts Explain Why Ants Keep Invading Your Home—and How to Get Rid of Them for Good",
+      "article_headline": "Experts Explain Why Ants Keep Invading Your Home—and How to Get Rid of Them for Good"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-28 08:20:17",
+      "pub_time": "2026-05-27 20:24:50",
+      "publication": "",
+      "author": "Sharon Terlep",
+      "headline": "One Million New-Car Buyers Are Gone and They’re Not Coming Back Soon",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-28 08:20:17",
+      "pub_time": "2026-05-27 13:24:50",
+      "publication": "Reuters",
+      "author": "Anna Lazarus Caplan",
+      "headline": "Aryna Sabalenka Fights Back After She's Criticized for Wearing 200 Carats of Jewelry During First-Round French Open Win",
+      "article_headline": "Judge allows Trump to implement executive order tightening rules on mail-in voting"
+    }
+  ]
+}
