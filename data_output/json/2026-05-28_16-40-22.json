@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-28 16:40:22",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A1UlC-a_5Qqm_fmTZUIjKfA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-28 16:40:22",
+      "pub_time": "2026-05-28 16:33:23",
+      "publication": "Axios",
+      "author": "Barak Ravid",
+      "headline": "U.S. and Iran near ceasefire extension following latest attacks",
+      "article_headline": "U.S. and Iran near ceasefire extension following latest attacks"
+    },
+    {
+      "link": "https://apple.news/AO4i5w9uHSamYB1NvA05jwQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-28 16:40:22",
+      "pub_time": "2026-05-28 16:33:52",
+      "publication": "The Guardian",
+      "author": "Seham Tantesh and Julian Borger",
+      "headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip",
+      "article_headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip"
+    },
+    {
+      "link": "https://apple.news/AZLSfcRd6QpC4UnoCVK2Haw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-28 16:40:22",
+      "pub_time": "2026-05-28 16:34:20",
+      "publication": "The Washington Post",
+      "author": "Evan Halper and Kevin Crowe",
+      "headline": "As data centers boom, Virginians breathe the exhaust of 10,000 diesel generators",
+      "article_headline": "As data centers boom, Virginians breathe the exhaust of 10,000 diesel generators"
+    },
+    {
+      "link": "https://apple.news/AO4i5w9uHSamYB1NvA05jwQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-28 16:40:22",
+      "pub_time": "2026-05-28 16:33:53",
+      "publication": "The Guardian",
+      "author": "Seham Tantesh and Julian Borger",
+      "headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip",
+      "article_headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip"
+    },
+    {
+      "link": "https://apple.news/AZLSfcRd6QpC4UnoCVK2Haw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-28 16:40:22",
+      "pub_time": "2026-05-28 16:34:21",
+      "publication": "The Washington Post",
+      "author": "Evan Halper and Kevin Crowe",
+      "headline": "As data centers boom, Virginians breathe the exhaust of 10,000 diesel generators",
+      "article_headline": "As data centers boom, Virginians breathe the exhaust of 10,000 diesel generators"
+    },
+    {
+      "link": "https://apple.news/A0eLM7FiEQfOk0EboZUCeZA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-28 16:40:22",
+      "pub_time": "",
+      "publication": "KFF Health News",
+      "author": "",
+      "headline": "How a vaccine-skeptical California county stopped a measles outbreak from spreading",
+      "article_headline": "How a vaccine-skeptical California county stopped a measles outbreak from spreading"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 16:40:22",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The cheapest Knicks tickets for the NBA Finals are thousands of miles from New York",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
