@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-27 22:00:24",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ARb3sUEsOQaGRgHPR_2-WCw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-27 22:00:24",
+      "pub_time": "2026-05-27 21:57:26",
+      "publication": "Reuters",
+      "author": "Phil Stewart, Trevor Hunnicutt, Enas Alashray, and Elwely Elwelly",
+      "headline": "U.S. strikes Iran again after Trump denies deal on Strait of Hormuz",
+      "article_headline": "US strikes Iran again, official says, after Trump denies deal on Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AX6nvftlBRjqqG-sGFWDd2g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-27 22:00:24",
+      "pub_time": "2026-05-27 21:57:54",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah",
+      "article_headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah"
+    },
+    {
+      "link": "https://apple.news/Alh44tlgVQwmaepabLPRZSQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-27 22:00:24",
+      "pub_time": "2026-05-27 21:58:21",
+      "publication": "The Wall Street Journal",
+      "author": "Corinne Ramey and Sadie Gurman",
+      "headline": "Justice Department opens probe into Trump accuser E. Jean Carroll",
+      "article_headline": "Justice Department Opens Probe Into Trump Accuser E. Jean Carroll"
+    },
+    {
+      "link": "https://apple.news/AX6nvftlBRjqqG-sGFWDd2g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-27 22:00:24",
+      "pub_time": "2026-05-27 21:56:52",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah",
+      "article_headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah"
+    },
+    {
+      "link": "https://apple.news/Alh44tlgVQwmaepabLPRZSQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-27 22:00:24",
+      "pub_time": "2026-05-27 21:57:19",
+      "publication": "The Wall Street Journal",
+      "author": "Corinne Ramey and Sadie Gurman",
+      "headline": "Justice Department opens probe into Trump accuser E. Jean Carroll",
+      "article_headline": "Justice Department Opens Probe Into Trump Accuser E. Jean Carroll"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 22:00:24",
+      "pub_time": "2026-05-27 21:57:46",
+      "publication": "The Washington Post",
+      "author": "Laura Meckler",
+      "headline": "What happened when one university set out to purge “woke” classes",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 22:00:24",
+      "pub_time": "2026-05-27 21:56:52",
+      "publication": "The Washington Post",
+      "author": "Laura Meckler",
+      "headline": "What happened when one university set out to purge “woke” classes",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AmpgTHAPNSMqtyHwNXvqJ2A",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-27 22:00:24",
+      "pub_time": "2026-05-27 11:03:27",
+      "publication": "CNBC",
+      "author": "Sarah Jackson",
+      "headline": "33-year-old landed a $165K tech job after sending this with her thank-you note: 'Nobody expected' it",
+      "article_headline": "33-year-old landed a $165K tech job after sending this with her thank-you note: 'Nobody expected' it"
+    },
+    {
+      "link": "https://apple.news/A9fed6Iz7SMKlDt7t6YuUkw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-27 22:00:24",
+      "pub_time": "2026-05-27 20:03:54",
+      "publication": "HuffPost",
+      "author": "Herag Hamboyan",
+      "headline": "My Patient Invited Me To Her Home To Watch Her Die. What I Saw When I Arrived Gave Me Goosebumps.",
+      "article_headline": "My Patient Invited Me To Her Home To Watch Her Die. What I Saw When I Arrived Gave Me Goosebumps."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-27 22:00:24",
+      "pub_time": "2026-05-26 22:04:22",
+      "publication": "",
+      "author": "Stacey Leasca",
+      "headline": "This Breakfast Staple Could Slash Your Alzheimer’s Risk by Up to 27%, Study Suggests",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AuqqBH2k4T7-BiSAQiXbwiw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-27 22:00:24",
+      "pub_time": "2026-05-27 13:04:28",
+      "publication": "Popular Science",
+      "author": "Laura Kiniry",
+      "headline": "Why your dog gets so excited to see you",
+      "article_headline": "Why your dog gets so excited to see you"
+    }
+  ]
+}

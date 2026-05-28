@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-27 19:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AYLO8ytWtRtmvD0QwNJB6bw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-27 19:40:17",
+      "pub_time": "2026-05-27 19:37:19",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Lara Seligman, and Michael R. Gordon",
+      "headline": "U.S. military conducts new strikes on Iran",
+      "article_headline": "U.S. Military Conducts New Strikes on Iran"
+    },
+    {
+      "link": "https://apple.news/AHTH_Tk3ERXukGZ_fVJynJA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-27 19:40:17",
+      "pub_time": "2026-05-27 19:37:46",
+      "publication": "NBC News",
+      "author": "Berkeley Lovelace Jr. and Monica Alba",
+      "headline": "U.S. plans to send Americans exposed to Ebola to facility in Kenya",
+      "article_headline": "U.S. plans to send Americans exposed to Ebola to facility in Kenya"
+    },
+    {
+      "link": "https://apple.news/AHFV_5OBCTUqbjoqOZR2JZA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-27 19:40:17",
+      "pub_time": "2026-05-27 19:38:14",
+      "publication": "The Guardian",
+      "author": "William Christou",
+      "headline": "“It’s the West Bank”: Lebanese villagers describe life inside Israel’s “yellow line”",
+      "article_headline": "“It’s the West Bank”: Lebanese villagers describe life inside Israel’s “yellow line”"
+    },
+    {
+      "link": "https://apple.news/AHTH_Tk3ERXukGZ_fVJynJA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-27 19:40:17",
+      "pub_time": "2026-05-27 19:37:46",
+      "publication": "NBC News",
+      "author": "Berkeley Lovelace Jr. and Monica Alba",
+      "headline": "U.S. plans to send Americans exposed to Ebola to facility in Kenya",
+      "article_headline": "U.S. plans to send Americans exposed to Ebola to facility in Kenya"
+    },
+    {
+      "link": "https://apple.news/AHFV_5OBCTUqbjoqOZR2JZA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-27 19:40:17",
+      "pub_time": "2026-05-27 19:38:14",
+      "publication": "The Guardian",
+      "author": "William Christou",
+      "headline": "“It’s the West Bank”: Lebanese villagers describe life inside Israel’s “yellow line”",
+      "article_headline": "“It’s the West Bank”: Lebanese villagers describe life inside Israel’s “yellow line”"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 19:40:17",
+      "pub_time": "2026-05-27 19:38:42",
+      "publication": "The Washington Post",
+      "author": "Laura Meckler",
+      "headline": "What happened when one university set out to purge “woke” classes",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 19:40:17",
+      "pub_time": "2026-05-27 19:37:47",
+      "publication": "The Washington Post",
+      "author": "Laura Meckler",
+      "headline": "What happened when one university set out to purge “woke” classes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

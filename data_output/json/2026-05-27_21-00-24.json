@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-27 21:00:24",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AYLO8ytWtRtmvD0QwNJB6bw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-27 21:00:24",
+      "pub_time": "2026-05-27 20:56:26",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Lara Seligman, and Michael R. Gordon",
+      "headline": "U.S. military conducts new strikes on Iran",
+      "article_headline": "U.S. Military Conducts New Strikes on Iran"
+    },
+    {
+      "link": "https://apple.news/AHTH_Tk3ERXukGZ_fVJynJA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-27 21:00:24",
+      "pub_time": "2026-05-27 20:56:54",
+      "publication": "NBC News",
+      "author": "Berkeley Lovelace Jr. and Monica Alba",
+      "headline": "U.S. plans to send Americans exposed to Ebola to facility in Kenya",
+      "article_headline": "U.S. plans to send Americans exposed to Ebola to facility in Kenya"
+    },
+    {
+      "link": "https://apple.news/AHFV_5OBCTUqbjoqOZR2JZA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-27 21:00:24",
+      "pub_time": "2026-05-27 20:57:21",
+      "publication": "The Guardian",
+      "author": "William Christou",
+      "headline": "“It’s the West Bank”: Lebanese villagers describe life inside Israel’s “yellow line”",
+      "article_headline": "“It’s the West Bank”: Lebanese villagers describe life inside Israel’s “yellow line”"
+    },
+    {
+      "link": "https://apple.news/AHTH_Tk3ERXukGZ_fVJynJA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-27 21:00:24",
+      "pub_time": "2026-05-27 20:55:54",
+      "publication": "NBC News",
+      "author": "Berkeley Lovelace Jr. and Monica Alba",
+      "headline": "U.S. plans to send Americans exposed to Ebola to facility in Kenya",
+      "article_headline": "U.S. plans to send Americans exposed to Ebola to facility in Kenya"
+    },
+    {
+      "link": "https://apple.news/AHFV_5OBCTUqbjoqOZR2JZA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-27 21:00:24",
+      "pub_time": "2026-05-27 20:56:22",
+      "publication": "The Guardian",
+      "author": "William Christou",
+      "headline": "“It’s the West Bank”: Lebanese villagers describe life inside Israel’s “yellow line”",
+      "article_headline": "“It’s the West Bank”: Lebanese villagers describe life inside Israel’s “yellow line”"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 21:00:24",
+      "pub_time": "2026-05-27 20:56:50",
+      "publication": "The Washington Post",
+      "author": "Laura Meckler",
+      "headline": "What happened when one university set out to purge “woke” classes",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 21:00:24",
+      "pub_time": "2026-05-27 20:55:55",
+      "publication": "The Washington Post",
+      "author": "Laura Meckler",
+      "headline": "What happened when one university set out to purge “woke” classes",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A7wMIqDThSNejfzDZO_o_IA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-27 21:00:24",
+      "pub_time": "2026-05-27 20:03:32",
+      "publication": "BuzzFeed",
+      "author": "Matt Stopera",
+      "headline": "People Are Absolutely Roasting America's 250th Anniversary Concert Lineup",
+      "article_headline": "People Are Absolutely Roasting America's 250th Anniversary Concert Lineup"
+    },
+    {
+      "link": "https://apple.news/AmpgTHAPNSMqtyHwNXvqJ2A",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-27 21:00:24",
+      "pub_time": "2026-05-27 11:04:00",
+      "publication": "CNBC",
+      "author": "Sarah Jackson",
+      "headline": "33-year-old landed a $165K tech job after sending this with her thank-you note: 'Nobody expected' it",
+      "article_headline": "33-year-old landed a $165K tech job after sending this with her thank-you note: 'Nobody expected' it"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-27 21:00:24",
+      "pub_time": "2026-05-27 19:04:33",
+      "publication": "",
+      "author": "Sarah Klein",
+      "headline": "5 ways daily cannabis use can affect your body and mind",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A9fed6Iz7SMKlDt7t6YuUkw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-27 21:00:24",
+      "pub_time": "2026-05-27 20:04:33",
+      "publication": "HuffPost",
+      "author": "Herag Hamboyan",
+      "headline": "My Patient Invited Me To Her Home To Watch Her Die. What I Saw When I Arrived Gave Me Goosebumps.",
+      "article_headline": "My Patient Invited Me To Her Home To Watch Her Die. What I Saw When I Arrived Gave Me Goosebumps."
+    }
+  ]
+}

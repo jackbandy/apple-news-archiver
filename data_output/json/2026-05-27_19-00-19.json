@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-27 19:00:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ARb3sUEsOQaGRgHPR_2-WCw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-27 19:00:19",
+      "pub_time": "2026-05-27 18:24:21",
+      "publication": "Reuters",
+      "author": "Trevor Hunnicutt, Elwely Elwelly, and Jana Choukeir",
+      "headline": "Peace deal remains elusive as Trump says Iran and Oman will not control Strait of Hormuz",
+      "article_headline": "Trump says Iran and Oman will not control Strait of Hormuz, deal remains elusive"
+    },
+    {
+      "link": "https://apple.news/AHTH_Tk3ERXukGZ_fVJynJA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-27 19:00:19",
+      "pub_time": "2026-05-27 18:24:48",
+      "publication": "NBC News",
+      "author": "Berkeley Lovelace Jr. and Monica Alba",
+      "headline": "U.S. plans to send Americans exposed to Ebola to facility in Kenya",
+      "article_headline": "U.S. plans to send Americans exposed to Ebola to facility in Kenya"
+    },
+    {
+      "link": "https://apple.news/AHFV_5OBCTUqbjoqOZR2JZA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-27 19:00:19",
+      "pub_time": "2026-05-27 18:25:16",
+      "publication": "The Guardian",
+      "author": "William Christou",
+      "headline": "“It’s the West Bank”: Lebanese villagers describe life inside Israel’s “yellow line”",
+      "article_headline": "“It’s the West Bank”: Lebanese villagers describe life inside Israel’s “yellow line”"
+    },
+    {
+      "link": "https://apple.news/AHTH_Tk3ERXukGZ_fVJynJA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-27 19:00:19",
+      "pub_time": "2026-05-27 18:24:49",
+      "publication": "NBC News",
+      "author": "Berkeley Lovelace Jr. and Monica Alba",
+      "headline": "U.S. plans to send Americans exposed to Ebola to facility in Kenya",
+      "article_headline": "U.S. plans to send Americans exposed to Ebola to facility in Kenya"
+    },
+    {
+      "link": "https://apple.news/AHFV_5OBCTUqbjoqOZR2JZA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-27 19:00:19",
+      "pub_time": "2026-05-27 18:25:17",
+      "publication": "The Guardian",
+      "author": "William Christou",
+      "headline": "“It’s the West Bank”: Lebanese villagers describe life inside Israel’s “yellow line”",
+      "article_headline": "“It’s the West Bank”: Lebanese villagers describe life inside Israel’s “yellow line”"
+    },
+    {
+      "link": "https://apple.news/ABB1Kf9CjTY6KGCjWBu0H3Q",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-27 19:00:19",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Matthew Perry’s assistant gets more than 3 years in prison for his role in the actor’s death",
+      "article_headline": "Matthew Perry’s assistant gets more than 3 years in prison for his role in the actor’s death"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 19:00:19",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "A new, powerful cholesterol-lowering drug is on the horizon",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

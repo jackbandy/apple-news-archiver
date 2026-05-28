@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-27 23:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ARb3sUEsOQaGRgHPR_2-WCw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-27 23:20:16",
+      "pub_time": "2026-05-27 22:44:18",
+      "publication": "Reuters",
+      "author": "Phil Stewart, Trevor Hunnicutt, Enas Alashray, and Elwely Elwelly",
+      "headline": "U.S. strikes Iran again, after Trump denies deal on Strait of Hormuz",
+      "article_headline": "US strikes Iran again, official says, after Trump denies deal on Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AX6nvftlBRjqqG-sGFWDd2g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-27 23:20:16",
+      "pub_time": "2026-05-27 22:44:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah",
+      "article_headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah"
+    },
+    {
+      "link": "https://apple.news/Alh44tlgVQwmaepabLPRZSQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-27 23:20:16",
+      "pub_time": "2026-05-27 22:45:12",
+      "publication": "The Wall Street Journal",
+      "author": "Corinne Ramey and Sadie Gurman",
+      "headline": "Justice Department opens probe into Trump accuser E. Jean Carroll",
+      "article_headline": "Justice Department Opens Probe Into Trump Accuser E. Jean Carroll"
+    },
+    {
+      "link": "https://apple.news/AX6nvftlBRjqqG-sGFWDd2g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-27 23:20:16",
+      "pub_time": "2026-05-27 22:43:44",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah",
+      "article_headline": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah"
+    },
+    {
+      "link": "https://apple.news/Alh44tlgVQwmaepabLPRZSQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-27 23:20:16",
+      "pub_time": "2026-05-27 22:44:11",
+      "publication": "The Wall Street Journal",
+      "author": "Corinne Ramey and Sadie Gurman",
+      "headline": "Justice Department opens probe into Trump accuser E. Jean Carroll",
+      "article_headline": "Justice Department Opens Probe Into Trump Accuser E. Jean Carroll"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 23:20:16",
+      "pub_time": "2026-05-27 22:44:39",
+      "publication": "The Washington Post",
+      "author": "Laura Meckler",
+      "headline": "What happened when one university set out to purge “woke” classes",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-27 23:20:16",
+      "pub_time": "2026-05-27 22:43:44",
+      "publication": "The Washington Post",
+      "author": "Laura Meckler",
+      "headline": "What happened when one university set out to purge “woke” classes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
