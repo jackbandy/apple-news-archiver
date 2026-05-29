@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-05-28 21:40:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ANZhTvrweRuemmA2uLUlDcA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-28 21:40:21",
+      "pub_time": "2026-05-28 21:26:22",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe and Gerry Shih",
+      "headline": "U.S., Iran nearing deal to end war and reopen Strait of Hormuz",
+      "article_headline": "U.S., Iran nearing deal to end war and reopen Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AO4i5w9uHSamYB1NvA05jwQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-28 21:40:21",
+      "pub_time": "2026-05-28 21:26:51",
+      "publication": "The Guardian",
+      "author": "Seham Tantesh and Julian Borger",
+      "headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip",
+      "article_headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip"
+    },
+    {
+      "link": "https://apple.news/Af-8_iE4kQeKu8ik0ouXtjw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-28 21:40:21",
+      "pub_time": "2026-05-28 21:27:19",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Death toll from Washington chemical disaster climbs to 8; more expected",
+      "article_headline": "Death toll from Washington chemical disaster climbs to 8; more expected"
+    },
+    {
+      "link": "https://apple.news/AO4i5w9uHSamYB1NvA05jwQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-28 21:40:21",
+      "pub_time": "2026-05-28 21:26:51",
+      "publication": "The Guardian",
+      "author": "Seham Tantesh and Julian Borger",
+      "headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip",
+      "article_headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip"
+    },
+    {
+      "link": "https://apple.news/Af-8_iE4kQeKu8ik0ouXtjw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-28 21:40:21",
+      "pub_time": "2026-05-28 21:27:19",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Death toll from Washington chemical disaster climbs to 8; more expected",
+      "article_headline": "Death toll from Washington chemical disaster climbs to 8; more expected"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 21:40:21",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Anthropic rockets to $965 billion valuation, topping OpenAI in AI showdown",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AzDsAP4hWTeGioTelAvrTjA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-28 21:40:21",
+      "pub_time": "2026-05-28 21:26:52",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Shrey Parikh wins the Scripps National Spelling Bee, beating Ishaan Gupta in lightning round",
+      "article_headline": "Shrey Parikh wins the Scripps National Spelling Bee, beating Ishaan Gupta in lightning round"
+    },
+    {
+      "link": "https://apple.news/AjVutDtv4Qm6pvBkv5I0NBQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-28 21:40:21",
+      "pub_time": "2026-05-28 15:43:25",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Her father hoarded. When he died, she inherited his house.",
+      "article_headline": "Her father hoarded. When he died, she inherited his house."
+    },
+    {
+      "link": "https://apple.news/AZqvqmY2zSwemm5CocdqDpQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-28 21:40:21",
+      "pub_time": "2026-05-28 14:43:58",
+      "publication": "Complex",
+      "author": "tara mahadevan",
+      "headline": "Sugar Ray Leonard 'Scared' for His Family as He Seeks Restraining Order Against Son",
+      "article_headline": "Sugar Ray Leonard 'Scared' for His Family as He Seeks Restraining Order Against Son"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-28 21:40:21",
+      "pub_time": "2026-05-28 16:44:25",
+      "publication": "",
+      "author": "Emlyn Travis",
+      "headline": "Emily Blunt details painful bonding moment with Tom Cruise on 'Edge of Tomorrow' set: 'This f‑‑‑ing sucks'",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AeooEv7LRTu2t9n_p_dRxpg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-28 21:40:21",
+      "pub_time": "2026-05-28 14:44:25",
+      "publication": "BuzzFeed",
+      "author": "Liz Richardson",
+      "headline": "21 Awful Standards That Have Become “Normal” In Society, Even Though They Are Very, Very Toxic",
+      "article_headline": "21 Awful Standards That Have Become “Normal” In Society, Even Though They Are Very, Very Toxic"
+    }
+  ]
+}

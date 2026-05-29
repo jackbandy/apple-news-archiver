@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-28 21:20:20",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ANZhTvrweRuemmA2uLUlDcA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-28 21:20:20",
+      "pub_time": "2026-05-28 20:20:22",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe and Gerry Shih",
+      "headline": "U.S., Iran nearing deal to end war and reopen Strait of Hormuz",
+      "article_headline": "U.S., Iran nearing deal to end war and reopen Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AO4i5w9uHSamYB1NvA05jwQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-28 21:20:20",
+      "pub_time": "2026-05-28 20:20:50",
+      "publication": "The Guardian",
+      "author": "Seham Tantesh and Julian Borger",
+      "headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip",
+      "article_headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip"
+    },
+    {
+      "link": "https://apple.news/Af-8_iE4kQeKu8ik0ouXtjw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-28 21:20:20",
+      "pub_time": "2026-05-28 20:21:18",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Death toll expected to rise after chemical tank disaster",
+      "article_headline": "Death toll expected to rise after chemical tank disaster"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 21:20:20",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Anthropic rockets to $965 billion valuation, topping OpenAI in AI showdown",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ac_RRHcCXThWbc1g689i_9g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-28 21:20:20",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "FIFA’s World Cup ticket sales sparked outrage. Now FIFA is under investigation.",
+      "article_headline": "FIFA’s World Cup ticket sales sparked outrage. Now FIFA is under investigation."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 21:20:20",
+      "pub_time": "",
+      "publication": "Popular Mechanics",
+      "author": "",
+      "headline": "The breakthrough tech that could finally find the missing Malaysia Airlines flight, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aspc3cyWTTwGFr3KWSsgUkA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-28 21:20:20",
+      "pub_time": "",
+      "publication": "Block Club Chicago",
+      "author": "",
+      "headline": "Local News, Chicago, “Teen takeovers” revive Chicago debate over curfews and parental accountability",
+      "article_headline": "“Teen takeovers” revive Chicago debate over curfews and parental accountability"
+    }
+  ]
+}

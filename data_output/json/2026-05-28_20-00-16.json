@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-28 20:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ANZhTvrweRuemmA2uLUlDcA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-28 20:00:16",
+      "pub_time": "2026-05-28 19:00:18",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe and Gerry Shih",
+      "headline": "U.S., Iran nearing deal to end war and reopen Strait of Hormuz",
+      "article_headline": "U.S., Iran nearing deal to end war and reopen Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AO4i5w9uHSamYB1NvA05jwQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-28 20:00:16",
+      "pub_time": "2026-05-28 19:00:46",
+      "publication": "The Guardian",
+      "author": "Seham Tantesh and Julian Borger",
+      "headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip",
+      "article_headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 20:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Anthropic rockets to $965 billion valuation, topping OpenAI in AI showdown",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A0eLM7FiEQfOk0EboZUCeZA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-28 20:00:16",
+      "pub_time": "",
+      "publication": "KFF Health News",
+      "author": "",
+      "headline": "How a vaccine-skeptical California county stopped a measles outbreak from spreading",
+      "article_headline": "How a vaccine-skeptical California county stopped a measles outbreak from spreading"
+    },
+    {
+      "link": "https://apple.news/Ac_RRHcCXThWbc1g689i_9g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-28 20:00:16",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "FIFA’s World Cup ticket sales sparked outrage. Now FIFA is under investigation.",
+      "article_headline": "FIFA’s World Cup ticket sales sparked outrage. Now FIFA is under investigation."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 20:00:16",
+      "pub_time": "",
+      "publication": "Popular Mechanics",
+      "author": "",
+      "headline": "The breakthrough tech that could finally find the missing Malaysia Airlines flight, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AsEONgX2ITLakkfrba2G0XA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-28 20:00:16",
+      "pub_time": "2026-05-28 14:02:33",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Dennis Quaid files to stop $13K monthly child support payments",
+      "article_headline": "Dennis Quaid files to stop $13K monthly child support payments"
+    }
+  ]
+}

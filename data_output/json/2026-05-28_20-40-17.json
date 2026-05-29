@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-28 20:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ANZhTvrweRuemmA2uLUlDcA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-28 20:40:17",
+      "pub_time": "2026-05-28 20:01:18",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe and Gerry Shih",
+      "headline": "U.S., Iran nearing deal to end war and reopen Strait of Hormuz",
+      "article_headline": "U.S., Iran nearing deal to end war and reopen Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AO4i5w9uHSamYB1NvA05jwQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-28 20:40:17",
+      "pub_time": "2026-05-28 20:01:46",
+      "publication": "The Guardian",
+      "author": "Seham Tantesh and Julian Borger",
+      "headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip",
+      "article_headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip"
+    },
+    {
+      "link": "https://apple.news/Af-8_iE4kQeKu8ik0ouXtjw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-28 20:40:17",
+      "pub_time": "2026-05-28 20:02:15",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Death toll from Washington chemical disaster climbs to 8; more expected",
+      "article_headline": "Death toll from Washington chemical disaster climbs to 8; more expected"
+    },
+    {
+      "link": "https://apple.news/AO4i5w9uHSamYB1NvA05jwQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-28 20:40:17",
+      "pub_time": "2026-05-28 20:01:47",
+      "publication": "The Guardian",
+      "author": "Seham Tantesh and Julian Borger",
+      "headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip",
+      "article_headline": "Netanyahu orders Israeli army to seize 70% of Gaza Strip"
+    },
+    {
+      "link": "https://apple.news/Af-8_iE4kQeKu8ik0ouXtjw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-28 20:40:17",
+      "pub_time": "2026-05-28 20:02:15",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Death toll from Washington chemical disaster climbs to 8; more expected",
+      "article_headline": "Death toll from Washington chemical disaster climbs to 8; more expected"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-28 20:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Anthropic rockets to $965 billion valuation, topping OpenAI in AI showdown",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ac_RRHcCXThWbc1g689i_9g",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-28 20:40:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "FIFA’s World Cup ticket sales sparked outrage. Now FIFA is under investigation.",
+      "article_headline": "FIFA’s World Cup ticket sales sparked outrage. Now FIFA is under investigation."
+    }
+  ]
+}
