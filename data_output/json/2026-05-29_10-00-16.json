@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-05-29 10:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A1W9uju9wT_mE1JwxXrWkFw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-29 10:00:16",
+      "pub_time": "2026-05-29 09:14:17",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Negotiators reach Iran deal but Trump, Tehran must still sign off",
+      "article_headline": "Negotiators reach Iran deal but Trump, Tehran must still sign off"
+    },
+    {
+      "link": "https://apple.news/A-_y87WXvQ4C65PmprZEuMQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-29 10:00:16",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Judge temporarily blocks Justice Department work on “anti-weaponization” fund",
+      "article_headline": "Judge temporarily blocks Justice Department work on “anti-weaponization” fund"
+    },
+    {
+      "link": "https://apple.news/A3w66AA_xS42X-ObFlbkwMw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-29 10:00:16",
+      "pub_time": "2026-05-29 09:13:18",
+      "publication": "Fox News",
+      "author": "Adam Pack",
+      "headline": "Former AG Pam Bondi to be grilled on Epstein files",
+      "article_headline": "Former AG Pam Bondi to be grilled on Epstein files"
+    },
+    {
+      "link": "https://apple.news/AL48g9DYZQVuSHRU2xPeLBw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-29 10:00:16",
+      "pub_time": "2026-05-29 09:13:46",
+      "publication": "ABC News",
+      "author": "Jon Haworth",
+      "headline": "Kenyan court temporarily halts U.S. Ebola quarantine facility plan",
+      "article_headline": "Kenyan court temporarily halts U.S. Ebola quarantine facility plan"
+    },
+    {
+      "link": "https://apple.news/A3w66AA_xS42X-ObFlbkwMw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-29 10:00:16",
+      "pub_time": "2026-05-29 09:13:19",
+      "publication": "Fox News",
+      "author": "Adam Pack",
+      "headline": "Former AG Pam Bondi to be grilled on Epstein files",
+      "article_headline": "Former AG Pam Bondi to be grilled on Epstein files"
+    },
+    {
+      "link": "https://apple.news/AL48g9DYZQVuSHRU2xPeLBw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-29 10:00:16",
+      "pub_time": "2026-05-29 09:13:47",
+      "publication": "ABC News",
+      "author": "Jon Haworth",
+      "headline": "Kenyan court temporarily halts U.S. Ebola quarantine facility plan",
+      "article_headline": "Kenyan court temporarily halts U.S. Ebola quarantine facility plan"
+    },
+    {
+      "link": "https://apple.news/AQT-GM9mnRK2Syx2oDZHF_w",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-29 10:00:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Blue Origin rocket explodes on launchpad in a setback for bid to catch up to SpaceX",
+      "article_headline": "Blue Origin rocket explodes on launchpad in a setback for bid to catch Musk's SpaceX"
+    }
+  ]
+}

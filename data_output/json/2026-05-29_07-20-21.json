@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-29 07:20:21",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AjdSLWdXUSOG47VyM2JCmLw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-29 07:20:21",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "U.S. and Iran have the “makings of a deal,” Bessent says",
+      "article_headline": "U.S. and Iran have the “makings of a deal,” Bessent says"
+    },
+    {
+      "link": "https://apple.news/AoQRhANmzS72H0X-GsZSNCg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-29 07:20:21",
+      "pub_time": "2026-05-29 06:20:50",
+      "publication": "Reuters",
+      "author": "George Calin, Luiza Ilie, and Jekaterina Golubkova",
+      "headline": "NATO member Romania says Russian drone hit an apartment block, injuring 2",
+      "article_headline": "NATO member Romania says Russian drone hit an apartment block, injuring 2"
+    },
+    {
+      "link": "https://apple.news/AGudV-OGNR1qeU3KCljDj_w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-29 07:20:21",
+      "pub_time": "2026-05-29 06:21:17",
+      "publication": "POLITICO",
+      "author": "Hailey Fuchs",
+      "headline": "Pam Bondi is set for another Hill grilling — but not the one some lawmakers hoped for",
+      "article_headline": "Pam Bondi is set for another Hill grilling — but not the one some lawmakers hoped for"
+    },
+    {
+      "link": "https://apple.news/AFixLeCTURg6ppXM9USVHwA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-29 07:20:21",
+      "pub_time": "2026-05-29 06:21:50",
+      "publication": "NBC News",
+      "author": "Shiv Sudhakar, M.D.",
+      "headline": "Vomiting virus is spreading across most of the U.S.",
+      "article_headline": "Vomiting virus is spreading across most of the U.S."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-29 07:20:21",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Why Paris Saint-Germain may have a crucial edge over Arsenal in European final",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-29 07:20:21",
+      "pub_time": "2026-05-29 06:22:23",
+      "publication": "The Washington Post",
+      "author": "Victoria Craw and Hannah Sampson",
+      "headline": "Cruise ships are perfect breeding ground for viruses, but we can’t get enough",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-29 07:20:21",
+      "pub_time": "",
+      "publication": "Meet the Iranian hard-liner shaping the peace deal with the U.S.",
+      "author": "",
+      "headline": "Listen to today’s top stories.,  Play Now  13 min",
+      "article_headline": ""
+    }
+  ]
+}
