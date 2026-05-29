@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-29 02:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AEc-h3qaMTiOpBiPnHLFCJg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-29 02:00:16",
+      "pub_time": "2026-05-29 01:00:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. and Iranian negotiators reach tentative deal to extend ceasefire and start new nuclear talks",
+      "article_headline": "U.S. and Iranian negotiators reach tentative deal to extend ceasefire and start new nuclear talks"
+    },
+    {
+      "link": "https://apple.news/Ad7tHwp7YS5alan4ReUyzNQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-29 02:00:16",
+      "pub_time": "2026-05-29 01:00:45",
+      "publication": "NBC News",
+      "author": "Phil Helsel",
+      "headline": "6 bodies recovered from Washington paper mill as effort to dilute contaminated water is underway",
+      "article_headline": "6 bodies recovered from Washington paper mill as effort to dilute contaminated water is underway"
+    },
+    {
+      "link": "https://apple.news/Aqxo_0j3TRbebWaKR7B0P1w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-29 02:00:16",
+      "pub_time": "2026-05-29 01:01:13",
+      "publication": "The Washington Post",
+      "author": "Faiz Siddiqui",
+      "headline": "Blue Origin rocket explodes ahead of launch, in major setback for space company",
+      "article_headline": "Blue Origin rocket explodes ahead of launch, in major setback for space company"
+    },
+    {
+      "link": "https://apple.news/Ad7tHwp7YS5alan4ReUyzNQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-29 02:00:16",
+      "pub_time": "2026-05-29 00:01:46",
+      "publication": "NBC News",
+      "author": "Phil Helsel",
+      "headline": "6 bodies recovered from Washington paper mill as effort to dilute contaminated water is underway",
+      "article_headline": "6 bodies recovered from Washington paper mill as effort to dilute contaminated water is underway"
+    },
+    {
+      "link": "https://apple.news/Aqxo_0j3TRbebWaKR7B0P1w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-29 02:00:16",
+      "pub_time": "2026-05-29 00:02:13",
+      "publication": "The Washington Post",
+      "author": "Faiz Siddiqui",
+      "headline": "Blue Origin rocket explodes ahead of launch, in major setback for space company",
+      "article_headline": "Blue Origin rocket explodes ahead of launch, in major setback for space company"
+    },
+    {
+      "link": "https://apple.news/ANyObaNtJSCOa1-ymRyNkjg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-29 02:00:16",
+      "pub_time": "2026-05-29 00:02:41",
+      "publication": "Reuters",
+      "author": "Daniel Trotta",
+      "headline": "California teen wins National Spelling Bee with “bromocriptine”",
+      "article_headline": "California teen wins National Spelling Bee with “bromocriptine”"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-29 02:00:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Victor Wembanyama dominates as Spurs beat Thunder to force highly-anticipated Game 7",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

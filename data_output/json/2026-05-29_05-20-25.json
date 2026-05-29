@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-29 05:20:25",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AjdSLWdXUSOG47VyM2JCmLw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-29 05:20:25",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "U.S. and Iran have the “makings of a deal,” Bessent says",
+      "article_headline": "U.S. and Iran have the “makings of a deal,” Bessent says"
+    },
+    {
+      "link": "https://apple.news/AoQRhANmzS72H0X-GsZSNCg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-29 05:20:25",
+      "pub_time": "2026-05-29 05:08:56",
+      "publication": "Reuters",
+      "author": "George Calin, Luiza Ilie, and Jekaterina Golubkova",
+      "headline": "NATO member Romania says Russian drone hit an apartment block, injuring 2",
+      "article_headline": "NATO member Romania says Russian drone hit an apartment block, injuring 2"
+    },
+    {
+      "link": "https://apple.news/Aqxo_0j3TRbebWaKR7B0P1w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-29 05:20:25",
+      "pub_time": "2026-05-29 05:09:23",
+      "publication": "The Washington Post",
+      "author": "Faiz Siddiqui",
+      "headline": "Blue Origin rocket explodes ahead of launch, in major setback for space company",
+      "article_headline": "Blue Origin rocket explodes ahead of launch, in major setback for space company"
+    },
+    {
+      "link": "https://apple.news/AoQRhANmzS72H0X-GsZSNCg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-29 05:20:25",
+      "pub_time": "2026-05-29 05:08:57",
+      "publication": "Reuters",
+      "author": "George Calin, Luiza Ilie, and Jekaterina Golubkova",
+      "headline": "NATO member Romania says Russian drone hit an apartment block, injuring 2",
+      "article_headline": "NATO member Romania says Russian drone hit an apartment block, injuring 2"
+    },
+    {
+      "link": "https://apple.news/Aqxo_0j3TRbebWaKR7B0P1w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-29 05:20:25",
+      "pub_time": "2026-05-29 05:09:23",
+      "publication": "The Washington Post",
+      "author": "Faiz Siddiqui",
+      "headline": "Blue Origin rocket explodes ahead of launch, in major setback for space company",
+      "article_headline": "Blue Origin rocket explodes ahead of launch, in major setback for space company"
+    },
+    {
+      "link": "https://apple.news/Ad7tHwp7YS5alan4ReUyzNQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-29 05:20:25",
+      "pub_time": "2026-05-29 05:09:51",
+      "publication": "NBC News",
+      "author": "Phil Helsel",
+      "headline": "6 bodies recovered after paper mill implosion as effort to dilute contaminated water is underway",
+      "article_headline": "6 bodies recovered after paper mill implosion as effort to dilute contaminated water is underway"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-29 05:20:25",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Why Paris Saint-Germain may have a crucial edge over Arsenal in European final",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
