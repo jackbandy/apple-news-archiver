@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-30 05:00:19",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AVVo_XK47Qza1YHFfTgTZLw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-30 05:00:19",
+      "pub_time": "2026-05-30 01:00:21",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk, Katharine Jackson, Parisa Hafezi, and Yomna Ehab",
+      "headline": "Trump says he will soon decide on Iran deal, demands reopening of Hormuz Strait",
+      "article_headline": "Trump says he will soon decide on Iran deal, demands reopening of Hormuz Strait"
+    },
+    {
+      "link": "https://apple.news/A2roq1waMQISgjagRQIjR-w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-30 05:00:19",
+      "pub_time": "2026-05-30 01:00:48",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "War and displacement in Gaza are fueling a rise in early marriage",
+      "article_headline": "War and displacement in Gaza are fueling a rise in early marriage"
+    },
+    {
+      "link": "https://apple.news/Azuc28KFEQVqEHR60hijQIg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-30 05:00:19",
+      "pub_time": "2026-05-30 01:01:15",
+      "publication": "Los Angeles Times",
+      "author": "Brittny Mejia and Rebecca Ellis",
+      "headline": "Former California mayor pleads guilty to secretly working as foreign agent of China",
+      "article_headline": "Former California mayor pleads guilty to secretly working as foreign agent of China"
+    },
+    {
+      "link": "https://apple.news/AGMDfH-ZVTreMILEibOlNlw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-30 05:00:19",
+      "pub_time": "2026-05-30 01:01:48",
+      "publication": "The 19th News",
+      "author": "Jasmine Mithani and Mariel Padilla",
+      "headline": "No one to answer the phone: What a missing $150 million means for domestic violence services",
+      "article_headline": "No one to answer the phone: What a missing $150 million means for domestic violence services"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-30 05:00:19",
+      "pub_time": "2026-05-30 01:02:16",
+      "publication": "The Wall Street Journal",
+      "author": "Aylin Woodward",
+      "headline": "A day on Earth is getting longer as the planet’s rotation slows",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-30 05:00:19",
+      "pub_time": "2026-05-30 01:02:21",
+      "publication": "Bloomberg Businessweek",
+      "author": "Jonathan Franklin",
+      "headline": "The life and grisly death of a sports-memorabilia forger",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AmxPkbxeASeSiHoG-FkJxMg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-30 05:00:19",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Bears stadium bill, Illinois budget in the balance as Springfield session winds down",
+      "article_headline": "Bears stadium bill, Illinois budget in the balance as Springfield session winds down"
+    },
+    {
+      "link": "https://apple.news/AV1l-bRe4QdemAXWVPHxBSQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-30 05:00:19",
+      "pub_time": "2026-05-29 09:03:39",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "Snack Lovers Stunned When They Learn What Flavour Biscoff Is",
+      "article_headline": "Snack Lovers Stunned When They Learn What Flavour Biscoff Is"
+    },
+    {
+      "link": "https://apple.news/AQoOTlpNzTqymIjxvcv491Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-30 05:00:19",
+      "pub_time": "2026-05-29 16:04:06",
+      "publication": "Inc.",
+      "author": "CHLOE AIELLO",
+      "headline": "Why You Need to Stop Using Passwords and Switch to This Secure Alternative Now",
+      "article_headline": "Why You Need to Stop Using Passwords and Switch to This Secure Alternative Now"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-30 05:00:19",
+      "pub_time": "2026-05-29 13:04:33",
+      "publication": "",
+      "author": "Eve Fairbanks",
+      "headline": "The Biggest Tell That Something Was Written By AI",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AHUZgCb3rSv2QjnKb591XGQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-30 05:00:19",
+      "pub_time": "2026-05-29 19:04:40",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Supplements sold via Amazon, Walmart, Target, more recalled. See products",
+      "article_headline": "Supplements sold via Amazon, Walmart, Target, more recalled. See products"
+    }
+  ]
+}

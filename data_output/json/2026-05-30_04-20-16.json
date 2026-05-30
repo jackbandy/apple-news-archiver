@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-05-30 04:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AVVo_XK47Qza1YHFfTgTZLw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-30 04:20:16",
+      "pub_time": "2026-05-30 00:20:18",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk, Katharine Jackson, Parisa Hafezi, and Yomna Ehab",
+      "headline": "Trump says he will soon decide on Iran deal, demands reopening of Hormuz Strait",
+      "article_headline": "Trump says he will soon decide on Iran deal, demands reopening of Hormuz Strait"
+    },
+    {
+      "link": "https://apple.news/A2roq1waMQISgjagRQIjR-w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-30 04:20:16",
+      "pub_time": "2026-05-30 00:20:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "War and displacement in Gaza are fueling a rise in early marriage",
+      "article_headline": "War and displacement in Gaza are fueling a rise in early marriage"
+    },
+    {
+      "link": "https://apple.news/Azuc28KFEQVqEHR60hijQIg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-30 04:20:16",
+      "pub_time": "2026-05-30 00:21:12",
+      "publication": "Los Angeles Times",
+      "author": "Brittny Mejia and Rebecca Ellis",
+      "headline": "Former California mayor pleads guilty to secretly working as foreign agent of China",
+      "article_headline": "Former California mayor pleads guilty to secretly working as foreign agent of China"
+    },
+    {
+      "link": "https://apple.news/AGMDfH-ZVTreMILEibOlNlw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-30 04:20:16",
+      "pub_time": "2026-05-30 00:21:45",
+      "publication": "The 19th News",
+      "author": "Jasmine Mithani and Mariel Padilla",
+      "headline": "No one to answer the phone: What a missing $150 million means for domestic violence services",
+      "article_headline": "No one to answer the phone: What a missing $150 million means for domestic violence services"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-30 04:20:16",
+      "pub_time": "2026-05-30 00:22:18",
+      "publication": "The Wall Street Journal",
+      "author": "Aylin Woodward",
+      "headline": "A day on Earth is getting longer as the planet’s rotation slows",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-30 04:20:16",
+      "pub_time": "2026-05-30 00:22:18",
+      "publication": "Bloomberg Businessweek",
+      "author": "Jonathan Franklin",
+      "headline": "The life and grisly death of a sports-memorabilia forger",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-30 04:20:16",
+      "pub_time": "2026-05-30 04:00:33",
+      "publication": "The Washington Post",
+      "author": "Kyle Melnick",
+      "headline": "Cats could help scientists better understand human cancer, study says",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AV1l-bRe4QdemAXWVPHxBSQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-30 04:20:16",
+      "pub_time": "2026-05-29 08:23:06",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "Snack Lovers Stunned When They Learn What Flavour Biscoff Is",
+      "article_headline": "Snack Lovers Stunned When They Learn What Flavour Biscoff Is"
+    },
+    {
+      "link": "https://apple.news/AGwW4X0C3QKSUJKA6C9r14w",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-30 04:20:16",
+      "pub_time": "2026-05-29 21:23:33",
+      "publication": "Parents",
+      "author": "Anna Halkidis",
+      "headline": "Mom Leaves 18-Year-Old Home Alone To Go On Her Honeymoon—and His School Has Questions",
+      "article_headline": "Mom Leaves 18-Year-Old Home Alone To Go On Her Honeymoon—and His School Has Questions"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-30 04:20:16",
+      "pub_time": "2026-05-29 12:24:00",
+      "publication": "",
+      "author": "Eve Fairbanks",
+      "headline": "The Biggest Tell That Something Was Written By AI",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AQoOTlpNzTqymIjxvcv491Q",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-30 04:20:16",
+      "pub_time": "2026-05-29 15:24:07",
+      "publication": "Inc.",
+      "author": "CHLOE AIELLO",
+      "headline": "Why You Need to Stop Using Passwords and Switch to This Secure Alternative Now",
+      "article_headline": "Why You Need to Stop Using Passwords and Switch to This Secure Alternative Now"
+    }
+  ]
+}
