@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-30 08:40:22",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AeRIH8OLPQwiabjW2nJx1Zw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-30 08:40:22",
+      "pub_time": "2026-05-30 07:40:24",
+      "publication": "The Wall Street Journal",
+      "author": "C. Ryan Barber, Josh Dawsey, and Sadie Gurman",
+      "headline": "Trump’s $1.8 billion settlement fund sparks alarm inside White House",
+      "article_headline": "Trump’s $1.8 billion settlement fund sparks alarm inside White House"
+    },
+    {
+      "link": "https://apple.news/ARKNHv7bMR0S_TWCbnxhOiA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-30 08:40:22",
+      "pub_time": "2026-05-30 07:40:51",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "WHO chief lands in eastern Congo’s Ituri province, epicenter of Ebola, as outbreak outpaces response",
+      "article_headline": "WHO chief lands in eastern Congo’s Ituri province, epicenter of Ebola, as outbreak outpaces response"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-30 08:40:22",
+      "pub_time": "2026-05-30 07:41:24",
+      "publication": "The Atlantic",
+      "author": "Janay Kingsberry",
+      "headline": "The Kennedy Center enters the unknown",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AGMDfH-ZVTreMILEibOlNlw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-30 08:40:22",
+      "pub_time": "2026-05-30 07:41:24",
+      "publication": "The 19th News",
+      "author": "Jasmine Mithani and Mariel Padilla",
+      "headline": "No one to answer the phone: What a missing $150 million means for domestic violence services",
+      "article_headline": "No one to answer the phone: What a missing $150 million means for domestic violence services"
+    },
+    {
+      "link": "https://apple.news/AGMDfH-ZVTreMILEibOlNlw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-30 08:40:22",
+      "pub_time": "2026-05-30 07:41:51",
+      "publication": "NPR",
+      "author": "Joe Hernandez",
+      "headline": "Why the U.S. cattle herd is at a 75-year low — and what it means for beef prices",
+      "article_headline": "No one to answer the phone: What a missing $150 million means for domestic violence services"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-30 08:40:22",
+      "pub_time": "2026-05-30 07:42:25",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Parents are fuming about other peoples’ kids getting extra time on the SAT",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ATxiPr_NQQgC0pw804qKXaQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-30 08:40:22",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Red Line subway closing for first of 4 weekends of repairs",
+      "article_headline": "Red Line subway closing for first of 4 weekends of repairs"
+    }
+  ]
+}
