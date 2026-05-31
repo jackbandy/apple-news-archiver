@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-30 20:40:23",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AHpVLoKliTU-daEiq8nzyaQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-30 20:40:23",
+      "pub_time": "2026-05-30 19:40:25",
+      "publication": "CalMatters",
+      "author": "",
+      "headline": "A chemical tank nearly exploded. Did California’s regulators miss the signs?",
+      "article_headline": "A chemical tank nearly exploded. Did California’s regulators miss the signs?"
+    },
+    {
+      "link": "https://apple.news/AMYFdEFxuR6Sr4mc9EXoRQg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-30 20:40:23",
+      "pub_time": "2026-05-30 19:40:52",
+      "publication": "The Washington Post",
+      "author": "Natalie Allison",
+      "headline": "Trump to headline Great American State Fair after music acts cancel",
+      "article_headline": "Trump to headline Great American State Fair after music acts cancel"
+    },
+    {
+      "link": "https://apple.news/AmQ5ADe1gRK-EB_fuqw_kZA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-30 20:40:23",
+      "pub_time": "2026-05-30 19:41:20",
+      "publication": "Stateline",
+      "author": "Robbie Sequeira",
+      "headline": "More cities are pressing pause on data centers as local backlash grows",
+      "article_headline": "More cities are pressing pause on data centers as local backlash grows"
+    },
+    {
+      "link": "https://apple.news/AAnN1-w6WTA-7WgmwiC3vbw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-30 20:40:23",
+      "pub_time": "2026-05-30 19:41:53",
+      "publication": "National Geographic",
+      "author": "Stefanie Waldek",
+      "headline": "A rare blue “micromoon” is rising at the end of May",
+      "article_headline": "A rare blue ‘micromoon’ is rising at the end of May"
+    },
+    {
+      "link": "https://apple.news/AvCVv0CasSU-5lq5pWQ2rqQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-30 20:40:23",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Live updates: Spurs face Thunder in Game 7 for a spot in the NBA Finals",
+      "article_headline": "Spurs vs. Thunder score, live updates: San Antonio clings to second-half lead over OKC in Game 7 battle of NBA playoffs"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-30 20:40:23",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "Mark Zuckerberg is transforming rural Louisiana with a massive, secretive project, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ApYNxpPTLR9SgwykQIn1P2w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-30 20:40:23",
+      "pub_time": "",
+      "publication": "Block Club Chicago",
+      "author": "",
+      "headline": "Local News, Chicago, Trump Tower lands its first riverfront retail tenant after 17 years of vacancy",
+      "article_headline": "Trump Tower lands its first riverfront retail tenant after 17 years of vacancy"
+    }
+  ]
+}

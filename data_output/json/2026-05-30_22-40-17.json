@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-30 22:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A0zJPztc9Q6uPD-a92Zs5-g",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-30 22:40:17",
+      "pub_time": "2026-05-30 22:18:19",
+      "publication": "CBS News",
+      "author": "Camilo Montoya-Galvez",
+      "headline": "Trump administration appears to downplay impact of green card policy changes",
+      "article_headline": "Trump administration appears to downplay impact of green card policy changes"
+    },
+    {
+      "link": "https://apple.news/AMYFdEFxuR6Sr4mc9EXoRQg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-30 22:40:17",
+      "pub_time": "2026-05-30 22:18:47",
+      "publication": "The Washington Post",
+      "author": "Natalie Allison",
+      "headline": "Trump to headline Great American State Fair after music acts cancel",
+      "article_headline": "Trump to headline Great American State Fair after music acts cancel"
+    },
+    {
+      "link": "https://apple.news/AGnKftW8vQ-C_f9XvHqu2jA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-30 22:40:17",
+      "pub_time": "2026-05-30 22:19:14",
+      "publication": "The Texas Tribune",
+      "author": "Alex Nguyen",
+      "headline": "ICE sued over “inhumane” conditions at Camp East Montana in West Texas",
+      "article_headline": "ICE sued over “inhumane” conditions at Camp East Montana in West Texas"
+    },
+    {
+      "link": "https://apple.news/AMYFdEFxuR6Sr4mc9EXoRQg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-30 22:40:17",
+      "pub_time": "2026-05-30 22:18:47",
+      "publication": "The Washington Post",
+      "author": "Natalie Allison",
+      "headline": "Trump to headline Great American State Fair after music acts cancel",
+      "article_headline": "Trump to headline Great American State Fair after music acts cancel"
+    },
+    {
+      "link": "https://apple.news/AGnKftW8vQ-C_f9XvHqu2jA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-30 22:40:17",
+      "pub_time": "2026-05-30 22:19:15",
+      "publication": "The Texas Tribune",
+      "author": "Alex Nguyen",
+      "headline": "ICE sued over “inhumane” conditions at Camp East Montana in West Texas",
+      "article_headline": "ICE sued over “inhumane” conditions at Camp East Montana in West Texas"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-30 22:40:17",
+      "pub_time": "2026-05-30 22:18:42",
+      "publication": "MassLive.com",
+      "author": "",
+      "headline": "A startling “boom” rattled homes across the Boston area — and a meteor exploding over the ocean is likely why",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-30 22:40:17",
+      "pub_time": "2026-05-30 22:17:48",
+      "publication": "MassLive.com",
+      "author": "",
+      "headline": "A startling “boom” rattled homes across the Boston area — and a meteor exploding over the ocean is likely why",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

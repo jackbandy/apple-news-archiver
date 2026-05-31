@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-05-30 20:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AHpVLoKliTU-daEiq8nzyaQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-30 20:20:16",
+      "pub_time": "2026-05-30 19:20:18",
+      "publication": "CalMatters",
+      "author": "",
+      "headline": "A chemical tank nearly exploded. Did California’s regulators miss the signs?",
+      "article_headline": "A chemical tank nearly exploded. Did California’s regulators miss the signs?"
+    },
+    {
+      "link": "https://apple.news/AMYFdEFxuR6Sr4mc9EXoRQg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-30 20:20:16",
+      "pub_time": "2026-05-30 19:20:46",
+      "publication": "The Washington Post",
+      "author": "Natalie Allison",
+      "headline": "Trump to headline Great American State Fair after music acts cancel",
+      "article_headline": "Trump to headline Great American State Fair after music acts cancel"
+    },
+    {
+      "link": "https://apple.news/AmQ5ADe1gRK-EB_fuqw_kZA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-30 20:20:16",
+      "pub_time": "2026-05-30 19:21:13",
+      "publication": "Stateline",
+      "author": "Robbie Sequeira",
+      "headline": "More cities are pressing pause on data centers as local backlash grows",
+      "article_headline": "More cities are pressing pause on data centers as local backlash grows"
+    },
+    {
+      "link": "https://apple.news/AAnN1-w6WTA-7WgmwiC3vbw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-30 20:20:16",
+      "pub_time": "2026-05-30 19:21:46",
+      "publication": "National Geographic",
+      "author": "Stefanie Waldek",
+      "headline": "A rare blue “micromoon” is rising at the end of May",
+      "article_headline": "A rare blue ‘micromoon’ is rising at the end of May"
+    },
+    {
+      "link": "https://apple.news/AvCVv0CasSU-5lq5pWQ2rqQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-30 20:20:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Live updates: Spurs face Thunder in Game 7 for a spot in the NBA Finals",
+      "article_headline": "Spurs vs. Thunder score, live updates: San Antonio, OKC locked in tight Game 7 battle with Finals berth on the line"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-30 20:20:16",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "Mark Zuckerberg is transforming rural Louisiana with a massive, secretive project, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A-QgAGQS7Rr-asTVxQGIU5w",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-30 20:20:16",
+      "pub_time": "",
+      "publication": "How to travel when everything costs more",
+      "author": "",
+      "headline": "And what to know about the forces driving up prices.,  Play Now  21 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ATtgy7J6YSXaYdE8paiurHA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-30 20:20:16",
+      "pub_time": "2026-05-30 12:24:00",
+      "publication": "The Guardian",
+      "author": "Andrew Gregory",
+      "headline": "Cancer jab can eradicate entire tumours in patients, trial shows",
+      "article_headline": "Cancer jab can eradicate entire tumours in patients, trial shows"
+    },
+    {
+      "link": "https://apple.news/AVTXm9v0vSi-TadCBiVGKEw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-30 20:20:16",
+      "pub_time": "2026-05-30 14:24:34",
+      "publication": "BuzzFeed",
+      "author": "Ajani Bazile-Dutes",
+      "headline": "People Are Sharing The Everyday Things People Do That They Don’t Realize Are Actually Extremely Rude, And Please Take Notes",
+      "article_headline": "People Are Sharing The Everyday Things People Do That They Don’t Realize Are Actually Extremely Rude, And Please Take Notes"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-30 20:20:16",
+      "pub_time": "2026-05-29 20:25:01",
+      "publication": "",
+      "author": "Eve Fairbanks",
+      "headline": "The Biggest Tell That Something Was Written By AI",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A-nvZAZvzR12az79cPdUwOw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-30 20:20:16",
+      "pub_time": "2026-05-30 18:25:01",
+      "publication": "Major League Baseball",
+      "author": "Adam Berry",
+      "headline": "3 ejections before first pitch? They stood for the anthem ... and stayed standing",
+      "article_headline": "3 ejections before first pitch? They stood for the anthem ... and stayed standing"
+    }
+  ]
+}

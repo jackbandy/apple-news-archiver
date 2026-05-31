@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-05-30 19:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AHpVLoKliTU-daEiq8nzyaQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-30 19:20:16",
+      "pub_time": "2026-05-30 18:57:18",
+      "publication": "CalMatters",
+      "author": "",
+      "headline": "A chemical tank nearly exploded. Did California’s regulators miss the signs?",
+      "article_headline": "A chemical tank nearly exploded. Did California’s regulators miss the signs?"
+    },
+    {
+      "link": "https://apple.news/AMYFdEFxuR6Sr4mc9EXoRQg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-30 19:20:16",
+      "pub_time": "2026-05-30 18:57:45",
+      "publication": "The Washington Post",
+      "author": "Natalie Allison",
+      "headline": "Trump to headline Great American State Fair after music acts cancel",
+      "article_headline": "Trump to headline Great American State Fair after music acts cancel"
+    },
+    {
+      "link": "https://apple.news/AmQ5ADe1gRK-EB_fuqw_kZA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-30 19:20:16",
+      "pub_time": "2026-05-30 18:58:13",
+      "publication": "Stateline",
+      "author": "Robbie Sequeira",
+      "headline": "More cities are pressing pause on data centers as local backlash grows",
+      "article_headline": "More cities are pressing pause on data centers as local backlash grows"
+    },
+    {
+      "link": "https://apple.news/AMYFdEFxuR6Sr4mc9EXoRQg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-30 19:20:16",
+      "pub_time": "2026-05-30 18:57:45",
+      "publication": "The Washington Post",
+      "author": "Natalie Allison",
+      "headline": "Trump to headline Great American State Fair after music acts cancel",
+      "article_headline": "Trump to headline Great American State Fair after music acts cancel"
+    },
+    {
+      "link": "https://apple.news/AmQ5ADe1gRK-EB_fuqw_kZA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-30 19:20:16",
+      "pub_time": "2026-05-30 18:58:13",
+      "publication": "Stateline",
+      "author": "Robbie Sequeira",
+      "headline": "More cities are pressing pause on data centers as local backlash grows",
+      "article_headline": "More cities are pressing pause on data centers as local backlash grows"
+    },
+    {
+      "link": "https://apple.news/AAnN1-w6WTA-7WgmwiC3vbw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-30 19:20:16",
+      "pub_time": "2026-05-30 18:57:40",
+      "publication": "National Geographic",
+      "author": "Stefanie Waldek",
+      "headline": "A rare blue “micromoon” is rising at the end of May",
+      "article_headline": "A rare blue ‘micromoon’ is rising at the end of May"
+    },
+    {
+      "link": "https://apple.news/AAnN1-w6WTA-7WgmwiC3vbw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-05-30 19:20:16",
+      "pub_time": "2026-05-30 18:57:18",
+      "publication": "National Geographic",
+      "author": "Stefanie Waldek",
+      "headline": "A rare blue “micromoon” is rising at the end of May",
+      "article_headline": "A rare blue ‘micromoon’ is rising at the end of May"
+    }
+  ]
+}

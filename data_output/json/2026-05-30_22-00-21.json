@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-30 22:00:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A0zJPztc9Q6uPD-a92Zs5-g",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-30 22:00:21",
+      "pub_time": "2026-05-30 21:57:22",
+      "publication": "CBS News",
+      "author": "Camilo Montoya-Galvez",
+      "headline": "Trump administration appears to downplay impact of green card policy changes",
+      "article_headline": "Trump administration appears to downplay impact of green card policy changes"
+    },
+    {
+      "link": "https://apple.news/AMYFdEFxuR6Sr4mc9EXoRQg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-30 22:00:21",
+      "pub_time": "2026-05-30 21:57:51",
+      "publication": "The Washington Post",
+      "author": "Natalie Allison",
+      "headline": "Trump to headline Great American State Fair after music acts cancel",
+      "article_headline": "Trump to headline Great American State Fair after music acts cancel"
+    },
+    {
+      "link": "https://apple.news/AGnKftW8vQ-C_f9XvHqu2jA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-30 22:00:21",
+      "pub_time": "2026-05-30 21:58:18",
+      "publication": "The Texas Tribune",
+      "author": "Alex Nguyen",
+      "headline": "ICE sued over “inhumane” conditions at Camp East Montana in West Texas",
+      "article_headline": "ICE sued over “inhumane” conditions at Camp East Montana in West Texas"
+    },
+    {
+      "link": "https://apple.news/AMYFdEFxuR6Sr4mc9EXoRQg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-30 22:00:21",
+      "pub_time": "2026-05-30 21:57:52",
+      "publication": "The Washington Post",
+      "author": "Natalie Allison",
+      "headline": "Trump to headline Great American State Fair after music acts cancel",
+      "article_headline": "Trump to headline Great American State Fair after music acts cancel"
+    },
+    {
+      "link": "https://apple.news/AGnKftW8vQ-C_f9XvHqu2jA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-30 22:00:21",
+      "pub_time": "2026-05-30 21:58:20",
+      "publication": "The Texas Tribune",
+      "author": "Alex Nguyen",
+      "headline": "ICE sued over “inhumane” conditions at Camp East Montana in West Texas",
+      "article_headline": "ICE sued over “inhumane” conditions at Camp East Montana in West Texas"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-30 22:00:21",
+      "pub_time": "2026-05-30 21:57:47",
+      "publication": "MassLive.com",
+      "author": "",
+      "headline": "A startling “boom” rattled homes across the Boston area — and a meteor exploding over the ocean is likely why",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-30 22:00:21",
+      "pub_time": "2026-05-30 21:56:52",
+      "publication": "MassLive.com",
+      "author": "",
+      "headline": "A startling “boom” rattled homes across the Boston area — and a meteor exploding over the ocean is likely why",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ATtgy7J6YSXaYdE8paiurHA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-30 22:00:21",
+      "pub_time": "2026-05-30 12:03:44",
+      "publication": "The Guardian",
+      "author": "Andrew Gregory",
+      "headline": "Cancer jab can eradicate entire tumours in patients, trial shows",
+      "article_headline": "Cancer jab can eradicate entire tumours in patients, trial shows"
+    },
+    {
+      "link": "https://apple.news/A-nvZAZvzR12az79cPdUwOw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-30 22:00:21",
+      "pub_time": "2026-05-30 18:04:12",
+      "publication": "Major League Baseball",
+      "author": "Adam Berry",
+      "headline": "3 ejections before first pitch? They stood for the anthem ... and stayed standing",
+      "article_headline": "3 ejections before first pitch? They stood for the anthem ... and stayed standing"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-30 22:00:21",
+      "pub_time": "2026-05-29 22:04:39",
+      "publication": "",
+      "author": "Eve Fairbanks",
+      "headline": "The Biggest Tell That Something Was Written By AI",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AzJFFn5meQe-fU5OAFZrSDA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-30 22:00:21",
+      "pub_time": "2026-05-30 08:04:45",
+      "publication": "HuffPost",
+      "author": "Tessa Flores",
+      "headline": "Older Adults Need To Exercise This One Muscle Group, According To Physical Therapists",
+      "article_headline": "Older Adults Need To Exercise This One Muscle Group, According To Physical Therapists"
+    }
+  ]
+}
