@@ -1,0 +1,74 @@
+{
+  "run_time": "2026-05-31 12:20:18",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AuPS7E4EuSH6kNdkM6mfSvg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-31 12:20:18",
+      "pub_time": "2026-05-31 11:20:23",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Iran says it does not trust the U.S. as Trump reportedly sends back tougher peace terms",
+      "article_headline": "Iran says it does not trust the U.S. as Trump reportedly sends back tougher peace terms"
+    },
+    {
+      "link": "https://apple.news/Ad9kRFVV5RmKk1ZQouXa_EQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-31 12:20:18",
+      "pub_time": "2026-05-31 11:20:51",
+      "publication": "NJ.com",
+      "author": "",
+      "headline": "N.J. governor urges restraint after \"aggressive and dangerous\" actions at an ICE detention center",
+      "article_headline": "N.J. governor urges restraint after \"aggressive and dangerous\" actions at an ICE detention center"
+    },
+    {
+      "link": "https://apple.news/Arkx0ifLSSUWza4bxbS6T0w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-31 12:20:18",
+      "pub_time": "2026-05-31 11:21:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Israeli army captures strategic castle in Lebanon in deepest incursion into the country in 26 years",
+      "article_headline": "Israeli army captures strategic castle in Lebanon in deepest incursion into the country in 26 years"
+    },
+    {
+      "link": "https://apple.news/ACbxL5yrST7WHjEm5KYSmVQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-31 12:20:18",
+      "pub_time": "2026-05-31 11:21:50",
+      "publication": "NBC News",
+      "author": "Alexandra Marquez and Gary Grumbach",
+      "headline": "One birthday, two party planners: Freedom 250 vs. America250, explained",
+      "article_headline": "One birthday, two party planners: Freedom 250 vs. America250, explained"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-31 12:20:18",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "The Spurs caught up to the Thunder — and reshaped the NBA’s future",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-31 12:20:18",
+      "pub_time": "2026-05-31 11:22:23",
+      "publication": "The Wall Street Journal",
+      "author": "Benjamin Katz and Stephen Wilmot",
+      "headline": "The backlash over Ferrari’s $640,000 EV",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
