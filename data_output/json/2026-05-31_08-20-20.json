@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-31 08:20:20",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ADmBFG6QKTP-zOMOMawKg9w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-31 08:20:20",
+      "pub_time": "2026-05-31 06:20:22",
+      "publication": "The Washington Post",
+      "author": "Maegan Vazquez",
+      "headline": "U.S. military hits commercial ship trying to reach Iran as peace talks continue",
+      "article_headline": "U.S. military hits commercial ship trying to reach Iran as peace talks continue"
+    },
+    {
+      "link": "https://apple.news/A0zJPztc9Q6uPD-a92Zs5-g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-31 08:20:20",
+      "pub_time": "2026-05-31 06:20:50",
+      "publication": "CBS News",
+      "author": "Camilo Montoya-Galvez",
+      "headline": "Trump administration appears to downplay impact of green card policy changes",
+      "article_headline": "Trump administration appears to downplay impact of green card policy changes"
+    },
+    {
+      "link": "https://apple.news/A0ueDbaLARLiRx2yiWyIlMw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-31 08:20:20",
+      "pub_time": "2026-05-31 06:21:17",
+      "publication": "Reuters",
+      "author": "Wa Lone",
+      "headline": "Canada’s broader citizenship rules draw strong American interest, data shows",
+      "article_headline": "Canada’s broader citizenship rules draw strong American interest, data shows"
+    },
+    {
+      "link": "https://apple.news/A2ozU2g7mThmqBGf7CSME3w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-31 08:20:20",
+      "pub_time": "2026-05-31 06:21:49",
+      "publication": "The Wall Street Journal",
+      "author": "Annie Ng and Jamie Lafferty",
+      "headline": "They’re one of Europe’s rarest wild cats. A safari can take you right to them.",
+      "article_headline": "They’re one of Europe’s rarest wild cats. A safari can take you right to them."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-31 08:20:20",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "The red-hot Knicks will face the rising Spurs in the NBA finals",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-31 08:20:20",
+      "pub_time": "2026-05-31 06:22:23",
+      "publication": "Los Angeles Times",
+      "author": "Andrew J. Campa",
+      "headline": "The SoCal teen graduating from high school. And college. And another college.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-31 08:20:20",
+      "pub_time": "",
+      "publication": "How to travel when everything costs more",
+      "author": "",
+      "headline": "And what to know about the forces driving up prices.,  Play Now  21 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Av13s9PAqSFGWBv-5ey20tg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-31 08:20:20",
+      "pub_time": "2026-05-31 07:57:43",
+      "publication": "HuffPost",
+      "author": "Kimberley Richards",
+      "headline": "This Overlooked iPhone Setting Is Alarming Users. Here's How To Turn It Off ASAP.",
+      "article_headline": "This Overlooked iPhone Setting Is Alarming Users. Here's How To Turn It Off ASAP."
+    },
+    {
+      "link": "https://apple.news/Ag5hQlUGtQCu0GZqETdzdxQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-31 08:20:20",
+      "pub_time": "2026-05-30 22:23:16",
+      "publication": "BuzzFeed",
+      "author": "Megan Liscomb",
+      "headline": "\"I Literally Did Not Want To Put It Down\": People Are Sharing The Books That Changed Their Lives Forever",
+      "article_headline": "\"I Literally Did Not Want To Put It Down\": People Are Sharing The Books That Changed Their Lives Forever"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-31 08:20:20",
+      "pub_time": "2026-05-30 08:23:43",
+      "publication": "",
+      "author": "",
+      "headline": "Teen boy brain-dead after catastrophic injuries during Spurs honking",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AbB-4jeZJStKvYXYYpy1OXw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-31 08:20:20",
+      "pub_time": "2026-05-31 07:23:43",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "I asked Paris locals what tourists should skip. Here's what they said",
+      "article_headline": "I asked Paris locals what tourists should skip. Here's what they said"
+    }
+  ]
+}
