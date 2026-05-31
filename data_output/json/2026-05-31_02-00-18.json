@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-31 02:00:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ADmBFG6QKTP-zOMOMawKg9w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-31 02:00:18",
+      "pub_time": "2026-05-31 00:00:21",
+      "publication": "The Washington Post",
+      "author": "Maegan Vazquez",
+      "headline": "U.S. military hits commercial ship trying to reach Iran as peace talks continue",
+      "article_headline": "U.S. military hits commercial ship trying to reach Iran as peace talks continue"
+    },
+    {
+      "link": "https://apple.news/A0zJPztc9Q6uPD-a92Zs5-g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-31 02:00:18",
+      "pub_time": "2026-05-31 00:00:49",
+      "publication": "CBS News",
+      "author": "Camilo Montoya-Galvez",
+      "headline": "Trump administration appears to downplay impact of green card policy changes",
+      "article_headline": "Trump administration appears to downplay impact of green card policy changes"
+    },
+    {
+      "link": "https://apple.news/A0ueDbaLARLiRx2yiWyIlMw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-31 02:00:18",
+      "pub_time": "2026-05-31 00:01:16",
+      "publication": "Reuters",
+      "author": "Wa Lone",
+      "headline": "Canada’s broader citizenship rules draw strong American interest, data shows",
+      "article_headline": "Canada’s broader citizenship rules draw strong American interest, data shows"
+    },
+    {
+      "link": "https://apple.news/A2ozU2g7mThmqBGf7CSME3w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-31 02:00:18",
+      "pub_time": "2026-05-31 00:01:49",
+      "publication": "The Wall Street Journal",
+      "author": "Annie Ng and Jamie Lafferty",
+      "headline": "They’re one of Europe’s rarest wild cats. A safari can take you right to them.",
+      "article_headline": "They’re one of Europe’s rarest wild cats. A safari can take you right to them."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-31 02:00:18",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "The red-hot Knicks will face the rising Spurs in the NBA finals",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-31 02:00:18",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "Mark Zuckerberg is transforming rural Louisiana with a massive, secretive project, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ApYNxpPTLR9SgwykQIn1P2w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-31 02:00:18",
+      "pub_time": "",
+      "publication": "Block Club Chicago",
+      "author": "",
+      "headline": "Local News, Chicago, Trump Tower lands its first riverfront retail tenant after 17 years of vacancy",
+      "article_headline": "Trump Tower lands its first riverfront retail tenant after 17 years of vacancy"
+    }
+  ]
+}
