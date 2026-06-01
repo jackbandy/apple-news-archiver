@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-01 03:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AL4tPlknBQWmzFNHlpznmkg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-01 03:40:16",
+      "pub_time": "2026-05-31 23:40:18",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Kayla Hayempour, and Mark Hodge",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AXvtE4drlSz6znVYJG10CFQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-01 03:40:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Tomatoes become latest symbol of America’s affordability squeeze",
+      "article_headline": "Tomatoes become latest symbol of America’s affordability squeeze"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 03:40:16",
+      "pub_time": "2026-05-31 23:41:18",
+      "publication": "The Wall Street Journal",
+      "author": "Stephen Kalin",
+      "headline": "Trump wants Arab states to recognize Israel. The war has made that harder.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Azm09g0iCSBuQ4gZwuIav_w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-01 03:40:16",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Groundbreaking genomic test could spare millions of breast cancer patients chemotherapy",
+      "article_headline": "Groundbreaking genomic test could spare millions of breast cancer patients chemotherapy"
+    },
+    {
+      "link": "https://apple.news/A9ruMfEnHT9elowcXfUpbJQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-01 03:40:16",
+      "pub_time": "2026-05-31 23:41:51",
+      "publication": "Nebraska Public Media",
+      "author": "",
+      "headline": "A haunting mystery in a Nebraska town: How a federal Native American boarding school lost its dead",
+      "article_headline": "A haunting mystery in a Nebraska town: How a federal Native American boarding school lost its dead"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 03:40:16",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "A TV show about Jesus’s life is quietly reshaping Hollywood",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AJeRUjCbmSia098lR5iDMsw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-01 03:40:16",
+      "pub_time": "2026-06-01 02:42:32",
+      "publication": "BBC Wildlife Magazine",
+      "author": "",
+      "headline": "509 snakes captured in southeastern US. Many are carrying deadly infections",
+      "article_headline": "509 snakes captured in southeastern US. Many are carrying deadly infections"
+    }
+  ]
+}

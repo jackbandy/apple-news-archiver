@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-01 05:40:22",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AdEYXCAEvSYCllR89qtaHNQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-01 05:40:22",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Iran and U.S. trade strikes, while Kuwait comes under fire; diplomacy drags on",
+      "article_headline": "Iran and U.S. trade strikes, while Kuwait comes under fire; diplomacy drags on"
+    },
+    {
+      "link": "https://apple.news/AwKXfSZCOQ7u-ZEu9l4kWlg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-01 05:40:22",
+      "pub_time": "2026-06-01 05:20:51",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "France seized sanctioned Russian oil tanker with UK help, Macron says",
+      "article_headline": "France seized sanctioned Russian oil tanker with UK help, Macron says"
+    },
+    {
+      "link": "https://apple.news/AwKXfSZCOQ7u-ZEu9l4kWlg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-01 05:40:22",
+      "pub_time": "2026-06-01 05:20:23",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "France seized sanctioned Russian oil tanker with UK help, Macron says",
+      "article_headline": "France seized sanctioned Russian oil tanker with UK help, Macron says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 05:40:22",
+      "pub_time": "2026-06-01 05:20:50",
+      "publication": "The Wall Street Journal",
+      "author": "Stephen Kalin",
+      "headline": "Trump wants Arab states to recognize Israel. The war has made that harder.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Azm09g0iCSBuQ4gZwuIav_w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-01 05:40:22",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Groundbreaking genomic test could spare millions of breast cancer patients chemotherapy",
+      "article_headline": "Groundbreaking genomic test could spare millions of breast cancer patients chemotherapy"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 05:40:22",
+      "pub_time": "2026-06-01 05:20:24",
+      "publication": "The Wall Street Journal",
+      "author": "Stephen Kalin",
+      "headline": "Trump wants Arab states to recognize Israel. The war has made that harder.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A9ruMfEnHT9elowcXfUpbJQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-01 05:40:22",
+      "pub_time": "2026-06-01 05:20:24",
+      "publication": "Nebraska Public Media",
+      "author": "",
+      "headline": "A haunting mystery in a Nebraska town: How a federal Native American boarding school lost its dead",
+      "article_headline": "A haunting mystery in a Nebraska town: How a federal Native American boarding school lost its dead"
+    }
+  ]
+}
