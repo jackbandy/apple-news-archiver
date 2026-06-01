@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-01 13:20:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A516NOTTpRYW4V7Y2ao1Frw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-01 13:20:21",
+      "pub_time": "2026-06-01 13:17:22",
+      "publication": "NBC News",
+      "author": "Amin Khodadadi and Garrett Haake",
+      "headline": "Tehran suspends talks with U.S. over Israeli attacks in Lebanon, Iranian media reports",
+      "article_headline": "Tehran suspends talks with U.S. over Israeli attacks in Lebanon, Iranian media reports"
+    },
+    {
+      "link": "https://apple.news/Ax65S9cL1SEaToxnJogKxvA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-01 13:20:21",
+      "pub_time": "2026-06-01 13:17:50",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Pentagon policy illegally banned transgender troops from military service, appeals-court panel rules",
+      "article_headline": "Pentagon policy illegally banned transgender troops from military service, appeals-court panel rules"
+    },
+    {
+      "link": "https://apple.news/Ax65S9cL1SEaToxnJogKxvA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-01 13:20:21",
+      "pub_time": "2026-06-01 13:17:22",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Pentagon policy illegally banned transgender troops from military service, appeals-court panel rules",
+      "article_headline": "Pentagon policy illegally banned transgender troops from military service, appeals-court panel rules"
+    },
+    {
+      "link": "https://apple.news/AiO0gJSvmQ4iarHSo4lkgzA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-01 13:20:21",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Anthropic confidentially files for IPO, beating OpenAI",
+      "article_headline": "Anthropic confidentially files for IPO, beating OpenAI"
+    },
+    {
+      "link": "https://apple.news/A03RszUMsSXy6VkPe_XqnZA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-01 13:20:21",
+      "pub_time": "2026-06-01 13:18:16",
+      "publication": "AccuWeather",
+      "author": "",
+      "headline": "2026 Atlantic hurricane season is here",
+      "article_headline": "2026 Atlantic hurricane season is here"
+    },
+    {
+      "link": "https://apple.news/A03RszUMsSXy6VkPe_XqnZA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-01 13:20:21",
+      "pub_time": "2026-06-01 13:17:48",
+      "publication": "AccuWeather",
+      "author": "",
+      "headline": "2026 Atlantic hurricane season is here",
+      "article_headline": "2026 Atlantic hurricane season is here"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 13:20:21",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "The Browns are trading Myles Garrett to Rams in NFL blockbuster",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aax3eGAHWRIWhwQjtsOi68Q",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-01 13:20:21",
+      "pub_time": "2026-06-01 06:23:55",
+      "publication": "FOOD & WINE",
+      "author": "Kat Kinsman",
+      "headline": "Your iPhone’s Calculator Has a Hidden Tool That Makes Travel, Shopping, and Cooking Way Smarter",
+      "article_headline": "Your iPhone’s Calculator Has a Hidden Tool That Makes Travel, Shopping, and Cooking Way Smarter"
+    },
+    {
+      "link": "https://apple.news/ArsBXUMljR_WIjsoI0l93sQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-01 13:20:21",
+      "pub_time": "2026-06-01 12:24:23",
+      "publication": "HuffPost",
+      "author": "Kelly Pittman",
+      "headline": "I Resented My Birth Mother’s Choice For A Closed Adoption. Decades Later, I Was Given A Piece Of Paper And Finally Understood Why.",
+      "article_headline": "I Resented My Birth Mother’s Choice For A Closed Adoption. Decades Later, I Was Given A Piece Of Paper And Finally Understood Why."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-01 13:20:21",
+      "pub_time": "2026-06-01 08:24:56",
+      "publication": "",
+      "author": "Scott Phillips",
+      "headline": "2026 NBA Finals odds: Spurs open as clear favorites despite Knicks’ win streak",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AZupWH8dUScO-cie1yCffZQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-01 13:20:21",
+      "pub_time": "2026-06-01 09:24:56",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "To die with dignity: my young husband’s final wish came with a $65,000 price tag",
+      "article_headline": "To die with dignity: my young husband’s final wish came with a $65,000 price tag"
+    }
+  ]
+}

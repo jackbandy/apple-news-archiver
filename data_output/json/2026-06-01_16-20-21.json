@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-01 16:20:21",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A516NOTTpRYW4V7Y2ao1Frw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-01 16:20:21",
+      "pub_time": "2026-06-01 15:20:22",
+      "publication": "NBC News",
+      "author": "Amin Khodadadi and Garrett Haake",
+      "headline": "Tehran suspends talks with U.S. over Israeli attacks in Lebanon, Iranian media reports",
+      "article_headline": "Tehran suspends talks with U.S. over Israeli attacks in Lebanon, Iranian media reports"
+    },
+    {
+      "link": "https://apple.news/A1pqaTUsJT-aw0zVvbNoh0w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-01 16:20:21",
+      "pub_time": "",
+      "publication": "Tampa Bay Times",
+      "author": "",
+      "headline": "Florida sues Open AI, Sam Altman over ChatGPT, claims danger to kids",
+      "article_headline": "Florida sues Open AI, Sam Altman over ChatGPT, claims danger to kids"
+    },
+    {
+      "link": "https://apple.news/Ax65S9cL1SEaToxnJogKxvA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-01 16:20:21",
+      "pub_time": "2026-06-01 15:21:22",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Pentagon policy illegally banned transgender troops from military service, appeals-court panel rules",
+      "article_headline": "Pentagon policy illegally banned transgender troops from military service, appeals-court panel rules"
+    },
+    {
+      "link": "https://apple.news/AfABlb7rMTUuNiQHCxpsTXw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-01 16:20:21",
+      "pub_time": "2026-06-01 15:21:48",
+      "publication": "The Washington Post",
+      "author": "Rael Ombuor",
+      "headline": "Kenyans protest U.S. plan for Ebola field hospital to treat Americans",
+      "article_headline": "Kenyans protest U.S. plan for Ebola field hospital to treat Americans"
+    },
+    {
+      "link": "https://apple.news/AHi-EIJ5IS8uYanHf_7-4yA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-01 16:20:21",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Browns, Rams agree to Myles Garrett blockbuster trade",
+      "article_headline": "Browns, Rams agree to Myles Garrett blockbuster trade"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 16:20:21",
+      "pub_time": "2026-06-01 15:22:49",
+      "publication": "The Wall Street Journal",
+      "author": "Bojan Pancevski",
+      "headline": "Inside Putin’s $26 billion quest for longevity",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AQtNIDUUUQ4q3O_Ihwb2INw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-01 16:20:21",
+      "pub_time": "2026-06-01 13:23:02",
+      "publication": "Us Weekly",
+      "author": "Grace Riley",
+      "headline": "Celebs’ Hottest Looks During Miami Swim Week 2026: Brooks Nader’s Thong, Alix Earle’s Abs and More",
+      "article_headline": "Celebs’ Hottest Looks During Miami Swim Week 2026: Brooks Nader’s Thong, Alix Earle’s Abs and More"
+    }
+  ]
+}

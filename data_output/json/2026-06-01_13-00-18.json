@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-01 13:00:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A516NOTTpRYW4V7Y2ao1Frw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-01 13:00:18",
+      "pub_time": "2026-06-01 12:54:19",
+      "publication": "NBC News",
+      "author": "Amin Khodadadi and Garrett Haake",
+      "headline": "Tehran suspends talks with U.S. over Israeli attacks in Lebanon, Iranian media reports",
+      "article_headline": "Tehran suspends talks with U.S. over Israeli attacks in Lebanon, Iranian media reports"
+    },
+    {
+      "link": "https://apple.news/Ax65S9cL1SEaToxnJogKxvA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-01 13:00:18",
+      "pub_time": "2026-06-01 12:54:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Pentagon policy illegally banned transgender troops from military service, appeals court panel rules",
+      "article_headline": "Pentagon policy illegally banned transgender troops from military service, appeals court panel rules"
+    },
+    {
+      "link": "https://apple.news/Ax65S9cL1SEaToxnJogKxvA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-01 13:00:18",
+      "pub_time": "2026-06-01 12:54:20",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Pentagon policy illegally banned transgender troops from military service, appeals court panel rules",
+      "article_headline": "Pentagon policy illegally banned transgender troops from military service, appeals court panel rules"
+    },
+    {
+      "link": "https://apple.news/AiO0gJSvmQ4iarHSo4lkgzA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-01 13:00:18",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Anthropic confidentially files for IPO, beating OpenAI",
+      "article_headline": "Anthropic confidentially files for IPO, beating OpenAI"
+    },
+    {
+      "link": "https://apple.news/A9pyvTM9YR5a1cqPZay0yvw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-01 13:00:18",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Serena Williams will return to tennis ahead of Wimbledon after stepping back in 2022",
+      "article_headline": "Serena Williams will return to tennis ahead of Wimbledon after stepping back in 2022"
+    },
+    {
+      "link": "https://apple.news/A03RszUMsSXy6VkPe_XqnZA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-01 13:00:18",
+      "pub_time": "2026-06-01 12:54:48",
+      "publication": "AccuWeather",
+      "author": "",
+      "headline": "2026 Atlantic hurricane season is here",
+      "article_headline": "2026 Atlantic hurricane season is here"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 13:00:18",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Ozempic may be reshaping the brain, scientists say",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

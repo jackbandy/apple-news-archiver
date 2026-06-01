@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-01 18:00:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aokcw0JJnTm6DOhfdJEg5dg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-01 18:00:19",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump administration signals retreat on “anti-weaponization” fund after blowback",
+      "article_headline": "Trump Administration Signals Retreat on ‘Anti-Weaponization’ Fund After Blowback"
+    },
+    {
+      "link": "https://apple.news/A7Lo6muboQCa9LkrLRnVkLg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-01 18:00:19",
+      "pub_time": "2026-06-01 17:44:48",
+      "publication": "The Washington Post",
+      "author": "Steve Hendrix and Susannah George",
+      "headline": "Iran says it is breaking off talks to end war after U.S. and Israeli strikes",
+      "article_headline": "Iran says it is breaking off talks to end war after U.S. and Israeli strikes"
+    },
+    {
+      "link": "https://apple.news/A7Lo6muboQCa9LkrLRnVkLg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-01 18:00:19",
+      "pub_time": "2026-06-01 17:43:21",
+      "publication": "The Washington Post",
+      "author": "Steve Hendrix and Susannah George",
+      "headline": "Iran says it is breaking off talks to end war after U.S. and Israeli strikes",
+      "article_headline": "Iran says it is breaking off talks to end war after U.S. and Israeli strikes"
+    },
+    {
+      "link": "https://apple.news/A1pqaTUsJT-aw0zVvbNoh0w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-01 18:00:19",
+      "pub_time": "",
+      "publication": "Tampa Bay Times",
+      "author": "",
+      "headline": "Florida sues OpenAI and Sam Altman over ChatGPT, claims danger to kids",
+      "article_headline": "Florida sues OpenAI and Sam Altman over ChatGPT, claims danger to kids"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 18:00:19",
+      "pub_time": "2026-06-01 17:44:17",
+      "publication": "Los Angeles Times",
+      "author": "Stephen Battaglio",
+      "headline": "‘60 Minutes’ veteran Scott Pelley says CBS News bosses are “murdering” the program",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 18:00:19",
+      "pub_time": "2026-06-01 17:43:22",
+      "publication": "Los Angeles Times",
+      "author": "Stephen Battaglio",
+      "headline": "‘60 Minutes’ veteran Scott Pelley says CBS News bosses are “murdering” the program",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AHi-EIJ5IS8uYanHf_7-4yA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-01 18:00:19",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Browns, Rams agree to Myles Garrett blockbuster trade",
+      "article_headline": "Browns, Rams agree to Myles Garrett blockbuster trade"
+    }
+  ]
+}
