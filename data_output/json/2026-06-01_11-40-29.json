@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-01 11:40:29",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A516NOTTpRYW4V7Y2ao1Frw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-01 11:40:29",
+      "pub_time": "2026-06-01 11:26:30",
+      "publication": "NBC News",
+      "author": "Amin Khodadadi and Garrett Haake",
+      "headline": "Tehran suspends talks with U.S. over Israeli attacks in Lebanon, Iranian media reports",
+      "article_headline": "Tehran suspends talks with U.S. over Israeli attacks in Lebanon, Iranian media reports"
+    },
+    {
+      "link": "https://apple.news/AAuZ_K8b1SLOZbt24_2Lvyw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-01 11:40:29",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Congress returns with GOP agenda stalled over DOJ’s “anti-weaponization” fund",
+      "article_headline": "Congress returns with GOP agenda stalled over DOJ’s “anti-weaponization” fund"
+    },
+    {
+      "link": "https://apple.news/AiO0gJSvmQ4iarHSo4lkgzA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-01 11:40:29",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "AI giant Anthropic confidentially files for IPO as investors bet big on AI future",
+      "article_headline": "AI giant Anthropic confidentially files for IPO as investors bet big on AI future"
+    },
+    {
+      "link": "https://apple.news/A-05JZdgRQi-whMaKdPQnNg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-01 11:40:29",
+      "pub_time": "2026-06-01 11:26:59",
+      "publication": "KFF Health News",
+      "author": "Katy Golvala, CT Mirror, Jenna Carlesso, CT Mirror, and Noam N. Levey",
+      "headline": "Baffling, frustrating, frightening: what it’s like to be sued over medical debt",
+      "article_headline": "Baffling. Frustrating. Frightening. What It’s Like To Be Sued Over Medical Debt."
+    },
+    {
+      "link": "https://apple.news/A-05JZdgRQi-whMaKdPQnNg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-01 11:40:29",
+      "pub_time": "2026-06-01 11:26:32",
+      "publication": "KFF Health News",
+      "author": "Katy Golvala, CT Mirror, Jenna Carlesso, CT Mirror, and Noam N. Levey",
+      "headline": "Baffling, frustrating, frightening: what it’s like to be sued over medical debt",
+      "article_headline": "Baffling. Frustrating. Frightening. What It’s Like To Be Sued Over Medical Debt."
+    },
+    {
+      "link": "https://apple.news/A9pyvTM9YR5a1cqPZay0yvw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-01 11:40:29",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Serena Williams will return to tennis ahead of Wimbledon after stepping back in 2022",
+      "article_headline": "Serena Williams will return to tennis ahead of Wimbledon after stepping back in 2022"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 11:40:29",
+      "pub_time": "2026-06-01 11:27:27",
+      "publication": "The Washington Post",
+      "author": "Ariana Eunjung Cha",
+      "headline": "Ozempic may be reshaping the brain, scientists say",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aax3eGAHWRIWhwQjtsOi68Q",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-01 11:40:29",
+      "pub_time": "2026-06-01 05:44:09",
+      "publication": "FOOD & WINE",
+      "author": "Kat Kinsman",
+      "headline": "Your iPhone’s Calculator Has a Hidden Tool That Makes Travel, Shopping, and Cooking Way Smarter",
+      "article_headline": "Your iPhone’s Calculator Has a Hidden Tool That Makes Travel, Shopping, and Cooking Way Smarter"
+    },
+    {
+      "link": "https://apple.news/A5SMn56sPREWlxYcZQLueZA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-01 11:40:29",
+      "pub_time": "2026-06-01 08:44:37",
+      "publication": "Fox News",
+      "author": "David Hookstead",
+      "headline": "Woman tests fate by getting too close to a massive bison, faceplants while running away",
+      "article_headline": "Woman tests fate by getting too close to a massive bison, faceplants while running away"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-01 11:40:29",
+      "pub_time": "2026-06-01 09:45:12",
+      "publication": "",
+      "author": "Steffi Cao",
+      "headline": "Celebrities Are Dating Among Us. This Is How They Want You to Address the Elephant in the Room.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aq93ZIjXKQNq1vVUDEVej2Q",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-01 11:40:29",
+      "pub_time": "2026-05-31 21:45:12",
+      "publication": "BuzzFeed",
+      "author": "Andy Golder",
+      "headline": "10 \"Glitch In The Matrix\" Moments That People Can't Explain With Logic",
+      "article_headline": "10 \"Glitch In The Matrix\" Moments That People Can't Explain With Logic"
+    }
+  ]
+}

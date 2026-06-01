@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-01 09:40:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AdEYXCAEvSYCllR89qtaHNQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-01 09:40:19",
+      "pub_time": "2026-06-01 08:51:20",
+      "publication": "Reuters",
+      "author": "Yomna Ehab",
+      "headline": "Kuwait comes under fire as U.S. and Iran trade blows",
+      "article_headline": "Kuwait comes under fire as U.S. and Iran trade blows"
+    },
+    {
+      "link": "https://apple.news/Ayd5UX2zARmm8DM1jNV5EFQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-01 09:40:19",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "California contests for governor, L.A. mayor head toward primary election with no clear leaders",
+      "article_headline": "California contests for governor, L.A. mayor head toward primary election with no clear leaders"
+    },
+    {
+      "link": "https://apple.news/A-05JZdgRQi-whMaKdPQnNg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-01 09:40:19",
+      "pub_time": "2026-06-01 08:51:19",
+      "publication": "KFF Health News",
+      "author": "Katy Golvala, CT Mirror, Jenna Carlesso, CT Mirror, and Noam N. Levey",
+      "headline": "Baffling, frustrating frightening: what it’s like to be sued over medical debt",
+      "article_headline": "Baffling, frustrating frightening: what it’s like to be sued over medical debt"
+    },
+    {
+      "link": "https://apple.news/Axy-bk_CQRCeyZGuAFawNhw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-01 09:40:19",
+      "pub_time": "2026-06-01 08:51:46",
+      "publication": "NPR",
+      "author": "Andrea Hsu",
+      "headline": "One by one, U.S. civil-rights agency dismantles tools to fight discrimination",
+      "article_headline": "One by one, U.S. civil-rights agency dismantles tools to fight discrimination"
+    },
+    {
+      "link": "https://apple.news/A-05JZdgRQi-whMaKdPQnNg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-01 09:40:19",
+      "pub_time": "2026-06-01 08:51:19",
+      "publication": "KFF Health News",
+      "author": "Katy Golvala, CT Mirror, Jenna Carlesso, CT Mirror, and Noam N. Levey",
+      "headline": "Baffling, frustrating frightening: what it’s like to be sued over medical debt",
+      "article_headline": "Baffling, frustrating frightening: what it’s like to be sued over medical debt"
+    },
+    {
+      "link": "https://apple.news/Axy-bk_CQRCeyZGuAFawNhw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-01 09:40:19",
+      "pub_time": "2026-06-01 08:51:45",
+      "publication": "NPR",
+      "author": "Andrea Hsu",
+      "headline": "One by one, U.S. civil-rights agency dismantles tools to fight discrimination",
+      "article_headline": "One by one, U.S. civil-rights agency dismantles tools to fight discrimination"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 09:40:19",
+      "pub_time": "2026-06-01 08:52:12",
+      "publication": "The Wall Street Journal",
+      "author": "Arian Campo-Flores",
+      "headline": "Miami’s wealthiest zip code is fighting to evict its least-glamorous neighbor",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

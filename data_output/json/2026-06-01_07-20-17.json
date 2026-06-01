@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-01 07:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AdEYXCAEvSYCllR89qtaHNQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-01 07:20:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Iran and U.S. both strike military targets as diplomacy drags on; Kuwait comes under fire",
+      "article_headline": "Iran and U.S. both strike military targets as diplomacy drags on; Kuwait comes under fire"
+    },
+    {
+      "link": "https://apple.news/AwKXfSZCOQ7u-ZEu9l4kWlg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-01 07:20:17",
+      "pub_time": "2026-06-01 06:49:45",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "France seized sanctioned Russian oil tanker with U.K. help, Macron says",
+      "article_headline": "France seized sanctioned Russian oil tanker with U.K. help, Macron says"
+    },
+    {
+      "link": "https://apple.news/AwKXfSZCOQ7u-ZEu9l4kWlg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-01 07:20:17",
+      "pub_time": "2026-06-01 06:49:18",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "France seized sanctioned Russian oil tanker with U.K. help, Macron says",
+      "article_headline": "France seized sanctioned Russian oil tanker with U.K. help, Macron says"
+    },
+    {
+      "link": "https://apple.news/ARx5jT_RxQvOJ2LkWcddT7g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-01 07:20:17",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "“Holding our breath”: Hurricane season is here, and FEMA is shorthanded",
+      "article_headline": "“Holding our breath”: Hurricane season is here, and FEMA is shorthanded"
+    },
+    {
+      "link": "https://apple.news/Axy-bk_CQRCeyZGuAFawNhw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-01 07:20:17",
+      "pub_time": "2026-06-01 06:50:12",
+      "publication": "NPR",
+      "author": "Andrea Hsu",
+      "headline": "One by one, U.S. civil-rights agency dismantles tools to fight discrimination",
+      "article_headline": "One by one, U.S. civil-rights agency dismantles tools to fight discrimination"
+    },
+    {
+      "link": "https://apple.news/Axy-bk_CQRCeyZGuAFawNhw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-01 07:20:17",
+      "pub_time": "2026-06-01 06:49:45",
+      "publication": "NPR",
+      "author": "Andrea Hsu",
+      "headline": "One by one, U.S. civil-rights agency dismantles tools to fight discrimination",
+      "article_headline": "One by one, U.S. civil-rights agency dismantles tools to fight discrimination"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 07:20:17",
+      "pub_time": "2026-06-01 06:50:12",
+      "publication": "The Wall Street Journal",
+      "author": "Arian Campo-Flores",
+      "headline": "Miami’s wealthiest zip code is fighting to evict its least-glamorous neighbor",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

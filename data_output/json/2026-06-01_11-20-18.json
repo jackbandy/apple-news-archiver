@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-01 11:20:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A516NOTTpRYW4V7Y2ao1Frw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-01 11:20:18",
+      "pub_time": "2026-06-01 10:20:19",
+      "publication": "NBC News",
+      "author": "Amin Khodadadi",
+      "headline": "Tehran suspends talks with U.S. over Israeli attacks in Lebanon, Iranian media reports",
+      "article_headline": "Tehran suspends talks with U.S. over Israeli attacks in Lebanon, Iranian media reports"
+    },
+    {
+      "link": "https://apple.news/AZewqIJedRiKTgQ5v9DAcuw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-01 11:20:18",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "OpenAI sued by Florida’s attorney general over AI harms",
+      "article_headline": "OpenAI sued by Florida’s attorney general over AI harms"
+    },
+    {
+      "link": "https://apple.news/Ayd5UX2zARmm8DM1jNV5EFQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-01 11:20:18",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "California contests for governor, L.A. mayor head toward primary election with no clear leaders",
+      "article_headline": "California contests for governor, L.A. mayor head toward primary election with no clear leaders"
+    },
+    {
+      "link": "https://apple.news/A-05JZdgRQi-whMaKdPQnNg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-01 11:20:18",
+      "pub_time": "2026-06-01 10:21:46",
+      "publication": "KFF Health News",
+      "author": "Katy Golvala, CT Mirror, Jenna Carlesso, CT Mirror, and Noam N. Levey",
+      "headline": "Baffling, frustrating, frightening: what it’s like to be sued over medical debt",
+      "article_headline": "Baffling. Frustrating. Frightening. What It’s Like To Be Sued Over Medical Debt."
+    },
+    {
+      "link": "https://apple.news/A9pyvTM9YR5a1cqPZay0yvw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-01 11:20:18",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Serena Williams will return to tennis ahead of Wimbledon after stepping back in 2022",
+      "article_headline": "Serena Williams will return to tennis ahead of Wimbledon after stepping back in 2022"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 11:20:18",
+      "pub_time": "2026-06-01 10:22:46",
+      "publication": "The Washington Post",
+      "author": "Ariana Eunjung Cha",
+      "headline": "Ozempic may be reshaping the brain, scientists say",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAb-Di1P5TiqauNqwo7-QKw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-01 11:20:18",
+      "pub_time": "",
+      "publication": "This is why your groceries keep getting more expensive",
+      "author": "",
+      "headline": "Listen to today’s top stories.,  Play Now  13 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Aax3eGAHWRIWhwQjtsOi68Q",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-01 11:20:18",
+      "pub_time": "2026-06-01 06:23:52",
+      "publication": "FOOD & WINE",
+      "author": "Kat Kinsman",
+      "headline": "Your iPhone’s Calculator Has a Hidden Tool That Makes Travel, Shopping, and Cooking Way Smarter",
+      "article_headline": "Your iPhone’s Calculator Has a Hidden Tool That Makes Travel, Shopping, and Cooking Way Smarter"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-01 11:20:18",
+      "pub_time": "2026-05-31 11:24:19",
+      "publication": "",
+      "author": "Veronica Dagher",
+      "headline": "More Americans Are Aging Alone. One Woman Told Us What It’s Like.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AG1luhbEoQC-5_KfoOESdaQ",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-01 11:20:18",
+      "pub_time": "2026-05-31 19:24:26",
+      "publication": "TheStreet",
+      "author": "Tobi Opeyemi Amure",
+      "headline": "Exxon sounds alarm on 'unheard of' oil problem",
+      "article_headline": "Exxon sounds alarm on 'unheard of' oil problem"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-01 11:20:18",
+      "pub_time": "2026-06-01 10:24:52",
+      "publication": "",
+      "author": "Steffi Cao",
+      "headline": "I’m About to Go on a Date With a New Woman. I Know Something About Her—and She Doesn’t Know I Know.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
