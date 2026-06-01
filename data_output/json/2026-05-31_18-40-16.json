@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-31 18:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Am5T72HMlS1KCfebdXzUawg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-31 18:40:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "How the Supreme Court is reshaping the midterm elections",
+      "article_headline": "How the Supreme Court is reshaping the midterm elections"
+    },
+    {
+      "link": "https://apple.news/AnmWF_fkBQWyRrZSBUXjfvw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-31 18:40:16",
+      "pub_time": "2026-05-31 17:56:45",
+      "publication": "TIME",
+      "author": "Rebecca Schneid",
+      "headline": "Trump’s name won’t be coming off the Kennedy Center just yet, despite court order",
+      "article_headline": "Trump’s name won’t be coming off the Kennedy Center just yet, despite court order"
+    },
+    {
+      "link": "https://apple.news/AnmWF_fkBQWyRrZSBUXjfvw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-31 18:40:16",
+      "pub_time": "2026-05-31 17:55:17",
+      "publication": "TIME",
+      "author": "Rebecca Schneid",
+      "headline": "Trump’s name won’t be coming off the Kennedy Center just yet, despite court order",
+      "article_headline": "Trump’s name won’t be coming off the Kennedy Center just yet, despite court order"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-31 18:40:16",
+      "pub_time": "2026-05-31 17:55:45",
+      "publication": "The Wall Street Journal",
+      "author": "Annie Linskey, Natalie Andrews, and Siobhan Hughes",
+      "headline": "A new “wounded bear caucus” in the Senate means more trouble for Trump",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/APkduy-9lRG6-VTv6DRQWmA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-31 18:40:16",
+      "pub_time": "2026-05-31 17:55:45",
+      "publication": "Bloomberg",
+      "author": "Oscar Medina and Andreina Itriago",
+      "headline": "Conservative outsider tops Colombia vote and advances to runoff",
+      "article_headline": "Conservative outsider tops Colombia vote and advances to runoff"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-31 18:40:16",
+      "pub_time": "2026-05-31 17:55:18",
+      "publication": "The Wall Street Journal",
+      "author": "Annie Linskey, Natalie Andrews, and Siobhan Hughes",
+      "headline": "A new “wounded bear caucus” in the Senate means more trouble for Trump",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/APkduy-9lRG6-VTv6DRQWmA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-31 18:40:16",
+      "pub_time": "2026-05-31 17:55:18",
+      "publication": "Bloomberg",
+      "author": "Oscar Medina and Andreina Itriago",
+      "headline": "Conservative outsider tops Colombia vote and advances to runoff",
+      "article_headline": "Conservative outsider tops Colombia vote and advances to runoff"
+    }
+  ]
+}

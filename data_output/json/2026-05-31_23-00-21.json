@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-31 23:00:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AL4tPlknBQWmzFNHlpznmkg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-31 23:00:21",
+      "pub_time": "2026-05-31 22:54:23",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Kayla Hayempour, and Mark Hodge",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AXvtE4drlSz6znVYJG10CFQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-31 23:00:21",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Tomatoes become latest symbol of America’s affordability squeeze",
+      "article_headline": "Tomatoes become latest symbol of America’s affordability squeeze"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-31 23:00:21",
+      "pub_time": "2026-05-31 22:54:24",
+      "publication": "The Wall Street Journal",
+      "author": "Stephen Kalin",
+      "headline": "Trump wants Arab states to recognize Israel. The war has made that harder.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Azm09g0iCSBuQ4gZwuIav_w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-31 23:00:21",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Groundbreaking genomic test could spare millions of breast cancer patients chemotherapy",
+      "article_headline": "Groundbreaking genomic test could spare millions of breast cancer patients chemotherapy"
+    },
+    {
+      "link": "https://apple.news/A9ruMfEnHT9elowcXfUpbJQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-31 23:00:21",
+      "pub_time": "2026-05-31 22:54:58",
+      "publication": "Nebraska Public Media",
+      "author": "",
+      "headline": "A haunting mystery in a Nebraska town: How a federal Native American boarding school lost its dead",
+      "article_headline": "A haunting mystery in a Nebraska town: How a federal Native American boarding school lost its dead"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-31 23:00:21",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "A TV show about Jesus’s life is quietly reshaping Hollywood",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A9ruMfEnHT9elowcXfUpbJQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-31 23:00:21",
+      "pub_time": "2026-05-31 22:54:30",
+      "publication": "Nebraska Public Media",
+      "author": "",
+      "headline": "A haunting mystery in a Nebraska town: How a federal Native American boarding school lost its dead",
+      "article_headline": "A haunting mystery in a Nebraska town: How a federal Native American boarding school lost its dead"
+    },
+    {
+      "link": "https://apple.news/AwyLu_JeaQLWNix2hm52NCA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-31 23:00:21",
+      "pub_time": "2026-05-31 10:03:36",
+      "publication": "TheStreet",
+      "author": "Hillary Remy",
+      "headline": "Amazon joins Microsoft in sending shocking message to employees",
+      "article_headline": "Amazon joins Microsoft in sending shocking message to employees"
+    },
+    {
+      "link": "https://apple.news/Af4vC2I6DSniHPH_BYl2Wcw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-31 23:00:21",
+      "pub_time": "2026-05-31 17:04:09",
+      "publication": "BuzzFeed",
+      "author": "Carley Suthers",
+      "headline": "Older People Reveal What Life Was Really Like During The Great Depression, And I Promise, You Didn't Learn Any Of This In History Class",
+      "article_headline": "Older People Reveal What Life Was Really Like During The Great Depression, And I Promise, You Didn't Learn Any Of This In History Class"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-31 23:00:21",
+      "pub_time": "2026-05-30 23:04:36",
+      "publication": "",
+      "author": "Veronica Dagher",
+      "headline": "More Americans Are Aging Alone. One Woman Told Us What It’s Like.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AVK8jOuk1T7CRPxmkhSMAkg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-31 23:00:21",
+      "pub_time": "2026-05-31 06:04:36",
+      "publication": "HuffPost",
+      "author": "Caroline Bologna",
+      "headline": "23 Telltale Signs Someone Is American, According To Europeans",
+      "article_headline": "23 Telltale Signs Someone Is American, According To Europeans"
+    }
+  ]
+}
