@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-01 21:40:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aokcw0JJnTm6DOhfdJEg5dg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-01 21:40:18",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump administration signals retreat on “anti-weaponization” fund after blowback",
+      "article_headline": "Trump Administration Signals Retreat on ‘Anti-Weaponization’ Fund After Blowback"
+    },
+    {
+      "link": "https://apple.news/A0IsSwrUJSOG-0zORyeSjkA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-01 21:40:18",
+      "pub_time": "2026-06-01 21:30:47",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "5 dead, dozens wounded as Russia launches major attack across Ukraine",
+      "article_headline": "5 dead, dozens wounded as Russia launches major attack across Ukraine"
+    },
+    {
+      "link": "https://apple.news/A0IsSwrUJSOG-0zORyeSjkA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-01 21:40:18",
+      "pub_time": "2026-06-01 21:30:19",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "5 dead, dozens wounded as Russia launches major attack across Ukraine",
+      "article_headline": "5 dead, dozens wounded as Russia launches major attack across Ukraine"
+    },
+    {
+      "link": "https://apple.news/AMZbSHHaHTOajWSAVNDXOfQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-01 21:40:18",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The AI boom could be heading to millions of 401(k)s as Anthropic files for IPO",
+      "article_headline": "The AI boom could be heading to millions of 401(k)s as Anthropic files for IPO"
+    },
+    {
+      "link": "https://apple.news/Agss5S221Q9qeV1a-Po3y9Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-01 21:40:18",
+      "pub_time": "2026-06-01 21:31:14",
+      "publication": "POLITICO",
+      "author": "Aaron Pellish and Paul McLeary",
+      "headline": "Pentagon press office is now a classified area off-limits to reporters",
+      "article_headline": "Pentagon press office is now a classified area off-limits to reporters"
+    },
+    {
+      "link": "https://apple.news/Agss5S221Q9qeV1a-Po3y9Q",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-01 21:40:18",
+      "pub_time": "2026-06-01 21:30:47",
+      "publication": "POLITICO",
+      "author": "Aaron Pellish and Paul McLeary",
+      "headline": "Pentagon press office is now a classified area off-limits to reporters",
+      "article_headline": "Pentagon press office is now a classified area off-limits to reporters"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 21:40:18",
+      "pub_time": "",
+      "publication": "OregonLive.com",
+      "author": "",
+      "headline": "Rick Adelman, Hall of Fame coach who led Trail Blazers to 2 NBA Finals, dies at 79",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

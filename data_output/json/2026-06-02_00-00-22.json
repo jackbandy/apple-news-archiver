@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-06-02 00:00:22",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AVFak5DYDTyCo0PBY0B6VDg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-02 00:00:22",
+      "pub_time": "2026-06-01 23:00:24",
+      "publication": "POLITICO",
+      "author": "Jordain Carney",
+      "headline": "GOP senators remain wary as Justice Department retreats from “anti-weaponization” fund",
+      "article_headline": "GOP senators remain wary as Justice Department retreats from “anti-weaponization” fund"
+    },
+    {
+      "link": "https://apple.news/A0IsSwrUJSOG-0zORyeSjkA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-02 00:00:22",
+      "pub_time": "2026-06-01 23:00:52",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "5 dead, dozens wounded as Russia launches major attack across Ukraine",
+      "article_headline": "Nine dead, dozens wounded as Russia launches major attack across Ukraine"
+    },
+    {
+      "link": "https://apple.news/AR9a46nh4QHqOa9igB1KdgA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-02 00:00:22",
+      "pub_time": "2026-06-01 23:01:19",
+      "publication": "Axios",
+      "author": "Andrew Solender",
+      "headline": "Why House Democrats are “closely” watching California’s congressional primaries",
+      "article_headline": "Why House Democrats are “closely” watching California’s congressional primaries"
+    },
+    {
+      "link": "https://apple.news/AnYDzBCFySnyWskl3P3vggQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-02 00:00:22",
+      "pub_time": "2026-06-01 23:01:52",
+      "publication": "The Wall Street Journal",
+      "author": "Lara Seligman",
+      "headline": "Hegseth blocks 8 Navy senior officer promotions",
+      "article_headline": "Hegseth Blocks Eight Navy Senior Officer Promotions"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 00:00:22",
+      "pub_time": "",
+      "publication": "OregonLive.com",
+      "author": "",
+      "headline": "Rick Adelman, Hall of Fame coach who led Trail Blazers to 2 NBA Finals, dies at 79",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 00:00:22",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "Newly unearthed treasures could solve one of the greatest mysteries of the Inca Empire, Alejandro Muñoz",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 00:00:22",
+      "pub_time": "2026-06-01 23:27:40",
+      "publication": "Entertainment Weekly",
+      "author": "Raechal Shewfelt",
+      "headline": "Simon Cowell reveals the 'Got Talent' standout that did 'more good for our show than any other contestant'",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

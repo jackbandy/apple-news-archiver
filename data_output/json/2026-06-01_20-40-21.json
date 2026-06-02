@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-01 20:40:21",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aokcw0JJnTm6DOhfdJEg5dg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-01 20:40:21",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump administration signals retreat on “anti-weaponization” fund after blowback",
+      "article_headline": "Trump Administration Signals Retreat on ‘Anti-Weaponization’ Fund After Blowback"
+    },
+    {
+      "link": "https://apple.news/AdEYXCAEvSYCllR89qtaHNQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-01 20:40:21",
+      "pub_time": "2026-06-01 20:27:50",
+      "publication": "Reuters",
+      "author": "Laila Bassam, Maya Gebeily, and Hatem Maher",
+      "headline": "Lebanon announces partial ceasefire between Israel and Hezbollah, but attacks continue",
+      "article_headline": "Lebanon announces partial ceasefire between Israel and Hezbollah, but attacks continue"
+    },
+    {
+      "link": "https://apple.news/AdEYXCAEvSYCllR89qtaHNQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-01 20:40:21",
+      "pub_time": "2026-06-01 20:27:22",
+      "publication": "Reuters",
+      "author": "Laila Bassam, Maya Gebeily, and Hatem Maher",
+      "headline": "Lebanon announces partial ceasefire between Israel and Hezbollah, but attacks continue",
+      "article_headline": "Lebanon announces partial ceasefire between Israel and Hezbollah, but attacks continue"
+    },
+    {
+      "link": "https://apple.news/AMZbSHHaHTOajWSAVNDXOfQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-01 20:40:21",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The AI boom could be heading to millions of 401(k)s as Anthropic files for IPO",
+      "article_headline": "The AI boom could be heading to millions of 401(k)s as Anthropic files for IPO"
+    },
+    {
+      "link": "https://apple.news/Agss5S221Q9qeV1a-Po3y9Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-01 20:40:21",
+      "pub_time": "2026-06-01 20:28:17",
+      "publication": "POLITICO",
+      "author": "Aaron Pellish and Paul McLeary",
+      "headline": "Pentagon press office is now a classified area off-limits to reporters",
+      "article_headline": "Pentagon press office is now a classified area off-limits to reporters"
+    },
+    {
+      "link": "https://apple.news/Agss5S221Q9qeV1a-Po3y9Q",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-01 20:40:21",
+      "pub_time": "2026-06-01 20:27:50",
+      "publication": "POLITICO",
+      "author": "Aaron Pellish and Paul McLeary",
+      "headline": "Pentagon press office is now a classified area off-limits to reporters",
+      "article_headline": "Pentagon press office is now a classified area off-limits to reporters"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 20:40:21",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Rick Adelman, Hall of Fame coach who led Trail Blazers to two NBA Finals, dies at 79",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

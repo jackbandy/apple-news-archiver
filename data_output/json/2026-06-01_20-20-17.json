@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-01 20:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aokcw0JJnTm6DOhfdJEg5dg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-01 20:20:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump administration signals retreat on “anti-weaponization” fund after blowback",
+      "article_headline": "Trump Administration Signals Retreat on ‘Anti-Weaponization’ Fund After Blowback"
+    },
+    {
+      "link": "https://apple.news/AdEYXCAEvSYCllR89qtaHNQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-01 20:20:17",
+      "pub_time": "2026-06-01 19:20:45",
+      "publication": "Reuters",
+      "author": "Laila Bassam, Maya Gebeily, and Hatem Maher",
+      "headline": "Lebanon announces partial ceasefire between Israel and Hezbollah, but attacks continue",
+      "article_headline": "Lebanon announces partial ceasefire between Israel and Hezbollah, but attacks continue"
+    },
+    {
+      "link": "https://apple.news/AMZbSHHaHTOajWSAVNDXOfQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-01 20:20:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The AI boom could be heading to millions of 401(k)s as Anthropic files for IPO",
+      "article_headline": "The AI boom could be heading to millions of 401(k)s as Anthropic files for IPO"
+    },
+    {
+      "link": "https://apple.news/Agss5S221Q9qeV1a-Po3y9Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-01 20:20:17",
+      "pub_time": "2026-06-01 19:21:45",
+      "publication": "POLITICO",
+      "author": "Aaron Pellish and Paul McLeary",
+      "headline": "Pentagon press office is now a classified area off-limits to reporters",
+      "article_headline": "Pentagon press office is now a classified area off-limits to reporters"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 20:20:17",
+      "pub_time": "2026-06-01 19:22:18",
+      "publication": "Los Angeles Times",
+      "author": "Stephen Battaglio",
+      "headline": "‘60 Minutes’ veteran Scott Pelley says CBS News bosses are “murdering” the program",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-01 20:20:17",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "Newly unearthed treasures could solve one of the greatest mysteries of the Inca Empire, Alejandro Muñoz",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AwS_ATViUQnyuLbbhbmQuQw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-01 20:20:17",
+      "pub_time": "2026-06-01 10:22:32",
+      "publication": "BBC Science Focus Magazine",
+      "author": "",
+      "headline": "Mysterious ancient human settlement discovered 2,000m up a mountain, stunning experts",
+      "article_headline": "Mysterious ancient human settlement discovered 2,000m up a mountain, stunning experts"
+    }
+  ]
+}
