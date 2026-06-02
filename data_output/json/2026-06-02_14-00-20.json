@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-02 14:00:20",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Ai86uGvsTQT27qPv09yzefg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-02 14:00:20",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Housing chief and close Trump ally named as acting director of national intelligence",
+      "article_headline": "Housing chief and close Trump ally named as acting director of national intelligence"
+    },
+    {
+      "link": "https://apple.news/Ac4cDOn8USFW-bV_U5FJVxQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-02 14:00:20",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Trump signs executive order seeking early access to new AI releases",
+      "article_headline": "Trump signs executive order seeking early access to new AI releases"
+    },
+    {
+      "link": "https://apple.news/A5HKCW9qtS-W6OeK4KdIeXw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-02 14:00:20",
+      "pub_time": "2026-06-02 13:57:22",
+      "publication": "POLITICO",
+      "author": "Felicia Schwartz",
+      "headline": "U.S. isn’t offering up-front sanctions relief to reopen Hormuz, Rubio says",
+      "article_headline": "U.S. isn’t offering up-front sanctions relief to reopen Hormuz, Rubio says"
+    },
+    {
+      "link": "https://apple.news/Azsw1UzMnQryeDttD6pfAyQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-02 14:00:20",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "How Ebola attacks the body, and what it takes to stop it",
+      "article_headline": "How Ebola attacks the body, and what it takes to stop it"
+    },
+    {
+      "link": "https://apple.news/A5HKCW9qtS-W6OeK4KdIeXw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-02 14:00:20",
+      "pub_time": "2026-06-02 13:57:23",
+      "publication": "POLITICO",
+      "author": "Felicia Schwartz",
+      "headline": "U.S. isn’t offering up-front sanctions relief to reopen Hormuz, Rubio says",
+      "article_headline": "U.S. isn’t offering up-front sanctions relief to reopen Hormuz, Rubio says"
+    },
+    {
+      "link": "https://apple.news/AiB5Sdn1GTtCuPr7qsLX5jg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-02 14:00:20",
+      "pub_time": "2026-06-02 13:57:51",
+      "publication": "The Hollywood Reporter",
+      "author": "Alex Weprin and Kevin Dolak",
+      "headline": "White House Correspondents’ Dinner rescheduled for next month after gunfire ended initial event",
+      "article_headline": "White House Correspondents’ Dinner rescheduled for next month after gunfire ended initial event"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 14:00:20",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Americans are falling behind on their $1.25 trillion credit-card bill",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A8lDaTcQfTFiQjNV48o2KnA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-02 14:00:20",
+      "pub_time": "2026-06-02 13:03:24",
+      "publication": "Entertainment Weekly",
+      "author": "Emlyn Travis",
+      "headline": "Cause of death confirmed for Jamie Lee Curtis’ sister Kelly",
+      "article_headline": "Cause of death confirmed for Jamie Lee Curtis’ sister Kelly"
+    },
+    {
+      "link": "https://apple.news/Al6snapd-QnqnbNSDKMeEcw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-02 14:00:20",
+      "pub_time": "2026-06-02 00:03:56",
+      "publication": "FOOD & WINE",
+      "author": "Amelia Schwartz",
+      "headline": "This Swedish Candy Is Taking Over U.S. Shelves — and It’s Unlike Anything You’ve Tried",
+      "article_headline": "This Swedish Candy Is Taking Over U.S. Shelves — and It’s Unlike Anything You’ve Tried"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-02 14:00:20",
+      "pub_time": "2026-06-02 10:04:24",
+      "publication": "",
+      "author": "David Pierce",
+      "headline": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Au3vk-MHYRbyTK9eWuJvyuw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-02 14:00:20",
+      "pub_time": "2026-06-02 02:04:24",
+      "publication": "TheStreet",
+      "author": "Jeffrey Quiggle",
+      "headline": "Charles Schwab, Fidelity sound alarm on Roth IRA rule",
+      "article_headline": "Charles Schwab, Fidelity sound alarm on Roth IRA rule"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-02 16:00:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aj937PxPkRlOs9TECRBGc_g",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-02 16:00:19",
+      "pub_time": "2026-06-02 15:40:20",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Anat Peled, and Omar Abdel-Baqui",
+      "headline": "Trump and Netanyahu are clashing over how to end the Iran war",
+      "article_headline": "Trump and Netanyahu are clashing over how to end the Iran war"
+    },
+    {
+      "link": "https://apple.news/A9vh4N84zRMuQLCoYFs-uTQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-02 16:00:19",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump appoints ally Bill Pulte as acting intelligence director",
+      "article_headline": "Trump appoints ally Bill Pulte as acting intelligence director"
+    },
+    {
+      "link": "https://apple.news/AtVrxMb-SSFmtVYY3lsIsow",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-02 16:00:19",
+      "pub_time": "2026-06-02 15:40:21",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Democrats redrew California’s map to counter Trump. Today’s primary tests whether it pays off.",
+      "article_headline": "Democrats redrew California’s map to counter Trump. Today’s primary tests whether it pays off."
+    },
+    {
+      "link": "https://apple.news/Azsw1UzMnQryeDttD6pfAyQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-02 16:00:19",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "How Ebola attacks the body, and what it takes to stop it",
+      "article_headline": "How Ebola attacks the body, and what it takes to stop it"
+    },
+    {
+      "link": "https://apple.news/AtVrxMb-SSFmtVYY3lsIsow",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-02 16:00:19",
+      "pub_time": "2026-06-02 15:40:22",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Democrats redrew California’s map to counter Trump. Today’s primary tests whether it pays off.",
+      "article_headline": "Democrats redrew California’s map to counter Trump. Today’s primary tests whether it pays off."
+    },
+    {
+      "link": "https://apple.news/AiB5Sdn1GTtCuPr7qsLX5jg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-02 16:00:19",
+      "pub_time": "2026-06-02 15:40:49",
+      "publication": "The Hollywood Reporter",
+      "author": "Alex Weprin and Kevin Dolak",
+      "headline": "White House Correspondents’ Dinner rescheduled for next month after gunfire ended initial event",
+      "article_headline": "White House Correspondents’ Dinner rescheduled for next month after gunfire ended initial event"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 16:00:19",
+      "pub_time": "2026-06-02 15:41:16",
+      "publication": "The Washington Post",
+      "author": "Ian Duncan",
+      "headline": "The Pentagon is seeking out former hobbyists to build a new arsenal of killer drones",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

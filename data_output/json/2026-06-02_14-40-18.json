@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-02 14:40:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Ai86uGvsTQT27qPv09yzefg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-02 14:40:18",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Housing chief and close Trump ally named as acting director of national intelligence",
+      "article_headline": "Housing chief and close Trump ally named as acting director of national intelligence"
+    },
+    {
+      "link": "https://apple.news/Ac4cDOn8USFW-bV_U5FJVxQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-02 14:40:18",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Trump signs executive order seeking early access to new AI releases",
+      "article_headline": "Trump signs executive order seeking early access to new AI releases"
+    },
+    {
+      "link": "https://apple.news/AtVrxMb-SSFmtVYY3lsIsow",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-02 14:40:18",
+      "pub_time": "2026-06-02 14:12:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Democrats redrew California’s map to counter Trump. Today’s primary tests whether it pays off.",
+      "article_headline": "Democrats redrew California’s map to counter Trump. Today’s primary tests whether it pays off."
+    },
+    {
+      "link": "https://apple.news/Azsw1UzMnQryeDttD6pfAyQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-02 14:40:18",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "How Ebola attacks the body, and what it takes to stop it",
+      "article_headline": "How Ebola attacks the body, and what it takes to stop it"
+    },
+    {
+      "link": "https://apple.news/AtVrxMb-SSFmtVYY3lsIsow",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-02 14:40:18",
+      "pub_time": "2026-06-02 14:12:20",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Democrats redrew California’s map to counter Trump. Today’s primary tests whether it pays off.",
+      "article_headline": "Democrats redrew California’s map to counter Trump. Today’s primary tests whether it pays off."
+    },
+    {
+      "link": "https://apple.news/AiB5Sdn1GTtCuPr7qsLX5jg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-02 14:40:18",
+      "pub_time": "2026-06-02 14:12:47",
+      "publication": "The Hollywood Reporter",
+      "author": "Alex Weprin and Kevin Dolak",
+      "headline": "White House Correspondents’ Dinner rescheduled for next month after gunfire ended initial event",
+      "article_headline": "White House Correspondents’ Dinner rescheduled for next month after gunfire ended initial event"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 14:40:18",
+      "pub_time": "2026-06-02 14:13:14",
+      "publication": "The Washington Post",
+      "author": "Ian Duncan",
+      "headline": "The Pentagon is seeking out former hobbyists to build a new arsenal of killer drones",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Al6snapd-QnqnbNSDKMeEcw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-02 14:40:18",
+      "pub_time": "2026-06-01 23:43:51",
+      "publication": "FOOD & WINE",
+      "author": "Amelia Schwartz",
+      "headline": "This Swedish Candy Is Taking Over U.S. Shelves — and It’s Unlike Anything You’ve Tried",
+      "article_headline": "This Swedish Candy Is Taking Over U.S. Shelves — and It’s Unlike Anything You’ve Tried"
+    },
+    {
+      "link": "https://apple.news/A8oYxSx3BTy2ZxcV7HFXWsw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-02 14:40:18",
+      "pub_time": "2026-06-02 07:44:25",
+      "publication": "EatingWell",
+      "author": "Amy Brownstein, M.S., RDN",
+      "headline": "The Worst Breakfast Food for Your Cholesterol (Hint: It’s Not Eggs)",
+      "article_headline": "The Worst Breakfast Food for Your Cholesterol (Hint: It’s Not Eggs)"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-02 14:40:18",
+      "pub_time": "2026-06-02 09:44:52",
+      "publication": "",
+      "author": "David Pierce",
+      "headline": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A5adcVG3hTBmJllvGV0MK7g",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-02 14:40:18",
+      "pub_time": "2026-06-02 12:44:52",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Ford issues do not drive warning for over 4K vehicles. See models",
+      "article_headline": "Ford issues do not drive warning for over 4K vehicles. See models"
+    }
+  ]
+}

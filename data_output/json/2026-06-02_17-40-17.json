@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-02 17:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AL92BIbuMRKKDVZgPkXmfKg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-02 17:40:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump administration drops $1.8 billion “weaponization” fund after Republican backlash",
+      "article_headline": "Trump administration drops $1.8 billion “weaponization” fund after Republican backlash"
+    },
+    {
+      "link": "https://apple.news/Aj937PxPkRlOs9TECRBGc_g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-02 17:40:17",
+      "pub_time": "2026-06-02 17:09:45",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Anat Peled, and Omar Abdel-Baqui",
+      "headline": "Trump and Netanyahu are clashing over how to end the Iran war",
+      "article_headline": "Trump and Netanyahu are clashing over how to end the Iran war"
+    },
+    {
+      "link": "https://apple.news/Aj937PxPkRlOs9TECRBGc_g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-02 17:40:17",
+      "pub_time": "2026-06-02 17:09:19",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Anat Peled, and Omar Abdel-Baqui",
+      "headline": "Trump and Netanyahu are clashing over how to end the Iran war",
+      "article_headline": "Trump and Netanyahu are clashing over how to end the Iran war"
+    },
+    {
+      "link": "https://apple.news/AXEPD3tioR5OwsSnVyLPKzg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-02 17:40:17",
+      "pub_time": "",
+      "publication": "The Texas Tribune",
+      "author": "",
+      "headline": "Eight data centers threaten to transform this small Texas county. Local officials say they have no power to stop them.",
+      "article_headline": "Eight data centers threaten to transform this small Texas county. Local officials say they have no power to stop them."
+    },
+    {
+      "link": "https://apple.news/Azsw1UzMnQryeDttD6pfAyQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-02 17:40:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "How Ebola attacks the body, and what it takes to stop it",
+      "article_headline": "How Ebola attacks the body, and what it takes to stop it"
+    },
+    {
+      "link": "https://apple.news/A2AQmUibVTHi2xV6J_IX8bg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-02 17:40:17",
+      "pub_time": "2026-06-02 17:09:47",
+      "publication": "TIME",
+      "author": "Chantelle Lee",
+      "headline": "Why the results of the California primary might not come in on election night",
+      "article_headline": "Why the results of the California primary might not come in on election night"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 17:40:17",
+      "pub_time": "2026-06-02 17:09:15",
+      "publication": "The Washington Post",
+      "author": "Ian Duncan",
+      "headline": "The Pentagon is seeking out former hobbyists to build a new arsenal of killer drones",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
