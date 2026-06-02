@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-02 06:40:22",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AidhOuVmORveQQpPsVnDHZw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-02 06:40:22",
+      "pub_time": "2026-06-02 06:27:24",
+      "publication": "ABC News",
+      "author": "David Brennan",
+      "headline": "Deadly Russian strikes rock Kyiv as Zelenskyy appeals to U.S. for urgent help",
+      "article_headline": "Deadly Russian strikes rock Kyiv as Zelenskyy appeals to U.S. for urgent help"
+    },
+    {
+      "link": "https://apple.news/A6m_8O7j3RRCQWt2ExlN0Mw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-02 06:40:22",
+      "pub_time": "",
+      "publication": "Fox News",
+      "author": "",
+      "headline": "Rubio braces for Hill grilling as Republicans join bid to curb Trump’s Iran war powers",
+      "article_headline": "Rubio braces for Hill grilling as Republicans join bid to curb Trump’s Iran war powers"
+    },
+    {
+      "link": "https://apple.news/AR3r4RaRFTtKq15tbFDLAFA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-02 06:40:22",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The autism-therapy business is booming — and so is the billing abuse",
+      "article_headline": "The autism-therapy business is booming — and so is the billing abuse"
+    },
+    {
+      "link": "https://apple.news/Av6Z93lHGRGWj8Ww8Talvsg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-02 06:40:22",
+      "pub_time": "2026-06-02 06:26:52",
+      "publication": "Philadelphia Inquirer",
+      "author": "Dana Munro",
+      "headline": "Betsy Ross heir donates her original sewing table to Philadelphia’s Betsy Ross House",
+      "article_headline": "Betsy Ross heir donates her original sewing table to Philadelphia’s Betsy Ross House"
+    },
+    {
+      "link": "https://apple.news/Av6Z93lHGRGWj8Ww8Talvsg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-02 06:40:22",
+      "pub_time": "2026-06-02 06:26:25",
+      "publication": "Philadelphia Inquirer",
+      "author": "Dana Munro",
+      "headline": "Betsy Ross heir donates her original sewing table to Philadelphia’s Betsy Ross House",
+      "article_headline": "Betsy Ross heir donates her original sewing table to Philadelphia’s Betsy Ross House"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 06:40:22",
+      "pub_time": "",
+      "publication": "Sports Illustrated",
+      "author": "",
+      "headline": "Golden Knights vs. Hurricanes: 4 bold predictions for the Stanley Cup Final",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 06:40:22",
+      "pub_time": "2026-06-02 06:26:52",
+      "publication": "The New Yorker",
+      "author": "Larissa MacFarquhar",
+      "headline": "The government agency taking children from their parents without a court order",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

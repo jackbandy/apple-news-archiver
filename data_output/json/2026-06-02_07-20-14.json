@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-02 07:20:14",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AidhOuVmORveQQpPsVnDHZw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-02 07:20:14",
+      "pub_time": "2026-06-02 06:27:16",
+      "publication": "ABC News",
+      "author": "David Brennan",
+      "headline": "Deadly Russian strikes rock Kyiv as Zelenskyy appeals to U.S. for urgent help",
+      "article_headline": "Deadly Russian strikes rock Kyiv as Zelenskyy appeals to US for urgent help"
+    },
+    {
+      "link": "https://apple.news/A6m_8O7j3RRCQWt2ExlN0Mw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-02 07:20:14",
+      "pub_time": "",
+      "publication": "Fox News",
+      "author": "",
+      "headline": "Rubio braces for Hill grilling as Republicans join bid to curb Trump’s Iran war powers",
+      "article_headline": "Rubio braces for Hill grilling as Republicans join bid to curb Trump’s Iran war powers"
+    },
+    {
+      "link": "https://apple.news/AR3r4RaRFTtKq15tbFDLAFA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-02 07:20:14",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The autism-therapy business is booming — and so is the billing abuse",
+      "article_headline": "The autism-therapy business is booming — and so is the billing abuse"
+    },
+    {
+      "link": "https://apple.news/Av6Z93lHGRGWj8Ww8Talvsg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-02 07:20:14",
+      "pub_time": "2026-06-02 06:27:44",
+      "publication": "Philadelphia Inquirer",
+      "author": "Dana Munro",
+      "headline": "Betsy Ross heir donates her original sewing table to Philadelphia’s Betsy Ross House",
+      "article_headline": "Betsy Ross heir donates her original sewing table to Philadelphia’s Betsy Ross House"
+    },
+    {
+      "link": "https://apple.news/Av6Z93lHGRGWj8Ww8Talvsg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-02 07:20:14",
+      "pub_time": "2026-06-02 06:27:17",
+      "publication": "Philadelphia Inquirer",
+      "author": "Dana Munro",
+      "headline": "Betsy Ross heir donates her original sewing table to Philadelphia’s Betsy Ross House",
+      "article_headline": "Betsy Ross heir donates her original sewing table to Philadelphia’s Betsy Ross House"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 07:20:14",
+      "pub_time": "",
+      "publication": "Sports Illustrated",
+      "author": "",
+      "headline": "Golden Knights vs. Hurricanes: 4 bold predictions for the Stanley Cup Final",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 07:20:14",
+      "pub_time": "2026-06-02 06:27:45",
+      "publication": "The New Yorker",
+      "author": "Larissa MacFarquhar",
+      "headline": "The government agency taking children from their parents without a court order",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A6J1nZNC7QvGA8onLqK1Mlg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-02 07:20:14",
+      "pub_time": "2026-06-01 20:22:56",
+      "publication": "NBC News",
+      "author": "Top Story",
+      "headline": "Sonic booms heard around the U.S.",
+      "article_headline": "Sonic booms heard around the U.S."
+    },
+    {
+      "link": "https://apple.news/AXWEOwGtzR_aKWMWcGkfRLA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-02 07:20:14",
+      "pub_time": "2026-06-01 07:23:24",
+      "publication": "FOOD & WINE",
+      "author": "Bernadette Machard de Gramont",
+      "headline": "After Using This Water Filter That Removes Forever Chemicals, I’ll Never Go Back to a Brita",
+      "article_headline": "After Using This Water Filter That Removes Forever Chemicals, I’ll Never Go Back to a Brita"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-02 07:20:14",
+      "pub_time": "2026-06-01 13:23:51",
+      "publication": "",
+      "author": "Kristine Hansen",
+      "headline": "This 42-mile Scenic Drive Was Just Named the Most Beautiful Road in the U.S.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-02 07:20:14",
+      "pub_time": "2026-06-01 21:23:51",
+      "publication": "",
+      "author": "Liz Richardson",
+      "headline": "9 Subtle Signs That Someone Is \"Old Money\" And 8 Signs That Scream \"I'm New Money Rich\"",
+      "article_headline": ""
+    }
+  ]
+}

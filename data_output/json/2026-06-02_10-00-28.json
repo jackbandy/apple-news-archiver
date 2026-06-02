@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-02 10:00:28",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AUoh6GO-aRuqOFV5BTlINjA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-02 10:00:28",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Democratic battles and incumbents on defense: what to watch in Tuesday’s primaries",
+      "article_headline": "Democratic battles and incumbents on defense: what to watch in Tuesday’s primaries"
+    },
+    {
+      "link": "https://apple.news/Aq0oxMBA9SVm7bUij9K-qeA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-02 10:00:28",
+      "pub_time": "2026-06-02 09:26:59",
+      "publication": "The Washington Post",
+      "author": "Warren Strobel",
+      "headline": "Trump picks mortgage chief Bill Pulte to lead on national intelligence",
+      "article_headline": "Trump picks mortgage chief Bill Pulte to lead on national intelligence"
+    },
+    {
+      "link": "https://apple.news/ARRwaZFXYT_iZeiG2gomXCw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-02 10:00:28",
+      "pub_time": "2026-06-02 09:27:26",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "The ceasefires in Gaza, Lebanon, and Iran are stretching the term’s meaning",
+      "article_headline": "The ceasefires in Gaza, Lebanon, and Iran are stretching the term’s meaning"
+    },
+    {
+      "link": "https://apple.news/Aq0oxMBA9SVm7bUij9K-qeA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-02 10:00:28",
+      "pub_time": "2026-06-02 09:26:00",
+      "publication": "The Washington Post",
+      "author": "Warren Strobel",
+      "headline": "Trump picks mortgage chief Bill Pulte to lead on national intelligence",
+      "article_headline": "Trump picks mortgage chief Bill Pulte to lead on national intelligence"
+    },
+    {
+      "link": "https://apple.news/ARRwaZFXYT_iZeiG2gomXCw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-02 10:00:28",
+      "pub_time": "2026-06-02 09:26:27",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "The ceasefires in Gaza, Lebanon, and Iran are stretching the term’s meaning",
+      "article_headline": "The ceasefires in Gaza, Lebanon, and Iran are stretching the term’s meaning"
+    },
+    {
+      "link": "https://apple.news/Au5yfIXeRTymzEfwZ4z7fzQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-02 10:00:28",
+      "pub_time": "2026-06-02 09:26:54",
+      "publication": "Reuters",
+      "author": "Humphrey Malalo",
+      "headline": "Protests over U.S. Ebola site in Kenya kill 2, court keeps block",
+      "article_headline": "Protests over U.S. Ebola site in Kenya kill 2, court keeps block"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 10:00:28",
+      "pub_time": "",
+      "publication": "Vox",
+      "author": "",
+      "headline": "Americans don’t know how to fight AI. So they’re fighting data centers.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
