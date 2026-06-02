@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-02 06:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AidhOuVmORveQQpPsVnDHZw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-02 06:00:16",
+      "pub_time": "2026-06-02 05:14:18",
+      "publication": "ABC News",
+      "author": "David Brennan",
+      "headline": "Deadly Russian strikes rock Kyiv as Zelenskyy appeals to U.S. for urgent help",
+      "article_headline": "Deadly Russian strikes rock Kyiv as Zelenskyy appeals to U.S. for urgent help"
+    },
+    {
+      "link": "https://apple.news/A7Kks1BZfSfyEELxfFXYVdA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-02 06:00:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Rubio will testify before Congress for the first time since the start of the Iran war",
+      "article_headline": "Rubio will testify before Congress for the first time since the start of the Iran war"
+    },
+    {
+      "link": "https://apple.news/AKqHXlJdgTs2Z4cGhGYQYeg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-02 06:00:16",
+      "pub_time": "2026-06-02 05:14:18",
+      "publication": "The Washington Post",
+      "author": "Karen DeYoung and Gerry Shih",
+      "headline": "Lacking money and support, Trump’s Board of Peace stalls in Gaza",
+      "article_headline": "Lacking money and support, Trump’s Board of Peace stalls in Gaza"
+    },
+    {
+      "link": "https://apple.news/AF9w7t1axQECXNNZzOcqA5w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-02 06:00:16",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Remote work — not AI — has sidelined recent college graduates, research finds",
+      "article_headline": "Remote work — not AI — has sidelined recent college graduates, research finds"
+    },
+    {
+      "link": "https://apple.news/AKqHXlJdgTs2Z4cGhGYQYeg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-02 06:00:16",
+      "pub_time": "2026-06-02 05:14:19",
+      "publication": "The Washington Post",
+      "author": "Karen DeYoung and Gerry Shih",
+      "headline": "Lacking money and support, Trump’s Board of Peace stalls in Gaza",
+      "article_headline": "Lacking money and support, Trump’s Board of Peace stalls in Gaza"
+    },
+    {
+      "link": "https://apple.news/Av6Z93lHGRGWj8Ww8Talvsg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-02 06:00:16",
+      "pub_time": "2026-06-02 05:14:47",
+      "publication": "Philadelphia Inquirer",
+      "author": "Dana Munro",
+      "headline": "Betsy Ross heir donates her original sewing table to Philadelphia’s Betsy Ross House",
+      "article_headline": "Betsy Ross heir donates her original sewing table to Philadelphia’s Betsy Ross House"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 06:00:16",
+      "pub_time": "2026-06-02 05:15:15",
+      "publication": "The New Yorker",
+      "author": "Larissa MacFarquhar",
+      "headline": "The government agency taking children from their parents without a court order",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

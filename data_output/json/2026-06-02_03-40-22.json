@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-02 03:40:22",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A0IsSwrUJSOG-0zORyeSjkA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-02 03:40:22",
+      "pub_time": "2026-06-02 00:40:24",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "At least 9 dead, dozens wounded as Russia launches major attack across Ukraine",
+      "article_headline": "Russian drones, missiles strike Ukraine in major attack; 11 dead, scores wounded"
+    },
+    {
+      "link": "https://apple.news/A7Kks1BZfSfyEELxfFXYVdA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-02 03:40:22",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Rubio to testify before Congress for the first time since the start of the Iran war",
+      "article_headline": "Rubio to testify before Congress for the first time since the start of the Iran war"
+    },
+    {
+      "link": "https://apple.news/AKqHXlJdgTs2Z4cGhGYQYeg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-02 03:40:22",
+      "pub_time": "2026-06-02 00:41:23",
+      "publication": "The Washington Post",
+      "author": "Karen DeYoung and Gerry Shih",
+      "headline": "Lacking money and support, Trump’s Board of Peace stalls in Gaza",
+      "article_headline": "Lacking money and support, Trump’s Board of Peace stalls in Gaza"
+    },
+    {
+      "link": "https://apple.news/AnYDzBCFySnyWskl3P3vggQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-02 03:40:22",
+      "pub_time": "2026-06-02 00:41:51",
+      "publication": "The Wall Street Journal",
+      "author": "Lara Seligman",
+      "headline": "Hegseth blocks 8 Navy senior officer promotions",
+      "article_headline": "Hegseth Blocks Eight Navy Senior Officer Promotions"
+    },
+    {
+      "link": "https://apple.news/AF9w7t1axQECXNNZzOcqA5w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-02 03:40:22",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Remote work — not AI — has sidelined recent college graduates, research finds",
+      "article_headline": "Remote work — not AI — has sidelined recent college graduates, research finds"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 03:40:22",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "Newly unearthed treasures could solve one of the greatest mysteries of the Inca Empire, Alejandro Muñoz",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Acy-Mhu2MSp-7cOqfueHK4g",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-02 03:40:22",
+      "pub_time": "2026-06-01 12:43:07",
+      "publication": "InStyle",
+      "author": "Lara Walsh",
+      "headline": "Jill Biden Provides Update on Joe Biden's Cancer Treatment After Shocking Diagnosis",
+      "article_headline": "Jill Biden Provides Update on Joe Biden's Cancer Treatment After Shocking Diagnosis"
+    },
+    {
+      "link": "https://apple.news/A6J1nZNC7QvGA8onLqK1Mlg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-02 03:40:22",
+      "pub_time": "2026-06-01 19:43:57",
+      "publication": "NBC News",
+      "author": "Top Story",
+      "headline": "Sonic booms heard around the U.S.",
+      "article_headline": "Sonic booms heard around the U.S."
+    },
+    {
+      "link": "https://apple.news/Ag84kSbj8Tge04WiKZtRpiA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-02 03:40:22",
+      "pub_time": "2026-06-01 06:44:25",
+      "publication": "TheStreet",
+      "author": "Damilola Esebame",
+      "headline": "Charles Schwab warns Americans on major estate planning problem",
+      "article_headline": "Charles Schwab warns Americans on major estate planning problem"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-02 03:40:22",
+      "pub_time": "2026-06-01 12:44:52",
+      "publication": "",
+      "author": "Kristine Hansen",
+      "headline": "This 42-mile Scenic Drive Was Just Named the Most Beautiful Road in the U.S.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AItMph0GlSkGXH0Qb3pNSkQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-02 03:40:22",
+      "pub_time": "2026-06-01 15:44:58",
+      "publication": "People",
+      "author": "Jordan Greene",
+      "headline": "14-Year-Old Gymnast Finds Olympic Dreams Ended When Split-Second Accident Results in Spinal Cord Injury (Exclusive)",
+      "article_headline": "14-Year-Old Gymnast Finds Olympic Dreams Ended When Split-Second Accident Results in Spinal Cord Injury (Exclusive)"
+    }
+  ]
+}

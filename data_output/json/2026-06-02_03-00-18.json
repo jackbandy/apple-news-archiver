@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-02 03:00:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A0IsSwrUJSOG-0zORyeSjkA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-02 03:00:18",
+      "pub_time": "2026-06-02 01:00:19",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "At least 9 dead, dozens wounded as Russia launches major attack across Ukraine",
+      "article_headline": "Russian drones, missiles strike Ukraine in major attack; 11 dead, scores wounded"
+    },
+    {
+      "link": "https://apple.news/A7Kks1BZfSfyEELxfFXYVdA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-02 03:00:18",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Rubio to testify before Congress for the first time since the start of the Iran war",
+      "article_headline": "Rubio to testify before Congress for the first time since the start of the Iran war"
+    },
+    {
+      "link": "https://apple.news/AKqHXlJdgTs2Z4cGhGYQYeg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-02 03:00:18",
+      "pub_time": "2026-06-02 01:01:19",
+      "publication": "The Washington Post",
+      "author": "Karen DeYoung and Gerry Shih",
+      "headline": "Lacking money and support, Trump’s Board of Peace stalls in Gaza",
+      "article_headline": "Lacking money and support, Trump’s Board of Peace stalls in Gaza"
+    },
+    {
+      "link": "https://apple.news/AnYDzBCFySnyWskl3P3vggQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-02 03:00:18",
+      "pub_time": "2026-06-02 01:01:47",
+      "publication": "The Wall Street Journal",
+      "author": "Lara Seligman",
+      "headline": "Hegseth blocks 8 Navy senior officer promotions",
+      "article_headline": "Hegseth Blocks Eight Navy Senior Officer Promotions"
+    },
+    {
+      "link": "https://apple.news/AF9w7t1axQECXNNZzOcqA5w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-02 03:00:18",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Remote work — not AI — has sidelined recent college graduates, research finds",
+      "article_headline": "Remote work — not AI — has sidelined recent college graduates, research finds"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 03:00:18",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "Newly unearthed treasures could solve one of the greatest mysteries of the Inca Empire, Alejandro Muñoz",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-02 03:00:18",
+      "pub_time": "2026-06-02 02:03:11",
+      "publication": "Apple News Plus",
+      "author": "Priyanka Shahane",
+      "headline": "EatingWell, Amazon Shoppers Say This Egg Cooker Is a ‘Miracle Worker’ for Breakfast",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
