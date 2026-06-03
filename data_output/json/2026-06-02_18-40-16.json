@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-06-02 18:40:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AL92BIbuMRKKDVZgPkXmfKg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-02 18:40:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump administration drops $1.8 billion “anti-weaponization” fund after Republican backlash",
+      "article_headline": "Trump administration drops $1.8 billion 'weaponization' fund after Republican backlash"
+    },
+    {
+      "link": "https://apple.news/Aj937PxPkRlOs9TECRBGc_g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-02 18:40:16",
+      "pub_time": "2026-06-02 18:00:45",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Anat Peled, and Omar Abdel-Baqui",
+      "headline": "Trump and Netanyahu are clashing over how to end the Iran war",
+      "article_headline": "Trump and Netanyahu are clashing over how to end the Iran war"
+    },
+    {
+      "link": "https://apple.news/Aj937PxPkRlOs9TECRBGc_g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-02 18:40:16",
+      "pub_time": "2026-06-02 18:00:17",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Anat Peled, and Omar Abdel-Baqui",
+      "headline": "Trump and Netanyahu are clashing over how to end the Iran war",
+      "article_headline": "Trump and Netanyahu are clashing over how to end the Iran war"
+    },
+    {
+      "link": "https://apple.news/AXEPD3tioR5OwsSnVyLPKzg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-02 18:40:16",
+      "pub_time": "",
+      "publication": "The Texas Tribune",
+      "author": "",
+      "headline": "Eight data centers threaten to transform this small Texas county. Local officials say they have no power to stop them.",
+      "article_headline": "Eight data centers threaten to transform this small Texas county. Local officials say they have no power to stop them."
+    },
+    {
+      "link": "https://apple.news/A2AQmUibVTHi2xV6J_IX8bg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-02 18:40:16",
+      "pub_time": "2026-06-02 18:01:12",
+      "publication": "TIME",
+      "author": "Chantelle Lee",
+      "headline": "Why the results of the California primary might not come in on election night",
+      "article_headline": "Why the results of the California primary might not come in on election night"
+    },
+    {
+      "link": "https://apple.news/A2AQmUibVTHi2xV6J_IX8bg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-02 18:40:16",
+      "pub_time": "2026-06-02 18:00:46",
+      "publication": "TIME",
+      "author": "Chantelle Lee",
+      "headline": "Why the results of the California primary might not come in on election night",
+      "article_headline": "Why the results of the California primary might not come in on election night"
+    },
+    {
+      "link": "https://apple.news/Azsw1UzMnQryeDttD6pfAyQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-02 18:40:16",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "How Ebola attacks the body, and what it takes to stop it",
+      "article_headline": "How Ebola attacks the body, and what it takes to stop it"
+    },
+    {
+      "link": "https://apple.news/A8oYxSx3BTy2ZxcV7HFXWsw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-02 18:40:16",
+      "pub_time": "2026-06-02 07:44:18",
+      "publication": "EatingWell",
+      "author": "Amy Brownstein, M.S., RDN",
+      "headline": "The Worst Breakfast Food for Your Cholesterol (Hint: It’s Not Eggs)",
+      "article_headline": "The Worst Breakfast Food for Your Cholesterol (Hint: It’s Not Eggs)"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-02 18:40:16",
+      "pub_time": "2026-06-01 18:44:45",
+      "publication": "",
+      "author": "Kristine Hansen",
+      "headline": "This 42-mile Scenic Drive Was Just Named the Most Beautiful Road in the U.S.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aycw4HDrDREGfOGM8grawwQ",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-02 18:40:16",
+      "pub_time": "2026-06-02 17:44:51",
+      "publication": "BuzzFeed",
+      "author": "Alexandra Frost",
+      "headline": "I'm A Hip Surgeon. Here's The 1 Thing I'd Never Do If I Have Hip Pain.",
+      "article_headline": "I'm A Hip Surgeon. Here's The 1 Thing I'd Never Do If I Have Hip Pain."
+    },
+    {
+      "link": "https://apple.news/A2Iu4-z1QTFKGcm_QXJhZOg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-02 18:40:16",
+      "pub_time": "2026-06-02 18:18:19",
+      "publication": "TMZ",
+      "author": "TMZ Staff",
+      "headline": "Cassie Flees USA After $30 Million Payout for Diddy Abuse",
+      "article_headline": "Cassie Flees USA After $30 Million Payout for Diddy Abuse"
+    }
+  ]
+}
