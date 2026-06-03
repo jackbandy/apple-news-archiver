@@ -1,0 +1,74 @@
+{
+  "run_time": "2026-06-03 10:20:17",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AljAJ4L3ER-ysRfcJ3VDxQA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-03 10:20:17",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "California’s race for governor and other key primaries remain undecided",
+      "article_headline": "California’s race for governor and other key primaries remain undecided"
+    },
+    {
+      "link": "https://apple.news/AWgdv-0meSVKIs6i5sNYPFw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-03 10:20:17",
+      "pub_time": "2026-06-03 09:20:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran and the U.S. trade strikes in the Persian Gulf in new test of ceasefire",
+      "article_headline": "Iran and the U.S. trade strikes in the Persian Gulf in new test of ceasefire"
+    },
+    {
+      "link": "https://apple.news/AeApXkGyiQqylCOcW6HMsoA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-03 10:20:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Americans face fresh price hikes as oil supplies hit historic lows",
+      "article_headline": "Americans face fresh price hikes as oil supplies hit historic lows"
+    },
+    {
+      "link": "https://apple.news/A0mlbE_tyRl6yPgeoCqn3dQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-03 10:20:17",
+      "pub_time": "2026-06-03 09:21:46",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "A low-income housing program is pouring billions into housing many people can’t afford",
+      "article_headline": "A low-income housing program is pouring billions into housing many people can’t afford"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-03 10:20:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "How the Knicks-Spurs NBA Finals put sportsbooks into a lose-lose scenario",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-03 10:20:17",
+      "pub_time": "2026-06-03 09:22:18",
+      "publication": "Bloomberg Businessweek",
+      "author": "Matt Day",
+      "headline": "The Whole Foods CEO wants to put a banana in your Amazon box",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
