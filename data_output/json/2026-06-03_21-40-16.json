@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-03 21:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AA3EgrSunRkGaAQOH3Y4kAg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-03 21:40:16",
+      "pub_time": "2026-06-03 21:26:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "House approves war powers resolution to halt military action against Iran, in a rebuke of Trump",
+      "article_headline": "House approves war powers resolution to halt military action against Iran, in a rebuke of Trump"
+    },
+    {
+      "link": "https://apple.news/A7O0gmEphQX-W3JMH2En_JQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-03 21:40:16",
+      "pub_time": "2026-06-03 21:26:45",
+      "publication": "Bloomberg",
+      "author": "Derek Wallbank and Jon Herskovitz",
+      "headline": "U.S. says Israel, Lebanon agree to ceasefire if Hezbollah stops hostilities",
+      "article_headline": "U.S. says Israel, Lebanon agree to ceasefire if Hezbollah stops hostilities"
+    },
+    {
+      "link": "https://apple.news/A7O0gmEphQX-W3JMH2En_JQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-03 21:40:16",
+      "pub_time": "2026-06-03 21:26:17",
+      "publication": "Bloomberg",
+      "author": "Derek Wallbank and Jon Herskovitz",
+      "headline": "U.S. says Israel, Lebanon agree to ceasefire if Hezbollah stops hostilities",
+      "article_headline": "U.S. says Israel, Lebanon agree to ceasefire if Hezbollah stops hostilities"
+    },
+    {
+      "link": "https://apple.news/Al1GQUOoiTGKoM7HXoY4aAQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-03 21:40:16",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Markwayne Mullin, Democrats trade barbs in tense DHS funding hearing in Congress",
+      "article_headline": "Markwayne Mullin, Democrats trade barbs in tense DHS funding hearing in Congress"
+    },
+    {
+      "link": "https://apple.news/ApFJCi60-RHSS12BhwGc3iA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-03 21:40:16",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Why one of the cities most dependent on the Colorado River now has water for sale",
+      "article_headline": "Why one of the cities most dependent on the Colorado River now has water for sale"
+    },
+    {
+      "link": "https://apple.news/A68wyeJqgR9K-CNN_MacKwA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-03 21:40:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Live updates: Knicks, Spurs clash in highly anticipated Game 1 of the NBA Finals",
+      "article_headline": "Knicks vs. Spurs score and live updates: NBA Finals 2026 Game 1 in a tight fourth quarter"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-03 21:40:16",
+      "pub_time": "",
+      "publication": "WIRED",
+      "author": "",
+      "headline": "There may finally be a breakthrough for treating long COVID — but it’s controversial, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

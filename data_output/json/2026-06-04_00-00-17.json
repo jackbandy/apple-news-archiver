@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-04 00:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AZ6hRgZYxQTSqAYggBgb12A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-04 00:00:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Trump says he plans to nominate Todd Blanche to serve as attorney general",
+      "article_headline": "Trump says he plans to nominate Todd Blanche to serve as attorney general"
+    },
+    {
+      "link": "https://apple.news/ATQDXYL_8QTKSVRpexuCOeQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-04 00:00:17",
+      "pub_time": "2026-06-03 23:54:46",
+      "publication": "The Guardian",
+      "author": "Robert Tait",
+      "headline": "House passes war powers resolution to curb Trump’s authority in Iran",
+      "article_headline": "House passes war powers resolution to curb Trump’s authority in Iran"
+    },
+    {
+      "link": "https://apple.news/ASg6lpbHOQGGIhbaUcCD-Ew",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-04 00:00:17",
+      "pub_time": "2026-06-03 23:55:14",
+      "publication": "ABC News",
+      "author": "Laura Romero and Peter Charalambous",
+      "headline": "Jan. 6 defendants still eyeing payouts, despite scrapped $1.8 billion fund",
+      "article_headline": "Jan. 6 defendants still eyeing payouts, despite scrapped $1.8 billion fund"
+    },
+    {
+      "link": "https://apple.news/ATQDXYL_8QTKSVRpexuCOeQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-04 00:00:17",
+      "pub_time": "2026-06-03 23:54:48",
+      "publication": "The Guardian",
+      "author": "Robert Tait",
+      "headline": "House passes war powers resolution to curb Trump’s authority in Iran",
+      "article_headline": "House passes war powers resolution to curb Trump’s authority in Iran"
+    },
+    {
+      "link": "https://apple.news/ASg6lpbHOQGGIhbaUcCD-Ew",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-04 00:00:17",
+      "pub_time": "2026-06-03 23:55:16",
+      "publication": "ABC News",
+      "author": "Laura Romero and Peter Charalambous",
+      "headline": "Jan. 6 defendants still eyeing payouts, despite scrapped $1.8 billion fund",
+      "article_headline": "Jan. 6 defendants still eyeing payouts, despite scrapped $1.8 billion fund"
+    },
+    {
+      "link": "https://apple.news/A_YJLebUqQPOMWhwRsZ71Kg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-04 00:00:17",
+      "pub_time": "2026-06-03 23:55:44",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "NASA declares its Mars Maven spacecraft dead after six months of silence",
+      "article_headline": "NASA declares its Mars Maven spacecraft dead after six months of silence"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-04 00:00:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Knicks pull off 14-point comeback against Spurs to steal Game 1 of NBA Finals",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

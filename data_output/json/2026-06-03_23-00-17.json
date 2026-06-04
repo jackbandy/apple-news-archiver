@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-03 23:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AM-WQuhpgSUGGOhexJWZkPA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-03 23:00:17",
+      "pub_time": "2026-06-03 22:35:18",
+      "publication": "Reuters",
+      "author": "Ahmed Elimam and Menna Alaaeldin",
+      "headline": "Israel, Lebanon agree to implement ceasefire, boosting hopes for Iran deal",
+      "article_headline": "Israel, Lebanon agree to implement ceasefire, boosting hopes for Iran deal"
+    },
+    {
+      "link": "https://apple.news/A9lBZNdv-SoWhfgT34Xhc2w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-03 23:00:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump says he’s nominating Todd Blanche to serve as attorney general",
+      "article_headline": "Trump says he’s nominating Todd Blanche to serve as attorney general"
+    },
+    {
+      "link": "https://apple.news/Al1GQUOoiTGKoM7HXoY4aAQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-03 23:00:17",
+      "pub_time": "2026-06-03 22:35:18",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Markwayne Mullin, Democrats trade barbs in tense DHS funding hearing in Congress",
+      "article_headline": "Markwayne Mullin, Democrats trade barbs in tense DHS funding hearing in Congress"
+    },
+    {
+      "link": "https://apple.news/ApFJCi60-RHSS12BhwGc3iA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-03 23:00:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Why one of the cities most dependent on the Colorado River now has water for sale",
+      "article_headline": "Why one of the cities most dependent on the Colorado River now has water for sale"
+    },
+    {
+      "link": "https://apple.news/Al1GQUOoiTGKoM7HXoY4aAQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-03 23:00:17",
+      "pub_time": "2026-06-03 22:35:18",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Markwayne Mullin, Democrats trade barbs in tense DHS funding hearing in Congress",
+      "article_headline": "Markwayne Mullin, Democrats trade barbs in tense DHS funding hearing in Congress"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-03 23:00:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Jalen Brunson takes over as Knicks surge past Spurs in Game 1 of NBA Finals",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-03 23:00:17",
+      "pub_time": "",
+      "publication": "WIRED",
+      "author": "",
+      "headline": "There may finally be a breakthrough for treating long COVID — but it’s controversial, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
