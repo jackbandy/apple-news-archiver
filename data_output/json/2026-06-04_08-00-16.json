@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-04 08:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ax4EQFLmTSISfhQx-62q8QA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-04 08:00:16",
+      "pub_time": "2026-06-04 07:47:18",
+      "publication": "Reuters",
+      "author": "Steven Scheer, Maya Gebeily, and Ahmed Elimam",
+      "headline": "Israel strikes in Lebanon despite ceasefire deal",
+      "article_headline": "Israel strikes in Lebanon despite ceasefire deal"
+    },
+    {
+      "link": "https://apple.news/A6xjwWUzqRQidd4elPyFZSQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-04 08:00:16",
+      "pub_time": "2026-06-04 07:47:45",
+      "publication": "Fox News",
+      "author": "Alex Miller",
+      "headline": "GOP advances ICE funding package after forcing Trump’s “anti-weaponization” fund into retreat",
+      "article_headline": "GOP advances ICE funding package after forcing Trump’s “anti-weaponization” fund into retreat"
+    },
+    {
+      "link": "https://apple.news/Askc1on75R0GaOaORP6Ph0A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-04 08:00:16",
+      "pub_time": "2026-06-04 07:48:12",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "North Korea unveils a new plant to produce fuel for nuclear weapons",
+      "article_headline": "North Korea unveils a new plant to produce fuel for nuclear weapons"
+    },
+    {
+      "link": "https://apple.news/A6xjwWUzqRQidd4elPyFZSQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-04 08:00:16",
+      "pub_time": "2026-06-04 07:47:44",
+      "publication": "Fox News",
+      "author": "Alex Miller",
+      "headline": "GOP advances ICE funding package after forcing Trump’s “anti-weaponization” fund into retreat",
+      "article_headline": "GOP advances ICE funding package after forcing Trump’s “anti-weaponization” fund into retreat"
+    },
+    {
+      "link": "https://apple.news/Askc1on75R0GaOaORP6Ph0A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-04 08:00:16",
+      "pub_time": "2026-06-04 07:48:12",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "North Korea unveils a new plant to produce fuel for nuclear weapons",
+      "article_headline": "North Korea unveils a new plant to produce fuel for nuclear weapons"
+    },
+    {
+      "link": "https://apple.news/AQ8p8Kd-URF6l-jFt8SQPEg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-04 08:00:16",
+      "pub_time": "",
+      "publication": "The Texas Tribune",
+      "author": "",
+      "headline": "First U.S. screwworm parasite found in South Texas calf, the latest blow to beef producers",
+      "article_headline": "First U.S. screwworm parasite found in South Texas calf, the latest blow to beef producers"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-04 08:00:16",
+      "pub_time": "2026-06-04 07:48:12",
+      "publication": "The Wall Street Journal",
+      "author": "Jemal R. Brinson and John McCormick",
+      "headline": "Inside the $850 million Obama Presidential Center",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

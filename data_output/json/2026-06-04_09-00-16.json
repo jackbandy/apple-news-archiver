@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-04 09:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A5w4tuXhYSwuU7gkDvQexlA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-04 09:00:16",
+      "pub_time": "2026-06-04 08:27:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon",
+      "article_headline": "Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon"
+    },
+    {
+      "link": "https://apple.news/A6xjwWUzqRQidd4elPyFZSQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-04 09:00:16",
+      "pub_time": "2026-06-04 08:27:45",
+      "publication": "Fox News",
+      "author": "Alex Miller",
+      "headline": "GOP advances ICE funding package after forcing Trump’s “anti-weaponization” plan into retreat",
+      "article_headline": "GOP advances ICE funding package after forcing Trump’s “anti-weaponization” plan into retreat"
+    },
+    {
+      "link": "https://apple.news/AZbcsPcb3Sc6V4WOOIV93ew",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-04 09:00:16",
+      "pub_time": "2026-06-04 08:28:13",
+      "publication": "ABC News",
+      "author": "Katherine Faulders and Nicholas Kerr",
+      "headline": "Trump says he will nominate Todd Blanche as attorney general",
+      "article_headline": "Trump says he will nominate Todd Blanche as attorney general"
+    },
+    {
+      "link": "https://apple.news/A6xjwWUzqRQidd4elPyFZSQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-04 09:00:16",
+      "pub_time": "2026-06-04 08:27:46",
+      "publication": "Fox News",
+      "author": "Alex Miller",
+      "headline": "GOP advances ICE funding package after forcing Trump’s “anti-weaponization” plan into retreat",
+      "article_headline": "GOP advances ICE funding package after forcing Trump’s “anti-weaponization” plan into retreat"
+    },
+    {
+      "link": "https://apple.news/AZbcsPcb3Sc6V4WOOIV93ew",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-04 09:00:16",
+      "pub_time": "2026-06-04 08:28:14",
+      "publication": "ABC News",
+      "author": "Katherine Faulders and Nicholas Kerr",
+      "headline": "Trump says he will nominate Todd Blanche as attorney general",
+      "article_headline": "Trump says he will nominate Todd Blanche as attorney general"
+    },
+    {
+      "link": "https://apple.news/AQ8p8Kd-URF6l-jFt8SQPEg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-04 09:00:16",
+      "pub_time": "",
+      "publication": "The Texas Tribune",
+      "author": "",
+      "headline": "First U.S. screwworm parasite found in South Texas calf, the latest blow to beef industry",
+      "article_headline": "First U.S. screwworm parasite found in South Texas calf, the latest blow to beef industry"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-04 09:00:16",
+      "pub_time": "2026-06-04 08:28:15",
+      "publication": "The Wall Street Journal",
+      "author": "Jemal R. Brinson and John McCormick",
+      "headline": "Inside the $850 million Obama Presidential Center",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_zpEhhubS3iFg5t5gGnnmA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-04 09:00:16",
+      "pub_time": "2026-06-04 08:03:51",
+      "publication": "HuffPost",
+      "author": "Celeste Little",
+      "headline": "A Lot Of Us Develop Terrible Health Habits As We Age. Doctors Say These Are The Worst.",
+      "article_headline": "A Lot Of Us Develop Terrible Health Habits As We Age. Doctors Say These Are The Worst."
+    },
+    {
+      "link": "https://apple.news/A4YoiYEmAQDei3WItd6d5fQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-04 09:00:16",
+      "pub_time": "2026-06-04 08:31:23",
+      "publication": "Reuters",
+      "author": "Johan Ahlander and Simon Johnson",
+      "headline": "Sweden's Gripen faces moment of truth in Ukraine's air war with Russia",
+      "article_headline": "Sweden's Gripen faces moment of truth in Ukraine's air war with Russia"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-04 09:00:16",
+      "pub_time": "2026-06-03 21:04:51",
+      "publication": "",
+      "author": "Dave Michaels and Peter Rudegeair",
+      "headline": "A Short Seller’s Fraud Conviction Is Spooking Wall Street",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AmEeFV6oOTmSSjn7EA4RaRA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-04 09:00:16",
+      "pub_time": "2026-06-03 16:04:51",
+      "publication": "CNBC",
+      "author": "Melody Wilding, Contributor",
+      "headline": "Highly successful people use 5 phrases to disagree with their bosses: You’ll ‘earn their respect and trust,’ says expert",
+      "article_headline": "Highly successful people use 5 phrases to disagree with their bosses: You’ll ‘earn their respect and trust,’ says expert"
+    }
+  ]
+}

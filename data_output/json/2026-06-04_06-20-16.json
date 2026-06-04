@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-04 06:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ATQDXYL_8QTKSVRpexuCOeQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-04 06:20:16",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "House passes war-powers resolution to curb Trump’s authority in Iran",
+      "article_headline": "House passes war-powers resolution to curb Trump’s authority in Iran"
+    },
+    {
+      "link": "https://apple.news/AZ6hRgZYxQTSqAYggBgb12A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-04 06:20:16",
+      "pub_time": "2026-06-04 05:20:46",
+      "publication": "The Washington Post",
+      "author": "Jeremy Roebuck and Perry Stein",
+      "headline": "Trump says he plans to nominate Todd Blanche to serve as attorney general",
+      "article_headline": "Trump says he plans to nominate Todd Blanche to serve as attorney general"
+    },
+    {
+      "link": "https://apple.news/Askc1on75R0GaOaORP6Ph0A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-04 06:20:16",
+      "pub_time": "2026-06-04 05:21:13",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "North Korea unveils a new plant to produce fuel for nuclear weapons",
+      "article_headline": "North Korea unveils a new plant to produce fuel for nuclear weapons"
+    },
+    {
+      "link": "https://apple.news/AQ8p8Kd-URF6l-jFt8SQPEg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-04 06:20:16",
+      "pub_time": "2026-06-04 05:21:45",
+      "publication": "The Texas Tribune",
+      "author": "Berenice Garcia and Ayden Runnels",
+      "headline": "First U.S. screwworm case found in South Texas calf, the latest blow to beef producers",
+      "article_headline": "First U.S. screwworm case found in South Texas calf, the latest blow to beef producers"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-04 06:20:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Knicks pull off 14-point comeback against Spurs to steal Game 1 of NBA Finals",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-04 06:20:16",
+      "pub_time": "2026-06-04 05:22:19",
+      "publication": "Vox",
+      "author": "Marina Bolotnikova",
+      "headline": "American cities are paying too much for sprawling housing",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A--InZoyuQSOKxktsFumdzw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-04 06:20:16",
+      "pub_time": "",
+      "publication": "Strikes",
+      "author": "",
+      "headline": "a truce, and a GOP revolt: inside a big day for the Iran war, Listen to today’s top stories.,  Play Now  14 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A_zpEhhubS3iFg5t5gGnnmA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-04 06:20:16",
+      "pub_time": "2026-06-03 21:23:23",
+      "publication": "HuffPost",
+      "author": "Celeste Little",
+      "headline": "A Lot Of Us Develop Terrible Health Habits As We Age. Doctors Say These Are The Worst.",
+      "article_headline": "A Lot Of Us Develop Terrible Health Habits As We Age. Doctors Say These Are The Worst."
+    },
+    {
+      "link": "https://apple.news/AUyeWHSgKTlS1ylS-ZD5oAQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-04 06:20:16",
+      "pub_time": "2026-06-03 17:23:50",
+      "publication": "Inc.",
+      "author": "FAST COMPANY",
+      "headline": "Costco Says Americans Are Panic-Buying 1 Thing Again—and It’s Not Toilet Paper",
+      "article_headline": "Costco Says Americans Are Panic-Buying 1 Thing Again—and It’s Not Toilet Paper"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-04 06:20:16",
+      "pub_time": "2026-06-03 14:24:17",
+      "publication": "",
+      "author": "Emlyn Travis",
+      "headline": "Hannah Waddingham breaks silence on rumored 'rift' between her and 'Ted Lasso' costar Jason Sudeikis",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A6hskpZ4XT-eotwJRFl1qBA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-04 06:20:16",
+      "pub_time": "2026-06-03 14:24:23",
+      "publication": "CBS News",
+      "author": "Kerry Breen",
+      "headline": "Air traffic controller calls pilot \"insane\" after close call at Florida airport",
+      "article_headline": "Air traffic controller calls pilot \"insane\" after close call at Florida airport"
+    }
+  ]
+}
