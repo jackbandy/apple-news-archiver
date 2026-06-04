@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-04 15:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ATFPHNu_uTQSt6bCg04qlgQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-04 15:40:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Senate begins voting on bill to fund ICE as GOP is split on $1.8 billion “anti-weaponization” fund",
+      "article_headline": "Senate begins voting on bill to fund ICE as GOP is split on $1.8 billion “anti-weaponization” fund"
+    },
+    {
+      "link": "https://apple.news/AUhsIUkhoRF2evmJweDSUKA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-04 15:40:16",
+      "pub_time": "2026-06-04 15:11:46",
+      "publication": "CBS News",
+      "author": "Mary Cunningham, Richard Escobedo, Jennifer Jacobs, and Sara Cook",
+      "headline": "Trump announces $700 million investment in coal industry",
+      "article_headline": "Trump announces $700 million investment in coal industry"
+    },
+    {
+      "link": "https://apple.news/AyKJeY-TnS4upsdi9nJ5a_A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-04 15:40:16",
+      "pub_time": "2026-06-04 15:12:14",
+      "publication": "ABC News",
+      "author": "Rudi Maxwell",
+      "headline": "How vigils for the Tiananmen Square massacre have become unlawful",
+      "article_headline": "How vigils for the Tiananmen Square massacre have become unlawful"
+    },
+    {
+      "link": "https://apple.news/AUhsIUkhoRF2evmJweDSUKA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-04 15:40:16",
+      "pub_time": "2026-06-04 15:10:47",
+      "publication": "CBS News",
+      "author": "Mary Cunningham, Richard Escobedo, Jennifer Jacobs, and Sara Cook",
+      "headline": "Trump announces $700 million investment in coal industry",
+      "article_headline": "Trump announces $700 million investment in coal industry"
+    },
+    {
+      "link": "https://apple.news/AyKJeY-TnS4upsdi9nJ5a_A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-04 15:40:16",
+      "pub_time": "2026-06-04 15:11:15",
+      "publication": "ABC News",
+      "author": "Rudi Maxwell",
+      "headline": "How vigils for the Tiananmen Square massacre have become unlawful",
+      "article_headline": "How vigils for the Tiananmen Square massacre have become unlawful"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-04 15:40:16",
+      "pub_time": "2026-06-04 15:11:42",
+      "publication": "The Atlantic",
+      "author": "Janay Kingsberry",
+      "headline": "Kennedy Center attorneys have ordered staff to remove all references to Trump, memo reveals",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-04 15:40:16",
+      "pub_time": "2026-06-04 15:11:04",
+      "publication": "The Atlantic",
+      "author": "Janay Kingsberry",
+      "headline": "Kennedy Center attorneys have ordered staff to remove all references to Trump, memo reveals",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-04 13:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AS1EPqOirSISjxutG7OjqeA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-04 13:20:16",
+      "pub_time": "",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "Senate to hold a marathon vote series on ICE funding",
+      "article_headline": "Senate to hold a marathon vote series on ICE funding"
+    },
+    {
+      "link": "https://apple.news/AAx6fP8_-TvOv0-W47mddRQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-04 13:20:16",
+      "pub_time": "2026-06-04 12:20:46",
+      "publication": "The Washington Post",
+      "author": "Katie Mettler, Perry Stein, and Jeremy Roebuck",
+      "headline": "John Bolton expected to plead guilty in classified-documents case",
+      "article_headline": "John Bolton expected to plead guilty in classified-documents case"
+    },
+    {
+      "link": "https://apple.news/AvPeNugwBSP6FEtdbcEvkUg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-04 13:20:16",
+      "pub_time": "2026-06-04 12:21:14",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Hezbollah rejects renewed ceasefire agreement between Israel and Lebanon",
+      "article_headline": "Hezbollah rejects renewed ceasefire agreement between Israel and Lebanon"
+    },
+    {
+      "link": "https://apple.news/AZbcsPcb3Sc6V4WOOIV93ew",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-04 13:20:16",
+      "pub_time": "2026-06-04 12:21:47",
+      "publication": "ABC News",
+      "author": "Katherine Faulders and Nicholas Kerr",
+      "headline": "Trump says he will nominate Todd Blanche as attorney general",
+      "article_headline": "Trump says he will nominate Todd Blanche as attorney general"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-04 13:20:16",
+      "pub_time": "2026-06-04 12:22:15",
+      "publication": "Rolling Stone",
+      "author": "Kory Grow",
+      "headline": "Marjane Satrapi, author and director of ‘Persepolis,’ has died at 56",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-04 13:20:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The exclusive retreat where wealthy kids learn how not to blow an inheritance, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-04 13:20:16",
+      "pub_time": "",
+      "publication": "Strikes",
+      "author": "",
+      "headline": "a truce, and a GOP revolt: inside a big day for the Iran war, Listen to today’s top stories.,  Play Now  14 min",
+      "article_headline": ""
+    }
+  ]
+}

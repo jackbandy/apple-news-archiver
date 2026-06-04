@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-04 16:00:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ATFPHNu_uTQSt6bCg04qlgQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-04 16:00:19",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Senate begins voting on bill to fund ICE as GOP is split on $1.8 billion “anti-weaponization” fund",
+      "article_headline": "Senate begins voting on bill to fund ICE as GOP is split on $1.8 billion “anti-weaponization” fund"
+    },
+    {
+      "link": "https://apple.news/AUhsIUkhoRF2evmJweDSUKA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-04 16:00:19",
+      "pub_time": "",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "Trump announces $700 million investment in coal industry",
+      "article_headline": "Trump announces $700 million investment in coal industry"
+    },
+    {
+      "link": "https://apple.news/AyKJeY-TnS4upsdi9nJ5a_A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-04 16:00:19",
+      "pub_time": "2026-06-04 15:55:20",
+      "publication": "ABC News",
+      "author": "Rudi Maxwell",
+      "headline": "How vigils for the Tiananmen Square massacre have become unlawful",
+      "article_headline": "How vigils for the Tiananmen Square massacre have become unlawful"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-04 16:00:19",
+      "pub_time": "2026-06-04 15:55:48",
+      "publication": "The Atlantic",
+      "author": "Janay Kingsberry",
+      "headline": "Kennedy Center attorneys have ordered staff to remove all references to Trump, memo reveals",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ade8h_IyLSyiGsl7QvtgMNQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-04 16:00:19",
+      "pub_time": "2026-06-04 15:55:53",
+      "publication": "The Wall Street Journal",
+      "author": "Isabella Simonetti, Jessica Toonkel, and Joe Flint",
+      "headline": "The meltdown inside ‘60 Minutes’",
+      "article_headline": "The meltdown inside ‘60 Minutes’"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-04 16:00:19",
+      "pub_time": "2026-06-04 15:56:21",
+      "publication": "Outside",
+      "author": "Sam MacIlwaine",
+      "headline": "A 7-year-old became the youngest ever to scale El Capitan. Climbers are furious.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ade8h_IyLSyiGsl7QvtgMNQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-04 16:00:19",
+      "pub_time": "2026-06-04 15:55:26",
+      "publication": "The Wall Street Journal",
+      "author": "Isabella Simonetti, Jessica Toonkel, and Joe Flint",
+      "headline": "The meltdown inside ‘60 Minutes’",
+      "article_headline": "The meltdown inside ‘60 Minutes’"
+    }
+  ]
+}
