@@ -1,0 +1,121 @@
+{
+  "run_time": "2026-06-05 15:40:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AYsSrn4aKRZatOCz8VkjQhw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-05 15:40:17",
+      "pub_time": "2026-06-05 15:02:18",
+      "publication": "ABC News",
+      "author": "Steven Portnoy and Peter Charalambous",
+      "headline": "DOJ argues Trump could “bulldoze” Statue of Liberty in White House ballroom hearing",
+      "article_headline": "DOJ argues Trump could “bulldoze” Statue of Liberty in White House ballroom hearing"
+    },
+    {
+      "link": "https://apple.news/ADnrxvzNTRW6KwATXRM3DzA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-05 15:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump urges “less shackled” Bill Pulte to fire intelligence-community employees",
+      "article_headline": "Trump urges “less shackled” Bill Pulte to fire intelligence-community employees"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-05 15:40:17",
+      "pub_time": "2026-06-05 15:02:18",
+      "publication": "The Washington Post",
+      "author": "Scott Nover",
+      "headline": "‘60 Minutes’ correspondents defend fired colleagues, say they will stay",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ASKzqRyuQTrWLmsj06jxq5A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-05 15:40:17",
+      "pub_time": "2026-06-05 15:02:18",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Anthony Head, ‘Buffy’ and ‘Ted Lasso’ star, dies at 72",
+      "article_headline": "Buffy and Ted Lasso star Anthony Head dies at 72"
+    },
+    {
+      "link": "https://apple.news/Afsn3DBhDTrOjMM0hXsnaCw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-05 15:40:17",
+      "pub_time": "",
+      "publication": "Chicago Tribune",
+      "author": "",
+      "headline": "Chicago Bears say they plan to relocate to Hammond, Indiana",
+      "article_headline": "Chicago Bears say they plan to relocate to Hammond, Indiana"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-05 15:40:17",
+      "pub_time": "2026-06-05 15:02:18",
+      "publication": "Los Angeles Times",
+      "author": "Terry Castleman",
+      "headline": "They fled L.A. for cheaper living in Austin, Nashville, and beyond. Did the math work out?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ASHSEaulISa-7DA1FApTx2A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-05 15:40:17",
+      "pub_time": "",
+      "publication": "NBC 5 Chicago",
+      "author": "",
+      "headline": "Local News, Chicago, Severe-weather chances back in Chicago forecast as long stretch of quiet weather ends",
+      "article_headline": "Severe weather chances back in Chicago forecast as 'long stretch of quiet weather' ends"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-06-05 15:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The era of the tiger mom is over. Enter the “beta mom.”, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-06-05 15:40:17",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The protein shortage is coming, Ellen Cushing",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-06-05 15:40:17",
+      "pub_time": "",
+      "publication": "Vox",
+      "author": "",
+      "headline": "The worst kind of cancer suddenly isn’t so scary anymore, Dylan Scott",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

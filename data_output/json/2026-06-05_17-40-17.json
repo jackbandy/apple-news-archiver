@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-06-05 17:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AV9JSlyBCTtCo6c3b4tPKWA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-05 17:40:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Judge strikes down Trump administration’s immigration policies affecting 39 countries",
+      "article_headline": "Judge strikes down Trump administration’s immigration policies affecting 39 countries"
+    },
+    {
+      "link": "https://apple.news/AYsSrn4aKRZatOCz8VkjQhw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-05 17:40:17",
+      "pub_time": "2026-06-05 16:40:46",
+      "publication": "ABC News",
+      "author": "Steven Portnoy and Peter Charalambous",
+      "headline": "DOJ argues Trump could “bulldoze” Statue of Liberty in White House ballroom hearing",
+      "article_headline": "DOJ argues Trump could “bulldoze” Statue of Liberty in White House ballroom hearing"
+    },
+    {
+      "link": "https://apple.news/AhX1J4l5lRAmbK89BJE9GAA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-05 17:40:17",
+      "pub_time": "2026-06-05 16:41:14",
+      "publication": "Reuters",
+      "author": "Olivia Le Poidevin",
+      "headline": "U.N. doubles amount of Lebanon aid needed as war deepens humanitarian crisis",
+      "article_headline": "U.N. doubles amount of Lebanon aid needed as war deepens humanitarian crisis"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-05 17:40:17",
+      "pub_time": "2026-06-05 16:41:45",
+      "publication": "The Washington Post",
+      "author": "Scott Nover",
+      "headline": "‘60 Minutes’ correspondents defend fired colleagues, say they will stay",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ANwAmbacNTl2O3aJwxzlaUg?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1R6R2lRN0NSZFF5YThXb3p0RDdwcGVBP3N1YnNjcmliZT0xI25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-05 17:40:17",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "NBA Finals, How the Knicks keep finding a way to win",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-05 17:40:17",
+      "pub_time": "2026-06-05 16:42:17",
+      "publication": "Los Angeles Times",
+      "author": "Terry Castleman",
+      "headline": "They fled L.A. for cheaper living in Austin, Nashville, and beyond. Did the math work out?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-05 17:40:17",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "author": "",
+      "headline": "Defector, How Jalen Brunson and Karl-Anthony Towns stunned the Spurs, Chris Thompson",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

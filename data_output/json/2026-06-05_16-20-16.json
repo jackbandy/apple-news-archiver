@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-05 16:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AV9JSlyBCTtCo6c3b4tPKWA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-05 16:20:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Judge strikes down Trump administration immigration policies affecting 39 countries",
+      "article_headline": "Judge strikes down Trump administration immigration policies affecting 39 countries"
+    },
+    {
+      "link": "https://apple.news/AYsSrn4aKRZatOCz8VkjQhw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-05 16:20:16",
+      "pub_time": "2026-06-05 16:13:45",
+      "publication": "ABC News",
+      "author": "Steven Portnoy and Peter Charalambous",
+      "headline": "DOJ argues Trump could “bulldoze” Statue of Liberty in White House ballroom hearing",
+      "article_headline": "DOJ argues Trump could “bulldoze” Statue of Liberty in White House ballroom hearing"
+    },
+    {
+      "link": "https://apple.news/AhX1J4l5lRAmbK89BJE9GAA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-05 16:20:16",
+      "pub_time": "2026-06-05 16:14:13",
+      "publication": "Reuters",
+      "author": "Olivia Le Poidevin",
+      "headline": "U.N. doubles Lebanon aid appeal as war drives surge in humanitarian needs",
+      "article_headline": "U.N. doubles Lebanon aid appeal as war drives surge in humanitarian needs"
+    },
+    {
+      "link": "https://apple.news/AYsSrn4aKRZatOCz8VkjQhw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-05 16:20:16",
+      "pub_time": "2026-06-05 16:13:45",
+      "publication": "ABC News",
+      "author": "Steven Portnoy and Peter Charalambous",
+      "headline": "DOJ argues Trump could “bulldoze” Statue of Liberty in White House ballroom hearing",
+      "article_headline": "DOJ argues Trump could “bulldoze” Statue of Liberty in White House ballroom hearing"
+    },
+    {
+      "link": "https://apple.news/AhX1J4l5lRAmbK89BJE9GAA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-05 16:20:16",
+      "pub_time": "2026-06-05 16:14:13",
+      "publication": "Reuters",
+      "author": "Olivia Le Poidevin",
+      "headline": "U.N. doubles Lebanon aid appeal as war drives surge in humanitarian needs",
+      "article_headline": "U.N. doubles Lebanon aid appeal as war drives surge in humanitarian needs"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-05 16:20:16",
+      "pub_time": "2026-06-05 16:14:40",
+      "publication": "The Washington Post",
+      "author": "Scott Nover",
+      "headline": "‘60 Minutes’ correspondents defend fired colleagues, say they will stay",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-05 16:20:16",
+      "pub_time": "2026-06-05 16:13:45",
+      "publication": "The Washington Post",
+      "author": "Scott Nover",
+      "headline": "‘60 Minutes’ correspondents defend fired colleagues, say they will stay",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
