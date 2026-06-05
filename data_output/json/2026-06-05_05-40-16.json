@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-05 05:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ak5S8qd4ERuqRVpRXz-ID9w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-05 05:40:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Senate passes $70 billion border-enforcement bill without killing Trump fund",
+      "article_headline": "Senate passes $70 billion border-enforcement bill without killing Trump fund"
+    },
+    {
+      "link": "https://apple.news/AUgH-GHUTT4GKRkssC-bdYg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-05 05:40:16",
+      "pub_time": "2026-06-05 05:31:45",
+      "publication": "Reuters",
+      "author": "Jana Choukeir and Laila Bassam",
+      "headline": "Hezbollah rejection clouds Lebanon ceasefire and prospects for ending Iran war",
+      "article_headline": "Hezbollah rejection clouds Lebanon ceasefire and prospects for ending Iran war"
+    },
+    {
+      "link": "https://apple.news/AUgH-GHUTT4GKRkssC-bdYg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-05 05:40:16",
+      "pub_time": "2026-06-05 05:31:17",
+      "publication": "Reuters",
+      "author": "Jana Choukeir and Laila Bassam",
+      "headline": "Hezbollah rejection clouds Lebanon ceasefire and prospects for ending Iran war",
+      "article_headline": "Hezbollah rejection clouds Lebanon ceasefire and prospects for ending Iran war"
+    },
+    {
+      "link": "https://apple.news/ArOZa5LjBQHeHAsDqGJ2zcA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-05 05:40:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Monthly jobs report expected to show growth in an economy squeezed by inflation",
+      "article_headline": "Monthly jobs report expected to show growth in an economy squeezed by inflation"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-05 05:40:16",
+      "pub_time": "2026-06-05 05:32:12",
+      "publication": "Bloomberg Businessweek",
+      "author": "Jason Gale and Jessica Nix",
+      "headline": "How funding cuts left the world vulnerable to Ebola",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-05 05:40:16",
+      "pub_time": "2026-06-05 05:31:17",
+      "publication": "Bloomberg Businessweek",
+      "author": "Jason Gale and Jessica Nix",
+      "headline": "How funding cuts left the world vulnerable to Ebola",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Agpton4m-R_qOp-ukhPZ6aA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-05 05:40:16",
+      "pub_time": "",
+      "publication": "Fox News",
+      "author": "",
+      "headline": "Hurricanes storm back in overtime to even the Stanley Cup Finals",
+      "article_headline": "Hurricanes storm back in overtime to even the Stanley Cup Finals"
+    }
+  ]
+}
