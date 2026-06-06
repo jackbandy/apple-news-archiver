@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-06 15:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A6DqdXCrRQP-eikodPF84Qw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-06 15:00:17",
+      "pub_time": "2026-06-06 14:50:18",
+      "publication": "NPR",
+      "author": "Hansi Lo Wang",
+      "headline": "The Supreme Court has left limited alternatives for protecting minority voting rights",
+      "article_headline": "The Supreme Court has left limited alternatives for protecting minority voting rights"
+    },
+    {
+      "link": "https://apple.news/ADg21gBtmSveXh1Hbw8IP_w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-06 15:00:17",
+      "pub_time": "2026-06-06 14:50:46",
+      "publication": "The Guardian",
+      "author": "Patrick Wintour",
+      "headline": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace",
+      "article_headline": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace"
+    },
+    {
+      "link": "https://apple.news/ADg21gBtmSveXh1Hbw8IP_w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-06 15:00:17",
+      "pub_time": "2026-06-06 14:50:25",
+      "publication": "The Guardian",
+      "author": "Patrick Wintour",
+      "headline": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace",
+      "article_headline": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace"
+    },
+    {
+      "link": "https://apple.news/AERZfSCDvST2ghbdZJBnMCw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-06 15:00:17",
+      "pub_time": "2026-06-06 14:50:52",
+      "publication": "Video",
+      "author": "Mark Osborne",
+      "headline": "CBS News, U.S. doctor with Ebola recovers from deadly virus, German hospital says",
+      "article_headline": "U.S. doctor with Ebola recovers from deadly virus, German hospital says"
+    },
+    {
+      "link": "https://apple.news/A_Mp8DYDpQPSQw-luYZ011Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-06 15:00:17",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Russian teenager Mirra Andreeva defeats Maja Chwalińska in French Open to win first Grand Slam",
+      "article_headline": "Russian teenager Mirra Andreeva defeats Maja Chwalińska in French Open to win first Grand Slam"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 15:00:17",
+      "pub_time": "2026-06-06 14:50:52",
+      "publication": "Bloomberg Businessweek",
+      "author": "Kanoko Matsuyama and Aaron Clark",
+      "headline": "The rise of 2nd Street and Japan’s thrift economy",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 15:00:17",
+      "pub_time": "2026-06-06 14:49:52",
+      "publication": "The Wall Street Journal",
+      "author": "Nicole Friedman",
+      "headline": "Real-estate agents are reaching a breaking point",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AsBePXMRsTACP_O1q7bhZ6Q",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-06 15:00:17",
+      "pub_time": "2026-06-06 10:03:44",
+      "publication": "BuzzFeed",
+      "author": "Kristen Harris",
+      "headline": "\"I Pretended To Stay Asleep As She Confessed To Him\": People Are Spilling The Secrets They're Taking To The Grave",
+      "article_headline": "\"I Pretended To Stay Asleep As She Confessed To Him\": People Are Spilling The Secrets They're Taking To The Grave"
+    },
+    {
+      "link": "https://apple.news/AXcfkIGOtRJuk0hCnd1tr2A",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-06 15:00:17",
+      "pub_time": "2026-06-06 11:04:12",
+      "publication": "People",
+      "author": "David Chiu",
+      "headline": "Missing Auburn Student Found Dead After Disappearing in Japan During Family Trip",
+      "article_headline": "Missing Auburn Student Found Dead After Disappearing in Japan During Family Trip"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-06 15:00:17",
+      "pub_time": "2026-06-05 15:04:39",
+      "publication": "",
+      "author": "Darren Orf",
+      "headline": "3 Years Ago, Scientists Found a Mysterious Golden Orb. They Just Figured Out Where It Came From.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A-wyZiifFT-SsP00QYvvo-w",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-06 15:00:17",
+      "pub_time": "2026-06-06 09:04:45",
+      "publication": "Vogue",
+      "author": "Laura Hawkins",
+      "headline": "Kate Middleton’s Blush Pink Dress Was a Masterclass in Royal Wedding Guest Dressing",
+      "article_headline": "Kate Middleton’s Blush Pink Dress Was a Masterclass in Royal Wedding Guest Dressing"
+    }
+  ]
+}

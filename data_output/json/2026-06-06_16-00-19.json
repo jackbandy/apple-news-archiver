@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-06 16:00:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A6DqdXCrRQP-eikodPF84Qw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-06 16:00:19",
+      "pub_time": "2026-06-06 15:00:21",
+      "publication": "NPR",
+      "author": "Hansi Lo Wang",
+      "headline": "The Supreme Court has left limited alternatives for protecting minority voting rights",
+      "article_headline": "The Supreme Court has left limited alternatives for protecting minority voting rights"
+    },
+    {
+      "link": "https://apple.news/ADg21gBtmSveXh1Hbw8IP_w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-06 16:00:19",
+      "pub_time": "2026-06-06 15:00:48",
+      "publication": "The Guardian",
+      "author": "Patrick Wintour",
+      "headline": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace",
+      "article_headline": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace"
+    },
+    {
+      "link": "https://apple.news/A_Mp8DYDpQPSQw-luYZ011Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-06 16:00:19",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Russian teenager Mirra Andreeva defeats Maja Chwalińska in French Open to win first Grand Slam",
+      "article_headline": "Russian teenager Mirra Andreeva defeats Maja Chwalińska in French Open to win first Grand Slam"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 16:00:19",
+      "pub_time": "2026-06-06 15:02:00",
+      "publication": "Bloomberg Businessweek",
+      "author": "Kanoko Matsuyama and Aaron Clark",
+      "headline": "The rise of 2nd Street and Japan’s thrift economy",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 16:00:19",
+      "pub_time": "2026-06-06 15:02:00",
+      "publication": "The Wall Street Journal",
+      "author": "Nicole Friedman",
+      "headline": "Real-estate agents are reaching a breaking point",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AMr7uKHiqRAqJd8wTDPnmug",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-06 16:00:19",
+      "pub_time": "",
+      "publication": "How the Texas floods forever changed one family",
+      "author": "",
+      "headline": "And what healing looks like.,  Play Now  24 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A8E4YSLgsTXG7ek-TSNx_hg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-06 16:00:19",
+      "pub_time": "2026-06-06 08:02:41",
+      "publication": "Allrecipes",
+      "author": "Patricia Kaowthumrong",
+      "headline": "6 Costco Breakfast Pastries Worth Buying Right Now",
+      "article_headline": "6 Costco Breakfast Pastries Worth Buying Right Now"
+    }
+  ]
+}

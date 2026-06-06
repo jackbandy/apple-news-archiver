@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-06 17:40:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A6DqdXCrRQP-eikodPF84Qw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-06 17:40:16",
+      "pub_time": "2026-06-06 17:11:18",
+      "publication": "NPR",
+      "author": "Hansi Lo Wang",
+      "headline": "The Supreme Court has left limited alternatives for protecting minority voting rights",
+      "article_headline": "The Supreme Court has left limited alternatives for protecting minority voting rights"
+    },
+    {
+      "link": "https://apple.news/ADg21gBtmSveXh1Hbw8IP_w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-06 17:40:16",
+      "pub_time": "2026-06-06 17:11:45",
+      "publication": "The Guardian",
+      "author": "Patrick Wintour",
+      "headline": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace",
+      "article_headline": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace"
+    },
+    {
+      "link": "https://apple.news/A98qZP3t4T2C7M67uoi-vlw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-06 17:40:16",
+      "pub_time": "2026-06-06 17:12:13",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "What to know about the ongoing protests and arrests outside a New Jersey detention center",
+      "article_headline": "What to know about the ongoing protests and arrests outside a New Jersey detention center"
+    },
+    {
+      "link": "https://apple.news/ADg21gBtmSveXh1Hbw8IP_w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-06 17:40:16",
+      "pub_time": "2026-06-06 17:11:46",
+      "publication": "The Guardian",
+      "author": "Patrick Wintour",
+      "headline": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace",
+      "article_headline": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace"
+    },
+    {
+      "link": "https://apple.news/A98qZP3t4T2C7M67uoi-vlw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-06 17:40:16",
+      "pub_time": "2026-06-06 17:12:14",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "What to know about the ongoing protests and arrests outside a New Jersey detention center",
+      "article_headline": "What to know about the ongoing protests and arrests outside a New Jersey detention center"
+    },
+    {
+      "link": "https://apple.news/AERZfSCDvST2ghbdZJBnMCw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-06 17:40:16",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, U.S. doctor with Ebola recovers from deadly virus, German hospital says",
+      "article_headline": "U.S. doctor with Ebola recovers from deadly virus, German hospital says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 17:40:16",
+      "pub_time": "2026-06-06 17:12:14",
+      "publication": "Bloomberg Businessweek",
+      "author": "Kanoko Matsuyama and Aaron Clark",
+      "headline": "The rise of 2nd Street and Japan’s thrift economy",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AXcfkIGOtRJuk0hCnd1tr2A",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-06 17:40:16",
+      "pub_time": "2026-06-06 11:43:20",
+      "publication": "People",
+      "author": "David Chiu",
+      "headline": "Missing Auburn Student Found Dead After Disappearing in Japan During Family Trip",
+      "article_headline": "Missing Auburn Student Found Dead After Disappearing in Japan During Family Trip"
+    },
+    {
+      "link": "https://apple.news/AExRWa546SQ6wZ_avQDQrOw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-06 17:40:16",
+      "pub_time": "2026-06-06 06:43:53",
+      "publication": "HuffPost",
+      "author": "Caroline Bologna",
+      "headline": "This Thumb Test May Indicate If You're At Risk For A Heart Problem",
+      "article_headline": "This Thumb Test May Indicate If You're At Risk For A Heart Problem"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-06 17:40:16",
+      "pub_time": "2026-06-05 17:44:21",
+      "publication": "",
+      "author": "Heather Somerville",
+      "headline": "Real-Time Satellite Intelligence Is Making Ukraine’s Drone Strikes Deadlier Than Ever",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AIgs7leDFSUuMtQO1k3XFZQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-06 17:40:16",
+      "pub_time": "2026-06-06 05:44:21",
+      "publication": "FOOD & WINE",
+      "author": "Seth Gerber",
+      "headline": "This Is the Polite Way Restaurants Tell You That You're Being a Jerk",
+      "article_headline": "This Is the Polite Way Restaurants Tell You That You're Being a Jerk"
+    }
+  ]
+}
