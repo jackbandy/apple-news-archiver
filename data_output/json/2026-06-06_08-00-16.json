@@ -1,0 +1,132 @@
+{
+  "run_time": "2026-06-06 08:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AaKaLlteqS-eIPekAgsjPGA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-06 08:00:16",
+      "pub_time": "2026-06-06 07:00:18",
+      "publication": "Reuters",
+      "author": "Ahmed Elimam, Jana Choukeir, and Phil Stewart",
+      "headline": "U.S. attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
+      "article_headline": "US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up"
+    },
+    {
+      "link": "https://apple.news/A6AL-cA_hTb2t4Rp4qqVWfQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-06 08:00:16",
+      "pub_time": "2026-06-06 07:00:45",
+      "publication": "CalMatters",
+      "author": "",
+      "headline": "Democrat Xavier Becerra advances to November race for California governor",
+      "article_headline": "Democrat Xavier Becerra advances to November race for California governor"
+    },
+    {
+      "link": "https://apple.news/ABoxHHVdtTYOo-GBJyh24Qg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-06 08:00:16",
+      "pub_time": "2026-06-06 07:01:12",
+      "publication": "The Washington Post",
+      "author": "Lena H. Sun",
+      "headline": "Congo outbreak could rival the largest Ebola epidemic on record, CDC warns",
+      "article_headline": "Congo outbreak could rival the largest Ebola epidemic on record, CDC warns"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 08:00:16",
+      "pub_time": "",
+      "publication": "New Scientist",
+      "author": "",
+      "headline": "Mysterious “cold blob” in the Atlantic suggests the AMOC is weakening",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AsaDo_V5WQkaDWUZRyX6Zdg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-06 08:00:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Knicks survive late Spurs comeback to take commanding 2-0 lead in NBA Finals",
+      "article_headline": "Knicks storm through San Antonio to take Game 2, head home with NBA Finals lead"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 08:00:16",
+      "pub_time": "2026-06-06 07:02:19",
+      "publication": "The Atlantic",
+      "author": "Eve Fairbanks",
+      "headline": "The biggest tell that something was written by AI",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AjiETe9_bTfWE7RYQSikuZg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-06 08:00:16",
+      "pub_time": "",
+      "publication": "Time Out Chicago",
+      "author": "",
+      "headline": "Local News, Chicago, This iconic Jewish deli is reopening in the north suburbs of Chicago",
+      "article_headline": "This iconic Jewish deli is reopening in the north suburbs of Chicago"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-06-06 08:00:16",
+      "pub_time": "",
+      "publication": "Investopedia",
+      "author": "",
+      "headline": "The 401(k) benchmark only 14% of workers hit — and how to achieve it, Jake Safane",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-06-06 08:00:16",
+      "pub_time": "",
+      "publication": "Men’s Health",
+      "author": "",
+      "headline": "America has a new favorite anxiety drug, Gregory Scott Brown",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-06-06 08:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "New clues about vertigo and dizziness could help treat both, Laura Landro",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AuOXhBE1oRMSg31-2Oey7cg",
+      "rank": 4,
+      "section": "reader_favorites",
+      "run_time": "2026-06-06 08:00:16",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "This long-COVID treatment is promising — and controversial",
+      "article_headline": "This long-COVID treatment is promising — and controversial"
+    }
+  ]
+}
