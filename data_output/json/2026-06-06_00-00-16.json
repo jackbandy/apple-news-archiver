@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-06-06 00:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A-_jUFDH8SwiY9RfvLoIkDg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-06 00:00:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Judge strikes down Trump administration’s policies targeting immigrants from 39 countries",
+      "article_headline": "Judge strikes down Trump administration’s policies targeting immigrants from 39 countries"
+    },
+    {
+      "link": "https://apple.news/A8Qnl7l4QTQi0MoIIUZ3PQg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-06 00:00:16",
+      "pub_time": "2026-06-05 23:00:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz",
+      "article_headline": "US military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/A6AL-cA_hTb2t4Rp4qqVWfQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-06 00:00:16",
+      "pub_time": "2026-06-05 23:01:12",
+      "publication": "CalMatters",
+      "author": "",
+      "headline": "Democrat Xavier Becerra advances to November race for California governor",
+      "article_headline": "Democrat Xavier Becerra advances to November race for California governor"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 00:00:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Knicks survive late Spurs comeback to take commanding 2-0 lead in NBA Finals",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 00:00:16",
+      "pub_time": "2026-06-05 23:01:49",
+      "publication": "The Wall Street Journal",
+      "author": "Alina Dizik",
+      "headline": "Why are restaurants now charging $40 for chicken?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 00:00:16",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "The fight to take back Ben & Jerry’s, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AkB9EJHVLTrma84mkgMnH4A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-06 00:00:16",
+      "pub_time": "2026-06-05 22:02:02",
+      "publication": "People",
+      "author": "Charlotte Phillipp and Linda Marx",
+      "headline": "Tiger Woods 'Is Doing the Best He Can' in Treatment as Girlfriend Vanessa Trump Faces Cancer (Exclusive Source)",
+      "article_headline": "Tiger Woods 'Is Doing the Best He Can' in Treatment as Girlfriend Vanessa Trump Faces Cancer (Exclusive Source)"
+    }
+  ]
+}
