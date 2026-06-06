@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-06 03:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AaKaLlteqS-eIPekAgsjPGA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-06 03:00:17",
+      "pub_time": "2026-06-06 01:00:19",
+      "publication": "Reuters",
+      "author": "Ahmed Elimam, Jana Choukeir, and Phil Stewart",
+      "headline": "US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
+      "article_headline": "US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up"
+    },
+    {
+      "link": "https://apple.news/A6AL-cA_hTb2t4Rp4qqVWfQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-06 03:00:17",
+      "pub_time": "2026-06-06 01:00:46",
+      "publication": "CalMatters",
+      "author": "",
+      "headline": "Democrat Xavier Becerra advances to November race for California governor",
+      "article_headline": "Democrat Xavier Becerra advances to November race for California governor"
+    },
+    {
+      "link": "https://apple.news/ABoxHHVdtTYOo-GBJyh24Qg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-06 03:00:17",
+      "pub_time": "2026-06-06 01:01:13",
+      "publication": "The Washington Post",
+      "author": "Lena H. Sun",
+      "headline": "Congo outbreak could rival the largest Ebola epidemic on record, CDC warns",
+      "article_headline": "Congo outbreak could rival the largest Ebola epidemic on record, CDC warns"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 03:00:17",
+      "pub_time": "",
+      "publication": "New Scientist",
+      "author": "",
+      "headline": "Mysterious “cold blob” in the Atlantic suggests the AMOC is weakening",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AsaDo_V5WQkaDWUZRyX6Zdg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-06 03:00:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Knicks survive late Spurs comeback to take commanding 2-0 lead in NBA Finals",
+      "article_headline": "Knicks storm through San Antonio to take Game 2, head home with NBA Finals lead"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 03:00:17",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "The fight to take back Ben & Jerry’s, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Arpryvgv2TgyIXI6ZaZjvLA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-06 03:00:17",
+      "pub_time": "2026-06-06 02:02:36",
+      "publication": "People",
+      "author": "Raven Brunner",
+      "headline": "Rock Climber Dean Potter's Partner Describes Seeing His 'Perfect' Body After Fatal Wingsuiting Fall: 'No Scrapes'",
+      "article_headline": "Rock Climber Dean Potter's Partner Describes Seeing His 'Perfect' Body After Fatal Wingsuiting Fall: 'No Scrapes'"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "run_time": "2026-06-06 04:20:17",
+  "story_count": 4,
+  "stories": [
+    {
+      "link": "https://apple.news/AaKaLlteqS-eIPekAgsjPGA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-06 04:20:17",
+      "pub_time": "2026-06-06 00:20:19",
+      "publication": "Reuters",
+      "author": "Ahmed Elimam, Jana Choukeir, and Phil Stewart",
+      "headline": "US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
+      "article_headline": "US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up"
+    },
+    {
+      "link": "https://apple.news/A6AL-cA_hTb2t4Rp4qqVWfQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-06 04:20:17",
+      "pub_time": "2026-06-06 00:20:46",
+      "publication": "CalMatters",
+      "author": "",
+      "headline": "Democrat Xavier Becerra advances to November race for California governor",
+      "article_headline": "Democrat Xavier Becerra advances to November race for California governor"
+    },
+    {
+      "link": "https://apple.news/ABoxHHVdtTYOo-GBJyh24Qg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-06 04:20:17",
+      "pub_time": "2026-06-06 00:21:13",
+      "publication": "The Washington Post",
+      "author": "Lena H. Sun",
+      "headline": "Congo outbreak could rival the largest Ebola epidemic on record, CDC warns",
+      "article_headline": "Congo outbreak could rival the largest Ebola epidemic on record, CDC warns"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 04:20:17",
+      "pub_time": "",
+      "publication": "New Scientist",
+      "author": "",
+      "headline": "Mysterious “cold blob” in the Atlantic suggests the AMOC is weakening",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

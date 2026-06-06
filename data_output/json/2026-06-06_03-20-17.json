@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-06-06 03:20:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AaKaLlteqS-eIPekAgsjPGA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-06 03:20:17",
+      "pub_time": "2026-06-06 00:20:19",
+      "publication": "Reuters",
+      "author": "Ahmed Elimam, Jana Choukeir, and Phil Stewart",
+      "headline": "US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
+      "article_headline": "US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up"
+    },
+    {
+      "link": "https://apple.news/A6AL-cA_hTb2t4Rp4qqVWfQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-06 03:20:17",
+      "pub_time": "2026-06-06 00:20:46",
+      "publication": "CalMatters",
+      "author": "",
+      "headline": "Democrat Xavier Becerra advances to November race for California governor",
+      "article_headline": "Democrat Xavier Becerra advances to November race for California governor"
+    },
+    {
+      "link": "https://apple.news/ABoxHHVdtTYOo-GBJyh24Qg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-06 03:20:17",
+      "pub_time": "2026-06-06 00:21:13",
+      "publication": "The Washington Post",
+      "author": "Lena H. Sun",
+      "headline": "Congo outbreak could rival the largest Ebola epidemic on record, CDC warns",
+      "article_headline": "Congo outbreak could rival the largest Ebola epidemic on record, CDC warns"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 03:20:17",
+      "pub_time": "",
+      "publication": "New Scientist",
+      "author": "",
+      "headline": "Mysterious “cold blob” in the Atlantic suggests the AMOC is weakening",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AsaDo_V5WQkaDWUZRyX6Zdg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-06 03:20:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Knicks survive late Spurs comeback to take commanding 2-0 lead in NBA Finals",
+      "article_headline": "Knicks storm through San Antonio to take Game 2, head home with NBA Finals lead"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 03:20:17",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "The fight to take back Ben & Jerry’s, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 03:20:17",
+      "pub_time": "2026-06-03 03:22:34",
+      "publication": "FOOD & WINE",
+      "author": "Priyanka Shahane",
+      "headline": "I Grew Up Next to a Strawberry Farm, and I’m Begging You to Store Your Berries This Way",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AB5hCEj23QzK34WHSzITxxA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-06 03:20:17",
+      "pub_time": "2026-06-05 19:23:07",
+      "publication": "TMZ",
+      "author": "TMZ Staff",
+      "headline": "'Star Trek' Icon Nichelle Nichols' Family Awarded $13 Million in Wrongful Death Lawsuit",
+      "article_headline": "'Star Trek' Icon Nichelle Nichols' Family Awarded $13 Million in Wrongful Death Lawsuit"
+    },
+    {
+      "link": "https://apple.news/AnTmm7Qb0QyWAJAZiCvQ7hg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-06 03:20:17",
+      "pub_time": "2026-06-05 19:23:40",
+      "publication": "Popular Science",
+      "author": "Mack DeGeurin",
+      "headline": "Man solves ceiling fans’ most annoying problem",
+      "article_headline": "Man solves ceiling fans’ most annoying problem"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-06 03:20:17",
+      "pub_time": "2026-06-05 03:24:08",
+      "publication": "",
+      "author": "Rachel Handler",
+      "headline": "‘She Eats, She Pays, She Gets the F– Out.’ Servers and Bartenders Explain What It’s Like When Taylor Swift Comes to Their Restaurant.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AlowOZdqGS5-FVWZlA7MbxQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-06 03:20:17",
+      "pub_time": "2026-06-05 09:24:08",
+      "publication": "TheStreet",
+      "author": "Veronika Bondarenko",
+      "headline": "Airline cancels almost all flights, passengers stranded",
+      "article_headline": "Airline cancels almost all flights, passengers stranded"
+    }
+  ]
+}
