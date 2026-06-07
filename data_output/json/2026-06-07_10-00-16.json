@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-07 10:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AiOqlnWCpSEuASD1gUqBdDQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-07 10:00:16",
+      "pub_time": "2026-06-07 09:56:18",
+      "publication": "The Wall Street Journal",
+      "author": "Jason Douglas",
+      "headline": "Hormuz crisis exposes a global flaw that will take years to fix",
+      "article_headline": "Hormuz crisis exposes a global flaw that will take years to fix"
+    },
+    {
+      "link": "https://apple.news/AIjmSUFPnQNCxl3UqYB1ycw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-07 10:00:16",
+      "pub_time": "2026-06-07 09:56:45",
+      "publication": "The Columbus Dispatch",
+      "author": "",
+      "headline": "Gov. DeWine, other Ohio officials condemn “unacceptable” Toledo mass shooting",
+      "article_headline": "Gov. DeWine, other Ohio officials condemn “unacceptable” Toledo mass shooting"
+    },
+    {
+      "link": "https://apple.news/AIjmSUFPnQNCxl3UqYB1ycw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-07 10:00:16",
+      "pub_time": "2026-06-07 09:55:18",
+      "publication": "The Columbus Dispatch",
+      "author": "",
+      "headline": "Gov. DeWine, other Ohio officials condemn “unacceptable” Toledo mass shooting",
+      "article_headline": "Gov. DeWine, other Ohio officials condemn “unacceptable” Toledo mass shooting"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 10:00:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Why most politicians are not calling for data center bans despite voters’ anger",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AfyZ_HcrySaGJ11hgYD4z9A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-07 10:00:16",
+      "pub_time": "2026-06-07 09:55:45",
+      "publication": "NBC News",
+      "author": "Peter Nicholas",
+      "headline": "Trump doesn’t rule out giving Jan. 6 rioters who attacked police “anti-weaponization” fund payouts",
+      "article_headline": "Trump doesn’t rule out giving Jan. 6 rioters who attacked police “anti-weaponization” fund payouts"
+    },
+    {
+      "link": "https://apple.news/AfyZ_HcrySaGJ11hgYD4z9A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-07 10:00:16",
+      "pub_time": "2026-06-07 09:55:18",
+      "publication": "NBC News",
+      "author": "Peter Nicholas",
+      "headline": "Trump doesn’t rule out giving Jan. 6 rioters who attacked police “anti-weaponization” fund payouts",
+      "article_headline": "Trump doesn’t rule out giving Jan. 6 rioters who attacked police “anti-weaponization” fund payouts"
+    },
+    {
+      "link": "https://apple.news/Azz9OwmwjS7KLsO556GBPLA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-07 10:00:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "F1 Monaco GP live updates: Race red flagged for track issue as Stroll, Leclerc crash with Antonelli leading, LIVE, Michael Bailey, Luke Smith, Alex Kalinauckas, Sam Joseph, and Madeline Coleman",
+      "article_headline": "F1 Monaco GP live updates: Race red flagged for track issue as Stroll, Leclerc crash with Antonelli leading"
+    },
+    {
+      "link": "https://apple.news/A4bUkp5aBTv2KgH2exd7RYA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-07 10:00:16",
+      "pub_time": "2026-06-06 11:04:05",
+      "publication": "BuzzFeed",
+      "author": "Jillian Wilson",
+      "headline": "This Awful Illness Is Spreading Everywhere Right Now, And So Many People Keep Confusing It With Allergies",
+      "article_headline": "This Awful Illness Is Spreading Everywhere Right Now, And So Many People Keep Confusing It With Allergies"
+    },
+    {
+      "link": "https://apple.news/A-D1Ht6mPQxeERNsdb1ITgw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-07 10:00:16",
+      "pub_time": "2026-06-06 15:04:33",
+      "publication": "Parents",
+      "author": "Liz Regalia",
+      "headline": "New Study Links Common Cleaning Chemical to Liver Damage—How To Keep Your Family Safe",
+      "article_headline": "New Study Links Common Cleaning Chemical to Liver Damage—How To Keep Your Family Safe"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-07 10:00:16",
+      "pub_time": "2026-06-06 19:05:00",
+      "publication": "",
+      "author": "Steve Fisher",
+      "headline": "She met older men on dating apps. Aurora Phelps drugged and sometimes killed them, FBI says",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A-D1Ht6mPQxeERNsdb1ITgw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-07 10:00:16",
+      "pub_time": "2026-06-06 14:05:05",
+      "publication": "Parents",
+      "author": "Liz Regalia",
+      "headline": "New Study Links Common Cleaning Chemical to Liver Damage—How To Keep Your Family Safe",
+      "article_headline": "New Study Links Common Cleaning Chemical to Liver Damage—How To Keep Your Family Safe"
+    }
+  ]
+}

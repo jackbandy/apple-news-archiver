@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-07 09:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AiOqlnWCpSEuASD1gUqBdDQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-07 09:40:17",
+      "pub_time": "2026-06-07 08:47:18",
+      "publication": "The Wall Street Journal",
+      "author": "Jason Douglas",
+      "headline": "Hormuz crisis exposes a global flaw that will take years to fix",
+      "article_headline": "Hormuz crisis exposes a global flaw that will take years to fix"
+    },
+    {
+      "link": "https://apple.news/ALfgLeEpxQFqpxEPZ4bNZaw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-07 09:40:17",
+      "pub_time": "2026-06-07 08:47:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say",
+      "article_headline": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say"
+    },
+    {
+      "link": "https://apple.news/ALfgLeEpxQFqpxEPZ4bNZaw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-07 09:40:17",
+      "pub_time": "2026-06-07 08:47:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say",
+      "article_headline": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 09:40:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Why most politicians are not calling for data center bans despite voters’ anger",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AfyZ_HcrySaGJ11hgYD4z9A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-07 09:40:17",
+      "pub_time": "2026-06-07 08:47:45",
+      "publication": "NBC News",
+      "author": "Peter Nicholas",
+      "headline": "Trump doesn’t rule out giving Jan. 6 rioters who attacked police “anti-weaponization” fund payouts",
+      "article_headline": "Trump doesn’t rule out giving Jan. 6 rioters who attacked police “anti-weaponization” fund payouts"
+    },
+    {
+      "link": "https://apple.news/AfyZ_HcrySaGJ11hgYD4z9A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-07 09:40:17",
+      "pub_time": "2026-06-07 08:47:17",
+      "publication": "NBC News",
+      "author": "Peter Nicholas",
+      "headline": "Trump doesn’t rule out giving Jan. 6 rioters who attacked police “anti-weaponization” fund payouts",
+      "article_headline": "Trump doesn’t rule out giving Jan. 6 rioters who attacked police “anti-weaponization” fund payouts"
+    },
+    {
+      "link": "https://apple.news/Azz9OwmwjS7KLsO556GBPLA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-07 09:40:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "F1 Monaco GP live updates: Race latest as safety car takes away Antonelli’s lead, Verstappen retires on opening lap, LIVE, Michael Bailey, Alex Kalinauckas, Luke Smith, Sam Joseph, and Madeline Coleman",
+      "article_headline": "F1 Monaco GP live updates: Race red flagged as Stroll, Leclerc crash with Antonelli leading, Verstappen retires on Lap 1"
+    }
+  ]
+}

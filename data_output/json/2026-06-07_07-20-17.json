@@ -1,0 +1,118 @@
+{
+  "run_time": "2026-06-07 07:20:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AiOqlnWCpSEuASD1gUqBdDQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-07 07:20:17",
+      "pub_time": "2026-06-07 07:16:18",
+      "publication": "The Wall Street Journal",
+      "author": "Jason Douglas",
+      "headline": "Hormuz crisis exposes a global flaw that will take years to fix",
+      "article_headline": "Hormuz crisis exposes a global flaw that will take years to fix"
+    },
+    {
+      "link": "https://apple.news/ALfgLeEpxQFqpxEPZ4bNZaw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-07 07:20:17",
+      "pub_time": "2026-06-07 07:16:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say",
+      "article_headline": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say"
+    },
+    {
+      "link": "https://apple.news/ALfgLeEpxQFqpxEPZ4bNZaw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-07 07:20:17",
+      "pub_time": "2026-06-07 07:16:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say",
+      "article_headline": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say"
+    },
+    {
+      "link": "https://apple.news/AmHovQPUtTo-FfnsABVJzcQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-07 07:20:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump faces new Republican resistance in Congress as midterm pressures build",
+      "article_headline": "Trump faces new Republican resistance in Congress as midterm pressures build"
+    },
+    {
+      "link": "https://apple.news/AwLhGRED8Q8CSnU_bYmWICg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-07 07:20:17",
+      "pub_time": "2026-06-07 07:17:12",
+      "publication": "ABC News",
+      "author": "Othon Leyva and Nadine El-Bawab",
+      "headline": "American student missing in Japan found dead in mountainous area near Kyoto",
+      "article_headline": "American student missing in Japan found dead in mountainous area near Kyoto"
+    },
+    {
+      "link": "https://apple.news/AwLhGRED8Q8CSnU_bYmWICg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-07 07:20:17",
+      "pub_time": "2026-06-07 07:16:46",
+      "publication": "ABC News",
+      "author": "Othon Leyva and Nadine El-Bawab",
+      "headline": "American student missing in Japan found dead in mountainous area near Kyoto",
+      "article_headline": "American student missing in Japan found dead in mountainous area near Kyoto"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 07:20:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Painter sues FIFA over Dallas whale mural cover-up ahead of World Cup",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AU2jaUSpfS9Wm9tSc00Xekw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-07 07:20:17",
+      "pub_time": "2026-06-06 09:23:20",
+      "publication": "BuzzFeed",
+      "author": "Liz Richardson",
+      "headline": "22 “Outdated” Home Design Trends That Are So, So, So, So, So, So, Soooo Much Better Than Modern Trends",
+      "article_headline": "22 “Outdated” Home Design Trends That Are So, So, So, So, So, So, Soooo Much Better Than Modern Trends"
+    },
+    {
+      "link": "https://apple.news/A-D1Ht6mPQxeERNsdb1ITgw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-07 07:20:17",
+      "pub_time": "2026-06-06 14:23:53",
+      "publication": "Parents",
+      "author": "Liz Regalia",
+      "headline": "New Study Links Common Cleaning Chemical to Liver Damage—How To Keep Your Family Safe",
+      "article_headline": "New Study Links Common Cleaning Chemical to Liver Damage—How To Keep Your Family Safe"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-07 07:20:17",
+      "pub_time": "2026-06-06 07:24:20",
+      "publication": "",
+      "author": "Virginia Chamlee",
+      "headline": "'Little House' Actor Recalls 'Warning' Michael Landon About 'Mork & Mindy'",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
