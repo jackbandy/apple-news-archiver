@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-07 13:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AC623TDYPRvqjRZlRXIzZog",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-07 13:40:17",
+      "pub_time": "2026-06-07 13:24:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Starmer hosts Zelenskyy, Macron, and Merz as Russian strikes kill 3 in Ukraine",
+      "article_headline": "Starmer hosts Zelenskyy, Macron, and Merz as Russian strikes kill 3 in Ukraine"
+    },
+    {
+      "link": "https://apple.news/AIjmSUFPnQNCxl3UqYB1ycw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-07 13:40:17",
+      "pub_time": "2026-06-07 13:24:45",
+      "publication": "The Columbus Dispatch",
+      "author": "",
+      "headline": "Gov. DeWine, other Ohio officials condemn “unacceptable” Toledo mass shooting",
+      "article_headline": "Gov. DeWine, other Ohio officials condemn “unacceptable” Toledo mass shooting"
+    },
+    {
+      "link": "https://apple.news/AIjmSUFPnQNCxl3UqYB1ycw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-07 13:40:17",
+      "pub_time": "2026-06-07 13:24:17",
+      "publication": "The Columbus Dispatch",
+      "author": "",
+      "headline": "Gov. DeWine, other Ohio officials condemn “unacceptable” Toledo mass shooting",
+      "article_headline": "Gov. DeWine, other Ohio officials condemn “unacceptable” Toledo mass shooting"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 13:40:17",
+      "pub_time": "2026-06-07 13:24:45",
+      "publication": "The Wall Street Journal",
+      "author": "Amanda Coletta, Deborah Acosta, and Ryan Dubé",
+      "headline": "Foreign businesses are fleeing Cuba as its economy collapses",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AfyZ_HcrySaGJ11hgYD4z9A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-07 13:40:17",
+      "pub_time": "2026-06-07 13:24:45",
+      "publication": "NBC News",
+      "author": "Peter Nicholas",
+      "headline": "Trump doesn’t rule out giving Jan. 6 rioters who attacked police “anti-weaponization” fund payouts",
+      "article_headline": "Trump doesn’t rule out giving Jan. 6 rioters who attacked police “anti-weaponization” fund payouts"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 13:40:17",
+      "pub_time": "2026-06-07 13:24:17",
+      "publication": "The Wall Street Journal",
+      "author": "Amanda Coletta, Deborah Acosta, and Ryan Dubé",
+      "headline": "Foreign businesses are fleeing Cuba as its economy collapses",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AfyZ_HcrySaGJ11hgYD4z9A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-07 13:40:17",
+      "pub_time": "2026-06-07 13:24:17",
+      "publication": "NBC News",
+      "author": "Peter Nicholas",
+      "headline": "Trump doesn’t rule out giving Jan. 6 rioters who attacked police “anti-weaponization” fund payouts",
+      "article_headline": "Trump doesn’t rule out giving Jan. 6 rioters who attacked police “anti-weaponization” fund payouts"
+    }
+  ]
+}

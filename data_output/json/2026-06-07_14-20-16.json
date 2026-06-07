@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-07 14:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AfZES4Az9QDaQIANuhecNmg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-07 14:20:16",
+      "pub_time": "2026-06-07 13:57:18",
+      "publication": "Bloomberg",
+      "author": "Arsalan Shahla and Sara Gharaibeh",
+      "headline": "U.S., Iran appear far from peace deal 100 days since war began",
+      "article_headline": "U.S., Iran appear far from peace deal 100 days since war began"
+    },
+    {
+      "link": "https://apple.news/A7WICukLXRkW3ceXwaRuQZQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-07 14:20:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Trump walks out of ‘Meet the Press’ interview when challenged over false claims",
+      "article_headline": "Trump walks out of ‘Meet the Press’ interview when challenged over false claims"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 14:20:16",
+      "pub_time": "2026-06-07 13:57:19",
+      "publication": "The Wall Street Journal",
+      "author": "Amanda Coletta, Deborah Acosta, and Ryan Dubé",
+      "headline": "Foreign businesses are fleeing Cuba as its economy collapses",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/At_yy_DjPQ-yc4A6Ww6OsVA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-07 14:20:16",
+      "pub_time": "2026-06-07 13:57:19",
+      "publication": "Portland Press Herald",
+      "author": "",
+      "headline": "Maine Democrats largely stand by Graham Platner in the upcoming Senate primary despite D.C. concerns",
+      "article_headline": "Maine Democrats largely stand by Graham Platner in the upcoming Senate primary despite D.C. concerns"
+    },
+    {
+      "link": "https://apple.news/AoXDCr56WQgKaoChqtI9dIA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-07 14:20:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Alexander Zverev defeats Flavio Cobolli in French Open final to win first Grand Slam title",
+      "article_headline": "Alexander Zverev defeats Flavio Cobolli in French Open final to win first Grand Slam title"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 14:20:16",
+      "pub_time": "",
+      "publication": "Popular Mechanics",
+      "author": "",
+      "headline": "The American cities that could become ghost towns by 2100, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AMr7uKHiqRAqJd8wTDPnmug",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-07 14:20:16",
+      "pub_time": "",
+      "publication": "How the Texas floods forever changed one family",
+      "author": "",
+      "headline": "And what healing looks like.,  Play Now  24 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AHgvOcVtnSdiNG-d31TJZ6g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-07 14:20:16",
+      "pub_time": "2026-06-07 08:22:58",
+      "publication": "HuffPost",
+      "author": "Lisa McCarty",
+      "headline": "My Daughter Was Exhibiting Concerning Behaviors. No One Knew Why — Until Her Teacher Shared An Unexpected Observation.",
+      "article_headline": "My Daughter Was Exhibiting Concerning Behaviors. No One Knew Why — Until Her Teacher Shared An Unexpected Observation."
+    },
+    {
+      "link": "https://apple.news/A41Rsh8O2QXaTq4p2duh-Jg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-07 14:20:16",
+      "pub_time": "2026-06-06 15:23:26",
+      "publication": "BuzzFeed",
+      "author": "Kimberley Richards",
+      "headline": "Security Experts Are Warning That This 1 iPhone Setting Could Be Opening You Up To Cyberattacks",
+      "article_headline": "Security Experts Are Warning That This 1 iPhone Setting Could Be Opening You Up To Cyberattacks"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-07 14:20:16",
+      "pub_time": "2026-06-06 19:23:53",
+      "publication": "",
+      "author": "Steve Fisher",
+      "headline": "She met older men on dating apps. Aurora Phelps drugged and sometimes killed them, FBI says",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AOrPQdrfwT_ypQjQh2DvOeg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-07 14:20:16",
+      "pub_time": "2026-06-07 07:23:59",
+      "publication": "Delish",
+      "author": "Steven Morea",
+      "headline": "We Tried 18 Fast Food Breakfast Sandwiches—And The Winner Is Shocking",
+      "article_headline": "We Tried 18 Fast Food Breakfast Sandwiches—And The Winner Is Shocking"
+    }
+  ]
+}

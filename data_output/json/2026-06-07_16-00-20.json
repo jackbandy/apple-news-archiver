@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-07 16:00:20",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AgEGiifoPRRal2AVycKEd-Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-07 16:00:20",
+      "pub_time": "2026-06-07 15:51:21",
+      "publication": "DEVELOPING",
+      "author": "Barak Ravid",
+      "headline": "Axios, Iran fires missiles at Israel for first time since ceasefire",
+      "article_headline": "Iran fires missiles at Israel for first time since ceasefire"
+    },
+    {
+      "link": "https://apple.news/A7WICukLXRkW3ceXwaRuQZQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-07 16:00:20",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Trump walks out of ‘Meet the Press’ interview when challenged over false claims",
+      "article_headline": "Trump walks out of ‘Meet the Press’ interview when challenged over false claims"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 16:00:20",
+      "pub_time": "2026-06-07 15:51:22",
+      "publication": "Los Angeles Times",
+      "author": "Ruben Vives",
+      "headline": "“We’re in survival mode”: A year after ICE raids, a couple fight to save their dress shops",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AoXDCr56WQgKaoChqtI9dIA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-07 16:00:20",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Alexander Zverev defeats Flavio Cobolli in French Open final to win first Grand Slam title",
+      "article_headline": "Alexander Zverev defeats Flavio Cobolli in French Open final to win first Grand Slam title"
+    },
+    {
+      "link": "https://apple.news/AjDrVmPNJQYSNtPDrVOZlFA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-07 16:00:20",
+      "pub_time": "",
+      "publication": "Vanity Fair",
+      "author": "",
+      "headline": "All the fashion from the Tony Awards red carpet",
+      "article_headline": "All the fashion from the Tony Awards red carpet"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 16:00:20",
+      "pub_time": "",
+      "publication": "Popular Mechanics",
+      "author": "",
+      "headline": "The American cities that could become ghost towns by 2100, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AMr7uKHiqRAqJd8wTDPnmug",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-07 16:00:20",
+      "pub_time": "",
+      "publication": "How the Texas floods forever changed one family",
+      "author": "",
+      "headline": "And what healing looks like.,  Play Now  24 min",
+      "article_headline": ""
+    }
+  ]
+}
