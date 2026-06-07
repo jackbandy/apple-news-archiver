@@ -1,0 +1,119 @@
+{
+  "run_time": "2026-06-07 02:20:14",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AiOqlnWCpSEuASD1gUqBdDQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-07 02:20:14",
+      "pub_time": "2026-06-06 23:20:15",
+      "publication": "The Wall Street Journal",
+      "author": "Jason Douglas",
+      "headline": "Hormuz crisis exposes a global flaw that will take years to fix",
+      "article_headline": "Hormuz crisis exposes a global flaw that will take years to fix"
+    },
+    {
+      "link": "https://apple.news/ALfgLeEpxQFqpxEPZ4bNZaw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-07 02:20:14",
+      "pub_time": "2026-06-06 23:20:42",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say",
+      "article_headline": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say"
+    },
+    {
+      "link": "https://apple.news/AmHovQPUtTo-FfnsABVJzcQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-07 02:20:14",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump faces new Republican resistance in Congress as midterm pressures build",
+      "article_headline": "Trump faces new Republican resistance in Congress as midterm pressures build"
+    },
+    {
+      "link": "https://apple.news/AwLhGRED8Q8CSnU_bYmWICg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-07 02:20:14",
+      "pub_time": "2026-06-06 23:21:42",
+      "publication": "ABC News",
+      "author": "Othon Leyva and Nadine El-Bawab",
+      "headline": "American student missing in Japan found dead in mountainous area near Kyoto",
+      "article_headline": "American student missing in Japan found dead in mountainous area near Kyoto"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 02:20:14",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Painter sues FIFA over Dallas whale mural cover-up ahead of World Cup",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 02:20:14",
+      "pub_time": "2026-06-06 23:22:15",
+      "publication": "The Washington Post",
+      "author": "Danielle Paquette",
+      "headline": "The fall of America’s white-picket fences",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AMr7uKHiqRAqJd8wTDPnmug",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-07 02:20:14",
+      "pub_time": "",
+      "publication": "How the Texas floods forever changed one family",
+      "author": "",
+      "headline": "And what healing looks like.,  Play Now  24 min",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-07 02:20:14",
+      "pub_time": "2026-06-06 09:22:48",
+      "publication": "",
+      "author": "Liz Richardson",
+      "headline": "22 “Outdated” Home Design Trends That Are So, So, So, So, So, So, Soooo Much Better Than Modern Trends",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AmvN_Rid1Twapn_Jwl2l5cA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-07 02:20:14",
+      "pub_time": "2026-06-06 07:23:06",
+      "publication": "HuffPost",
+      "author": "Monica Torres",
+      "headline": "Should You Brush Your Teeth Before Or After Your Morning Coffee? The Answer Might Shock You.",
+      "article_headline": "Should You Brush Your Teeth Before Or After Your Morning Coffee? The Answer Might Shock You."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-07 02:20:14",
+      "pub_time": "2026-06-06 19:23:33",
+      "publication": "",
+      "author": "Steve Fisher",
+      "headline": "She met older men on dating apps. Aurora Phelps drugged and sometimes killed them, FBI says",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

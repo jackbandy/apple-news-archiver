@@ -1,0 +1,121 @@
+{
+  "run_time": "2026-06-07 04:20:16",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AiOqlnWCpSEuASD1gUqBdDQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-07 04:20:16",
+      "pub_time": "2026-06-06 23:20:18",
+      "publication": "The Wall Street Journal",
+      "author": "Jason Douglas",
+      "headline": "Hormuz crisis exposes a global flaw that will take years to fix",
+      "article_headline": "Hormuz crisis exposes a global flaw that will take years to fix"
+    },
+    {
+      "link": "https://apple.news/ALfgLeEpxQFqpxEPZ4bNZaw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-07 04:20:16",
+      "pub_time": "2026-06-06 23:20:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say",
+      "article_headline": "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say"
+    },
+    {
+      "link": "https://apple.news/AmHovQPUtTo-FfnsABVJzcQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-07 04:20:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump faces new Republican resistance in Congress as midterm pressures build",
+      "article_headline": "Trump faces new Republican resistance in Congress as midterm pressures build"
+    },
+    {
+      "link": "https://apple.news/AwLhGRED8Q8CSnU_bYmWICg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-07 04:20:16",
+      "pub_time": "2026-06-06 23:21:44",
+      "publication": "ABC News",
+      "author": "Othon Leyva and Nadine El-Bawab",
+      "headline": "American student missing in Japan found dead in mountainous area near Kyoto",
+      "article_headline": "American student missing in Japan found dead in mountainous area near Kyoto"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 04:20:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Painter sues FIFA over Dallas whale mural cover-up ahead of World Cup",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 04:20:16",
+      "pub_time": "2026-06-06 23:22:17",
+      "publication": "The Washington Post",
+      "author": "Danielle Paquette",
+      "headline": "The fall of America’s white-picket fences",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AMr7uKHiqRAqJd8wTDPnmug",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-07 04:20:16",
+      "pub_time": "",
+      "publication": "How the Texas floods forever changed one family",
+      "author": "",
+      "headline": "And what healing looks like.,  Play Now  24 min",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-06-07 04:20:16",
+      "pub_time": "",
+      "publication": "Investopedia",
+      "author": "",
+      "headline": "The 401(k) benchmark only 14% of workers hit — and how to achieve it, Jake Safane",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-06-07 04:20:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Five ways daily cannabis use can affect your body and mind, Sarah Klein",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-06-07 04:20:16",
+      "pub_time": "",
+      "publication": "Men’s Health",
+      "author": "",
+      "headline": "America has a new favorite anxiety drug, Gregory Scott Brown",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
