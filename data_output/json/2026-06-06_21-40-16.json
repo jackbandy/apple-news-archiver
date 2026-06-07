@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-06 21:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AmHovQPUtTo-FfnsABVJzcQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-06 21:40:16",
+      "pub_time": "2026-06-06 20:56:18",
+      "publication": "Reuters",
+      "author": "David Morgan",
+      "headline": "Trump faces new Republican resistance in Congress as midterm pressures build",
+      "article_headline": "Trump faces new Republican resistance in Congress as midterm pressures build"
+    },
+    {
+      "link": "https://apple.news/ALavO1omgSBaD1DJvvwjK4w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-06 21:40:16",
+      "pub_time": "2026-06-06 20:56:46",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Ukrainian drones target St. Petersburg in an attack Russia calls “unprecedented”",
+      "article_headline": "Ukrainian drones target St. Petersburg in an attack Russia calls “unprecedented”"
+    },
+    {
+      "link": "https://apple.news/A98qZP3t4T2C7M67uoi-vlw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-06 21:40:16",
+      "pub_time": "2026-06-06 20:57:13",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "What to know about the ongoing protests and arrests outside a New Jersey detention center",
+      "article_headline": "What to know about the ongoing protests and arrests outside a New Jersey detention center"
+    },
+    {
+      "link": "https://apple.news/ALavO1omgSBaD1DJvvwjK4w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-06 21:40:16",
+      "pub_time": "2026-06-06 20:56:47",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Ukrainian drones target St. Petersburg in an attack Russia calls “unprecedented”",
+      "article_headline": "Ukrainian drones target St. Petersburg in an attack Russia calls “unprecedented”"
+    },
+    {
+      "link": "https://apple.news/A98qZP3t4T2C7M67uoi-vlw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-06 21:40:16",
+      "pub_time": "2026-06-06 20:57:14",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "What to know about the ongoing protests and arrests outside a New Jersey detention center",
+      "article_headline": "What to know about the ongoing protests and arrests outside a New Jersey detention center"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-06 21:40:16",
+      "pub_time": "",
+      "publication": "Scientific American",
+      "author": "",
+      "headline": "Mars sample that may contain evidence of life might never come home, Jonathan O’Callaghan",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AOEdJWxiDTEiF0Oq5utOWIw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-06 21:40:16",
+      "pub_time": "",
+      "publication": "The Christian Science Monitor",
+      "author": "",
+      "headline": "“Jump for the USA! Olé!”: American superfans welcome the World Cup",
+      "article_headline": "“Jump for the USA! Olé!”: American superfans welcome the World Cup"
+    }
+  ]
+}
