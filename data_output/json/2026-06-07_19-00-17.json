@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-07 19:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AgEGiifoPRRal2AVycKEd-Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-07 19:00:17",
+      "pub_time": "2026-06-07 18:00:19",
+      "publication": "Axios",
+      "author": "Barak Ravid",
+      "headline": "Iran fires missiles at Israel for first time since ceasefire",
+      "article_headline": "Iran fires missiles at Israel for first time since ceasefire"
+    },
+    {
+      "link": "https://apple.news/A7WICukLXRkW3ceXwaRuQZQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-07 19:00:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Trump walks out of ‘Meet the Press’ interview when challenged over false claims",
+      "article_headline": "Trump walks out of ‘Meet the Press’ interview when challenged over false claims"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 19:00:17",
+      "pub_time": "2026-06-07 18:01:20",
+      "publication": "The Tennessean",
+      "author": "",
+      "headline": "Plans for a data center near the Nashville Zoo draw concern from the mayor",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADWgHjxraQIizMGpVMK1Srw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-07 19:00:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "No bags, no watch parties at MSG for NBA Finals Game 3 as Trump plans to attend",
+      "article_headline": "No bags, no watch parties at MSG for NBA Finals Game 3 as Trump plans to attend"
+    },
+    {
+      "link": "https://apple.news/AjDrVmPNJQYSNtPDrVOZlFA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-07 19:00:17",
+      "pub_time": "",
+      "publication": "Vanity Fair",
+      "author": "",
+      "headline": "All the fashion from the Tony Awards red carpet",
+      "article_headline": "All the fashion from the Tony Awards red carpet"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 19:00:17",
+      "pub_time": "2026-06-07 18:02:21",
+      "publication": "Bloomberg Businessweek",
+      "author": "Emily Flitter",
+      "headline": "The used-car empire built on big markups and double-digit interest rates",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AMr7uKHiqRAqJd8wTDPnmug",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-07 19:00:17",
+      "pub_time": "",
+      "publication": "How the Texas floods forever changed one family",
+      "author": "",
+      "headline": "And what healing looks like.,  Play Now  24 min",
+      "article_headline": ""
+    }
+  ]
+}

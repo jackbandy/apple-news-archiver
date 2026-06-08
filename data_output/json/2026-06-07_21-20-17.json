@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-07 21:20:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A1I0EzuZrQu6TJkSn7rwebg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-07 21:20:17",
+      "pub_time": "2026-06-07 21:17:18",
+      "publication": "NBC News",
+      "author": "Mark Hodge, Kayla Hayempour, and Jeremy Mikula",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/ALDoOGBmvREebHFZrUiEW2A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-07 21:20:17",
+      "pub_time": "2026-06-07 21:17:46",
+      "publication": "The Wall Street Journal",
+      "author": "Dov Lieber",
+      "headline": "Israel hits back at Iran after missile attack, renewing fear of war",
+      "article_headline": "Israel hits back at Iran after missile attack, renewing fear of war"
+    },
+    {
+      "link": "https://apple.news/ALDoOGBmvREebHFZrUiEW2A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-07 21:20:17",
+      "pub_time": "2026-06-07 21:16:18",
+      "publication": "The Wall Street Journal",
+      "author": "Dov Lieber",
+      "headline": "Israel hits back at Iran after missile attack, renewing fear of war",
+      "article_headline": "Israel hits back at Iran after missile attack, renewing fear of war"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 21:20:17",
+      "pub_time": "",
+      "publication": "The Tennessean",
+      "author": "",
+      "headline": "Plans for a data center near the Nashville Zoo draw concern from the mayor",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ABfimro5tS-6DdHy6ytsFEw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-07 21:20:17",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Nelly Korda wins her first U.S. Women’s Open title in a thriller at Riviera",
+      "article_headline": "Nelly Korda wins her first U.S. Women's Open title in a thriller at Riviera"
+    },
+    {
+      "link": "https://apple.news/AwiQQG74RRUaQZaPTHUEaLw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-07 21:20:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "The Tony Awards are underway. See who’s won an award so far.",
+      "article_headline": "The Tonys are underway. See who's won an award so far"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-07 21:20:17",
+      "pub_time": "2026-06-07 21:16:45",
+      "publication": "Bloomberg Businessweek",
+      "author": "Emily Flitter",
+      "headline": "The used-car empire built on big markups and double-digit interest rates",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AD-aTq0TmTwGmyQrHhlp2Pg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-07 21:20:17",
+      "pub_time": "2026-06-07 06:22:56",
+      "publication": "HuffPost",
+      "author": "Jillian Wilson",
+      "headline": "7 Signs You're Aging Well, According To Geriatricians",
+      "article_headline": "7 Signs You're Aging Well, According To Geriatricians"
+    },
+    {
+      "link": "https://apple.news/ATPUFnJLvTaq2j_pW2nRB1Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-07 21:20:17",
+      "pub_time": "2026-06-07 13:23:24",
+      "publication": "The Washington Post",
+      "author": "Sydney Page",
+      "headline": "This couple grows trees in the shape of chairs. They sell for $90K.",
+      "article_headline": "This couple grows trees in the shape of chairs. They sell for $90K."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-07 21:20:17",
+      "pub_time": "2026-06-07 00:23:51",
+      "publication": "",
+      "author": "Rosie Marder",
+      "headline": "Rick Steves Says Pickpockets Are Targeting This No. 1 Item—After Mine Was Stolen, I Made This Change",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ABaOSowkpQp2nmxWVAhA4jw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-07 21:20:17",
+      "pub_time": "2026-06-07 16:23:58",
+      "publication": "BuzzFeed",
+      "author": "Krista Torres",
+      "headline": "\"I Fart Because It's The Only Gas I Can Afford\": 30 Signs From This Week That Sent Me Into A Tizzy Of Tee-Hees",
+      "article_headline": "\"I Fart Because It's The Only Gas I Can Afford\": 30 Signs From This Week That Sent Me Into A Tizzy Of Tee-Hees"
+    }
+  ]
+}
