@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-08 13:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AATGng7r4QGuxb641aS3DFw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-08 13:40:16",
+      "pub_time": "2026-06-08 13:32:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire",
+      "article_headline": "Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire"
+    },
+    {
+      "link": "https://apple.news/Aj7lNzqO4QHuJVOsNtJqktA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-08 13:40:16",
+      "pub_time": "",
+      "publication": "Bloomberg",
+      "author": "",
+      "headline": "Trump’s $100,000 H-1B visa-application fee rejected by judge",
+      "article_headline": "Trump’s $100,000 H-1B visa-application fee rejected by judge"
+    },
+    {
+      "link": "https://apple.news/A_ieqvHPaTtuvf_muPXOhLg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-08 13:40:16",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, U.S. launches largest-ever effort to denaturalize citizens accused of fraud",
+      "article_headline": "U.S. launches largest-ever effort to denaturalize citizens accused of fraud"
+    },
+    {
+      "link": "https://apple.news/AURPx-yGcQoK4HFcXQopVGA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-08 13:40:16",
+      "pub_time": "2026-06-08 13:32:45",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "At least 35 people dead after major earthquake strikes southern Philippines",
+      "article_headline": "At least 35 people dead after major earthquake strikes southern Philippines"
+    },
+    {
+      "link": "https://apple.news/AURPx-yGcQoK4HFcXQopVGA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-08 13:40:16",
+      "pub_time": "2026-06-08 13:32:18",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "At least 35 people dead after major earthquake strikes southern Philippines",
+      "article_headline": "At least 35 people dead after major earthquake strikes southern Philippines"
+    },
+    {
+      "link": "https://apple.news/ArQN7CjWcSgOvNzTUW7ChaQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-08 13:40:16",
+      "pub_time": "2026-06-08 13:32:45",
+      "publication": "The Guardian",
+      "author": "Maya Yang",
+      "headline": "Savannah Guthrie makes new plea for missing mother as search surpasses 4 months",
+      "article_headline": "Savannah Guthrie makes new plea for missing mother as search surpasses 4 months"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-08 13:40:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "An experimental GLP-1 drug pushes the limits of weight loss. There are risks.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
