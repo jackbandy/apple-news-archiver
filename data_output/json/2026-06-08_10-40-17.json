@@ -1,0 +1,118 @@
+{
+  "run_time": "2026-06-08 10:40:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/A3EY1p9EmSsitwbm5ewPwkw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-08 10:40:17",
+      "pub_time": "2026-06-08 10:26:18",
+      "publication": "The Washington Post",
+      "author": "Gerry Shih and Lior Soroka",
+      "headline": "Iran says it will halt attacks on Israel after waves of strikes",
+      "article_headline": "Iran says it will halt attacks on Israel after waves of strikes"
+    },
+    {
+      "link": "https://apple.news/AGMyU_xAdR8eYFmun5QXZpw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-08 10:40:17",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Raman outpaces Pratt in L.A. mayoral race; California governor’s matchup takes shape",
+      "article_headline": "Raman outpaces Pratt in L.A. mayoral race; California governor’s matchup takes shape"
+    },
+    {
+      "link": "https://apple.news/Awh45lHfPTJu_SqkCzOT1Yw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-08 10:40:17",
+      "pub_time": "2026-06-08 10:26:19",
+      "publication": "Reuters",
+      "author": "Mike Spector and Linda So",
+      "headline": "Epstein abused them. The Justice Department exposed them. Now they’re under attack by haters.",
+      "article_headline": "Epstein abused them. The Justice Department exposed them. Now they’re under attack by haters."
+    },
+    {
+      "link": "https://apple.news/A3QLXjObpSSKsKGIMEyE-yw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-08 10:40:17",
+      "pub_time": "2026-06-08 10:26:46",
+      "publication": "NPR",
+      "author": "Juana Summers",
+      "headline": "When U.S. foreign aid changed, AIDS workers in Africa felt it",
+      "article_headline": "When U.S. foreign aid changed, AIDS workers in Africa felt it"
+    },
+    {
+      "link": "https://apple.news/Awh45lHfPTJu_SqkCzOT1Yw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-08 10:40:17",
+      "pub_time": "2026-06-08 10:26:19",
+      "publication": "Reuters",
+      "author": "Mike Spector and Linda So",
+      "headline": "Epstein abused them. The Justice Department exposed them. Now they’re under attack by haters.",
+      "article_headline": "Epstein abused them. The Justice Department exposed them. Now they’re under attack by haters."
+    },
+    {
+      "link": "https://apple.news/A3QLXjObpSSKsKGIMEyE-yw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-08 10:40:17",
+      "pub_time": "2026-06-08 10:26:46",
+      "publication": "NPR",
+      "author": "Juana Summers",
+      "headline": "When U.S. foreign aid changed, AIDS workers in Africa felt it",
+      "article_headline": "When U.S. foreign aid changed, AIDS workers in Africa felt it"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-08 10:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump’s NBA finals attendance brings added security to Madison Square Garden",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-08 10:40:17",
+      "pub_time": "2026-06-07 11:43:49",
+      "publication": "CBS News",
+      "author": "Wendy Rose Gould",
+      "headline": "We Asked Gardeners Which Perennial Plant Is Easiest to Maintain—and Their Answer Was Unanimous",
+      "article_headline": "Raman outpaces Pratt in L.A. mayoral race; California governor’s matchup takes shape"
+    },
+    {
+      "link": "https://apple.news/A_ZN5LrexQTecakJSER_4EA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-08 10:40:17",
+      "pub_time": "2026-06-08 09:45:53",
+      "publication": "People",
+      "author": "Charlotte Phillipp",
+      "headline": "Savannah Guthrie Shares Emotional Message About Her Mom Nancy's Disappearance in New Post",
+      "article_headline": "Savannah Guthrie Shares Emotional Message About Her Mom Nancy's Disappearance in New Post"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-08 10:40:17",
+      "pub_time": "2026-06-07 10:45:21",
+      "publication": "",
+      "author": "Rosie Marder",
+      "headline": "Rick Steves Says Pickpockets Are Targeting This No. 1 Item—After Mine Was Stolen, I Made This Change",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
