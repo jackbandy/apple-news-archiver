@@ -37,5 +37,11 @@ MAX_READER_FAVORITES = 4  # reader favorites appearing before the next header
 MAX_POPULAR_STORIES = 5   # "Popular in News+" stories
 MAX_TRENDING = 4          # trending stories
 
+# Extra section headers to collect beyond the standard set.
+# Add entries for any region-specific or custom sections Apple News shows on
+# your device. Format: {'Header Label in App': 'section_name_in_csv'}
+# Example: EXTRA_SECTION_HEADERS = {'Chicago': 'chicago', 'Illinois': 'illinois'}
+EXTRA_SECTION_HEADERS = {}
+
 # Maximum wall-clock seconds a single run may take before it is killed (0 = no limit)
 MAX_RUN_SECONDS = 900     # 15 minutes

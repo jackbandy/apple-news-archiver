@@ -12,12 +12,12 @@ __author__ = "Jack Bandy"
 
 import os
 import re
-import csv
 import json
 import fcntl
 import signal
 import datetime
 import subprocess
+import traceback
 from time import sleep
 from glob import glob
 from appium.webdriver.common.appiumby import AppiumBy
@@ -28,6 +28,12 @@ from util.gestures import (
 from util.parsing import parse_cell_label, parse_pub_date
 from util.setup import wda_needs_reinstall, clear_wda_derived_data, wipe_app_data_folder
 from util.appium_session import start_driver
+from util.story_rows import (
+    deduplicate_rows,
+    read_csv_rows,
+    story_tuple_to_row,
+    write_csv_rows_atomic,
+)
 
 from config import (
     device_name_and_os, device_os, udid,
@@ -35,7 +41,7 @@ from config import (
     COLLECT_TOP_STORIES, APP_PATH,
     MIN_STORY_CELL_HEIGHT, TAB_BAR_HEIGHT, SAFE_TAP_MARGIN, MAX_TOP_STORIES,
     MAX_TOP_HOME, MAX_READER_FAVORITES, MAX_POPULAR_STORIES, MAX_TRENDING,
-    MAX_RUN_SECONDS,
+    MAX_RUN_SECONDS, EXTRA_SECTION_HEADERS,
 )
 
 
@@ -43,140 +49,208 @@ LOCK_PATH = '/tmp/apple_news_scraper.lock'
 PENDING_PATH = '/tmp/get_stories_pending'  # signals verify_links_desktop.py to pause
 
 
-def main():
-    # Signal verify_links_desktop.py to finish its current link and pause.
-    open(PENDING_PATH, 'w').close()
+class ScraperRunError(RuntimeError):
+    pass
 
-    # Acquire exclusive lock.  verify_links_desktop.py holds LOCK_SH only during
-    # brief CSV writes, so we retry for up to 60 s before giving up.  A true
-    # overlapping get_stories run would hold the lock for ~15 min, well past 60 s.
-    import time as _time
-    lock_fd = open(LOCK_PATH, 'w')
-    deadline = _time.time() + 60
-    while True:
-        try:
-            fcntl.flock(lock_fd, fcntl.LOCK_EX | fcntl.LOCK_NB)
-            break
-        except OSError:
-            if _time.time() >= deadline:
-                print("Another instance is already running — exiting")
-                lock_fd.close()
-                try:
-                    os.unlink(PENDING_PATH)
-                except OSError:
-                    pass
-                return
-            _time.sleep(1)
 
-    # Lock acquired — clear the pending marker so verify_links_desktop.py can resume
-    # once we release the exclusive lock at the end of this run.
+def _remove_pending_marker():
     try:
         os.unlink(PENDING_PATH)
     except OSError:
         pass
 
+
+def _acquire_run_lock():
+    """Return the locked file handle, or None if another scraper owns it."""
+    import time as _time
+
+    lock_fd = open(LOCK_PATH, 'w')
+    deadline = _time.time() + 60
+    while True:
+        try:
+            fcntl.flock(lock_fd, fcntl.LOCK_EX | fcntl.LOCK_NB)
+            return lock_fd
+        except BlockingIOError:
+            if _time.time() >= deadline:
+                print("Another instance is already running — exiting")
+                lock_fd.close()
+                return None
+            _time.sleep(1)
+
+
+def _install_timeout():
     if MAX_RUN_SECONDS > 0:
         def _timeout_handler(signum, frame):
-            print("Run exceeded {} seconds — terminating".format(MAX_RUN_SECONDS))
-            raise SystemExit(1)
+            raise ScraperRunError(
+                "Run exceeded {} seconds".format(MAX_RUN_SECONDS)
+            )
+
         signal.signal(signal.SIGALRM, _timeout_handler)
         signal.alarm(MAX_RUN_SECONDS)
 
-    print("Device: {} ({})".format(device_name_and_os, udid))
 
-    # Terminate the app cleanly before wiping data (avoids the app rewriting
-    # cache files as we delete them)
+def _collect_run(driver, run_time):
+    print("Collecting home page stories...")
+    all_stories = collect_home_page(driver, run_time)
+
+    if COLLECT_TOP_STORIES:
+        print("Navigating to Top Stories view...")
+        top_stories_el = None
+        for _ in range(10):
+            try:
+                top_stories_el = driver.find_element(
+                    AppiumBy.ACCESSIBILITY_ID, 'Top Stories'
+                )
+                break
+            except Exception:
+                sleep(1)
+        if not top_stories_el:
+            raise ScraperRunError(
+                "COLLECT_TOP_STORIES is enabled, but the Top Stories view "
+                "could not be found"
+            )
+
+        tap(
+            driver,
+            100,
+            top_stories_el.location['y'] + top_stories_el.size['height'] // 2,
+        )
+        sleep(4)
+        home_links = {row[0] for row in all_stories if row[0]}
+        all_stories.extend(
+            collect_top_stories_view(driver, run_time, seen_links=home_links)
+        )
+
+    if not all_stories:
+        raise ScraperRunError("No stories found")
+    return all_stories
+
+
+def _warn_for_missing_sections(stories):
+    present = {story[2] for story in stories}
+    expected = {'top': MAX_TOP_HOME}
+    expected.update({
+        'trending': MAX_TRENDING,
+        'reader_favorites': MAX_READER_FAVORITES,
+        'popular': MAX_POPULAR_STORIES,
+    })
+    expected.update({section: 1 for section in EXTRA_SECTION_HEADERS.values()})
+    missing = [
+        section
+        for section, configured_max in expected.items()
+        if configured_max > 0 and section not in present
+    ]
+    if missing:
+        print(
+            "Warning: run completed without these configured sections: {}".format(
+                ', '.join(sorted(missing))
+            )
+        )
+
+
+def main():
+    lock_fd = None
+    driver = None
     try:
-        subprocess.run(['xcrun', 'simctl', 'terminate', udid, 'com.apple.news'],
-                       check=False, capture_output=True)
-    except Exception:
-        pass
+        # Signal verify_links_desktop.py to finish its current link and pause.
+        open(PENDING_PATH, 'w').close()
+        lock_fd = _acquire_run_lock()
+        if lock_fd is None:
+            return 0
 
-    # Wipe Caches/ and tmp/ for a fresh feed
-    user = os.environ['USER']
-    app_data_pattern = '/Users/{}/Library/Developer/CoreSimulator/Devices/{}/data/Containers/Data/Application/*/Library'.format(user, udid)
-    matches = glob(app_data_pattern + '/Caches/News')
-    for folder in matches:
+        # The verifier can resume once this process releases the exclusive lock.
+        _remove_pending_marker()
+        _install_timeout()
+
+        print("Device: {} ({})".format(device_name_and_os, udid))
+
+        # Terminate the app cleanly before wiping data.
         try:
-            wipe_app_data_folder(folder)
-        except Exception:
-            print("Couldn't wipe {}".format(folder))
-    # Also wipe tmp/
-    tmp_matches = glob(app_data_pattern.replace('/Library', '/tmp'))
-    for folder in tmp_matches:
-        try:
-            wipe_app_data_folder(folder)
+            subprocess.run(
+                ['xcrun', 'simctl', 'terminate', udid, 'com.apple.news'],
+                check=False,
+                capture_output=True,
+            )
         except Exception:
             pass
 
-    os.makedirs(output_folder, exist_ok=True)
+        user = os.environ['USER']
+        app_data_pattern = (
+            '/Users/{}/Library/Developer/CoreSimulator/Devices/{}/data/'
+            'Containers/Data/Application/*/Library'
+        ).format(user, udid)
+        for folder in glob(app_data_pattern + '/Caches/News'):
+            try:
+                wipe_app_data_folder(folder)
+            except Exception:
+                print("Couldn't wipe {}".format(folder))
+        for folder in glob(app_data_pattern.replace('/Library', '/tmp')):
+            try:
+                wipe_app_data_folder(folder)
+            except Exception:
+                pass
 
-    reinstall = wda_needs_reinstall(udid)
-    if reinstall:
-        print("WDA bundle missing or version mismatch — will force reinstall")
-        clear_wda_derived_data()
+        os.makedirs(output_folder, exist_ok=True)
 
-    print("Opening app...")
-    try:
-        driver = start_driver(
-            app_path=APP_PATH,
-            device_name=device_name_and_os,
-            udid=udid,
-            platform_version=device_os,
-            rebuild_wda=reinstall,
-            clear_wda_derived_data_fn=clear_wda_derived_data,
-        )
-    except Exception as e:
-        print("Error connecting to Appium: {}".format(e))
-        lock_fd.close()
-        return
+        reinstall = wda_needs_reinstall(udid)
+        if reinstall:
+            print("WDA bundle missing or version mismatch — will force reinstall")
+            clear_wda_derived_data()
 
-    sleep(8)  # wait for feed to fully load
+        print("Opening app...")
+        try:
+            driver = start_driver(
+                app_path=APP_PATH,
+                device_name=device_name_and_os,
+                udid=udid,
+                platform_version=device_os,
+                rebuild_wda=reinstall,
+                clear_wda_derived_data_fn=clear_wda_derived_data,
+            )
+        except Exception as exc:
+            raise ScraperRunError(
+                "Error connecting to Appium: {}".format(exc)
+            ) from exc
 
-    try:
+        sleep(8)
         run_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        all_stories = _collect_run(driver, run_time)
+        _warn_for_missing_sections(all_stories)
 
-        # Collect stories from the home page (top 1-5 and trending 1-4)
-        print("Collecting home page stories...")
-        all_stories = collect_home_page(driver, run_time)
-
-        # Optionally navigate into the Top Stories view for ranked collection
-        if COLLECT_TOP_STORIES:
-            print("Navigating to Top Stories view...")
-            top_stories_el = None
-            for _ in range(10):
-                try:
-                    top_stories_el = driver.find_element(AppiumBy.ACCESSIBILITY_ID, 'Top Stories')
-                    break
-                except Exception:
-                    sleep(1)
-            if top_stories_el:
-                tap(driver, 100,
-                    top_stories_el.location['y'] + top_stories_el.size['height'] // 2)
-                sleep(4)
-                home_links = {row[0] for row in all_stories if row[0]}
-                ranked = collect_top_stories_view(driver, run_time, seen_links=home_links)
-                all_stories.extend(ranked)
-            else:
-                print("Could not find 'Top Stories' element, skipping")
-
-        if all_stories:
-            save_stories(all_stories)
-            save_json(all_stories, run_time)
-            print("Saved {} story rows".format(len(all_stories)))
-        else:
-            print("No stories found")
-
-    except Exception as e:
-        print("Error: {}".format(e))
-
-    try:
-        driver.terminate_app('com.apple.news')
-    except Exception:
-        pass
-    driver.quit()
-
-
+        # Preserve the raw run before updating the canonical aggregate.
+        save_json(all_stories, run_time)
+        added, merged = save_stories(all_stories)
+        print(
+            "Saved {} story rows ({} new observations, {} duplicates merged)".format(
+                len(all_stories), added, merged
+            )
+        )
+        return 0
+    except ScraperRunError as exc:
+        print("Scraper failed: {}".format(exc))
+        return 1
+    except Exception as exc:
+        print("Scraper failed unexpectedly: {}".format(exc))
+        traceback.print_exc()
+        return 1
+    finally:
+        signal.alarm(0)
+        _remove_pending_marker()
+        if driver is not None:
+            try:
+                driver.terminate_app('com.apple.news')
+            except Exception:
+                pass
+            try:
+                driver.quit()
+            except Exception:
+                pass
+        if lock_fd is not None:
+            try:
+                fcntl.flock(lock_fd, fcntl.LOCK_UN)
+            except OSError:
+                pass
+            lock_fd.close()
 
 def collect_home_page(driver, run_time):
     '''
@@ -204,9 +278,7 @@ def collect_home_page(driver, run_time):
         'Reader Favorites':   'reader_favorites',
         'Popular in News+':   'popular',
         'Trending Stories':   'trending',
-        'Chicago':            'chicago',
-        'Illinois':           'illinois',
-        'Illinois Politics':  'illinois_politics',
+        **EXTRA_SECTION_HEADERS,
     }
     # Any header not in TARGET_SECTION_HEADERS triggers a skip zone.
     # Stories between a skip header and the next target header are ignored.
@@ -219,9 +291,7 @@ def collect_home_page(driver, run_time):
     reader_favorites_rank = 0
     popular_rank = 0
     trending_rank = 0
-    chicago_rank = 0
-    illinois_rank = 0
-    illinois_politics_rank = 0
+    extra_ranks = {section: 0 for section in EXTRA_SECTION_HEADERS.values()}
     no_progress_streak = 0
 
     for attempt in range(40):
@@ -249,10 +319,10 @@ def collect_home_page(driver, run_time):
                 pass
         header_boundaries.sort()
 
-        # Local sections (chicago/illinois/illinois_politics) are considered
+        # Extra sections (from EXTRA_SECTION_HEADERS) are considered
         # exhausted once any subsequent header has appeared after them — i.e.,
         # they are not the last entry in the sorted boundary list.
-        LOCAL_SECTIONS = ('chicago', 'illinois', 'illinois_politics')
+        LOCAL_SECTIONS = tuple(EXTRA_SECTION_HEADERS.values())
         exhausted_sections = {
             s for i, (y, s) in enumerate(header_boundaries)
             if s in LOCAL_SECTIONS and i < len(header_boundaries) - 1
@@ -345,15 +415,8 @@ def collect_home_page(driver, run_time):
                 if active_section in exhausted_sections:
                     seen_labels.add(label)
                     continue
-                if active_section == 'chicago':
-                    chicago_rank += 1
-                    rank = chicago_rank
-                elif active_section == 'illinois':
-                    illinois_rank += 1
-                    rank = illinois_rank
-                else:
-                    illinois_politics_rank += 1
-                    rank = illinois_politics_rank
+                extra_ranks[active_section] = extra_ranks.get(active_section, 0) + 1
+                rank = extra_ranks[active_section]
                 section = active_section
             elif top_total >= MAX_TOP_HOME:
                 # Top section is full — skip until a named section header appears
@@ -586,17 +649,13 @@ def collect_top_stories_view(driver, run_time, seen_links=None):
 # data I/O
 
 def save_stories(stories):
-    '''Append story rows to stories.csv, writing header if file is new.'''
-    write_header = not os.path.exists(output_file)
-    with open(output_file, 'a', newline='') as f:
-        writer = csv.writer(f)
-        if write_header:
-            writer.writerow(['link', 'rank', 'section', 'run_time', 'pub_time', 'publication', 'author', 'headline', 'article_headline', 'link_status', 'resolved_link', 'web_headline'])
-        for row in stories:
-            link = row[0]
-            is_plus = len(row) > 9 and row[9]
-            link_status = 'P' if is_plus else ('U' if link else 'M')
-            writer.writerow(list(row[:9]) + [link_status, '', ''])
+    '''Atomically merge new observations into the canonical stories CSV.'''
+    existing = read_csv_rows(output_file)
+    incoming = [story_tuple_to_row(story) for story in stories]
+    clean_existing, _ = deduplicate_rows(existing)
+    merged_rows, duplicates_removed = deduplicate_rows(existing + incoming)
+    write_csv_rows_atomic(output_file, merged_rows)
+    return len(merged_rows) - len(clean_existing), duplicates_removed
 
 
 def save_json(stories, run_time):
@@ -626,4 +685,4 @@ def save_json(stories, run_time):
 
 
 if __name__ == '__main__':
-    main()
+    raise SystemExit(main())

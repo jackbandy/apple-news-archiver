@@ -14,6 +14,9 @@ except ImportError:
     )
     exit(1)
 
+# Optional settings added after older private configs were created.
+EXTRA_SECTION_HEADERS = globals().get('EXTRA_SECTION_HEADERS', {})
+
 # --- Device rotation ---
 # If DEVICES is defined (list of (name, os, udid) tuples), rotate through them.
 # Each cycle through all devices uses a random order.  The shuffled queue is

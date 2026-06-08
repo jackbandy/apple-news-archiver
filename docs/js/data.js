@@ -44,21 +44,82 @@ function extractStoryLabel(headline, publication) {
   return { headline, publication, label: null };
 }
 
-function dedup(rows) {
+function observationKey(row) {
+  const base = [row.run_time || '', row.section || '', row.rank || ''];
+  return JSON.stringify(row.link
+    ? [...base, 'link', row.link]
+    : [...base, 'text', row.publication || '', row.headline || '']);
+}
+
+function rowRichness(row) {
+  const weights = {
+    link: 3,
+    publication: 2,
+    author: 1,
+    headline: 3,
+    article_headline: 2,
+    resolved_link: 2,
+    web_headline: 1,
+  };
+  const statusPriority = { '': 0, M: 1, P: 2, U: 3, V: 4 };
+  return Object.entries(weights).reduce(
+    (score, [field, weight]) => score + (row[field] ? weight : 0),
+    statusPriority[row.link_status || ''] || 0
+  );
+}
+
+function mergeObservationRows(rows) {
+  const statusPriority = { '': 0, M: 1, P: 2, U: 3, V: 4 };
+  const best = rows.reduce(
+    (current, row) => rowRichness(row) > rowRichness(current) ? row : current,
+    rows[0]
+  );
+  const merged = { ...best };
+  rows.forEach(row => {
+    Object.entries(row).forEach(([field, value]) => {
+      if (value && !merged[field]) merged[field] = value;
+    });
+    if ((statusPriority[row.link_status || ''] || 0) >
+        (statusPriority[merged.link_status || ''] || 0)) {
+      merged.link_status = row.link_status;
+    }
+  });
+  return merged;
+}
+
+function deduplicateObservations(rows) {
+  const groups = new Map();
+  rows.forEach(row => {
+    const key = observationKey(row);
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(row);
+  });
+  return [...groups.values()].map(mergeObservationRows);
+}
+
+function dedup(inputRows) {
+  const rows = deduplicateObservations(inputRows);
   const map = new Map();
   rows.forEach(r => {
     const { headline: h0, publication: pub0, label } = extractStoryLabel(r.headline || '', r.publication || '');
     const key = r.link || `${h0}||${pub0}`;
+    const normalizedPublication = SUPPRESS_PUBLICATION.has(r.link) ? '' : pub0;
     if (!map.has(key)) {
       let headline = h0;
-      let author = null;
+      let author = r.author || null;
       if (r.section === 'reader_favorites' && headline) {
-        ({ headline, author } = parseReaderAuthor(headline));
+        const parsed = parseReaderAuthor(headline);
+        headline = parsed.headline;
+        author = parsed.author || author;
       }
-      const publication = SUPPRESS_PUBLICATION.has(r.link) ? '' : pub0;
-      map.set(key, { link: r.link, headline, article_headline: r.article_headline, publication, author, label, appearances: [] });
+      map.set(key, { link: r.link, headline, article_headline: r.article_headline, publication: normalizedPublication, author, label, appearances: [] });
     }
-    map.get(key).appearances.push({ run_time: r.run_time, rank: r.rank, section: r.section });
+    const story = map.get(key);
+    if (!story.article_headline && r.article_headline) story.article_headline = r.article_headline;
+    if (!story.publication && normalizedPublication) story.publication = normalizedPublication;
+    if (!story.author && r.author) story.author = r.author;
+    if (!story.label && label) story.label = label;
+    story.appearances.push({ run_time: r.run_time, rank: r.rank, section: r.section });
   });
   map.forEach(s => {
     s.appearances.sort((a, b) => a.run_time > b.run_time ? 1 : -1);
@@ -169,4 +230,12 @@ function getSorted(list) {
     const av = a[sortCol] || '', bv = b[sortCol] || '';
     return av < bv ? -sortDir : av > bv ? sortDir : 0;
   });
+}
+
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = {
+    deduplicateObservations,
+    mergeObservationRows,
+    observationKey,
+  };
 }

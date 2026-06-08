@@ -5,11 +5,16 @@ nohup.out
 config_real.py
 config-real.py
 .venv/
+__pycache__/
+*.py[cod]
 .device_rotation
 .claude/
 data_output/*.bak
 data_output/*.verify_bak
 data_output/stories-old.csv
 data_output/stories_pre_march20.csv
+# Canonical CSV is docs/data/stories.csv (served by GitHub Pages).
+# data_output/stories.csv was the old path; no longer written by any script.
+data_output/stories.csv
 backfill/backfill-log.txt
 backfill/backfill_notes.md
