@@ -1,0 +1,74 @@
+{
+  "run_time": "2026-06-09 03:40:17",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AwXL-z4OLQGSKA_4YpRFMQw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-09 03:40:17",
+      "pub_time": "2026-06-09 02:40:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump says pilots are “fine” after U.S. helicopter crashes near Strait of Hormuz",
+      "article_headline": "Trump says pilots are fine after US helicopter crashes near Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/ARvyjC2y7RWO2B1CsqausIA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-09 03:40:17",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Majority of new AI data centers in the U.S. to be built on drought-hit land",
+      "article_headline": "Majority of new AI data centers in the U.S. to be built on drought-hit land"
+    },
+    {
+      "link": "https://apple.news/A4gIDLT_KTcWwd-kCiZTyvQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-09 03:40:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump steps up attacks on California’s election system",
+      "article_headline": "Trump steps up attacks on California’s election system"
+    },
+    {
+      "link": "https://apple.news/AFiQyrVx4R4mUXxadxj4XDQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-09 03:40:17",
+      "pub_time": "2026-06-09 02:41:47",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
+      "article_headline": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 03:40:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Spurs hold off Knicks in Madison Square Garden to win Game 3 of NBA Finals",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 03:40:17",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "How Andrew Tate built a following — and a fortune — by allegedly abusing young women, Heidi Blake",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

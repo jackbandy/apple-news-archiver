@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-09 00:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AvWrfXWJrRpGQZi2wpaknoQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-09 00:20:17",
+      "pub_time": "2026-06-08 23:49:19",
+      "publication": "The Hill",
+      "author": "Laura Kelly",
+      "headline": "Netanyahu defies Trump as Iran, Lebanon drive wedge",
+      "article_headline": "Netanyahu defies Trump as Iran, Lebanon drive wedge"
+    },
+    {
+      "link": "https://apple.news/ABBCTv70IS4eBm8gBOnMZ-g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-09 00:20:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "What to watch in Tuesday’s primaries as Graham Platner tries to clinch Senate nomination in Maine",
+      "article_headline": "What to watch in Tuesday’s primaries as Graham Platner tries to clinch Senate nomination in Maine"
+    },
+    {
+      "link": "https://apple.news/ARvyjC2y7RWO2B1CsqausIA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-09 00:20:17",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Majority of new AI data centers in the U.S. to be built on drought-hit land",
+      "article_headline": "Majority of new AI data centers in the U.S. to be built on drought-hit land"
+    },
+    {
+      "link": "https://apple.news/Ahoo_xFIMQnC6T3DkWxttQw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-09 00:20:17",
+      "pub_time": "2026-06-08 23:49:47",
+      "publication": "The Guardian",
+      "author": "Pablo Iglesias Maurer",
+      "headline": "How a Dallas mural cover-up led to a $25 million lawsuit against FIFA",
+      "article_headline": "How a Dallas mural cover-up led to a $25 million lawsuit against FIFA"
+    },
+    {
+      "link": "https://apple.news/Ahoo_xFIMQnC6T3DkWxttQw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-09 00:20:17",
+      "pub_time": "2026-06-08 23:49:20",
+      "publication": "The Guardian",
+      "author": "Pablo Iglesias Maurer",
+      "headline": "How a Dallas mural cover-up led to a $25 million lawsuit against FIFA",
+      "article_headline": "How a Dallas mural cover-up led to a $25 million lawsuit against FIFA"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 00:20:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Spurs hold off Knicks in Madison Square Garden to win Game 3 of NBA Finals",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 00:20:17",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "How Andrew Tate built a following — and a fortune — by allegedly abusing young women, Heidi Blake",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
