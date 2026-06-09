@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-09 14:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AQ7r97NBcQvqWt9ELkXHEHw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-09 14:40:17",
+      "pub_time": "2026-06-09 14:02:19",
+      "publication": "Reuters",
+      "author": "Phil Stewart, Maya Gebeily, and Tala Ramadan",
+      "headline": "Trump says Iran downed Apache helicopter and vows to respond",
+      "article_headline": "Trump says Iran downed Apache helicopter and vows to respond"
+    },
+    {
+      "link": "https://apple.news/AQlERwmILSmmFmWlHNFnViA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-09 14:40:17",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Can Democrats take the Senate? Maine voters may provide a clue.",
+      "article_headline": "Can Democrats take the Senate? Maine voters may provide a clue."
+    },
+    {
+      "link": "https://apple.news/AzxaKOW0BR--qjRxeon5k0g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-09 14:40:17",
+      "pub_time": "2026-06-09 14:02:19",
+      "publication": "Fox News",
+      "author": "Alex Miller",
+      "headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation",
+      "article_headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation"
+    },
+    {
+      "link": "https://apple.news/AXKs-ENe7SYKeWrU5DRL4zQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-09 14:40:17",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "NASA announces astronauts for its Artemis III mission to test new moon landers",
+      "article_headline": "NASA announces astronauts for its Artemis III mission to test new moon landers"
+    },
+    {
+      "link": "https://apple.news/AzxaKOW0BR--qjRxeon5k0g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-09 14:40:17",
+      "pub_time": "2026-06-09 14:02:20",
+      "publication": "Fox News",
+      "author": "Alex Miller",
+      "headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation",
+      "article_headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 14:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The quarterback who was banned for betting on his own team just got a Hail Mary reprieve",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 14:40:17",
+      "pub_time": "2026-06-09 14:02:47",
+      "publication": "National Geographic",
+      "author": "Dino Grandoni",
+      "headline": "Scientists say they’ve solved the mystery of how pigeons sense Earth’s magnetic field",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

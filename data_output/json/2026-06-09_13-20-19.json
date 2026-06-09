@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-09 13:20:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AQ7r97NBcQvqWt9ELkXHEHw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-09 13:20:19",
+      "pub_time": "2026-06-09 13:18:22",
+      "publication": "Reuters",
+      "author": "Phil Stewart, Maya Gebeily, and Tala Ramadan",
+      "headline": "Trump says Iran downed Apache helicopter, U.S. must react",
+      "article_headline": "Trump says Iran downed Apache helicopter, U.S. must react"
+    },
+    {
+      "link": "https://apple.news/AQlERwmILSmmFmWlHNFnViA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-09 13:20:19",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Can Democrats take the Senate? Maine voters may provide a clue.",
+      "article_headline": "Can Democrats take the Senate? Maine voters may provide a clue."
+    },
+    {
+      "link": "https://apple.news/ACyXFu6gWT0-yeX403JBosg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-09 13:20:19",
+      "pub_time": "2026-06-09 13:18:23",
+      "publication": "Video",
+      "author": "Caitlin Yilek",
+      "headline": "CBS News, House to vote on ICE funding, ending months-long impasse",
+      "article_headline": "House to vote on ICE funding, ending months-long impasse"
+    },
+    {
+      "link": "https://apple.news/AXKs-ENe7SYKeWrU5DRL4zQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-09 13:20:19",
+      "pub_time": "2026-06-09 13:18:50",
+      "publication": "NBC News",
+      "author": "Evan Bush and Denise Chow",
+      "headline": "NASA announces astronauts for its Artemis III mission to test new moon landers",
+      "article_headline": "NASA announces astronauts for its Artemis III mission to test new moon landers"
+    },
+    {
+      "link": "https://apple.news/ACyXFu6gWT0-yeX403JBosg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-09 13:20:19",
+      "pub_time": "2026-06-09 13:18:24",
+      "publication": "Video",
+      "author": "Caitlin Yilek",
+      "headline": "CBS News, House to vote on ICE funding, ending months-long impasse",
+      "article_headline": "House to vote on ICE funding, ending months-long impasse"
+    },
+    {
+      "link": "https://apple.news/AXKs-ENe7SYKeWrU5DRL4zQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-09 13:20:19",
+      "pub_time": "2026-06-09 13:18:52",
+      "publication": "NBC News",
+      "author": "Evan Bush and Denise Chow",
+      "headline": "NASA announces astronauts for its Artemis III mission to test new moon landers",
+      "article_headline": "NASA announces astronauts for its Artemis III mission to test new moon landers"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 13:20:19",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Iran soccer body says its fans’ World Cup tickets were revoked; Somali referee denied entry into U.S.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "run_time": "2026-06-09 16:00:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ApJdMm9rTS5OZRL2LPQ0L6A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-09 16:00:19",
+      "pub_time": "2026-06-09 15:44:20",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe and Victoria Craw",
+      "headline": "U.S. Army helicopter was downed by Iran near Strait of Hormuz, Trump says, vowing to respond",
+      "article_headline": "U.S. Army helicopter was downed by Iran near Strait of Hormuz, Trump says, vowing to respond"
+    },
+    {
+      "link": "https://apple.news/AQlERwmILSmmFmWlHNFnViA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-09 16:00:19",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Can Democrats take the Senate? Maine voters may provide a clue.",
+      "article_headline": "Can Democrats take the Senate? Maine voters may provide a clue."
+    },
+    {
+      "link": "https://apple.news/AzxaKOW0BR--qjRxeon5k0g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-09 16:00:19",
+      "pub_time": "2026-06-09 15:44:20",
+      "publication": "Fox News",
+      "author": "Alex Miller",
+      "headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation",
+      "article_headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 16:00:19",
+      "pub_time": "",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "NASA names Artemis III crew for critical Earth-orbit test of moon landers",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 16:00:19",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The quarterback who was banned for betting on his own team just got a Hail Mary reprieve",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 16:00:19",
+      "pub_time": "2026-06-09 15:44:53",
+      "publication": "National Geographic",
+      "author": "Dino Grandoni",
+      "headline": "Scientists say they’ve solved the mystery of how pigeons sense Earth’s magnetic field",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 16:00:19",
+      "pub_time": "2026-06-09 15:44:56",
+      "publication": "National Geographic",
+      "author": "Dino Grandoni",
+      "headline": "Scientists say they’ve solved the mystery of how pigeons sense Earth’s magnetic field",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

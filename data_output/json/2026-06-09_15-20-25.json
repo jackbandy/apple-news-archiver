@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-09 15:20:25",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AQ7r97NBcQvqWt9ELkXHEHw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-09 15:20:25",
+      "pub_time": "2026-06-09 15:08:35",
+      "publication": "Reuters",
+      "author": "Phil Stewart, Maya Gebeily, and Tala Ramadan",
+      "headline": "Trump says Iran downed Apache helicopter and vows to respond",
+      "article_headline": "Trump says Iran downed Apache helicopter and vows to respond"
+    },
+    {
+      "link": "https://apple.news/AQlERwmILSmmFmWlHNFnViA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-09 15:20:25",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Can Democrats take the Senate? Maine voters may provide a clue.",
+      "article_headline": "Can Democrats take the Senate? Maine voters may provide a clue."
+    },
+    {
+      "link": "https://apple.news/AzxaKOW0BR--qjRxeon5k0g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-09 15:20:25",
+      "pub_time": "2026-06-09 15:09:35",
+      "publication": "Fox News",
+      "author": "Alex Miller",
+      "headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation",
+      "article_headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation"
+    },
+    {
+      "link": "https://apple.news/AXKs-ENe7SYKeWrU5DRL4zQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-09 15:20:25",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "NASA announces astronauts for its Artemis III mission to test new moon landers",
+      "article_headline": "NASA announces astronauts for its Artemis III mission to test new moon landers"
+    },
+    {
+      "link": "https://apple.news/AzxaKOW0BR--qjRxeon5k0g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-09 15:20:25",
+      "pub_time": "2026-06-09 15:07:53",
+      "publication": "Fox News",
+      "author": "Alex Miller",
+      "headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation",
+      "article_headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 15:20:25",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The quarterback who was banned for betting on his own team just got a Hail Mary reprieve",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 15:20:25",
+      "pub_time": "2026-06-09 15:08:21",
+      "publication": "National Geographic",
+      "author": "Dino Grandoni",
+      "headline": "Scientists say they’ve solved the mystery of how pigeons sense Earth’s magnetic field",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AoCgsLODuQuuT_YG4F4kZoA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-09 15:20:25",
+      "pub_time": "2026-06-09 07:26:05",
+      "publication": "HuffPost",
+      "author": "Ashley Broadwater",
+      "headline": "Dementia Specialists Reveal The 3 Foods They Always Tell Patients To Eat More Of",
+      "article_headline": "Dementia Specialists Reveal The 3 Foods They Always Tell Patients To Eat More Of"
+    },
+    {
+      "link": "https://apple.news/AsbwUWNJATuGI1G_xjC_kJg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-09 15:20:25",
+      "pub_time": "2026-06-08 20:26:39",
+      "publication": "Southern Living",
+      "author": "Katherine Polcari",
+      "headline": "My Husband's Grandfather Sends The Same Email Every Morning—And It Means More Than You'd Think",
+      "article_headline": "My Husband's Grandfather Sends The Same Email Every Morning—And It Means More Than You'd Think"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-09 15:20:25",
+      "pub_time": "2026-06-09 06:27:06",
+      "publication": "",
+      "author": "Allie Volpe",
+      "headline": "The couples using ChatGPT as their therapist",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A2N_rBPn-S4yahQhB9UjxOg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-09 15:20:25",
+      "pub_time": "2026-06-09 11:27:06",
+      "publication": "Popular Mechanics",
+      "author": "Tim Newcomb",
+      "headline": "A New Statue Suddenly Appeared on Easter Island. That Doesn’t Make Sense.",
+      "article_headline": "A New Statue Suddenly Appeared on Easter Island. That Doesn’t Make Sense."
+    }
+  ]
+}
