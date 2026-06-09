@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-09 08:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AQ7r97NBcQvqWt9ELkXHEHw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-09 08:00:17",
+      "pub_time": "2026-06-09 07:58:19",
+      "publication": "Reuters",
+      "author": "Phil Stewart, Tala Ramadan, and Ahmed Elimam",
+      "headline": "Israel kills 8 in strike on Lebanon; U.S. rescues helicopter crew from Strait of Hormuz",
+      "article_headline": "Israel kills 8 in strike on Lebanon; U.S. rescues helicopter crew from Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/A6Da-xyAeR3anYZu5gSyvdw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-09 08:00:17",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Graham Platner and big races for governor: what to watch in Tuesday’s primaries",
+      "article_headline": "Graham Platner and big races for governor: what to watch in Tuesday’s primaries"
+    },
+    {
+      "link": "https://apple.news/AL_C49Ge5QfeWK6m1HYzKlQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-09 08:00:17",
+      "pub_time": "2026-06-09 07:57:19",
+      "publication": "NPR",
+      "author": "Nina Totenberg",
+      "headline": "The Supreme Court is in its final stretch this term. These are the major cases left.",
+      "article_headline": "The Supreme Court is in its final stretch this term. These are the major cases left."
+    },
+    {
+      "link": "https://apple.news/AmaFbPZ3HStCUGGO1IL6blg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-09 08:00:17",
+      "pub_time": "",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Somali referee is dropped from World Cup after being turned back at U.S. border",
+      "article_headline": "Somali referee is dropped from World Cup after being turned back at U.S. border"
+    },
+    {
+      "link": "https://apple.news/AL_C49Ge5QfeWK6m1HYzKlQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-09 08:00:17",
+      "pub_time": "2026-06-09 07:57:19",
+      "publication": "NPR",
+      "author": "Nina Totenberg",
+      "headline": "The Supreme Court is in its final stretch this term. These are the major cases left.",
+      "article_headline": "The Supreme Court is in its final stretch this term. These are the major cases left."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 08:00:17",
+      "pub_time": "2026-06-09 07:57:46",
+      "publication": "The Wall Street Journal",
+      "author": "Margherita Stancati",
+      "headline": "Barcelona’s 144-year-old Sagrada Família is nearing completion — and inflaming a tourism backlash",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 08:00:17",
+      "pub_time": "",
+      "publication": "Vox",
+      "author": "",
+      "headline": "The most hopeful cancer news in years",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
