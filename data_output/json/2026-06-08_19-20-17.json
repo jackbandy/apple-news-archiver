@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-06-08 19:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ASTs_EXHWSVKwgBLzozq25w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-08 19:20:17",
+      "pub_time": "2026-06-08 19:12:19",
+      "publication": "Reuters",
+      "author": "Rami Ayyub, Benjamin Raab, and Emily Rose",
+      "headline": "Defying Trump with brief Iran fight, Israel seeks sway over peace talks",
+      "article_headline": "Defying Trump with brief Iran fight, Israel seeks sway over peace talks"
+    },
+    {
+      "link": "https://apple.news/A2Y0uhSUDSKaTpI79C-KsiQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-08 19:20:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "After Mormon lawmakers object, Pentagon revises Christian religious categories",
+      "article_headline": "After Mormon lawmakers object, Pentagon revises Christian religious categories"
+    },
+    {
+      "link": "https://apple.news/Ax2tAX1L4RV6YJDoY7FfPxA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-08 19:20:17",
+      "pub_time": "2026-06-08 19:12:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "ICE facility in Louisiana reports its second detainee death in less than 2 months",
+      "article_headline": "ICE facility in Louisiana reports its second detainee death in less than 2 months"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-08 19:20:17",
+      "pub_time": "2026-06-08 19:12:46",
+      "publication": "Los Angeles Times",
+      "author": "Noah Goldberg and David Zahniser",
+      "headline": "Nithya Raman edges out Spencer Pratt, advances to L.A. mayor runoff against Karen Bass",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ASF8TDJfGSI6n1CoggZg3Gw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-08 19:20:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "With just days left, the U.S. opening match at the World Cup is still not sold out",
+      "article_headline": "With just days left, the U.S. opening match at the World Cup is still not sold out"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-08 19:20:17",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "How Andrew Tate built a following — and a fortune — by allegedly abusing young women, Heidi Blake",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-08 19:20:17",
+      "pub_time": "2026-06-08 19:12:37",
+      "publication": "Los Angeles Times",
+      "author": "Noah Goldberg and David Zahniser",
+      "headline": "Nithya Raman edges out Spencer Pratt, advances to L.A. mayor runoff against Karen Bass",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

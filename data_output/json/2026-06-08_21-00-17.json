@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-08 21:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ASTs_EXHWSVKwgBLzozq25w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-08 21:00:17",
+      "pub_time": "2026-06-08 20:05:19",
+      "publication": "Reuters",
+      "author": "Rami Ayyub, Benjamin Raab, and Emily Rose",
+      "headline": "Defying Trump with brief Iran fight, Israel seeks sway over peace talks",
+      "article_headline": "Defying Trump with brief Iran fight, Israel seeks sway over peace talks"
+    },
+    {
+      "link": "https://apple.news/A2Y0uhSUDSKaTpI79C-KsiQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-08 21:00:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "After Mormon lawmakers object, Pentagon revises Christian religious categories",
+      "article_headline": "After Mormon lawmakers object, Pentagon revises Christian religious categories"
+    },
+    {
+      "link": "https://apple.news/AAWJ0TaOhT8u2HluZkMI45g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-08 21:00:17",
+      "pub_time": "2026-06-08 20:05:19",
+      "publication": "Los Angeles Times",
+      "author": "Noah Goldberg and David Zahniser",
+      "headline": "How Nithya Raman went from last-minute candidate to the L.A. mayor runoff",
+      "article_headline": "How Nithya Raman went from last-minute candidate to the L.A. mayor runoff"
+    },
+    {
+      "link": "https://apple.news/Ax2tAX1L4RV6YJDoY7FfPxA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-08 21:00:17",
+      "pub_time": "2026-06-08 20:05:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "ICE facility in Louisiana reports its second detainee death in less than 2 months",
+      "article_headline": "ICE facility in Louisiana reports its second detainee death in less than 2 months"
+    },
+    {
+      "link": "https://apple.news/AAWJ0TaOhT8u2HluZkMI45g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-08 21:00:17",
+      "pub_time": "2026-06-08 20:05:20",
+      "publication": "Los Angeles Times",
+      "author": "Noah Goldberg and David Zahniser",
+      "headline": "How Nithya Raman went from last-minute candidate to the L.A. mayor runoff",
+      "article_headline": "How Nithya Raman went from last-minute candidate to the L.A. mayor runoff"
+    },
+    {
+      "link": "https://apple.news/Ax2tAX1L4RV6YJDoY7FfPxA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-08 21:00:17",
+      "pub_time": "2026-06-08 20:05:48",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "ICE facility in Louisiana reports its second detainee death in less than 2 months",
+      "article_headline": "ICE facility in Louisiana reports its second detainee death in less than 2 months"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-08 21:00:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Live updates: Knicks, Spurs clash in pivotal Game 3 of NBA Finals, LIVE, Daniel Shirley, Fred Katz, Law Murray, Jay King, John Riker, David Aldridge, Sam Vecenie, Jason Jones, Michael Charles, Jared Weiss, Eric Nehm, Dave DuFour, Esfandiar Baraheni, Marcus Thompson II, Devon Henderson, John Hollinger, James L. Edwards III, Austin Green, Mike Vorkunov, Carson Kessler, Jon Krawczynski, and Sam Amick",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

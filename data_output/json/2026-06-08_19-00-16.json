@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-08 19:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ASTs_EXHWSVKwgBLzozq25w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-08 19:00:16",
+      "pub_time": "2026-06-08 18:51:18",
+      "publication": "Reuters",
+      "author": "Rami Ayyub, Benjamin Raab, and Emily Rose",
+      "headline": "Defying Trump with brief Iran fight, Israel seeks sway over peace talks",
+      "article_headline": "Defying Trump with brief Iran fight, Israel seeks sway over peace talks"
+    },
+    {
+      "link": "https://apple.news/A2Y0uhSUDSKaTpI79C-KsiQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-08 19:00:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "After Mormon lawmakers object, Pentagon revises Christian religious categories",
+      "article_headline": "After Mormon lawmakers object, Pentagon revises Christian religious categories"
+    },
+    {
+      "link": "https://apple.news/Ax2tAX1L4RV6YJDoY7FfPxA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-08 19:00:16",
+      "pub_time": "2026-06-08 18:51:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "ICE facility in Louisiana reports its second detainee death in less than 2 months",
+      "article_headline": "ICE facility in Louisiana reports its second detainee death in less than 2 months"
+    },
+    {
+      "link": "https://apple.news/A0Yo6A1r5TX-A4PIn8YExwA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-08 19:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "OpenAI files to go public in test of investor appetite for top AI startups",
+      "article_headline": "OpenAI Files to Go Public in Test of Investor Appetite for Top AI Startups"
+    },
+    {
+      "link": "https://apple.news/Ax2tAX1L4RV6YJDoY7FfPxA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-08 19:00:16",
+      "pub_time": "2026-06-08 18:51:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "ICE facility in Louisiana reports its second detainee death in less than 2 months",
+      "article_headline": "ICE facility in Louisiana reports its second detainee death in less than 2 months"
+    },
+    {
+      "link": "https://apple.news/ASF8TDJfGSI6n1CoggZg3Gw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-08 19:00:16",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "With just days left, the U.S. opening match at the World Cup is still not sold out",
+      "article_headline": "With just days left, the U.S. opening match at the World Cup is still not sold out"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-08 19:00:16",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "How Andrew Tate built a following — and a fortune — by allegedly abusing young women, Heidi Blake",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AeaPS7JQ5SF2m7ZXxpluDXQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-08 19:00:16",
+      "pub_time": "2026-06-08 16:03:47",
+      "publication": "BuzzFeed",
+      "author": "Matt Stopera",
+      "headline": "People Are Just Realizing This Classic TV Show Was Very, Very, Very Gay After THey Marched In A Pride Parade",
+      "article_headline": "People Are Just Realizing This Classic TV Show Was Very, Very, Very Gay After THey Marched In A Pride Parade"
+    },
+    {
+      "link": "https://apple.news/AxqEdW57rRnKn-qF2AGQ0jQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-08 19:00:16",
+      "pub_time": "2026-06-08 08:04:19",
+      "publication": "Fox News",
+      "author": "Teresa Mull",
+      "headline": "Americans are ditching ultra-processed snacks for an ancient fruit that's exploding in popularity",
+      "article_headline": "Americans are ditching ultra-processed snacks for an ancient fruit that's exploding in popularity"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-08 19:00:16",
+      "pub_time": "2026-06-07 19:04:47",
+      "publication": "",
+      "author": "Rosie Marder",
+      "headline": "Rick Steves Says Pickpockets Are Targeting This No. 1 Item—After Mine Was Stolen, I Made This Change",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Azf66duw9TlCxe3WTK8sbMg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-08 19:00:16",
+      "pub_time": "2026-06-07 23:04:47",
+      "publication": "Architectural Digest",
+      "author": "Katherine McLaughlin",
+      "headline": "Frank Lloyd Wright’s Home Life in 9 Vintage Photos",
+      "article_headline": "Frank Lloyd Wright’s Home Life in 9 Vintage Photos"
+    }
+  ]
+}
