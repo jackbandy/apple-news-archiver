@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-10 05:20:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ad9Y4NwjKQ8GpzoiQrjBiiw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-10 05:20:15",
+      "pub_time": "2026-06-10 05:14:16",
+      "publication": "NPR",
+      "author": "Deepa Shivaram",
+      "headline": "U.S. and Iran exchange strikes after Apache helicopter is downed",
+      "article_headline": "U.S. and Iran exchange strikes after Apache helicopter is downed"
+    },
+    {
+      "link": "https://apple.news/ABBCTv70IS4eBm8gBOnMZ-g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-10 05:20:15",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Takeaways from Tuesday’s primaries: Platner’s big night, Clyburn carries on and Trump's support gets mixed results",
+      "article_headline": "Takeaways from Tuesday’s primaries: Platner’s big night, Clyburn carries on and Trump's support gets mixed results"
+    },
+    {
+      "link": "https://apple.news/AkppOf5njTW-eGfWc62MvPw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-10 05:20:15",
+      "pub_time": "2026-06-10 05:13:16",
+      "publication": "The Washington Post",
+      "author": "David Nakamura and Jarrell Dillard",
+      "headline": "Trump’s deportation agenda secures funding that could outlast his presidency",
+      "article_headline": "Trump’s deportation agenda secures funding that could outlast his presidency"
+    },
+    {
+      "link": "https://apple.news/AX-19P41DQEeyhtAVlx286w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-10 05:20:15",
+      "pub_time": "2026-06-10 05:13:43",
+      "publication": "ABC News",
+      "author": "Peter Charalambous and James Hill",
+      "headline": "Bill Gates to face questions from House panel regarding his relationship with Epstein",
+      "article_headline": "Bill Gates to face questions from House panel regarding his relationship with Epstein"
+    },
+    {
+      "link": "https://apple.news/AkppOf5njTW-eGfWc62MvPw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-10 05:20:15",
+      "pub_time": "2026-06-10 05:13:17",
+      "publication": "The Washington Post",
+      "author": "David Nakamura and Jarrell Dillard",
+      "headline": "Trump’s deportation agenda secures funding that could outlast his presidency",
+      "article_headline": "Trump’s deportation agenda secures funding that could outlast his presidency"
+    },
+    {
+      "link": "https://apple.news/AX-19P41DQEeyhtAVlx286w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-10 05:20:15",
+      "pub_time": "2026-06-10 05:13:44",
+      "publication": "ABC News",
+      "author": "Peter Charalambous and James Hill",
+      "headline": "Bill Gates to face questions from House panel regarding his relationship with Epstein",
+      "article_headline": "Bill Gates to face questions from House panel regarding his relationship with Epstein"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-10 05:20:15",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "FDA approves the first new sunscreen ingredient in nearly 20 years",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

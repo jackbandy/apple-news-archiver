@@ -1,0 +1,74 @@
+{
+  "run_time": "2026-06-10 01:00:22",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/Avk_TnlI8QFCYkHZ2DqM8Ww",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-10 01:00:22",
+      "pub_time": "2026-06-10 00:00:25",
+      "publication": "Reuters",
+      "author": "Enas Alashray, Elwely Elwelly, and Phil Stewart",
+      "headline": "Iran targets U.S. bases in Jordan and the Gulf after Trump orders strikes near Hormuz",
+      "article_headline": "Iran targets US bases in Jordan and the Gulf after Trump orders strikes near Hormuz"
+    },
+    {
+      "link": "https://apple.news/Az3rW8mHlSOqBJ7y0CkuncQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-10 01:00:22",
+      "pub_time": "",
+      "publication": "Bloomberg",
+      "author": "",
+      "headline": "Graham Platner wins Democratic Senate primary in Maine",
+      "article_headline": "Graham Platner Wins Democratic Senate Primary in Maine, DDHQ Projects"
+    },
+    {
+      "link": "https://apple.news/AXP5M2RhpSvOy-8U84ny0uw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-10 01:00:22",
+      "pub_time": "2026-06-10 00:01:25",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Evette and Wilson advance to GOP runoff for South Carolina governor",
+      "article_headline": "Evette and Wilson advance to GOP runoff for South Carolina governor"
+    },
+    {
+      "link": "https://apple.news/A5kzMtdFPSreIwH-KgR3m1A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-10 01:00:22",
+      "pub_time": "2026-06-10 00:01:52",
+      "publication": "NPR",
+      "author": "Sequoia Carrillo",
+      "headline": "After years of declines, young students show gains in reading and math",
+      "article_headline": "After years of declines, young students show gains in reading and math"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-10 01:00:22",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "FDA approves the first new sunscreen ingredient in nearly 20 years",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-10 01:00:22",
+      "pub_time": "2026-06-10 00:02:25",
+      "publication": "GQ",
+      "author": "Carrie Sun",
+      "headline": "Prediction markets let you bet on anything. One woman bet against her own husband.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
