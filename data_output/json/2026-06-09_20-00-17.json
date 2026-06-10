@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-06-09 20:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AQaX8gOSfS2qDka4aGyas-Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-09 20:00:17",
+      "pub_time": "2026-06-09 19:48:18",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Annie Linskey, Jared Malsin, and Shelby Holliday,",
+      "headline": "U.S. launches strikes on Iran in response to downed Apache helicopter",
+      "article_headline": "U.S. Launches Strikes on Iran in Response to Downed Apache Helicopter"
+    },
+    {
+      "link": "https://apple.news/AXm913oyXQBi7GzIDO1alhw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-09 20:00:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "House passes bill to fund ICE and Border Patrol through the remainder of Trump’s term",
+      "article_headline": "House passes bill to fund ICE and Border Patrol through the remainder of Trump’s term"
+    },
+    {
+      "link": "https://apple.news/AvbgUmWcyTU6Ytu6tpl5kzg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-09 20:00:17",
+      "pub_time": "2026-06-09 19:48:18",
+      "publication": "CalMatters",
+      "author": "",
+      "headline": "Republican Steve Hilton advances in California’s governor race, will face Democrat Xavier Becerra",
+      "article_headline": "Election update: Republican Steve Hilton to face Becerra in November"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 20:00:17",
+      "pub_time": "2026-06-09 19:48:46",
+      "publication": "The Washington Post",
+      "author": "Meryl Kornfield and Julie Z. Weil",
+      "headline": "Social Security shortfall expected to accelerate, with funds at critical low in 2032",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/APLB5OixUSh2tEHn9dvN4QA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-09 20:00:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Serena Williams wins first tennis match in 1,375 days with Victoria Mboko in London",
+      "article_headline": "Serena Williams wins first tennis match in 1,375 days with Victoria Mboko in London"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 20:00:17",
+      "pub_time": "2026-06-09 19:48:19",
+      "publication": "GQ",
+      "author": "Carrie Sun",
+      "headline": "Prediction markets let you bet on anything. One woman bet against her own husband.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 20:00:17",
+      "pub_time": "2026-06-09 19:47:52",
+      "publication": "GQ",
+      "author": "Carrie Sun",
+      "headline": "Prediction markets let you bet on anything. One woman bet against her own husband.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

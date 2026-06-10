@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-06-09 18:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AQaX8gOSfS2qDka4aGyas-Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-09 18:40:17",
+      "pub_time": "2026-06-09 18:18:18",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Annie Linskey, Jared Malsin, and Shelby Holliday,",
+      "headline": "U.S. launches strikes on Iran in response to downed Apache helicopter",
+      "article_headline": "U.S. Launches Strikes on Iran in Response to Downed Apache Helicopter"
+    },
+    {
+      "link": "https://apple.news/AXm913oyXQBi7GzIDO1alhw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-09 18:40:17",
+      "pub_time": "2026-06-09 18:18:46",
+      "publication": "NPR",
+      "author": "Ximena Bustillo and Sam Gringlas",
+      "headline": "House passes bill to fund ICE and Border Patrol through the remainder of Trump’s term",
+      "article_headline": "House passes bill to fund ICE and Border Patrol through the remainder of Trump’s term"
+    },
+    {
+      "link": "https://apple.news/AX3CzdBOtQYOMAajXM2TGJA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-09 18:40:17",
+      "pub_time": "2026-06-09 18:19:13",
+      "publication": "The Washington Post",
+      "author": "Dan Merica",
+      "headline": "Maine Senate primary tests Platner’s strength after stumbles",
+      "article_headline": "Maine Senate primary tests Platner’s strength after stumbles"
+    },
+    {
+      "link": "https://apple.news/AXm913oyXQBi7GzIDO1alhw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-09 18:40:17",
+      "pub_time": "2026-06-09 18:17:46",
+      "publication": "NPR",
+      "author": "Ximena Bustillo and Sam Gringlas",
+      "headline": "House passes bill to fund ICE and Border Patrol through the remainder of Trump’s term",
+      "article_headline": "House passes bill to fund ICE and Border Patrol through the remainder of Trump’s term"
+    },
+    {
+      "link": "https://apple.news/AX3CzdBOtQYOMAajXM2TGJA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-09 18:40:17",
+      "pub_time": "2026-06-09 18:18:14",
+      "publication": "The Washington Post",
+      "author": "Dan Merica",
+      "headline": "Maine Senate primary tests Platner’s strength after stumbles",
+      "article_headline": "Maine Senate primary tests Platner’s strength after stumbles"
+    },
+    {
+      "link": "https://apple.news/AzxaKOW0BR--qjRxeon5k0g",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-09 18:40:17",
+      "pub_time": "2026-06-09 18:18:41",
+      "publication": "Fox News",
+      "author": "Alex Miller",
+      "headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation",
+      "article_headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation"
+    },
+    {
+      "link": "https://apple.news/AzxaKOW0BR--qjRxeon5k0g",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-09 18:40:17",
+      "pub_time": "2026-06-09 18:18:14",
+      "publication": "Fox News",
+      "author": "Alex Miller",
+      "headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation",
+      "article_headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation"
+    }
+  ]
+}

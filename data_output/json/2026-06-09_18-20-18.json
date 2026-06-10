@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-09 18:20:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AQaX8gOSfS2qDka4aGyas-Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-09 18:20:18",
+      "pub_time": "2026-06-09 18:18:21",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Annie Linskey, Jared Malsin, and Shelby Holliday,",
+      "headline": "U.S. launches strikes on Iran in response to downed Apache helicopter",
+      "article_headline": "U.S. Launches Strikes on Iran in Response to Downed Apache Helicopter"
+    },
+    {
+      "link": "https://apple.news/AXm913oyXQBi7GzIDO1alhw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-09 18:20:18",
+      "pub_time": "2026-06-09 18:18:48",
+      "publication": "NPR",
+      "author": "Ximena Bustillo and Sam Gringlas",
+      "headline": "House passes bill to fund ICE and Border Patrol through the remainder of Trump’s term",
+      "article_headline": "House passes bill to fund ICE and Border Patrol through the remainder of Trump’s term"
+    },
+    {
+      "link": "https://apple.news/AXm913oyXQBi7GzIDO1alhw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-09 18:20:18",
+      "pub_time": "2026-06-09 18:17:21",
+      "publication": "NPR",
+      "author": "Ximena Bustillo and Sam Gringlas",
+      "headline": "House passes bill to fund ICE and Border Patrol through the remainder of Trump’s term",
+      "article_headline": "House passes bill to fund ICE and Border Patrol through the remainder of Trump’s term"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 18:20:18",
+      "pub_time": "2026-06-09 18:17:48",
+      "publication": "The Washington Post",
+      "author": "Dan Merica",
+      "headline": "Maine Senate primary tests Platner’s strength after stumbles",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AzxaKOW0BR--qjRxeon5k0g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-09 18:20:18",
+      "pub_time": "2026-06-09 18:17:48",
+      "publication": "Fox News",
+      "author": "Alex Miller",
+      "headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation",
+      "article_headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 18:20:18",
+      "pub_time": "2026-06-09 18:17:21",
+      "publication": "The Washington Post",
+      "author": "Dan Merica",
+      "headline": "Maine Senate primary tests Platner’s strength after stumbles",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AzxaKOW0BR--qjRxeon5k0g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-09 18:20:18",
+      "pub_time": "2026-06-09 18:17:21",
+      "publication": "Fox News",
+      "author": "Alex Miller",
+      "headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation",
+      "article_headline": "Trump’s DOJ pick in trouble as GOP concerns threaten confirmation"
+    },
+    {
+      "link": "https://apple.news/AUeDLh6a-QRi_hjQKcYOUIg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-09 18:20:18",
+      "pub_time": "2026-06-09 10:23:26",
+      "publication": "Southern Living",
+      "author": "Jenna Sims",
+      "headline": "We Tried Every Ice Cream Sandwich—And This 1 Won By A Mile",
+      "article_headline": "We Tried Every Ice Cream Sandwich—And This 1 Won By A Mile"
+    },
+    {
+      "link": "https://apple.news/A6OlJt7nmSwGfVQmdd3wCXg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-09 18:20:18",
+      "pub_time": "2026-06-09 07:23:53",
+      "publication": "Fox News",
+      "author": "Melissa Rudy",
+      "headline": "Woman with advanced Alzheimer's regained speech and memories after taking magic mushrooms",
+      "article_headline": "Woman with advanced Alzheimer's regained speech and memories after taking magic mushrooms"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-09 18:20:18",
+      "pub_time": "2026-06-09 11:24:28",
+      "publication": "",
+      "author": "Laura Pitcher",
+      "headline": "How to \"Get Over\" Cheating, According to Seven Couples Therapists",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaOE6i-v3QSG7qWYBW3W_sw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-09 18:20:18",
+      "pub_time": "2026-06-09 04:24:28",
+      "publication": "The Telegraph",
+      "author": "Verity Bowman",
+      "headline": "The Ukrainian weapons boom catching Putin off guard",
+      "article_headline": "The Ukrainian weapons boom catching Putin off guard"
+    }
+  ]
+}

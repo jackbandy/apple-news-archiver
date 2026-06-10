@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-09 22:40:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AwXL-z4OLQGSKA_4YpRFMQw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-09 22:40:15",
+      "pub_time": "2026-06-09 22:04:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. and Iran launch airstrikes after downing of Army helicopter",
+      "article_headline": "US and Iran launch airstrikes after Trump blames Tehran for downing Army helicopter"
+    },
+    {
+      "link": "https://apple.news/A0nJBflF4Swy-klqqCwGCHg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-09 22:40:15",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Graham Platner wins Senate primary in Maine despite controversies",
+      "article_headline": "Graham Platner wins Senate primary in Maine despite controversies"
+    },
+    {
+      "link": "https://apple.news/AvbgUmWcyTU6Ytu6tpl5kzg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-09 22:40:15",
+      "pub_time": "2026-06-09 22:04:17",
+      "publication": "CalMatters",
+      "author": "",
+      "headline": "Republican Steve Hilton advances in California’s governor race, will face Democrat Xavier Becerra",
+      "article_headline": "Election update: Republican Steve Hilton to face Becerra in November"
+    },
+    {
+      "link": "https://apple.news/A4EJZxKHgTX-yTSZKEldB2g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-09 22:40:15",
+      "pub_time": "2026-06-09 22:04:44",
+      "publication": "Reuters",
+      "author": "Emma Farge, Jennifer Rigby, Olivia Le Poidevin, and Aaron Ross",
+      "headline": "No boots, masks running out: why Congo’s Ebola medics are exposed",
+      "article_headline": "No boots, masks running out: why Congo’s Ebola medics are exposed"
+    },
+    {
+      "link": "https://apple.news/AvbgUmWcyTU6Ytu6tpl5kzg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-09 22:40:15",
+      "pub_time": "2026-06-09 22:04:17",
+      "publication": "CalMatters",
+      "author": "",
+      "headline": "Republican Steve Hilton advances in California’s governor race, will face Democrat Xavier Becerra",
+      "article_headline": "Election update: Republican Steve Hilton to face Becerra in November"
+    },
+    {
+      "link": "https://apple.news/A4EJZxKHgTX-yTSZKEldB2g",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-09 22:40:15",
+      "pub_time": "2026-06-09 22:04:44",
+      "publication": "Reuters",
+      "author": "Emma Farge, Jennifer Rigby, Olivia Le Poidevin, and Aaron Ross",
+      "headline": "No boots, masks running out: why Congo’s Ebola medics are exposed",
+      "article_headline": "No boots, masks running out: why Congo’s Ebola medics are exposed"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-09 22:40:15",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "FDA approves the first new sunscreen ingredient in nearly 20 years",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
