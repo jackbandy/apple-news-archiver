@@ -1,0 +1,74 @@
+{
+  "run_time": "2026-06-10 16:00:22",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/ARbBmmGF4RdK0ygOLE5F-zA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-10 16:00:22",
+      "pub_time": "2026-06-10 15:00:24",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Lara Seligman, and Shelby Holliday",
+      "headline": "Trump says U.S. will launch new attacks on Iran later today",
+      "article_headline": "Trump says U.S. will launch new attacks on Iran later today"
+    },
+    {
+      "link": "https://apple.news/AD2ESQNJPSr-SGuyOiHrujQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-10 16:00:22",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Prices are soaring on these everyday grocery items, driving up inflation",
+      "article_headline": "Prices are soaring on these everyday grocery items, driving up inflation"
+    },
+    {
+      "link": "https://apple.news/A08GsfEVtT3ivhtFUy4Cwtw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-10 16:00:22",
+      "pub_time": "2026-06-10 15:01:24",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Southern Baptists vote to advance a formal ban on churches with women pastors",
+      "article_headline": "Southern Baptists vote to advance a formal ban on churches with women pastors"
+    },
+    {
+      "link": "https://apple.news/AcHFnVz1SS6KJje0Lx1bHyA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-10 16:00:22",
+      "pub_time": "",
+      "publication": "Scientific American",
+      "author": "",
+      "headline": "The sunscreen ingredient that Europe and Asia love is finally coming to the U.S.",
+      "article_headline": "The sunscreen ingredient that Europe and Asia love is finally coming to the U.S."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-10 16:00:22",
+      "pub_time": "2026-06-10 15:02:23",
+      "publication": "The Times of London",
+      "author": "",
+      "headline": "How Pope Leo won over Spain and beat Bad Bunny",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-10 16:00:22",
+      "pub_time": "2026-06-10 15:02:23",
+      "publication": "The Washington Post",
+      "author": "Molly Hennessy-Fiske",
+      "headline": "A Texas city was already struggling with racial divisions. Then came a bitter murder trial.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
