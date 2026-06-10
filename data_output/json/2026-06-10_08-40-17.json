@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-06-10 08:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ATQ_O7TifRD2Z2Ge1_kezLQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-10 08:40:17",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "U.S. inflation jumped to 4.2% in May, the third consecutive increase since start of Iran war",
+      "article_headline": "U.S. inflation jumped to 4.2% in May, the third consecutive increase since start of Iran war"
+    },
+    {
+      "link": "https://apple.news/Am27WPLKlR2GvnVsnq-b2Eg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-10 08:40:17",
+      "pub_time": "2026-06-10 08:16:47",
+      "publication": "The Wall Street Journal",
+      "author": "Dov Lieber and Jared Malsin",
+      "headline": "3 days of clashes show the Iran conflict is entering a dangerous new phase",
+      "article_headline": "3 days of clashes show the Iran conflict is entering a dangerous new phase"
+    },
+    {
+      "link": "https://apple.news/Am27WPLKlR2GvnVsnq-b2Eg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-10 08:40:17",
+      "pub_time": "2026-06-10 08:16:19",
+      "publication": "The Wall Street Journal",
+      "author": "Dov Lieber and Jared Malsin",
+      "headline": "3 days of clashes show the Iran conflict is entering a dangerous new phase",
+      "article_headline": "3 days of clashes show the Iran conflict is entering a dangerous new phase"
+    },
+    {
+      "link": "https://apple.news/AeT2dM0tlR1aUWOf023fVmg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-10 08:40:17",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Platner sails through primary amid controversy: 5 takeaways from Tuesday’s elections",
+      "article_headline": "Platner sails through primary amid controversy: 5 takeaways from Tuesday’s elections"
+    },
+    {
+      "link": "https://apple.news/AsNW1o86JT1uidu09OzMcKg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-10 08:40:17",
+      "pub_time": "2026-06-10 08:17:14",
+      "publication": "NPR",
+      "author": "Ava Berger",
+      "headline": "Bill Gates is appearing before Congress over Epstein involvement",
+      "article_headline": "Bill Gates is appearing before Congress over Epstein involvement"
+    },
+    {
+      "link": "https://apple.news/AsNW1o86JT1uidu09OzMcKg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-10 08:40:17",
+      "pub_time": "2026-06-10 08:16:47",
+      "publication": "NPR",
+      "author": "Ava Berger",
+      "headline": "Bill Gates is appearing before Congress over Epstein involvement",
+      "article_headline": "Bill Gates is appearing before Congress over Epstein involvement"
+    },
+    {
+      "link": "https://apple.news/A4aUfxpZAQqigwtn2yNzq5w",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-10 08:40:17",
+      "pub_time": "2026-06-10 08:17:14",
+      "publication": "Video",
+      "author": "Aimee Picchi",
+      "headline": "CBS News, Social Security’s insolvency date is now projected for end of 2032",
+      "article_headline": "Social Security’s insolvency date is now projected for end of 2032"
+    }
+  ]
+}

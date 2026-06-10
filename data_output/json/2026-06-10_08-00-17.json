@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-06-10 08:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ATQ_O7TifRD2Z2Ge1_kezLQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-10 08:00:17",
+      "pub_time": "2026-06-10 07:41:18",
+      "publication": "The Guardian",
+      "author": "Gaya Gupta",
+      "headline": "U.S. inflation jumped to 4.2% in May, the third consecutive increase since start of Iran war",
+      "article_headline": "U.S. inflation jumped to 4.2% in May, the third consecutive increase since start of Iran war"
+    },
+    {
+      "link": "https://apple.news/Am27WPLKlR2GvnVsnq-b2Eg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-10 08:00:17",
+      "pub_time": "2026-06-10 07:41:47",
+      "publication": "The Wall Street Journal",
+      "author": "Dov Lieber and Jared Malsin",
+      "headline": "3 days of clashes show the Iran conflict is entering a dangerous new phase",
+      "article_headline": "3 days of clashes show the Iran conflict is entering a dangerous new phase"
+    },
+    {
+      "link": "https://apple.news/Am27WPLKlR2GvnVsnq-b2Eg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-10 08:00:17",
+      "pub_time": "2026-06-10 07:41:19",
+      "publication": "The Wall Street Journal",
+      "author": "Dov Lieber and Jared Malsin",
+      "headline": "3 days of clashes show the Iran conflict is entering a dangerous new phase",
+      "article_headline": "3 days of clashes show the Iran conflict is entering a dangerous new phase"
+    },
+    {
+      "link": "https://apple.news/AeT2dM0tlR1aUWOf023fVmg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-10 08:00:17",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Platner sails through primary amid controversy: 5 takeaways from Tuesday’s elections",
+      "article_headline": "Platner sails through primary amid controversy: 5 takeaways from Tuesday’s elections"
+    },
+    {
+      "link": "https://apple.news/AsNW1o86JT1uidu09OzMcKg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-10 08:00:17",
+      "pub_time": "2026-06-10 07:42:14",
+      "publication": "NPR",
+      "author": "Ava Berger",
+      "headline": "Bill Gates to appear before Congress over Epstein involvement",
+      "article_headline": "Bill Gates to appear before Congress over Epstein involvement"
+    },
+    {
+      "link": "https://apple.news/AsNW1o86JT1uidu09OzMcKg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-10 08:00:17",
+      "pub_time": "2026-06-10 07:41:47",
+      "publication": "NPR",
+      "author": "Ava Berger",
+      "headline": "Bill Gates to appear before Congress over Epstein involvement",
+      "article_headline": "Bill Gates to appear before Congress over Epstein involvement"
+    },
+    {
+      "link": "https://apple.news/A4aUfxpZAQqigwtn2yNzq5w",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-10 08:00:17",
+      "pub_time": "2026-06-10 07:42:15",
+      "publication": "Video",
+      "author": "Aimee Picchi",
+      "headline": "CBS News, Social Security’s insolvency date is now projected for end of 2032",
+      "article_headline": "Social Security’s insolvency date is now projected for end of 2032"
+    },
+    {
+      "link": "https://apple.news/APcnQAnbiRgSNOBoVasugqQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-10 08:00:17",
+      "pub_time": "2026-06-10 05:03:54",
+      "publication": "Autoblog",
+      "author": "Karl Furlong",
+      "headline": "Tesla Vs. Rivian Reliability: It's Not Even Close",
+      "article_headline": "Tesla Vs. Rivian Reliability: It's Not Even Close"
+    },
+    {
+      "link": "https://apple.news/Ae6SnypNfRMaNRYrsDJjrdA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-10 08:00:17",
+      "pub_time": "2026-06-09 08:04:22",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "People Are Just Learning What Clove Is Made From",
+      "article_headline": "People Are Just Learning What Clove Is Made From"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-10 08:00:17",
+      "pub_time": "2026-06-09 14:04:49",
+      "publication": "",
+      "author": "Ariana Aspuru and Sean Rameswaram",
+      "headline": "Can this little truck solve America’s big EV problem?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ae2fNG-1zSA6kuIFaPtt-Xw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-10 08:00:17",
+      "pub_time": "2026-06-09 11:04:55",
+      "publication": "BuzzFeed",
+      "author": "Ajani Bazile-Dutes",
+      "headline": "Men Who Are In Unhappy Relationships Are Confessing Why They Won't Leave, And Whoa",
+      "article_headline": "Men Who Are In Unhappy Relationships Are Confessing Why They Won't Leave, And Whoa"
+    }
+  ]
+}
