@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-10 19:20:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AHk_PCcpSRUyBrLUfqBRErA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-10 19:20:19",
+      "pub_time": "2026-06-10 19:06:21",
+      "publication": "Bloomberg",
+      "author": "Courtney Subramanian",
+      "headline": "U.S. launches new wave of strikes on Iran over stalled talks",
+      "article_headline": "U.S. launches new wave of strikes on Iran over stalled talks"
+    },
+    {
+      "link": "https://apple.news/AM2uxXi6kSCagqiLMyLgazA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-10 19:20:19",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump has a new, surprising take on the higher cost of living: “I love the inflation”",
+      "article_headline": "Trump has a new, surprising take on the higher cost of living: “I love the inflation”"
+    },
+    {
+      "link": "https://apple.news/APd4chFshQU21tVSC8upUdQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-10 19:20:19",
+      "pub_time": "2026-06-10 19:05:22",
+      "publication": "Reuters",
+      "author": "Fatos Bytyci and Edward Mcallister",
+      "headline": "Albania protests swell as opposition to Kushner resort persists",
+      "article_headline": "Albania protests swell as opposition to Kushner resort persists"
+    },
+    {
+      "link": "https://apple.news/AsccSeyGKT96hBfiUelmEuA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-10 19:20:19",
+      "pub_time": "",
+      "publication": "Fox News",
+      "author": "",
+      "headline": "Americans born after 1970 face higher death rates from several major causes in middle age",
+      "article_headline": "Americans born after 1970 face higher death rates from several major causes in middle age"
+    },
+    {
+      "link": "https://apple.news/APd4chFshQU21tVSC8upUdQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-10 19:20:19",
+      "pub_time": "2026-06-10 19:05:22",
+      "publication": "Reuters",
+      "author": "Fatos Bytyci and Edward Mcallister",
+      "headline": "Albania protests swell as opposition to Kushner resort persists",
+      "article_headline": "Albania protests swell as opposition to Kushner resort persists"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-10 19:20:19",
+      "pub_time": "2026-06-10 19:05:49",
+      "publication": "The Christian Science Monitor",
+      "author": "Mark Sappenfield",
+      "headline": "The World Cup in 2026 is bigger than before. Is it better?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-10 19:20:19",
+      "pub_time": "",
+      "publication": "WIRED",
+      "author": "",
+      "headline": "How one state became America’s measles hot spot, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
