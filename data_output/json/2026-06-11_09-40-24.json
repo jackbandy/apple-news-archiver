@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-11 09:40:24",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A4NKedGPYSdq96IGE5mgPHg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-11 09:40:24",
+      "pub_time": "2026-06-11 09:26:26",
+      "publication": "The Wall Street Journal",
+      "author": "Lara Seligman, Michael R. Gordon, and Robbie Gramer",
+      "headline": "Trump says U.S. will hit Iran tonight, threatens seizure of energy markets",
+      "article_headline": "Trump says U.S. will hit Iran tonight, threatens seizure of energy markets"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-11 09:40:24",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "El Niño is officially here, bringing domino weather effects across the planet",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AUTMnbNsdTSiD1erVqJYLsw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-11 09:40:24",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "JD Vance’s chief of staff to leave Trump administration",
+      "article_headline": "JD Vance’s chief of staff to leave Trump administration"
+    },
+    {
+      "link": "https://apple.news/AzTki91g0TTSonZeZSCJPKg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-11 09:40:24",
+      "pub_time": "2026-06-11 09:27:26",
+      "publication": "NPR",
+      "author": "Eric McDaniel",
+      "headline": "How Trump’s pick for intel chief could imperil a key U.S. spy tool",
+      "article_headline": "How Trump’s pick for intel chief could imperil a key U.S. spy tool"
+    },
+    {
+      "link": "https://apple.news/AzTki91g0TTSonZeZSCJPKg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-11 09:40:24",
+      "pub_time": "2026-06-11 09:26:00",
+      "publication": "NPR",
+      "author": "Eric McDaniel",
+      "headline": "How Trump’s pick for intel chief could imperil a key U.S. spy tool",
+      "article_headline": "How Trump’s pick for intel chief could imperil a key U.S. spy tool"
+    },
+    {
+      "link": "https://apple.news/AsTglEiVHR1i4FGnQGYl1_Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-11 09:40:24",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "A tale of two halves: Knicks complete NBA Finals comeback for the ages",
+      "article_headline": "A tale of two halves: Knicks complete NBA Finals comeback for the ages"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-11 09:40:24",
+      "pub_time": "",
+      "publication": "BBC Science Focus Magazine",
+      "author": "",
+      "headline": "This country seems immune to global warming — and scientists aren’t sure why",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A5aIrc6cAQpSFhYNo2EpRKg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-11 09:40:24",
+      "pub_time": "2026-06-10 10:43:32",
+      "publication": "TheStreet",
+      "author": "Madison Troyer and Celine Provini",
+      "headline": "Best Buy CEO drops major consumer warning on her way out",
+      "article_headline": "Best Buy CEO drops major consumer warning on her way out"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-11 09:40:24",
+      "pub_time": "2026-06-10 21:43:59",
+      "publication": "",
+      "author": "",
+      "headline": "Man charged with slapping Delta attendant's buttocks during flight",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-11 09:40:24",
+      "pub_time": "2026-06-10 16:44:15",
+      "publication": "",
+      "author": "Matthew Bowman",
+      "headline": "UFO Believers Are Losing Their Minds Over Steven Spielberg’s New Movie. I Understand Why.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AExXZF0KgR7Ci0tUNFzY38Q",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-11 09:40:24",
+      "pub_time": "2026-06-11 08:44:15",
+      "publication": "Reuters",
+      "author": "Olena Harmash and Sergiy Karazy",
+      "headline": "Exclusive: Ukraine's drone commander wants to cut Crimea off from Russia",
+      "article_headline": "Exclusive: Ukraine's drone commander wants to cut Crimea off from Russia"
+    }
+  ]
+}

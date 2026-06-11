@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-11 10:00:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A4NKedGPYSdq96IGE5mgPHg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-11 10:00:15",
+      "pub_time": "2026-06-11 09:48:17",
+      "publication": "The Wall Street Journal",
+      "author": "Lara Seligman, Michael R. Gordon, and Robbie Gramer",
+      "headline": "Trump says U.S. will hit Iran tonight, threatens seizure of energy markets",
+      "article_headline": "Trump says U.S. will hit Iran tonight, threatens seizure of energy markets"
+    },
+    {
+      "link": "https://apple.news/AV7iBFef0TEmy0L4cS7UScQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-11 10:00:15",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "FISA 702 spy powers set to expire after House vote fails over Pulte backlash",
+      "article_headline": "FISA 702 spy powers set to expire after House vote fails over Pulte backlash"
+    },
+    {
+      "link": "https://apple.news/AUTMnbNsdTSiD1erVqJYLsw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-11 10:00:15",
+      "pub_time": "2026-06-11 09:48:17",
+      "publication": "NBC News",
+      "author": "Henry J. Gomez",
+      "headline": "JD Vance’s chief of staff to leave Trump administration",
+      "article_headline": "JD Vance’s chief of staff to leave Trump administration"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-11 10:00:15",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "El Niño is officially here, bringing domino weather effects across the planet",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AsTglEiVHR1i4FGnQGYl1_Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-11 10:00:15",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "A tale of two halves: Knicks complete NBA Finals comeback for the ages",
+      "article_headline": "A tale of two halves: Knicks complete NBA Finals comeback for the ages"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-11 10:00:15",
+      "pub_time": "",
+      "publication": "BBC Science Focus Magazine",
+      "author": "",
+      "headline": "This country seems immune to global warming — and scientists aren’t sure why",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AzFgSLlQERfmKIXH5QbVosw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-11 10:00:15",
+      "pub_time": "",
+      "publication": "Inflation hit a 3-year high. What it means for you.",
+      "author": "",
+      "headline": "Listen to today’s top stories.,  Play Now  16 min",
+      "article_headline": ""
+    }
+  ]
+}
