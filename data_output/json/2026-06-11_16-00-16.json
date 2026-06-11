@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-11 16:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AgYxXfr0nSLmOvcFXEQ_PMw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-11 16:00:16",
+      "pub_time": "2026-06-11 15:21:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump calls off latest threats to strike Iran, cites breakthrough in talks to end the war",
+      "article_headline": "Trump calls off latest threats to strike Iran, cites breakthrough in talks to end the war"
+    },
+    {
+      "link": "https://apple.news/AG8uui8cKTRCzNK6YVfklRA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-11 16:00:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Trump nominates Jay Clayton as director of national intelligence",
+      "article_headline": "Trump nominates Jay Clayton as director of national intelligence"
+    },
+    {
+      "link": "https://apple.news/AbAb0KJPdR52hTOL9yCpAcQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-11 16:00:16",
+      "pub_time": "2026-06-11 15:20:18",
+      "publication": "The Washington Post",
+      "author": "Sheilan Regan and Jeremy Roebuck",
+      "headline": "Man pleads guilty to killing Minnesota state Rep. Melissa Hortman and her husband",
+      "article_headline": "Man pleads guilty to killing Minnesota state Rep. Melissa Hortman and her husband"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-11 16:00:16",
+      "pub_time": "2026-06-11 15:20:46",
+      "publication": "The Athletic",
+      "author": "Mark Puleo",
+      "headline": "An octagon at the White House: a look at the setup and preparation for UFC Freedom 250",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A6ukKa3GURzGjDyNbM44iWQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RhZDBUMzExSFNhdU1kZ3JIcnZ6TTJnP3N1YnNjcmliZT0xI25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-11 16:00:16",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "World Cup 2026, What to expect at the biggest World Cup ever",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-11 16:00:16",
+      "pub_time": "2026-06-11 15:21:20",
+      "publication": "Barron’s",
+      "author": "Callum Keown",
+      "headline": "The one summer-vacation destination that’s getting cheaper for Americans",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A1MNb_NAFQ6urSmKiKSeTKQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-11 16:00:16",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Live updates: Mexico and South Africa kick off the tournament, LIVE, Daniel Harris",
+      "article_headline": "Mexico v South Africa: World Cup 2026 opening match – live"
+    }
+  ]
+}
