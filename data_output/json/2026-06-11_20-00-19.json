@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-11 20:00:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AgMqrtU45SRKrzREpDoI9UQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-11 20:00:19",
+      "pub_time": "2026-06-11 19:07:20",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk and Parisa Hafezi",
+      "headline": "Iran says no final decision made on deal that Trump signals could be signed soon",
+      "article_headline": "Iran says no final decision made on deal that Trump hopes could be signed soon"
+    },
+    {
+      "link": "https://apple.news/AfEjcIfVGTGCFSxkP9Ke-EQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-11 20:00:19",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Trump restores commercial fishing in protected areas of Pacific Ocean",
+      "article_headline": "Trump restores commercial fishing in protected areas of Pacific Ocean"
+    },
+    {
+      "link": "https://apple.news/Ap9Ln3lqOTmax9iV618ybrQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-11 20:00:19",
+      "pub_time": "2026-06-11 19:07:20",
+      "publication": "NOTUS",
+      "author": "Eric Katz",
+      "headline": "The IRS cut staff. Now it’s rushing to hire thousands.",
+      "article_headline": "The IRS cut staff. Now it’s rushing to hire thousands."
+    },
+    {
+      "link": "https://apple.news/Ap-FpPVjQQNSxhJmYhItQ6w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-11 20:00:19",
+      "pub_time": "2026-06-11 19:07:47",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "”Life in hiding”: Immigrants reel after Belfast violence",
+      "article_headline": "”Life in hiding”: Immigrants reel after Belfast violence"
+    },
+    {
+      "link": "https://apple.news/Ap9Ln3lqOTmax9iV618ybrQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-11 20:00:19",
+      "pub_time": "2026-06-11 19:07:20",
+      "publication": "NOTUS",
+      "author": "Eric Katz",
+      "headline": "The IRS cut staff. Now it’s rushing to hire thousands.",
+      "article_headline": "The IRS cut staff. Now it’s rushing to hire thousands."
+    },
+    {
+      "link": "https://apple.news/Ap-FpPVjQQNSxhJmYhItQ6w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-11 20:00:19",
+      "pub_time": "2026-06-11 19:07:48",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "”Life in hiding”: Immigrants reel after Belfast violence",
+      "article_headline": "”Life in hiding”: Immigrants reel after Belfast violence"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-11 20:00:19",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "World Cup 2026, The World Cup kicks off with 2 goals, 3 red cards, and one epic fiesta",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

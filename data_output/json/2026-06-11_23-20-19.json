@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-11 23:20:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AgMqrtU45SRKrzREpDoI9UQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-11 23:20:19",
+      "pub_time": "2026-06-11 22:20:21",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk and Parisa Hafezi",
+      "headline": "Iran says no final decision made on deal that Trump signals could be signed soon",
+      "article_headline": "Iran says no final decision made on deal that Trump hopes could be signed soon"
+    },
+    {
+      "link": "https://apple.news/ALMlZ-mV1Qn-08JyvEaEGTA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-11 23:20:19",
+      "pub_time": "2026-06-11 22:20:49",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. puts up $750,000 to evacuate American who was aboard hantavirus ship from remote island",
+      "article_headline": "U.S. puts up $750,000 to evacuate American who was aboard hantavirus ship from remote island"
+    },
+    {
+      "link": "https://apple.news/Ap9Ln3lqOTmax9iV618ybrQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-11 23:20:19",
+      "pub_time": "2026-06-11 22:21:16",
+      "publication": "NOTUS",
+      "author": "Eric Katz",
+      "headline": "The IRS cut staff. Now it’s rushing to hire thousands.",
+      "article_headline": "The IRS cut staff. Now it’s rushing to hire thousands."
+    },
+    {
+      "link": "https://apple.news/A7zUJGufCTqaY2rM1sH24kQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-11 23:20:19",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Elon Musk is the world’s first trillionaire, thanks to the SpaceX IPO",
+      "article_headline": "Elon Musk is the world’s first trillionaire (on paper) thanks to the SpaceX IPO"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-11 23:20:19",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "World Cup 2026, The World Cup kicks off with 2 goals, 3 red cards, and one epic fiesta",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-11 23:20:19",
+      "pub_time": "2026-06-11 22:22:23",
+      "publication": "New York Magazine",
+      "author": "Katie Arnold-Ratliff",
+      "headline": "The big lie at the core of America’s gifted-and-talented programs",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AcJuMc29IQvWpdCGujYd_qA",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-11 23:20:19",
+      "pub_time": "",
+      "publication": "How far can the U.S. go in this weird and wide-open World Cup?",
+      "author": "",
+      "headline": "Plus, more bold predictions.,  Play Now  49 min",
+      "article_headline": ""
+    }
+  ]
+}

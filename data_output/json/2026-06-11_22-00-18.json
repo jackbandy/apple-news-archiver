@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-11 22:00:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AgMqrtU45SRKrzREpDoI9UQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-11 22:00:18",
+      "pub_time": "2026-06-11 21:51:20",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk and Parisa Hafezi",
+      "headline": "Iran says no final decision made on deal that Trump signals could be signed soon",
+      "article_headline": "Iran says no final decision made on deal that Trump hopes could be signed soon"
+    },
+    {
+      "link": "https://apple.news/ALMlZ-mV1Qn-08JyvEaEGTA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-11 22:00:18",
+      "pub_time": "2026-06-11 21:51:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. puts up $750,000 to evacuate American who was aboard hantavirus ship from remote island",
+      "article_headline": "U.S. puts up $750,000 to evacuate American who was aboard hantavirus ship from remote island"
+    },
+    {
+      "link": "https://apple.news/Ap9Ln3lqOTmax9iV618ybrQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-11 22:00:18",
+      "pub_time": "2026-06-11 21:52:14",
+      "publication": "NOTUS",
+      "author": "Eric Katz",
+      "headline": "The IRS cut staff. Now it’s rushing to hire thousands.",
+      "article_headline": "The IRS cut staff. Now it’s rushing to hire thousands."
+    },
+    {
+      "link": "https://apple.news/ALMlZ-mV1Qn-08JyvEaEGTA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-11 22:00:18",
+      "pub_time": "2026-06-11 21:50:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. puts up $750,000 to evacuate American who was aboard hantavirus ship from remote island",
+      "article_headline": "U.S. puts up $750,000 to evacuate American who was aboard hantavirus ship from remote island"
+    },
+    {
+      "link": "https://apple.news/Ap9Ln3lqOTmax9iV618ybrQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-11 22:00:18",
+      "pub_time": "2026-06-11 21:51:14",
+      "publication": "NOTUS",
+      "author": "Eric Katz",
+      "headline": "The IRS cut staff. Now it’s rushing to hire thousands.",
+      "article_headline": "The IRS cut staff. Now it’s rushing to hire thousands."
+    },
+    {
+      "link": "https://apple.news/A7zUJGufCTqaY2rM1sH24kQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-11 22:00:18",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Elon Musk is the world’s first trillionaire, thanks to the SpaceX IPO",
+      "article_headline": "Elon Musk is the world’s first trillionaire (on paper) thanks to the SpaceX IPO"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-11 22:00:18",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "World Cup 2026, The World Cup kicks off with 2 goals, 3 red cards, and one epic fiesta",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
