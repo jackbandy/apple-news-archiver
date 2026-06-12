@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-12 01:20:24",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A4NKedGPYSdq96IGE5mgPHg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 01:20:24",
+      "pub_time": "2026-06-12 00:20:26",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Benoit Faucon, and Lara Seligman",
+      "headline": "Trump cancels Iran strikes, says peace deal could be signed in “coming days”",
+      "article_headline": "Trump Cancels Iran Strikes, Says Peace Deal Could Be Signed in ‘Coming Days’"
+    },
+    {
+      "link": "https://apple.news/Aez91Iq_gSbmg6ustJc2jQA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 01:20:24",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "SpaceX IPO makes Elon Musk the world’s first trillionaire",
+      "article_headline": "SpaceX IPO makes Elon Musk the world’s first trillionaire"
+    },
+    {
+      "link": "https://apple.news/ALMlZ-mV1Qn-08JyvEaEGTA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 01:20:24",
+      "pub_time": "2026-06-12 00:21:26",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. puts up $750,000 to evacuate American who was aboard hantavirus ship from remote island",
+      "article_headline": "U.S. puts up $750,000 to evacuate American who was aboard hantavirus ship from remote island"
+    },
+    {
+      "link": "https://apple.news/ALVMm4K1IRiaBktm2SCaHBw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 01:20:24",
+      "pub_time": "",
+      "publication": "Scientific American",
+      "author": "",
+      "headline": "El Niño is here and could tip Earth to a new record hot year",
+      "article_headline": "El Niño is here and could tip Earth to a new record hot year"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 01:20:24",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, South Korea beats Czechia — but why all the empty seats at World Cup’s second game?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 01:20:24",
+      "pub_time": "2026-06-12 00:22:27",
+      "publication": "New York Magazine",
+      "author": "Katie Arnold-Ratliff",
+      "headline": "The big lie at the core of America’s gifted-and-talented programs",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AHY7iJBiMQ-S0KBJhRMtT7Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-12 01:20:24",
+      "pub_time": "2026-06-11 19:22:42",
+      "publication": "Tasting Table",
+      "author": "",
+      "headline": "Not Dave's Killer, Not Pepperidge Farm: The Hands-Down Best Bread, Per Consumer Reports",
+      "article_headline": "Not Dave's Killer, Not Pepperidge Farm: The Hands-Down Best Bread, Per Consumer Reports"
+    },
+    {
+      "link": "https://apple.news/AwxFeYvPKRw2YQpV3d9rPNQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-12 01:20:24",
+      "pub_time": "2026-06-11 18:23:31",
+      "publication": "BuzzFeed",
+      "author": "Matt Stopera",
+      "headline": "Pope Leo Just Did The Most Unexpectedly American Thing Ever",
+      "article_headline": "Pope Leo Just Did The Most Unexpectedly American Thing Ever"
+    },
+    {
+      "link": "https://apple.news/AFkYhG0r_QaCm-HT5Vr_tSA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-12 01:20:24",
+      "pub_time": "2026-06-11 17:23:58",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Delivery driver moved to tears by customer’s thoughtful gesture",
+      "article_headline": "Delivery driver moved to tears by customer’s thoughtful gesture"
+    },
+    {
+      "link": "https://apple.news/AwxFeYvPKRw2YQpV3d9rPNQ",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-12 01:20:24",
+      "pub_time": "2026-06-11 17:24:31",
+      "publication": "BuzzFeed",
+      "author": "Matt Stopera",
+      "headline": "Pope Leo Just Did The Most Unexpectedly American Thing Ever",
+      "article_headline": "Pope Leo Just Did The Most Unexpectedly American Thing Ever"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-12 01:20:24",
+      "pub_time": "2026-06-11 16:24:58",
+      "publication": "",
+      "author": "Susan Lahey",
+      "headline": "We May Be Surrounded by Trillions of Conscious Beings, Research Suggests—And They Aren’t Human",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

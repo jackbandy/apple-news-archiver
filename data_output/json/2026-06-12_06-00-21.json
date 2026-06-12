@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-12 06:00:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AxNXe60AsTPWji_XB39x1hA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 06:00:21",
+      "pub_time": "2026-06-12 05:56:23",
+      "publication": "NPR",
+      "author": "Franco Ordoñez",
+      "headline": "Trump now says Iran peace deal will be announced “soon,” cancels further strikes",
+      "article_headline": "Trump now says Iran peace deal will be announced “soon,” cancels further strikes"
+    },
+    {
+      "link": "https://apple.news/AcWR5_YtDR8qTvaO1taNnOA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 06:00:21",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Elon Musk’s SpaceX is about to make its debut on Wall Street",
+      "article_headline": "Elon Musk’s SpaceX is about to make its debut on Wall Street"
+    },
+    {
+      "link": "https://apple.news/A1EEOLqNkQLKZK6tPc6dSFg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 06:00:21",
+      "pub_time": "2026-06-12 05:56:22",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Supreme Court blocks Alabama nitrogen-gas execution of double murderer",
+      "article_headline": "Supreme Court blocks Alabama nitrogen-gas execution of double murderer"
+    },
+    {
+      "link": "https://apple.news/AdYHBkEo2QKWVHPqv6V8cUw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 06:00:21",
+      "pub_time": "2026-06-12 05:56:50",
+      "publication": "The Guardian",
+      "author": "Tim Jonze",
+      "headline": "Revolutionary artist David Hockney, known for his California paintings, has died aged 88",
+      "article_headline": "Revolutionary artist David Hockney, known for his California paintings, has died aged 88"
+    },
+    {
+      "link": "https://apple.news/A1EEOLqNkQLKZK6tPc6dSFg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-12 06:00:21",
+      "pub_time": "2026-06-12 05:56:22",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Supreme Court blocks Alabama nitrogen-gas execution of double murderer",
+      "article_headline": "Supreme Court blocks Alabama nitrogen-gas execution of double murderer"
+    },
+    {
+      "link": "https://apple.news/AdYHBkEo2QKWVHPqv6V8cUw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-12 06:00:21",
+      "pub_time": "2026-06-12 05:56:50",
+      "publication": "The Guardian",
+      "author": "Tim Jonze",
+      "headline": "Revolutionary artist David Hockney, known for his California paintings, has died aged 88",
+      "article_headline": "Revolutionary artist David Hockney, known for his California paintings, has died aged 88"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 06:00:21",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, South Korea beats Czechia — but why all the empty seats at World Cup’s second game?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AwxFeYvPKRw2YQpV3d9rPNQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-12 06:00:21",
+      "pub_time": "2026-06-11 18:03:59",
+      "publication": "BuzzFeed",
+      "author": "Matt Stopera",
+      "headline": "Pope Leo Just Did The Most Unexpectedly American Thing Ever",
+      "article_headline": "Pope Leo Just Did The Most Unexpectedly American Thing Ever"
+    },
+    {
+      "link": "https://apple.news/AFfcLX1PUQbGM4C_OtPiT8Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-12 06:00:21",
+      "pub_time": "2026-06-11 09:04:26",
+      "publication": "TheStreet",
+      "author": "Faizan Farooque",
+      "headline": "'The Big Short' investor describes SpaceX in three words",
+      "article_headline": "'The Big Short' investor describes SpaceX in three words"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-12 06:00:21",
+      "pub_time": "2026-06-11 06:04:53",
+      "publication": "",
+      "author": "Melissa Fleur Afshar",
+      "headline": "Popular supplement linked to faster Alzheimer’s progression",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A8Uavo2BVQj6Od4gbVa7dGw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-12 06:00:21",
+      "pub_time": "2026-06-11 20:04:59",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Report: Phil Mickelson kicked out of club for inappropriate contact with female employee",
+      "article_headline": "Report: Phil Mickelson kicked out of club for inappropriate contact with female employee"
+    }
+  ]
+}

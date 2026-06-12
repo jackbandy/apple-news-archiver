@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-12 05:00:22",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A4NKedGPYSdq96IGE5mgPHg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 05:00:22",
+      "pub_time": "2026-06-12 04:53:23",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Benoit Faucon, and Lara Seligman",
+      "headline": "Trump cancels Iran strikes, says peace deal could be signed in “coming days”",
+      "article_headline": "Trump Says Iran Deal Is Close but Tehran Says No Decision Has Been Made"
+    },
+    {
+      "link": "https://apple.news/Aez91Iq_gSbmg6ustJc2jQA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 05:00:22",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "SpaceX IPO makes Elon Musk the world’s first trillionaire",
+      "article_headline": "SpaceX IPO makes Elon Musk the world’s first trillionaire"
+    },
+    {
+      "link": "https://apple.news/ALMlZ-mV1Qn-08JyvEaEGTA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 05:00:22",
+      "pub_time": "2026-06-12 04:53:24",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. puts up $750,000 to evacuate American who was aboard hantavirus ship from remote island",
+      "article_headline": "U.S. puts up $750,000 to evacuate American who was aboard hantavirus ship from remote island"
+    },
+    {
+      "link": "https://apple.news/ALVMm4K1IRiaBktm2SCaHBw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 05:00:22",
+      "pub_time": "",
+      "publication": "Scientific American",
+      "author": "",
+      "headline": "El Niño is here and could tip Earth to a new record hot year",
+      "article_headline": "El Niño is here and could tip Earth to a new record hot year"
+    },
+    {
+      "link": "https://apple.news/ALMlZ-mV1Qn-08JyvEaEGTA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-12 05:00:22",
+      "pub_time": "2026-06-12 04:53:23",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. puts up $750,000 to evacuate American who was aboard hantavirus ship from remote island",
+      "article_headline": "U.S. puts up $750,000 to evacuate American who was aboard hantavirus ship from remote island"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 05:00:22",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, South Korea beats Czechia — but why all the empty seats at World Cup’s second game?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 05:00:22",
+      "pub_time": "2026-06-12 04:53:50",
+      "publication": "New York Magazine",
+      "author": "Katie Arnold-Ratliff",
+      "headline": "The big lie at the core of America’s gifted-and-talented programs",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
