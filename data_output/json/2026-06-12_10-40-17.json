@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-12 10:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AKfN7mCVJQ7OJ8K5C_vBJhQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 10:40:17",
+      "pub_time": "2026-06-12 10:38:18",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon, Jared Malsin, and Summer Said",
+      "headline": "Trump’s Iran deal still has to get past the Revolutionary Guard",
+      "article_headline": "Trump’s Iran deal still has to get past the Revolutionary Guard"
+    },
+    {
+      "link": "https://apple.news/AORa-7w6LQl2mtitH3_Xazg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 10:40:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "After record IPO, Musk’s SpaceX faces next test in market debut",
+      "article_headline": "After record IPO, Musk’s SpaceX faces next test in market debut"
+    },
+    {
+      "link": "https://apple.news/Ad-F-_lmsR1SSnKClZD1h5A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 10:40:17",
+      "pub_time": "",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "Judge issues injunction blocking Trump administration’s $1.8 billion “anti-weaponization fund”",
+      "article_headline": "Judge issues injunction blocking Trump administration’s $1.8 billion “anti-weaponization fund”"
+    },
+    {
+      "link": "https://apple.news/A1cWHp7tfRFmIYs-trPlU5w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 10:40:17",
+      "pub_time": "2026-06-12 10:38:45",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "David Hockney, art icon, dies at 88"
+    },
+    {
+      "link": "https://apple.news/A1cWHp7tfRFmIYs-trPlU5w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-12 10:40:17",
+      "pub_time": "2026-06-12 10:38:18",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "David Hockney, art icon, dies at 88"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 10:40:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Why were there so many empty seats at a World Cup match that was supposedly almost sold out?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 10:40:17",
+      "pub_time": "2026-06-12 10:38:45",
+      "publication": "The Wall Street Journal",
+      "author": "Anvee Bhutani",
+      "headline": "Rent is so high, some New Yorkers are living with nuns",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAp23OtV7TKOC7-UpmA6VmA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-12 10:40:17",
+      "pub_time": "2026-06-12 06:43:25",
+      "publication": "HuffPost",
+      "author": "Ashley Broadwater",
+      "headline": "A Seemingly Harmless Symptom Could Be Sign Of A Stroke. Here's What To Watch For.",
+      "article_headline": "A Seemingly Harmless Symptom Could Be Sign Of A Stroke. Here's What To Watch For."
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-12 10:40:17",
+      "pub_time": "2026-06-11 10:43:52",
+      "publication": "",
+      "author": "Melissa Fleur Afshar",
+      "headline": "Popular supplement linked to faster Alzheimer’s progression",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AlTI8I4vFSqeG9GjWgfOMiQ",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-12 10:40:17",
+      "pub_time": "2026-06-12 07:43:52",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Her dad was accused of trafficking her on a flight. Now she's suing.",
+      "article_headline": "Her dad was accused of trafficking her on a flight. Now she's suing."
+    },
+    {
+      "link": "https://apple.news/AGeYp5cW2SuOnXEsDBEYiHQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-12 10:40:17",
+      "pub_time": "2026-06-12 09:44:26",
+      "publication": "Vanity Fair",
+      "author": "Clara Molot",
+      "headline": "Exclusive: Trouble at ‘Call Her Daddy’ Host Alex Cooper's Media Empire",
+      "article_headline": "Exclusive: Trouble at ‘Call Her Daddy’ Host Alex Cooper's Media Empire"
+    }
+  ]
+}

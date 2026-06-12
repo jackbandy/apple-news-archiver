@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-12 11:40:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AORa-7w6LQl2mtitH3_Xazg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 11:40:18",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "SpaceX makes Nasdaq debut in record-breaking IPO",
+      "article_headline": "SpaceX makes Nasdaq debut in record-breaking IPO"
+    },
+    {
+      "link": "https://apple.news/AKfN7mCVJQ7OJ8K5C_vBJhQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 11:40:18",
+      "pub_time": "2026-06-12 11:31:47",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon, Jared Malsin, and Summer Said",
+      "headline": "Trump’s Iran deal still has to get past the Revolutionary Guard",
+      "article_headline": "Trump’s Iran deal still has to get past the Revolutionary Guard"
+    },
+    {
+      "link": "https://apple.news/AKfN7mCVJQ7OJ8K5C_vBJhQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 11:40:18",
+      "pub_time": "2026-06-12 11:31:20",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon, Jared Malsin, and Summer Said",
+      "headline": "Trump’s Iran deal still has to get past the Revolutionary Guard",
+      "article_headline": "Trump’s Iran deal still has to get past the Revolutionary Guard"
+    },
+    {
+      "link": "https://apple.news/Ad-F-_lmsR1SSnKClZD1h5A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 11:40:18",
+      "pub_time": "",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "Judge issues injunction blocking Trump administration’s $1.8 billion “anti-weaponization fund”",
+      "article_headline": "Judge issues injunction blocking Trump administration’s $1.8 billion “anti-weaponization fund”"
+    },
+    {
+      "link": "https://apple.news/A1cWHp7tfRFmIYs-trPlU5w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-12 11:40:18",
+      "pub_time": "2026-06-12 11:32:15",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "David Hockney, art icon, dies at 88"
+    },
+    {
+      "link": "https://apple.news/A1cWHp7tfRFmIYs-trPlU5w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-12 11:40:18",
+      "pub_time": "2026-06-12 11:31:47",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "David Hockney, art icon, dies at 88"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 11:40:18",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Why were there so many empty seats at a World Cup match that was supposedly almost sold out?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAp23OtV7TKOC7-UpmA6VmA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-12 11:40:18",
+      "pub_time": "2026-06-12 11:14:50",
+      "publication": "HuffPost",
+      "author": "Ashley Broadwater",
+      "headline": "This Silly Little Symptom Could Be Warning You Of A Stroke. Here's How To Tell.",
+      "article_headline": "This Silly Little Symptom Could Be Warning You Of A Stroke. Here's How To Tell."
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-12 11:40:18",
+      "pub_time": "2026-06-11 20:44:17",
+      "publication": "",
+      "author": "Corrie Driebusch",
+      "headline": "Everything You Need to Know About the SpaceX Trading Debut",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AlTI8I4vFSqeG9GjWgfOMiQ",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-12 11:40:18",
+      "pub_time": "2026-06-12 07:44:23",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Her dad was accused of trafficking her on a flight. Now she's suing.",
+      "article_headline": "Her dad was accused of trafficking her on a flight. Now she's suing."
+    },
+    {
+      "link": "https://apple.news/Ap1G5WNe9Q16rDpfxRMVlrg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-12 11:40:18",
+      "pub_time": "2026-06-11 22:44:50",
+      "publication": "Entertainment Weekly",
+      "author": "Kathleen Perricone",
+      "headline": "David Faustino shares health update on 'Married... With Children' costar Christina Applegate",
+      "article_headline": "David Faustino shares health update on 'Married... With Children' costar Christina Applegate"
+    }
+  ]
+}

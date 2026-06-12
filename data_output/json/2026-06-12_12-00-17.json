@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-12 12:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Aix3KPGlCT1uCT2sww3ZbBQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RiOVdSeE1UUFJzeUNuc1F1bzFBRzhnI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 12:00:17",
+      "pub_time": "",
+      "publication": "Tech",
+      "author": "",
+      "headline": "Apple News Spotlight, SpaceX launches on Wall Street, in the world’s largest-ever stock-market debut",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AKfN7mCVJQ7OJ8K5C_vBJhQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 12:00:17",
+      "pub_time": "2026-06-12 11:54:50",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon, Jared Malsin, and Summer Said",
+      "headline": "Trump’s Iran deal still has to get past the Revolutionary Guard",
+      "article_headline": "Trump’s Iran deal still has to get past the Revolutionary Guard"
+    },
+    {
+      "link": "https://apple.news/Ad-F-_lmsR1SSnKClZD1h5A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 12:00:17",
+      "pub_time": "",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "Judge issues injunction blocking Trump administration’s $1.8 billion “anti-weaponization fund”",
+      "article_headline": "Judge issues injunction blocking Trump administration’s $1.8 billion “anti-weaponization fund”"
+    },
+    {
+      "link": "https://apple.news/Ad-F-_lmsR1SSnKClZD1h5A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 12:00:17",
+      "pub_time": "2026-06-12 11:55:45",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "Judge issues injunction blocking Trump administration’s $1.8 billion “anti-weaponization fund”"
+    },
+    {
+      "link": "https://apple.news/A1cWHp7tfRFmIYs-trPlU5w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-12 12:00:17",
+      "pub_time": "2026-06-12 11:55:19",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "David Hockney, art icon, dies at 88"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 12:00:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Why were there so many empty seats at a World Cup match that was supposedly almost sold out?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 12:00:17",
+      "pub_time": "2026-06-12 11:54:46",
+      "publication": "The Wall Street Journal",
+      "author": "Anvee Bhutani",
+      "headline": "Rent is so high, some New Yorkers are living with nuns",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A-PJSTMPIT4mLxS3V8_m5_g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-12 12:00:17",
+      "pub_time": "2026-06-12 08:03:25",
+      "publication": "Fox News",
+      "author": "Zach Dean",
+      "headline": "Royals pitcher drilled in head with terrifying 107 mph liner, and the batter who hit it pulled a rare move",
+      "article_headline": "Royals pitcher drilled in head with terrifying 107 mph liner, and the batter who hit it pulled a rare move"
+    },
+    {
+      "link": "https://apple.news/AAp23OtV7TKOC7-UpmA6VmA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-12 12:00:17",
+      "pub_time": "2026-06-12 06:03:53",
+      "publication": "HuffPost",
+      "author": "Ashley Broadwater",
+      "headline": "A Seemingly Harmless Symptom Could Be Sign Of A Stroke. Here's What To Watch For.",
+      "article_headline": "A Seemingly Harmless Symptom Could Be Sign Of A Stroke. Here's What To Watch For."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-12 12:00:17",
+      "pub_time": "2026-06-11 20:04:20",
+      "publication": "",
+      "author": "Corrie Driebusch",
+      "headline": "Everything You Need to Know About the SpaceX Trading Debut",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ALQ6lcilyRg299mmNgLVYWQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-12 12:00:17",
+      "pub_time": "2026-06-12 11:04:26",
+      "publication": "BuzzFeed",
+      "author": "Dannica Ramirez",
+      "headline": "\"That's How My Mom Lost A Multi-Million Dollar Inheritance\": 21 Ex-Millionaires Are Revealing How They Lost Their Wealth, And It's Astonishing",
+      "article_headline": "\"That's How My Mom Lost A Multi-Million Dollar Inheritance\": 21 Ex-Millionaires Are Revealing How They Lost Their Wealth, And It's Astonishing"
+    }
+  ]
+}

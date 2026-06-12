@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-12 08:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AYmX7ygBsRV2Ulb84eWVtgQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 08:20:16",
+      "pub_time": "2026-06-12 08:09:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump raises the stakes on an Iran deal ahead of G7 summit",
+      "article_headline": "Trump raises the stakes on an Iran deal ahead of G7 summit"
+    },
+    {
+      "link": "https://apple.news/AORa-7w6LQl2mtitH3_Xazg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 08:20:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "After record IPO, Musk’s SpaceX faces next test in market debut",
+      "article_headline": "After record IPO, Musk’s SpaceX faces next test in market debut"
+    },
+    {
+      "link": "https://apple.news/A1EEOLqNkQLKZK6tPc6dSFg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 08:20:16",
+      "pub_time": "2026-06-12 08:09:17",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Supreme Court blocks Alabama nitrogen-gas execution of double murderer",
+      "article_headline": "Supreme Court blocks Alabama nitrogen-gas execution of double murderer"
+    },
+    {
+      "link": "https://apple.news/A1cWHp7tfRFmIYs-trPlU5w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 08:20:16",
+      "pub_time": "2026-06-12 08:09:44",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "David Hockney, art icon, dies at 88"
+    },
+    {
+      "link": "https://apple.news/A1EEOLqNkQLKZK6tPc6dSFg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-12 08:20:16",
+      "pub_time": "2026-06-12 08:09:17",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Supreme Court blocks Alabama nitrogen-gas execution of double murderer",
+      "article_headline": "Supreme Court blocks Alabama nitrogen-gas execution of double murderer"
+    },
+    {
+      "link": "https://apple.news/A1cWHp7tfRFmIYs-trPlU5w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-12 08:20:16",
+      "pub_time": "2026-06-12 08:09:45",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "David Hockney, art icon, dies at 88"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 08:20:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, South Korea beats Czechia — but why all the empty seats at the World Cup’s second game?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAp23OtV7TKOC7-UpmA6VmA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-12 08:20:16",
+      "pub_time": "2026-06-12 06:23:51",
+      "publication": "HuffPost",
+      "author": "Ashley Broadwater",
+      "headline": "A Seemingly Harmless Symptom Could Be Sign Of A Stroke. Here's What To Watch For.",
+      "article_headline": "A Seemingly Harmless Symptom Could Be Sign Of A Stroke. Here's What To Watch For."
+    },
+    {
+      "link": "https://apple.news/AFfcLX1PUQbGM4C_OtPiT8Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-12 08:20:16",
+      "pub_time": "2026-06-11 09:24:18",
+      "publication": "TheStreet",
+      "author": "Faizan Farooque",
+      "headline": "'The Big Short' investor describes SpaceX in three words",
+      "article_headline": "'The Big Short' investor describes SpaceX in three words"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-12 08:20:16",
+      "pub_time": "2026-06-11 08:24:45",
+      "publication": "",
+      "author": "Melissa Fleur Afshar",
+      "headline": "Popular supplement linked to faster Alzheimer’s progression",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ahd0aK4QLQ5ipHUZolUr5cA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-12 08:20:16",
+      "pub_time": "2026-06-12 05:24:52",
+      "publication": "The Guardian",
+      "author": "Petra Stock",
+      "headline": "Goblin shark with face ‘not even a mother would love’ seen alive in natural habitat for first time",
+      "article_headline": "Goblin shark with face ‘not even a mother would love’ seen alive in natural habitat for first time"
+    }
+  ]
+}

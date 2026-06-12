@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-12 09:00:20",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AYmX7ygBsRV2Ulb84eWVtgQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 09:00:20",
+      "pub_time": "2026-06-12 08:30:22",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump raises the stakes on an Iran deal ahead of G7 summit",
+      "article_headline": "Trump raises the stakes on an Iran deal ahead of G7 summit"
+    },
+    {
+      "link": "https://apple.news/AORa-7w6LQl2mtitH3_Xazg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 09:00:20",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "After record IPO, Musk’s SpaceX faces next test in market debut",
+      "article_headline": "After record IPO, Musk’s SpaceX faces next test in market debut"
+    },
+    {
+      "link": "https://apple.news/ArTq3tAZ-SEK-Uwbu6bp-tg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 09:00:20",
+      "pub_time": "2026-06-12 08:30:21",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "1 dead, severe damage after tornadoes and thunderstorms hit Midwest",
+      "article_headline": "1 dead, severe damage after tornadoes and thunderstorms hit Midwest"
+    },
+    {
+      "link": "https://apple.news/A1cWHp7tfRFmIYs-trPlU5w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 09:00:20",
+      "pub_time": "2026-06-12 08:30:48",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "David Hockney, art icon, dies at 88"
+    },
+    {
+      "link": "https://apple.news/ArTq3tAZ-SEK-Uwbu6bp-tg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-12 09:00:20",
+      "pub_time": "2026-06-12 08:30:20",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "1 dead, severe damage after tornadoes and thunderstorms hit Midwest",
+      "article_headline": "1 dead, severe damage after tornadoes and thunderstorms hit Midwest"
+    },
+    {
+      "link": "https://apple.news/A1cWHp7tfRFmIYs-trPlU5w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-12 09:00:20",
+      "pub_time": "2026-06-12 08:30:47",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "David Hockney, art icon, dies at 88"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 09:00:20",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, South Korea beats Czechia — but why all the empty seats at the World Cup’s second game?",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

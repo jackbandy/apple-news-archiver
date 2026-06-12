@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-12 07:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AxNXe60AsTPWji_XB39x1hA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 07:40:17",
+      "pub_time": "2026-06-12 07:30:19",
+      "publication": "NPR",
+      "author": "Franco Ordoñez",
+      "headline": "Trump now says Iran peace deal will be announced “soon,” cancels further strikes",
+      "article_headline": "Trump now says Iran peace deal will be announced “soon,” cancels further strikes"
+    },
+    {
+      "link": "https://apple.news/AcWR5_YtDR8qTvaO1taNnOA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 07:40:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Elon Musk’s SpaceX is about to make its debut on Wall Street",
+      "article_headline": "Elon Musk’s SpaceX is about to make its debut on Wall Street"
+    },
+    {
+      "link": "https://apple.news/A1EEOLqNkQLKZK6tPc6dSFg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 07:40:17",
+      "pub_time": "2026-06-12 07:30:19",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Supreme Court blocks Alabama nitrogen-gas execution of double murderer",
+      "article_headline": "Supreme Court blocks Alabama nitrogen-gas execution of double murderer"
+    },
+    {
+      "link": "https://apple.news/A1cWHp7tfRFmIYs-trPlU5w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 07:40:17",
+      "pub_time": "2026-06-12 07:30:46",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "David Hockney, art icon, dies at 88"
+    },
+    {
+      "link": "https://apple.news/A1EEOLqNkQLKZK6tPc6dSFg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-12 07:40:17",
+      "pub_time": "2026-06-12 07:30:19",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Supreme Court blocks Alabama nitrogen-gas execution of double murderer",
+      "article_headline": "Supreme Court blocks Alabama nitrogen-gas execution of double murderer"
+    },
+    {
+      "link": "https://apple.news/A1cWHp7tfRFmIYs-trPlU5w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-12 07:40:17",
+      "pub_time": "2026-06-12 07:30:46",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "David Hockney, art icon, dies at 88"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 07:40:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, South Korea beats Czechia — but why all the empty seats at the World Cup’s second game?",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

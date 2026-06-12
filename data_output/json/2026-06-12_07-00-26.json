@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-12 07:00:26",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AxNXe60AsTPWji_XB39x1hA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 07:00:26",
+      "pub_time": "2026-06-12 06:00:29",
+      "publication": "NPR",
+      "author": "Franco Ordoñez",
+      "headline": "Trump now says Iran peace deal will be announced “soon,” cancels further strikes",
+      "article_headline": "Trump now says Iran peace deal will be announced “soon,” cancels further strikes"
+    },
+    {
+      "link": "https://apple.news/AcWR5_YtDR8qTvaO1taNnOA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 07:00:26",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Elon Musk’s SpaceX is about to make its debut on Wall Street",
+      "article_headline": "Elon Musk’s SpaceX is about to make its debut on Wall Street"
+    },
+    {
+      "link": "https://apple.news/A1EEOLqNkQLKZK6tPc6dSFg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 07:00:26",
+      "pub_time": "2026-06-12 06:01:29",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Supreme Court blocks Alabama nitrogen-gas execution of double murderer",
+      "article_headline": "Supreme Court blocks Alabama nitrogen-gas execution of double murderer"
+    },
+    {
+      "link": "https://apple.news/AdYHBkEo2QKWVHPqv6V8cUw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 07:00:26",
+      "pub_time": "2026-06-12 06:01:57",
+      "publication": "The Guardian",
+      "author": "Tim Jonze",
+      "headline": "Revolutionary artist David Hockney, known for his California paintings, has died aged 88",
+      "article_headline": "Revolutionary artist David Hockney, known for his California paintings, has died aged 88"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 07:00:26",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, South Korea beats Czechia — but why all the empty seats at World Cup’s second game?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 07:00:26",
+      "pub_time": "2026-06-12 06:02:30",
+      "publication": "The Wall Street Journal",
+      "author": "Roshan Fernandez",
+      "headline": "Students are using a “back door” to attend their dream schools",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/APW0rEWj7RdOwOCPkNJvgpg",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-12 07:00:26",
+      "pub_time": "",
+      "publication": "Trump cancels strikes and claims a deal is close. What changed? ",
+      "author": "",
+      "headline": "Listen to today’s top stories.,  Play Now  15 min",
+      "article_headline": ""
+    }
+  ]
+}

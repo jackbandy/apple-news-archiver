@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-06-12 11:00:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 11:00:19",
+      "pub_time": "2026-06-12 10:55:22",
+      "publication": "Apple News Plus",
+      "author": "Benoit Faucon, Jared Malsin, and Summer Said",
+      "headline": "The Wall Street Journal, Trump’s Iran deal still has to get past the Revolutionary Guard",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AORa-7w6LQl2mtitH3_Xazg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 11:00:19",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "SpaceX set to surge past $2 trillion valuation in blockbuster Nasdaq debut",
+      "article_headline": "SpaceX set to surge past $2 trillion valuation in blockbuster Nasdaq debut"
+    },
+    {
+      "link": "https://apple.news/Ad-F-_lmsR1SSnKClZD1h5A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 11:00:19",
+      "pub_time": "",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "Judge issues injunction blocking Trump administration’s $1.8 billion “anti-weaponization fund”",
+      "article_headline": "Judge issues injunction blocking Trump administration’s $1.8 billion “anti-weaponization fund”"
+    },
+    {
+      "link": "https://apple.news/A1cWHp7tfRFmIYs-trPlU5w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 11:00:19",
+      "pub_time": "2026-06-12 10:56:21",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "David Hockney, art icon, dies at 88"
+    },
+    {
+      "link": "https://apple.news/A1cWHp7tfRFmIYs-trPlU5w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 11:00:19",
+      "pub_time": "2026-06-12 10:55:54",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "David Hockney, art icon, dies at 88"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 11:00:19",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Why were there so many empty seats at a World Cup match that was supposedly almost sold out?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 11:00:19",
+      "pub_time": "2026-06-12 10:55:21",
+      "publication": "The Wall Street Journal",
+      "author": "Anvee Bhutani",
+      "headline": "Rent is so high, some New Yorkers are living with nuns",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

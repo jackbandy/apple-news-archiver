@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-12 10:00:24",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AYmX7ygBsRV2Ulb84eWVtgQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 10:00:24",
+      "pub_time": "2026-06-12 09:00:27",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump raises the stakes on an Iran deal ahead of G7 summit",
+      "article_headline": "Trump raises the stakes on an Iran deal ahead of G7 summit"
+    },
+    {
+      "link": "https://apple.news/AORa-7w6LQl2mtitH3_Xazg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 10:00:24",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "After record IPO, Musk’s SpaceX faces next test in market debut",
+      "article_headline": "After record IPO, Musk’s SpaceX faces next test in market debut"
+    },
+    {
+      "link": "https://apple.news/ArTq3tAZ-SEK-Uwbu6bp-tg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 10:00:24",
+      "pub_time": "2026-06-12 09:01:26",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "1 dead, severe damage after tornadoes and thunderstorms hit Midwest",
+      "article_headline": "1 dead, severe damage after tornadoes and thunderstorms hit Midwest"
+    },
+    {
+      "link": "https://apple.news/A1cWHp7tfRFmIYs-trPlU5w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 10:00:24",
+      "pub_time": "2026-06-12 09:01:53",
+      "publication": "Vanity Fair",
+      "author": "Mark Rozzo",
+      "headline": "David Hockney, art icon, dies at 88",
+      "article_headline": "David Hockney, art icon, dies at 88"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 10:00:24",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, South Korea beats Czechia — but why all the empty seats at the World Cup’s second game?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 10:00:24",
+      "pub_time": "2026-06-12 09:02:26",
+      "publication": "The Wall Street Journal",
+      "author": "Roshan Fernandez",
+      "headline": "Students are using a “back door” to attend their dream schools",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/APW0rEWj7RdOwOCPkNJvgpg",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-12 10:00:24",
+      "pub_time": "",
+      "publication": "Trump once again says an Iran deal is close. What’s changed?",
+      "author": "",
+      "headline": "Listen to today’s top stories.,  Play Now  14 min",
+      "article_headline": ""
+    }
+  ]
+}
