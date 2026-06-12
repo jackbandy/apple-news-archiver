@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-12 14:40:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aix3KPGlCT1uCT2sww3ZbBQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RiOVdSeE1UUFJzeUNuc1F1bzFBRzhnI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 14:40:19",
+      "pub_time": "",
+      "publication": "Tech",
+      "author": "",
+      "headline": "Apple News Spotlight, SpaceX launches on Wall Street, in the world’s largest-ever stock-market debut",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AKfN7mCVJQ7OJ8K5C_vBJhQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 14:40:19",
+      "pub_time": "2026-06-12 14:09:53",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon, Jared Malsin, and Summer Said",
+      "headline": "Trump’s Iran deal still has to get past the Revolutionary Guard",
+      "article_headline": "Trump’s Iran deal still has to get past the Revolutionary Guard"
+    },
+    {
+      "link": "https://apple.news/ANLNtQOeuSkiJ35tzkYw9oA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 14:40:19",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Judge denies last-ditch Kennedy Center bid to delay removing Trump’s name",
+      "article_headline": "Judge denies last-ditch Kennedy Center bid to delay removing Trump’s name"
+    },
+    {
+      "link": "https://apple.news/ANLNtQOeuSkiJ35tzkYw9oA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 14:40:19",
+      "pub_time": "2026-06-12 14:10:48",
+      "publication": "NBC News",
+      "author": "Minyvonne Burke",
+      "headline": "At least 1 dead, 10 injured in West Texas shooting; suspect dead after standoff",
+      "article_headline": "Judge denies last-ditch Kennedy Center bid to delay removing Trump’s name"
+    },
+    {
+      "link": "https://apple.news/AwhfIRs5OS_yI10969PeYgQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-12 14:40:19",
+      "pub_time": "2026-06-12 14:10:21",
+      "publication": "NBC News",
+      "author": "Minyvonne Burke",
+      "headline": "At least 1 dead, 10 injured in West Texas shooting; suspect dead after standoff",
+      "article_headline": "At least 1 dead, 10 injured in West Texas shooting; suspect dead after standoff"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 14:40:19",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Why were there so many empty seats at a World Cup match that was supposedly almost sold out?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 14:40:19",
+      "pub_time": "2026-06-12 14:09:49",
+      "publication": "The Atlantic",
+      "author": "Henry Grabar",
+      "headline": "Why this summer’s airfares are unaffordable — and unpredictable",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-12 15:40:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aix3KPGlCT1uCT2sww3ZbBQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RiOVdSeE1UUFJzeUNuc1F1bzFBRzhnI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 15:40:13",
+      "pub_time": "",
+      "publication": "Tech",
+      "author": "",
+      "headline": "Apple News Spotlight, SpaceX’s value tops $2 trillion as shares climb 19% in Wall Street debut",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Ai3lIZj8QSVq6OBAltR7Omw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 15:40:13",
+      "pub_time": "2026-06-12 15:33:42",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "E.U. agrees to launch membership talks with Ukraine next week even as war with Russia drags on",
+      "article_headline": "E.U. agrees to launch membership talks with Ukraine next week even as war with Russia drags on"
+    },
+    {
+      "link": "https://apple.news/Ai3lIZj8QSVq6OBAltR7Omw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 15:40:13",
+      "pub_time": "2026-06-12 15:33:13",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "E.U. agrees to launch membership talks with Ukraine next week even as war with Russia drags on",
+      "article_headline": "E.U. agrees to launch membership talks with Ukraine next week even as war with Russia drags on"
+    },
+    {
+      "link": "https://apple.news/ANLNtQOeuSkiJ35tzkYw9oA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 15:40:13",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Judge denies last-ditch Kennedy Center bid to delay removing Trump’s name",
+      "article_headline": "Judge denies last-ditch Kennedy Center bid to delay removing Trump’s name"
+    },
+    {
+      "link": "https://apple.news/AwhfIRs5OS_yI10969PeYgQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-12 15:40:13",
+      "pub_time": "2026-06-12 15:34:08",
+      "publication": "NBC News",
+      "author": "Minyvonne Burke",
+      "headline": "At least 1 dead, 10 injured in West Texas shooting; suspect dead after standoff",
+      "article_headline": "At least 1 dead, 10 injured in West Texas shooting; suspect dead after standoff"
+    },
+    {
+      "link": "https://apple.news/AwhfIRs5OS_yI10969PeYgQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-12 15:40:13",
+      "pub_time": "2026-06-12 15:33:42",
+      "publication": "NBC News",
+      "author": "Minyvonne Burke",
+      "headline": "At least 1 dead, 10 injured in West Texas shooting; suspect dead after standoff",
+      "article_headline": "At least 1 dead, 10 injured in West Texas shooting; suspect dead after standoff"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 15:40:13",
+      "pub_time": "2026-06-12 15:33:09",
+      "publication": "Los Angeles Times",
+      "author": "Noah Goldberg",
+      "headline": "Spencer Pratt appears to concede L.A. mayoral election in new video threatening Bass and Raman",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
