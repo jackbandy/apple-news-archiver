@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-06-12 23:40:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ARtZBjvZ6ScSkQRT-ba7Log",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 23:40:18",
+      "pub_time": "2026-06-12 23:17:20",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi, Phil Stewart, and Steve Holland",
+      "headline": "Iran peace deal looms while new military action flares near Strait of Hormuz",
+      "article_headline": "Iran peace deal looms while new military action flares near Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AiKRsqAHmRJ-1WILbbw6n6w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 23:40:18",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "World Cup 2026, Balogun leads USMNT rout of Paraguay in dream World Cup start",
+      "article_headline": "Balogun leads USMNT rout of Paraguay in dream World Cup start"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 23:40:18",
+      "pub_time": "2026-06-12 23:17:19",
+      "publication": "The Washington Post",
+      "author": "Faiz Siddiqui and Shira Ovide",
+      "headline": "SpaceX IPO extends Elon Musk’s influence across AI and the economy",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaK9eziKOSnyC48ZO-lyNag",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 23:40:18",
+      "pub_time": "2026-06-12 23:17:19",
+      "publication": "NBC News",
+      "author": "Frank Thorp V and Kyle Stewart",
+      "headline": "A key U.S. spying program expires Friday night. What does that mean?",
+      "article_headline": "A key U.S. spying program expires Friday night. What does that mean?"
+    },
+    {
+      "link": "https://apple.news/AuIoEA6WtTqiqH_1VPvsyWA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 23:40:18",
+      "pub_time": "2026-06-12 23:16:52",
+      "publication": "Variety",
+      "author": "Pat Saperstein",
+      "headline": "Gene Shalit, longtime “Today Show” film critic, dies at 100",
+      "article_headline": "Gene Shalit, longtime “Today Show” film critic, dies at 100"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 23:40:18",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The Boeing 747 ushered in the golden age of air travel. Now it’s headed for the boneyard., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 23:40:18",
+      "pub_time": "2026-06-12 21:42:33",
+      "publication": "The Wall Street Journal",
+      "author": "Heather Haddon and Laura Cooper",
+      "headline": "The 70-Year Marriage Between McDonald’s and Coke Has Some Issues",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ag2rRHZobQ7CILnID07wrHg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-12 23:40:18",
+      "pub_time": "2026-06-12 11:43:02",
+      "publication": "Real Simple",
+      "author": "Lauren Thomann",
+      "headline": "This Is the Worst Way to Hang Your Bath Towel—and Almost Everyone Does It",
+      "article_headline": "This Is the Worst Way to Hang Your Bath Towel—and Almost Everyone Does It"
+    },
+    {
+      "link": "https://apple.news/A4e1I0r_SS3OG_Y37Hc1VyA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-12 23:40:18",
+      "pub_time": "2026-06-12 16:43:29",
+      "publication": "BuzzFeed",
+      "author": "Matt Stopera",
+      "headline": "These Tweets From Japanese Tourists Documenting Mundane American Things Are So, So, So Good",
+      "article_headline": "These Tweets From Japanese Tourists Documenting Mundane American Things Are So, So, So Good"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-12 23:40:18",
+      "pub_time": "2026-06-11 23:44:03",
+      "publication": "",
+      "author": "Melissa Fleur Afshar",
+      "headline": "Popular supplement linked to faster Alzheimer’s progression",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AN8m0D6ncSMGOQUhz74Z7BQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-12 23:40:18",
+      "pub_time": "2026-06-12 07:44:03",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "The 'Neglected' Exercise That Helps Us Age Better",
+      "article_headline": "The 'Neglected' Exercise That Helps Us Age Better"
+    }
+  ]
+}

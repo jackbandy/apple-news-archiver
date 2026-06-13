@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-12 21:20:20",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A_RU3Os2lSka1ewXI8JgtDw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-12 21:20:20",
+      "pub_time": "",
+      "publication": "World Cup 2026",
+      "author": "",
+      "headline": "The Guardian, Live updates: U.S. takes commanding lead against Paraguay, MORE DETAILS, LIVE",
+      "article_headline": "USA v Paraguay: World Cup 2026 – live"
+    },
+    {
+      "link": "https://apple.news/ARtZBjvZ6ScSkQRT-ba7Log",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-12 21:20:20",
+      "pub_time": "2026-06-12 21:07:55",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi, Phil Stewart, and Steve Holland",
+      "headline": "Iran peace deal looms while new military action flares near Strait of Hormuz",
+      "article_headline": "Iran peace deal looms while new military action flares near Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AsVit9e6OR-GO0uD_7751Lg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-12 21:20:20",
+      "pub_time": "",
+      "publication": "Variety",
+      "author": "",
+      "headline": "Justice Department approves Paramount–Warner Bros. Discovery merger",
+      "article_headline": "Justice Department Approves Paramount's Warner Bros. Discovery Takeover Without Any Strings Attached"
+    },
+    {
+      "link": "https://apple.news/ARtZBjvZ6ScSkQRT-ba7Log",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-12 21:20:20",
+      "pub_time": "2026-06-12 21:06:55",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi, Phil Stewart, and Steve Holland",
+      "headline": "Iran peace deal looms while new military action flares near Strait of Hormuz",
+      "article_headline": "Iran peace deal looms while new military action flares near Strait of Hormuz"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 21:20:20",
+      "pub_time": "2026-06-12 21:07:22",
+      "publication": "The Wall Street Journal",
+      "author": "Louise Radnofsky",
+      "headline": "Judge blocks Trump’s “anti-weaponization” fund, seeks assurances it’s dead",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ax56B-NYZSrSzjdOSbB9K8Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-12 21:20:20",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "OB-GYN group makes vaccine recommendations for first time, breaking with CDC",
+      "article_headline": "OB-GYN group makes vaccine recommendations for first time, breaking with CDC"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-12 21:20:20",
+      "pub_time": "2026-06-12 21:06:54",
+      "publication": "The Wall Street Journal",
+      "author": "Louise Radnofsky",
+      "headline": "Judge blocks Trump’s “anti-weaponization” fund, seeks assurances it’s dead",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
