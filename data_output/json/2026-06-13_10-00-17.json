@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-06-13 10:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ANLNtQOeuSkiJ35tzkYw9oA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-13 10:00:17",
+      "pub_time": "2026-06-13 09:07:19",
+      "publication": "The Washington Post",
+      "author": "Jonathan Edwards",
+      "headline": "Kennedy Center removing Trump’s name from building",
+      "article_headline": "Kennedy Center removing Trump’s name from building"
+    },
+    {
+      "link": "https://apple.news/AOtcJ808-RaamYcjtSwECJQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-13 10:00:17",
+      "pub_time": "2026-06-13 09:07:47",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, David S. Cloud, and Lara Seligman",
+      "headline": "How the U.S. and Iran went from renewed war to the cusp of peace",
+      "article_headline": "How the U.S. and Iran went from renewed war to the cusp of peace"
+    },
+    {
+      "link": "https://apple.news/A9p_SMaUDQV6FQuGDjqQxog",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-13 10:00:17",
+      "pub_time": "2026-06-13 09:08:14",
+      "publication": "POLITICO",
+      "author": "Josh Gerstein",
+      "headline": "U.S. kills Venezuela’s Tren de Aragua leader in military strike, Trump says",
+      "article_headline": "U.S. kills Venezuela’s Tren de Aragua leader in military strike, Trump says"
+    },
+    {
+      "link": "https://apple.news/AOtcJ808-RaamYcjtSwECJQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-13 10:00:17",
+      "pub_time": "2026-06-13 09:07:48",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, David S. Cloud, and Lara Seligman",
+      "headline": "How the U.S. and Iran went from renewed war to the cusp of peace",
+      "article_headline": "How the U.S. and Iran went from renewed war to the cusp of peace"
+    },
+    {
+      "link": "https://apple.news/A9p_SMaUDQV6FQuGDjqQxog",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-13 10:00:17",
+      "pub_time": "2026-06-13 09:08:15",
+      "publication": "POLITICO",
+      "author": "Josh Gerstein",
+      "headline": "U.S. kills Venezuela’s Tren de Aragua leader in military strike, Trump says",
+      "article_headline": "U.S. kills Venezuela’s Tren de Aragua leader in military strike, Trump says"
+    },
+    {
+      "link": "https://apple.news/AIjsnhSF_QtagtDg2BgOioQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-13 10:00:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, A near-perfect World Cup opener takes the USMNT into uncharted territory",
+      "article_headline": "A near-perfect World Cup opener takes the USMNT into uncharted territory"
+    },
+    {
+      "link": "https://apple.news/AcQKNWBk7RMiIpJHkYpZDqQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RVOXh4R1dSV1NQU011R0xGMTR0VF9BI25mZl9paWQ%3D",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-13 10:00:17",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Climate, Endangered condors have a surprising foe. Plus, a boat designed to eat plastic waste.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AksM2yDt1QF-J11Mj7dTxuA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-13 10:00:17",
+      "pub_time": "2026-06-12 19:04:32",
+      "publication": "NBC News",
+      "author": "Hallie Jackson NOW",
+      "headline": "Missing Minnesota woman found stuck in mud after three days",
+      "article_headline": "Missing Minnesota woman found stuck in mud after three days"
+    },
+    {
+      "link": "https://apple.news/AmX7I9te0Qo6l8hHOSI-I6A",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-13 10:00:17",
+      "pub_time": "2026-06-13 03:05:00",
+      "publication": "The Daily Beast",
+      "author": "William Vaillancourt",
+      "headline": "How Colbert’s Replacement Is Helping Tank the Rest of CBS",
+      "article_headline": "How Colbert’s Replacement Is Helping Tank the Rest of CBS"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-13 10:00:17",
+      "pub_time": "2026-06-12 10:05:33",
+      "publication": "",
+      "author": "Daniel S. Levine",
+      "headline": "Thailand’s Princess Bajrakitiyabha Dies at 47, After 3 Years in a Coma",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A9qFEGIypSnuGy_CLr4dyiw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-13 10:00:17",
+      "pub_time": "2026-06-13 09:05:33",
+      "publication": "TMZ",
+      "author": "TMZ Staff",
+      "headline": "San Antonio Spurs Canceling Knicks Fans' Tickets for NBA Finals Game 5",
+      "article_headline": "San Antonio Spurs Canceling Knicks Fans' Tickets for NBA Finals Game 5"
+    }
+  ]
+}
