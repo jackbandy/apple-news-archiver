@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-13 15:00:22",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ANLNtQOeuSkiJ35tzkYw9oA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-13 15:00:22",
+      "pub_time": "2026-06-13 13:00:24",
+      "publication": "The Washington Post",
+      "author": "Jonathan Edwards",
+      "headline": "Kennedy Center removes Trump’s name from building",
+      "article_headline": "Kennedy Center removes Trump’s name from building"
+    },
+    {
+      "link": "https://apple.news/AU6Xr8iCZTvWQATFWnf5-dQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-13 15:00:22",
+      "pub_time": "2026-06-13 13:00:52",
+      "publication": "CNBC",
+      "author": "Laya Neelakandan",
+      "headline": "Trump says Iran deal will be signed Sunday, Hormuz strait to open after",
+      "article_headline": "Trump says Iran deal will be signed Sunday, Hormuz strait to open after"
+    },
+    {
+      "link": "https://apple.news/AS7eTHGcqQze-IhTJOhleZA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-13 15:00:22",
+      "pub_time": "2026-06-13 13:01:20",
+      "publication": "Reuters",
+      "author": "Giulia Paravicini, Clement Bonnerot, and Fiston Mahamba",
+      "headline": "A cracked coffin, a funeral, and the hunt for Ebola’s patient zero",
+      "article_headline": "A cracked coffin, a funeral, and the hunt for Ebola’s patient zero"
+    },
+    {
+      "link": "https://apple.news/AD7vwKd0gQpaaoikFqvwyGw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-13 15:00:22",
+      "pub_time": "2026-06-13 13:01:52",
+      "publication": "Yahoo Sports",
+      "author": "",
+      "headline": "NBA star James Harden arrested in Houston for carrying an unlawful weapon",
+      "article_headline": "NBA star James Harden arrested in Houston for carrying an unlawful weapon"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-13 15:00:22",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "This European country is weighing a radical proposal to cap its population, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AG-PgXl9KRN-qiF6jD3LTLg",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-13 15:00:22",
+      "pub_time": "",
+      "publication": "How the U.S. pulled off its greatest World Cup win ever",
+      "author": "",
+      "headline": "And where it goes from here.,  Play Now  35 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AG-PgXl9KRN-qiF6jD3LTLg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-13 15:00:22",
+      "pub_time": "",
+      "publication": "How the U.S. pulled off its greatest World Cup win ever",
+      "author": "",
+      "headline": "And where it goes from here.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ABw2nVKT6R2K_zu68PDWM6w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-13 15:00:22",
+      "pub_time": "2026-06-13 07:03:51",
+      "publication": "BuzzFeed",
+      "author": "Alexa Lisitza",
+      "headline": "\"I Go Home Empty-Handed\": 14 People Shared The #1 Grocery Item They No Longer Buy Because It's Too Expensive",
+      "article_headline": "\"I Go Home Empty-Handed\": 14 People Shared The #1 Grocery Item They No Longer Buy Because It's Too Expensive"
+    },
+    {
+      "link": "https://apple.news/AMCngjoEGTNePjF8CP3k14A",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-13 15:00:22",
+      "pub_time": "2026-06-13 10:04:24",
+      "publication": "HuffPost",
+      "author": "Richard Estrella",
+      "headline": "I Spent 15 Years Rehearsing How To Tell My Mom My Secret. She Said 4 Words That Shocked Me.",
+      "article_headline": "I Spent 15 Years Rehearsing How To Tell My Mom My Secret. She Said 4 Words That Shocked Me."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-13 15:00:22",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "This Is The Home Size Empty Nesters Say Feels Just Right, Apple News Plus, Cameron Beall",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A8CYHGYnvQxSLih0BU2f9Iw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-13 15:00:22",
+      "pub_time": "2026-06-13 05:04:52",
+      "publication": "People",
+      "author": "Tereza Shkurtaj",
+      "headline": "Woman, 28, Quits Job as Attorney and Now Makes 'Double' Her Old Salary in Unexpected Profession (Exclusive)",
+      "article_headline": "Woman, 28, Quits Job as Attorney and Now Makes 'Double' Her Old Salary in Unexpected Profession (Exclusive)"
+    }
+  ]
+}

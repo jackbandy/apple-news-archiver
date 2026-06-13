@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-13 14:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ANLNtQOeuSkiJ35tzkYw9oA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-13 14:20:17",
+      "pub_time": "2026-06-13 13:20:18",
+      "publication": "The Washington Post",
+      "author": "Jonathan Edwards",
+      "headline": "Kennedy Center removes Trump’s name from building",
+      "article_headline": "Kennedy Center removes Trump’s name from building"
+    },
+    {
+      "link": "https://apple.news/AU6Xr8iCZTvWQATFWnf5-dQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-13 14:20:17",
+      "pub_time": "2026-06-13 13:20:46",
+      "publication": "CNBC",
+      "author": "Laya Neelakandan",
+      "headline": "Trump says peace deal to be signed Sunday; Iran remains cautious on timing",
+      "article_headline": "Trump says peace deal to be signed Sunday; Iran remains cautious on timing"
+    },
+    {
+      "link": "https://apple.news/AS7eTHGcqQze-IhTJOhleZA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-13 14:20:17",
+      "pub_time": "2026-06-13 13:21:14",
+      "publication": "Reuters",
+      "author": "Giulia Paravicini, Clement Bonnerot, and Fiston Mahamba",
+      "headline": "A cracked coffin, a funeral, and the hunt for Ebola’s patient zero",
+      "article_headline": "A cracked coffin, a funeral, and the hunt for Ebola’s patient zero"
+    },
+    {
+      "link": "https://apple.news/AD7vwKd0gQpaaoikFqvwyGw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-13 14:20:17",
+      "pub_time": "2026-06-13 13:21:46",
+      "publication": "Yahoo Sports",
+      "author": "",
+      "headline": "NBA star James Harden arrested in Houston for carrying an unlawful weapon",
+      "article_headline": "NBA star James Harden arrested in Houston for carrying an unlawful weapon"
+    },
+    {
+      "link": "https://apple.news/AcQKNWBk7RMiIpJHkYpZDqQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RVOXh4R1dSV1NQU011R0xGMTR0VF9BI25mZl9paWQ%3D",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-13 14:20:17",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Climate, Endangered condors have a surprising foe. Plus, a boat designed to eat plastic waste.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-13 14:20:17",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "This European country is weighing a radical proposal to cap its population, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AG-PgXl9KRN-qiF6jD3LTLg",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-13 14:20:17",
+      "pub_time": "",
+      "publication": "How the U.S. pulled off its greatest World Cup win ever",
+      "author": "",
+      "headline": "And where it goes from here.,  Play Now  35 min",
+      "article_headline": ""
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-13 18:00:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AKtQSwhDVQ4KK5P2KWJug0w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-13 18:00:21",
+      "pub_time": "2026-06-13 17:55:23",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "Trump’s changes to historical plaques at national parks must be undone, judge rules",
+      "article_headline": "Trump’s changes to historical plaques at national parks must be undone, judge rules"
+    },
+    {
+      "link": "https://apple.news/Anb9uPQkKQYG0NrCiqRdjIg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-13 18:00:21",
+      "pub_time": "2026-06-13 17:55:51",
+      "publication": "The Washington Post",
+      "author": "Victoria Craw, Rachel Chason, and Cate Cadell",
+      "headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm",
+      "article_headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm"
+    },
+    {
+      "link": "https://apple.news/AnJvg38tzTkKay-fxXT90BQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-13 18:00:21",
+      "pub_time": "2026-06-13 17:56:18",
+      "publication": "NBC News",
+      "author": "Francie Ebert and Christine Rapp",
+      "headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started",
+      "article_headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started"
+    },
+    {
+      "link": "https://apple.news/Anb9uPQkKQYG0NrCiqRdjIg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-13 18:00:21",
+      "pub_time": "2026-06-13 17:55:52",
+      "publication": "The Washington Post",
+      "author": "Victoria Craw, Rachel Chason, and Cate Cadell",
+      "headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm",
+      "article_headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm"
+    },
+    {
+      "link": "https://apple.news/AnJvg38tzTkKay-fxXT90BQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-13 18:00:21",
+      "pub_time": "2026-06-13 17:56:19",
+      "publication": "NBC News",
+      "author": "Francie Ebert and Christine Rapp",
+      "headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started",
+      "article_headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-13 18:00:21",
+      "pub_time": "2026-06-13 17:55:47",
+      "publication": "The Wall Street Journal",
+      "author": "Corinne Ramey and James Fanelli",
+      "headline": "Trump picks James McDonald, one of the president’s personal lawyers, as top Manhattan federal prosecutor",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-13 18:00:21",
+      "pub_time": "2026-06-13 17:54:52",
+      "publication": "The Wall Street Journal",
+      "author": "Corinne Ramey and James Fanelli",
+      "headline": "Trump picks James McDonald, one of the president’s personal lawyers, as top Manhattan federal prosecutor",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ABw2nVKT6R2K_zu68PDWM6w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-13 18:00:21",
+      "pub_time": "2026-06-13 07:02:57",
+      "publication": "BuzzFeed",
+      "author": "Alexa Lisitza",
+      "headline": "\"I Go Home Empty-Handed\": 14 People Shared The #1 Grocery Item They No Longer Buy Because It's Too Expensive",
+      "article_headline": "\"I Go Home Empty-Handed\": 14 People Shared The #1 Grocery Item They No Longer Buy Because It's Too Expensive"
+    },
+    {
+      "link": "https://apple.news/A3-98Jgm3Skq5nD0qzZRsJQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-13 18:00:21",
+      "pub_time": "2026-06-13 07:03:30",
+      "publication": "Southern Living",
+      "author": "Kim Toscano",
+      "headline": "The Worst Time To Mow Your Grass If You Want A Healthy Lawn",
+      "article_headline": "The Worst Time To Mow Your Grass If You Want A Healthy Lawn"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-13 18:00:21",
+      "pub_time": "2026-06-13 07:03:57",
+      "publication": "",
+      "author": "Charlie Davies",
+      "headline": "In 45 minutes, Christian Pulisic hushed critics and made a stunning World Cup impact",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AOedirhofSLKk-tSWtcOlYQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-13 18:00:21",
+      "pub_time": "2026-06-13 06:03:57",
+      "publication": "HuffPost",
+      "author": "Jillian Wilson",
+      "headline": "Do Your Socks Leave Marks On Your Legs? Here's What That Means For Your Health.",
+      "article_headline": "Do Your Socks Leave Marks On Your Legs? Here's What That Means For Your Health."
+    }
+  ]
+}
