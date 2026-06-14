@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-14 16:00:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AI9M1sWDKRQumNMXp50rSHA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-14 16:00:21",
+      "pub_time": "2026-06-14 15:00:23",
+      "publication": "Axios",
+      "author": "Barak Ravid",
+      "headline": "Trump faults Israel’s Beirut strike, urges stand-down as Iran threatens U.S. deal",
+      "article_headline": "Trump faults Israel’s Beirut strike, urges stand-down as Iran threatens U.S. deal"
+    },
+    {
+      "link": "https://apple.news/A8H9PFJetQkiyLvsAQMPVaA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-14 16:00:21",
+      "pub_time": "2026-06-14 15:00:51",
+      "publication": "The Courier-Journal",
+      "author": "",
+      "headline": "Sen. Mitch McConnell admitted to the hospital",
+      "article_headline": "Kentucky U.S. Sen. Mitch McConnell admitted to the hospital"
+    },
+    {
+      "link": "https://apple.news/AO5IAqaNmTXOYRfkesR171Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-14 16:00:21",
+      "pub_time": "2026-06-14 15:01:18",
+      "publication": "The Kansas City Star",
+      "author": "",
+      "headline": "Crash of skydiving plane kills 12 in Butler, Missouri, authorities say",
+      "article_headline": "Crash of skydiving plane kills 12 in Butler, Missouri, authorities say"
+    },
+    {
+      "link": "https://apple.news/AJkYQcAq-RzKm92PhoTKKSg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-14 16:00:21",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The Knicks’ 53-year wait for a championship is over — and it took one final miracle",
+      "article_headline": "The Knicks’ 53-Year Wait for a Championship Is Over—and It Took One Final Miracle"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-14 16:00:21",
+      "pub_time": "2026-06-14 15:02:23",
+      "publication": "The Washington Post",
+      "author": "Les Carpenter",
+      "headline": "To UFC fighters, the White House’s small, swampy Octagon is the perfect venue",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-14 16:00:21",
+      "pub_time": "2026-06-14 15:02:23",
+      "publication": "Architectural Digest",
+      "author": "Frances Dodds",
+      "headline": "Forget “aging in place” — these older Americans are living out their golden years differently",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaEmft58DS76pE5Uiw2H4wQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-14 16:00:21",
+      "pub_time": "",
+      "publication": "What the World Cup means for America",
+      "author": "",
+      "headline": "TV’s beloved coach on the power of the beautiful game.,  Play Now  26 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A3F_bVMHCQuS-bCbxsxllbg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-14 16:00:21",
+      "pub_time": "2026-06-14 06:02:54",
+      "publication": "HuffPost",
+      "author": "Leigh Weingus",
+      "headline": "This Is The Most Commonly Missed Warning Sign Of Dementia",
+      "article_headline": "This Is The Most Commonly Missed Warning Sign Of Dementia"
+    },
+    {
+      "link": "https://apple.news/AW0qmhjh-RQOSk2SKJHH80Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-14 16:00:21",
+      "pub_time": "2026-06-14 08:03:27",
+      "publication": "CNBC",
+      "author": "Vanessa Van Edwards, Contributor",
+      "headline": "Highly charismatic people use 5 phrases to be more memorable, says public speaking expert",
+      "article_headline": "Highly charismatic people use 5 phrases to be more memorable, says public speaking expert"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-14 16:00:21",
+      "pub_time": "2026-06-14 06:03:55",
+      "publication": "",
+      "author": "Cheyenne Buckingham",
+      "headline": "Researchers are uncovering ADHD’s links to these other health conditions",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A5FKXVlpjTG2vvpp-GaiWCg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-14 16:00:21",
+      "pub_time": "2026-06-14 06:03:55",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Watch clueless bernedoodle skip right over tiny fawn in the woods",
+      "article_headline": "Watch clueless bernedoodle skip right over tiny fawn in the woods"
+    }
+  ]
+}

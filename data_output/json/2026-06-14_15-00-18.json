@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-14 15:00:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AkIbBWEuHTqCtHrWWORomtQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-14 15:00:18",
+      "pub_time": "2026-06-14 14:50:23",
+      "publication": "Bloomberg",
+      "author": "Paul Wallace and Arsalan Shahla",
+      "headline": "Iran signals that no deal will be signed by Trump’s Sunday timeline",
+      "article_headline": "Iran signals that no deal will be signed by Trump’s Sunday timeline"
+    },
+    {
+      "link": "https://apple.news/A8H9PFJetQkiyLvsAQMPVaA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-14 15:00:18",
+      "pub_time": "2026-06-14 14:50:51",
+      "publication": "The Courier-Journal",
+      "author": "",
+      "headline": "Sen. Mitch McConnell admitted to the hospital",
+      "article_headline": "Kentucky U.S. Sen. Mitch McConnell admitted to the hospital"
+    },
+    {
+      "link": "https://apple.news/AO5IAqaNmTXOYRfkesR171Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-14 15:00:18",
+      "pub_time": "2026-06-14 14:51:18",
+      "publication": "The Kansas City Star",
+      "author": "",
+      "headline": "Crash of skydiving plane kills 12 in Butler, Missouri, authorities say",
+      "article_headline": "Crash of skydiving plane kills 12 in Butler, Missouri, authorities say"
+    },
+    {
+      "link": "https://apple.news/A8H9PFJetQkiyLvsAQMPVaA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-14 15:00:18",
+      "pub_time": "2026-06-14 14:50:51",
+      "publication": "The Courier-Journal",
+      "author": "",
+      "headline": "Sen. Mitch McConnell admitted to the hospital",
+      "article_headline": "Kentucky U.S. Sen. Mitch McConnell admitted to the hospital"
+    },
+    {
+      "link": "https://apple.news/AO5IAqaNmTXOYRfkesR171Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-14 15:00:18",
+      "pub_time": "2026-06-14 14:51:18",
+      "publication": "The Kansas City Star",
+      "author": "",
+      "headline": "Crash of skydiving plane kills 12 in Butler, Missouri, authorities say",
+      "article_headline": "Crash of skydiving plane kills 12 in Butler, Missouri, authorities say"
+    },
+    {
+      "link": "https://apple.news/AJkYQcAq-RzKm92PhoTKKSg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-14 15:00:18",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The Knicks’ 53-year wait for a championship is over — and it took one final miracle",
+      "article_headline": "The Knicks’ 53-Year Wait for a Championship Is Over—and It Took One Final Miracle"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-14 15:00:18",
+      "pub_time": "2026-06-14 14:50:19",
+      "publication": "The Washington Post",
+      "author": "Les Carpenter",
+      "headline": "To UFC fighters, the White House’s small, swampy Octagon is the perfect venue",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
