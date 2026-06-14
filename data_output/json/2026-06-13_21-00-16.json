@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-13 21:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AKtQSwhDVQ4KK5P2KWJug0w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-13 21:00:16",
+      "pub_time": "2026-06-13 20:54:18",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "Trump’s changes to historical plaques at national parks must be undone, judge rules",
+      "article_headline": "Trump’s changes to historical plaques at national parks must be undone, judge rules"
+    },
+    {
+      "link": "https://apple.news/Anb9uPQkKQYG0NrCiqRdjIg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-13 21:00:16",
+      "pub_time": "2026-06-13 20:54:46",
+      "publication": "The Washington Post",
+      "author": "Victoria Craw, Rachel Chason, and Cate Cadell",
+      "headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm",
+      "article_headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm"
+    },
+    {
+      "link": "https://apple.news/AnJvg38tzTkKay-fxXT90BQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-13 21:00:16",
+      "pub_time": "2026-06-13 20:55:14",
+      "publication": "NBC News",
+      "author": "Francie Ebert and Christine Rapp",
+      "headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started",
+      "article_headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started"
+    },
+    {
+      "link": "https://apple.news/Anb9uPQkKQYG0NrCiqRdjIg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-13 21:00:16",
+      "pub_time": "2026-06-13 20:53:47",
+      "publication": "The Washington Post",
+      "author": "Victoria Craw, Rachel Chason, and Cate Cadell",
+      "headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm",
+      "article_headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm"
+    },
+    {
+      "link": "https://apple.news/AnJvg38tzTkKay-fxXT90BQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-13 21:00:16",
+      "pub_time": "2026-06-13 20:54:15",
+      "publication": "NBC News",
+      "author": "Francie Ebert and Christine Rapp",
+      "headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started",
+      "article_headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-13 21:00:16",
+      "pub_time": "2026-06-13 20:54:42",
+      "publication": "The Wall Street Journal",
+      "author": "Corinne Ramey and James Fanelli",
+      "headline": "Trump picks James McDonald, one of the president’s personal lawyers, as top Manhattan federal prosecutor",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-13 21:00:16",
+      "pub_time": "2026-06-13 20:53:52",
+      "publication": "The Wall Street Journal",
+      "author": "Corinne Ramey and James Fanelli",
+      "headline": "Trump picks James McDonald, one of the president’s personal lawyers, as top Manhattan federal prosecutor",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

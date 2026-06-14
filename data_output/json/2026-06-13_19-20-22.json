@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-13 19:20:22",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AKtQSwhDVQ4KK5P2KWJug0w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-13 19:20:22",
+      "pub_time": "2026-06-13 18:20:24",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "Trump’s changes to historical plaques at national parks must be undone, judge rules",
+      "article_headline": "Trump’s changes to historical plaques at national parks must be undone, judge rules"
+    },
+    {
+      "link": "https://apple.news/Anb9uPQkKQYG0NrCiqRdjIg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-13 19:20:22",
+      "pub_time": "2026-06-13 18:20:53",
+      "publication": "The Washington Post",
+      "author": "Victoria Craw, Rachel Chason, and Cate Cadell",
+      "headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm",
+      "article_headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm"
+    },
+    {
+      "link": "https://apple.news/AnJvg38tzTkKay-fxXT90BQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-13 19:20:22",
+      "pub_time": "2026-06-13 18:21:21",
+      "publication": "NBC News",
+      "author": "Francie Ebert and Christine Rapp",
+      "headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started",
+      "article_headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-13 19:20:22",
+      "pub_time": "2026-06-13 18:21:54",
+      "publication": "The Wall Street Journal",
+      "author": "Corinne Ramey and James Fanelli",
+      "headline": "Trump picks James McDonald, one of the president’s personal lawyers, as top Manhattan federal prosecutor",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ad66GzmLpRaag82UHU-aoYw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-13 19:20:22",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Qatar earned its first-ever point in a World Cup after stunning Switzerland with a 1-1 draw",
+      "article_headline": "Qatar earned its first-ever point in a World Cup after stunning Switzerland with a 1-1 draw"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-13 19:20:22",
+      "pub_time": "",
+      "publication": "Esquire",
+      "author": "",
+      "headline": "Dwayne Johnson talks marriage trouble, a cancer scare, and whether he’d run for president, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AG-PgXl9KRN-qiF6jD3LTLg",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-13 19:20:22",
+      "pub_time": "",
+      "publication": "How the U.S. pulled off its greatest World Cup win ever",
+      "author": "",
+      "headline": "And where it goes from here.,  Play Now  35 min",
+      "article_headline": ""
+    }
+  ]
+}

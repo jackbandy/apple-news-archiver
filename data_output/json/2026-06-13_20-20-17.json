@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-13 20:20:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AKtQSwhDVQ4KK5P2KWJug0w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-13 20:20:17",
+      "pub_time": "2026-06-13 19:25:19",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "Trump’s changes to historical plaques at national parks must be undone, judge rules",
+      "article_headline": "Trump’s changes to historical plaques at national parks must be undone, judge rules"
+    },
+    {
+      "link": "https://apple.news/Anb9uPQkKQYG0NrCiqRdjIg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-13 20:20:17",
+      "pub_time": "2026-06-13 19:25:47",
+      "publication": "The Washington Post",
+      "author": "Victoria Craw, Rachel Chason, and Cate Cadell",
+      "headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm",
+      "article_headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm"
+    },
+    {
+      "link": "https://apple.news/AnJvg38tzTkKay-fxXT90BQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-13 20:20:17",
+      "pub_time": "2026-06-13 19:26:14",
+      "publication": "NBC News",
+      "author": "Francie Ebert and Christine Rapp",
+      "headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started",
+      "article_headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started"
+    },
+    {
+      "link": "https://apple.news/Anb9uPQkKQYG0NrCiqRdjIg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-13 20:20:17",
+      "pub_time": "2026-06-13 19:25:48",
+      "publication": "The Washington Post",
+      "author": "Victoria Craw, Rachel Chason, and Cate Cadell",
+      "headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm",
+      "article_headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm"
+    },
+    {
+      "link": "https://apple.news/AnJvg38tzTkKay-fxXT90BQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-13 20:20:17",
+      "pub_time": "2026-06-13 19:26:16",
+      "publication": "NBC News",
+      "author": "Francie Ebert and Christine Rapp",
+      "headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started",
+      "article_headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-13 20:20:17",
+      "pub_time": "2026-06-13 19:26:43",
+      "publication": "The Wall Street Journal",
+      "author": "Corinne Ramey and James Fanelli",
+      "headline": "Trump picks James McDonald, one of the president’s personal lawyers, as top Manhattan federal prosecutor",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-13 20:20:17",
+      "pub_time": "2026-06-13 19:25:49",
+      "publication": "The Wall Street Journal",
+      "author": "Corinne Ramey and James Fanelli",
+      "headline": "Trump picks James McDonald, one of the president’s personal lawyers, as top Manhattan federal prosecutor",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ABw2nVKT6R2K_zu68PDWM6w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-13 20:20:17",
+      "pub_time": "2026-06-13 07:23:00",
+      "publication": "BuzzFeed",
+      "author": "Alexa Lisitza",
+      "headline": "\"I Go Home Empty-Handed\": 14 People Shared The #1 Grocery Item They No Longer Buy Because It's Too Expensive",
+      "article_headline": "\"I Go Home Empty-Handed\": 14 People Shared The #1 Grocery Item They No Longer Buy Because It's Too Expensive"
+    },
+    {
+      "link": "https://apple.news/AEB2uToifTa-FMjWeti5U_g",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-13 20:20:17",
+      "pub_time": "2026-06-13 19:24:27",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Former NFL defensive lineman Aldon Smith dies at age 36",
+      "article_headline": "Former NFL defensive lineman Aldon Smith dies at age 36"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-13 20:20:17",
+      "pub_time": "2026-06-13 08:23:55",
+      "publication": "",
+      "author": "Andrew Keshner",
+      "headline": "SpaceX employees now have enough wealth on paper to buy every home in this Texas city",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AEB2uToifTa-FMjWeti5U_g",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-13 20:20:17",
+      "pub_time": "2026-06-13 19:24:01",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Former NFL defensive lineman Aldon Smith dies at age 36",
+      "article_headline": "Former NFL defensive lineman Aldon Smith dies at age 36"
+    }
+  ]
+}

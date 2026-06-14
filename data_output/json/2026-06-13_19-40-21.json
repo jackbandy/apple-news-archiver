@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-13 19:40:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AKtQSwhDVQ4KK5P2KWJug0w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-13 19:40:21",
+      "pub_time": "2026-06-13 19:25:23",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "Trump’s changes to historical plaques at national parks must be undone, judge rules",
+      "article_headline": "Trump’s changes to historical plaques at national parks must be undone, judge rules"
+    },
+    {
+      "link": "https://apple.news/Anb9uPQkKQYG0NrCiqRdjIg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-13 19:40:21",
+      "pub_time": "2026-06-13 19:25:51",
+      "publication": "The Washington Post",
+      "author": "Victoria Craw, Rachel Chason, and Cate Cadell",
+      "headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm",
+      "article_headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm"
+    },
+    {
+      "link": "https://apple.news/AnJvg38tzTkKay-fxXT90BQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-13 19:40:21",
+      "pub_time": "2026-06-13 19:26:19",
+      "publication": "NBC News",
+      "author": "Francie Ebert and Christine Rapp",
+      "headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started",
+      "article_headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started"
+    },
+    {
+      "link": "https://apple.news/Anb9uPQkKQYG0NrCiqRdjIg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-13 19:40:21",
+      "pub_time": "2026-06-13 19:25:51",
+      "publication": "The Washington Post",
+      "author": "Victoria Craw, Rachel Chason, and Cate Cadell",
+      "headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm",
+      "article_headline": "U.S. and Iran to close deal within a day, Trump says, but Tehran yet to confirm"
+    },
+    {
+      "link": "https://apple.news/AnJvg38tzTkKay-fxXT90BQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-13 19:40:21",
+      "pub_time": "2026-06-13 19:26:19",
+      "publication": "NBC News",
+      "author": "Francie Ebert and Christine Rapp",
+      "headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started",
+      "article_headline": "Record-breaking heat is already sweeping the country — and summer hasn’t even started"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-13 19:40:21",
+      "pub_time": "2026-06-13 19:25:46",
+      "publication": "The Wall Street Journal",
+      "author": "Corinne Ramey and James Fanelli",
+      "headline": "Trump picks James McDonald, one of the president’s personal lawyers, as top Manhattan federal prosecutor",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-13 19:40:21",
+      "pub_time": "2026-06-13 19:24:56",
+      "publication": "The Wall Street Journal",
+      "author": "Corinne Ramey and James Fanelli",
+      "headline": "Trump picks James McDonald, one of the president’s personal lawyers, as top Manhattan federal prosecutor",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ABw2nVKT6R2K_zu68PDWM6w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-13 19:40:21",
+      "pub_time": "2026-06-13 07:43:46",
+      "publication": "BuzzFeed",
+      "author": "Alexa Lisitza",
+      "headline": "\"I Go Home Empty-Handed\": 14 People Shared The #1 Grocery Item They No Longer Buy Because It's Too Expensive",
+      "article_headline": "\"I Go Home Empty-Handed\": 14 People Shared The #1 Grocery Item They No Longer Buy Because It's Too Expensive"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-13 19:40:21",
+      "pub_time": "2026-06-13 06:44:13",
+      "publication": "",
+      "author": "Jillian Wilson",
+      "headline": "Do Your Socks Leave Marks On Your Legs? Here's What That Means For Your Health.",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-13 19:40:21",
+      "pub_time": "2026-06-13 08:44:30",
+      "publication": "",
+      "author": "Andrew Keshner",
+      "headline": "SpaceX employees now have enough wealth on paper to buy every home in this Texas city",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AS_yMQxrHSX62SRlbDLsi2Q",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-13 19:40:21",
+      "pub_time": "2026-06-13 14:44:30",
+      "publication": "Vanity Fair",
+      "author": "Stefania Conrieri",
+      "headline": "Caroline Kennedy and Ed Schlossberg Move in With Son-In-Law George Moran",
+      "article_headline": "Caroline Kennedy and Ed Schlossberg Move in With Son-In-Law George Moran"
+    }
+  ]
+}
