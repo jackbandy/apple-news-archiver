@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-06-14 12:00:23",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AkIbBWEuHTqCtHrWWORomtQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-14 12:00:23",
+      "pub_time": "2026-06-14 11:39:25",
+      "publication": "Bloomberg",
+      "author": "Paul Wallace and Arsalan Shahla",
+      "headline": "Iran signals that no deal will be signed by Trump’s Sunday timeline",
+      "article_headline": "Iran signals that no deal will be signed by Trump’s Sunday timeline"
+    },
+    {
+      "link": "https://apple.news/A_OPZBkM3QaeCgXyzb1yq6w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-14 12:00:23",
+      "pub_time": "2026-06-14 11:39:53",
+      "publication": "NBC News",
+      "author": "Freddie Clayton",
+      "headline": "U.K. forces intercept a Russian shadow-fleet oil tanker in English Channel",
+      "article_headline": "U.K. forces intercept a Russian shadow-fleet oil tanker in English Channel"
+    },
+    {
+      "link": "https://apple.news/AW8vw-1atTl66w62eeAGkgA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-14 12:00:23",
+      "pub_time": "2026-06-14 11:40:20",
+      "publication": "The Atlanta Journal-Constitution",
+      "author": "Greg Bluestein",
+      "headline": "Trump endorses Rep. Mike Collins in Georgia’s U.S. Senate runoff, shaking up the race",
+      "article_headline": "Trump endorses Rep. Mike Collins in Georgia’s U.S. Senate runoff, shaking up the race"
+    },
+    {
+      "link": "https://apple.news/A_OPZBkM3QaeCgXyzb1yq6w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-14 12:00:23",
+      "pub_time": "2026-06-14 11:39:53",
+      "publication": "NBC News",
+      "author": "Freddie Clayton",
+      "headline": "U.K. forces intercept a Russian shadow-fleet oil tanker in English Channel",
+      "article_headline": "U.K. forces intercept a Russian shadow-fleet oil tanker in English Channel"
+    },
+    {
+      "link": "https://apple.news/AW8vw-1atTl66w62eeAGkgA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-14 12:00:23",
+      "pub_time": "2026-06-14 11:40:21",
+      "publication": "The Atlanta Journal-Constitution",
+      "author": "Greg Bluestein",
+      "headline": "Trump endorses Rep. Mike Collins in Georgia’s U.S. Senate runoff, shaking up the race",
+      "article_headline": "Trump endorses Rep. Mike Collins in Georgia’s U.S. Senate runoff, shaking up the race"
+    },
+    {
+      "link": "https://apple.news/AJkYQcAq-RzKm92PhoTKKSg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-14 12:00:23",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The Knicks’ 53-year wait for a championship is over — and it took one final miracle",
+      "article_headline": "The Knicks’ 53-Year Wait for a Championship Is Over—and It Took One Final Miracle"
+    },
+    {
+      "link": "https://apple.news/Ax7GtDhUFQTy-ZgpooJDgiQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-14 12:00:23",
+      "pub_time": "",
+      "publication": "SB Nation",
+      "author": "",
+      "headline": "Lewis Hamilton wins his first Grand Prix victory racing for Ferrari",
+      "article_headline": "Lewis Hamilton wins his first Grand Prix victory racing for Ferrari"
+    }
+  ]
+}
