@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-15 04:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AgPk8-YvQS8WQNny5ooMRGg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-15 04:00:16",
+      "pub_time": "2026-06-15 03:00:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "A tentative deal is reached to end the Iran war and Trump orders a stop to the U.S. naval blockade",
+      "article_headline": "A tentative deal is reached to end the Iran war and Trump orders a stop to the U.S. naval blockade"
+    },
+    {
+      "link": "https://apple.news/AMU-bAHhBRSyTdxCZHyDIyA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-15 04:00:16",
+      "pub_time": "2026-06-15 03:00:45",
+      "publication": "POLITICO",
+      "author": "Clea Caulcutt",
+      "headline": "Macron’s last big diplomatic test: Keep Trump engaged in the G7",
+      "article_headline": "Macron’s last big diplomatic test: Keep Trump engaged in the G7"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 04:00:16",
+      "pub_time": "2026-06-15 03:01:18",
+      "publication": "The Wall Street Journal",
+      "author": "Alex Leary and Terell Wright",
+      "headline": "Blood, sweat and corporate sponsors: Trump hosts White House cage fight",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AVQOxj0GzSqWyB-n0n7JNcg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-15 04:00:16",
+      "pub_time": "2026-06-15 03:01:18",
+      "publication": "The Guardian",
+      "author": "Kiran Stacey and Peter Walker",
+      "headline": "The U.K. will ban social media for under-16s, prime minister announces",
+      "article_headline": "The U.K. will ban social media for under-16s, prime minister announces"
+    },
+    {
+      "link": "https://apple.news/A4kP9nWTGQd6vkArY7JDWrw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-15 04:00:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "The Hurricanes ended a 20-year Stanley Cup drought with a win over the Golden Knights",
+      "article_headline": "Hurricanes win Stanley Cup for first time since 2006, finish off dominant 16-3 playoff run"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 04:00:16",
+      "pub_time": "2026-06-15 03:02:19",
+      "publication": "Bloomberg Businessweek",
+      "author": "Jack Adamović Davies",
+      "headline": "How a tiny island got caught up in an international gambling scandal",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AiKz7BZLgTSm0rm0COPQPbw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-15 04:00:16",
+      "pub_time": "2026-06-14 04:02:33",
+      "publication": "Martha Stewart",
+      "author": "Melissa Kravitz Hoeffner",
+      "headline": "8 Things You Should Never Donate to the Thrift Store—and the Reasons Why",
+      "article_headline": "8 Things You Should Never Donate to the Thrift Store—and the Reasons Why"
+    }
+  ]
+}

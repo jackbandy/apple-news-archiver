@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-15 03:00:20",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AgPk8-YvQS8WQNny5ooMRGg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-15 03:00:20",
+      "pub_time": "2026-06-15 02:50:22",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "A tentative deal is reached to end the Iran war and Trump orders a stop to the U.S. naval blockade",
+      "article_headline": "A tentative deal is reached to end the Iran war and Trump orders a stop to the U.S. naval blockade"
+    },
+    {
+      "link": "https://apple.news/AMU-bAHhBRSyTdxCZHyDIyA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-15 03:00:20",
+      "pub_time": "2026-06-15 02:50:49",
+      "publication": "POLITICO",
+      "author": "Clea Caulcutt",
+      "headline": "Macron’s last big diplomatic test: Keep Trump engaged in the G7",
+      "article_headline": "Macron’s last big diplomatic test: Keep Trump engaged in the G7"
+    },
+    {
+      "link": "https://apple.news/AMU-bAHhBRSyTdxCZHyDIyA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-15 03:00:20",
+      "pub_time": "2026-06-15 02:50:22",
+      "publication": "POLITICO",
+      "author": "Clea Caulcutt",
+      "headline": "Macron’s last big diplomatic test: Keep Trump engaged in the G7",
+      "article_headline": "Macron’s last big diplomatic test: Keep Trump engaged in the G7"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 03:00:20",
+      "pub_time": "2026-06-15 02:50:50",
+      "publication": "The Wall Street Journal",
+      "author": "Alex Leary and Terell Wright",
+      "headline": "Blood, sweat and corporate sponsors: Trump hosts White House cage fight",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AVQOxj0GzSqWyB-n0n7JNcg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-15 03:00:20",
+      "pub_time": "2026-06-15 02:50:50",
+      "publication": "The Guardian",
+      "author": "Kiran Stacey and Peter Walker",
+      "headline": "The U.K. will ban social media for under-16s, prime minister announces",
+      "article_headline": "The U.K. will ban social media for under-16s, prime minister announces"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 03:00:20",
+      "pub_time": "2026-06-15 02:50:23",
+      "publication": "The Wall Street Journal",
+      "author": "Alex Leary and Terell Wright",
+      "headline": "Blood, sweat and corporate sponsors: Trump hosts White House cage fight",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AVQOxj0GzSqWyB-n0n7JNcg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-15 03:00:20",
+      "pub_time": "2026-06-15 02:50:23",
+      "publication": "The Guardian",
+      "author": "Kiran Stacey and Peter Walker",
+      "headline": "The U.K. will ban social media for under-16s, prime minister announces",
+      "article_headline": "The U.K. will ban social media for under-16s, prime minister announces"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-15 02:20:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AgPk8-YvQS8WQNny5ooMRGg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-15 02:20:18",
+      "pub_time": "2026-06-14 23:20:20",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "A tentative deal is reached to end the Iran war and Trump orders a stop to the U.S. naval blockade",
+      "article_headline": "A tentative deal is reached to end the Iran war and Trump orders a stop to the U.S. naval blockade"
+    },
+    {
+      "link": "https://apple.news/AMU-bAHhBRSyTdxCZHyDIyA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-15 02:20:18",
+      "pub_time": "2026-06-14 23:20:46",
+      "publication": "POLITICO",
+      "author": "Clea Caulcutt",
+      "headline": "Macron’s last big diplomatic test: Keep Trump engaged in the G7",
+      "article_headline": "Macron’s last big diplomatic test: Keep Trump engaged in the G7"
+    },
+    {
+      "link": "https://apple.news/A6sMlsPc2SFi_A0AYtkJP2w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-15 02:20:18",
+      "pub_time": "2026-06-14 23:21:14",
+      "publication": "Reuters",
+      "author": "Jekaterina Golubkova and Pavel Polityuk",
+      "headline": "9 killed, historic monastery on fire as Ukraine faces major Russian attacks",
+      "article_headline": "9 killed, historic monastery on fire as Ukraine faces major Russian attacks"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 02:20:18",
+      "pub_time": "2026-06-14 23:21:46",
+      "publication": "The Wall Street Journal",
+      "author": "Alex Leary and Terell Wright",
+      "headline": "Blood, sweat and corporate sponsors: Trump hosts White House cage fight",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 02:20:18",
+      "pub_time": "2026-06-14 23:21:56",
+      "publication": "Bloomberg Businessweek",
+      "author": "Jack Adamović Davies",
+      "headline": "How a tiny island got caught up in an international gambling scandal",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AXlpiKaL2T0KCPLLGAksaqQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-15 02:20:18",
+      "pub_time": "",
+      "publication": "Chicago Tribune",
+      "author": "",
+      "headline": "Local News, Chicago, Guinness record holder completes run of every Chicago street with flag-race celebration",
+      "article_headline": "Guinness record holder completes run of every Chicago street with flag-race celebration"
+    },
+    {
+      "link": "https://apple.news/A_586cF40Sy-TRm71vg1fOw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-15 02:20:18",
+      "pub_time": "2026-06-14 21:22:44",
+      "publication": "The Guardian",
+      "author": "Patrick Wintour",
+      "headline": "Anger among Iranian hardliners at terms of deal agreed with US",
+      "article_headline": "Anger among Iranian hardliners at terms of deal agreed with US"
+    },
+    {
+      "link": "https://apple.news/A6ZxTLbKhQ5WapbJrQVXY1g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-15 02:20:18",
+      "pub_time": "2026-06-14 11:23:29",
+      "publication": "Martha Stewart",
+      "author": "Randi Gollin",
+      "headline": "7 Fruits That Are Packed With Protein—and the Best Ways to Eat Them",
+      "article_headline": "7 Fruits That Are Packed With Protein—and the Best Ways to Eat Them"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-15 02:20:18",
+      "pub_time": "2026-06-14 06:23:56",
+      "publication": "",
+      "author": "Cheyenne Buckingham",
+      "headline": "Researchers are uncovering ADHD’s links to these other health conditions",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ALPb2i0BZTzqHOaVngJwTzg",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-15 02:20:18",
+      "pub_time": "2026-06-14 18:24:02",
+      "publication": "Southern Living",
+      "author": "Elliott Harrell",
+      "headline": "The Old-School Dress Code Etiquette We Wish Would Make A Comeback",
+      "article_headline": "The Old-School Dress Code Etiquette We Wish Would Make A Comeback"
+    },
+    {
+      "link": "https://apple.news/AyO58N8zgTmK6adMDkdJpcA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-15 02:20:18",
+      "pub_time": "2026-06-14 22:24:30",
+      "publication": "ABC News",
+      "author": "Shafiq Najib",
+      "headline": "FDA upgrades Alfredo sauce recall to highest risk level",
+      "article_headline": "FDA upgrades Alfredo sauce recall to highest risk level"
+    }
+  ]
+}

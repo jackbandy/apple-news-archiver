@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-06-15 02:00:24",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AgPk8-YvQS8WQNny5ooMRGg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-15 02:00:24",
+      "pub_time": "2026-06-15 00:00:28",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "A tentative deal is reached to end the Iran war and Trump orders a stop to the U.S. naval blockade",
+      "article_headline": "A tentative deal is reached to end the Iran war and Trump orders a stop to the U.S. naval blockade"
+    },
+    {
+      "link": "https://apple.news/AMU-bAHhBRSyTdxCZHyDIyA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-15 02:00:24",
+      "pub_time": "2026-06-15 00:00:55",
+      "publication": "POLITICO",
+      "author": "Clea Caulcutt",
+      "headline": "Macron’s last big diplomatic test: Keep Trump engaged in the G7",
+      "article_headline": "Macron’s last big diplomatic test: Keep Trump engaged in the G7"
+    },
+    {
+      "link": "https://apple.news/A6sMlsPc2SFi_A0AYtkJP2w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-15 02:00:24",
+      "pub_time": "2026-06-15 00:01:23",
+      "publication": "Reuters",
+      "author": "Jekaterina Golubkova",
+      "headline": "9 killed, historic monastery on fire as Ukraine faces major Russian attacks",
+      "article_headline": "9 killed, historic monastery on fire as Ukraine faces major Russian attacks"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 02:00:24",
+      "pub_time": "2026-06-15 00:01:55",
+      "publication": "The Wall Street Journal",
+      "author": "Alex Leary and Terell Wright",
+      "headline": "Blood, sweat and corporate sponsors: Trump hosts White House cage fight",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A4kP9nWTGQd6vkArY7JDWrw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-15 02:00:24",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "The Hurricanes ended a 20-year Stanley Cup drought with a win over the Golden Knights",
+      "article_headline": "Hurricanes win Stanley Cup for first time since 2006, finish off dominant 16-3 playoff run"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 02:00:24",
+      "pub_time": "2026-06-15 00:02:28",
+      "publication": "Bloomberg Businessweek",
+      "author": "Jack Adamović Davies",
+      "headline": "How a tiny island got caught up in an international gambling scandal",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 02:00:24",
+      "pub_time": "2026-06-14 20:02:42",
+      "publication": "The Athletic",
+      "author": "Devon Henderson",
+      "headline": "Aldon Smith, late 49ers All-Pro, spent final hours delivering pizza to charity",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A6ZxTLbKhQ5WapbJrQVXY1g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-15 02:00:24",
+      "pub_time": "2026-06-14 11:03:04",
+      "publication": "Martha Stewart",
+      "author": "Randi Gollin",
+      "headline": "7 Fruits That Are Packed With Protein—and the Best Ways to Eat Them",
+      "article_headline": "7 Fruits That Are Packed With Protein—and the Best Ways to Eat Them"
+    },
+    {
+      "link": "https://apple.news/AKtNwOPYsTxytrvOQ1ybfLA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-15 02:00:24",
+      "pub_time": "2026-06-14 08:03:31",
+      "publication": "HuffPost",
+      "author": "Brianne Hogan",
+      "headline": "This Aging Milestone Changes Your Relationship — And It Can Even Lead To 'Gray Divorce.'",
+      "article_headline": "This Aging Milestone Changes Your Relationship — And It Can Even Lead To 'Gray Divorce.'"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-15 02:00:24",
+      "pub_time": "2026-06-14 06:04:05",
+      "publication": "",
+      "author": "Cheyenne Buckingham",
+      "headline": "Researchers are uncovering ADHD’s links to these other health conditions",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ALPb2i0BZTzqHOaVngJwTzg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-15 02:00:24",
+      "pub_time": "2026-06-14 18:04:05",
+      "publication": "Southern Living",
+      "author": "Elliott Harrell",
+      "headline": "The Old-School Dress Code Etiquette We Wish Would Make A Comeback",
+      "article_headline": "The Old-School Dress Code Etiquette We Wish Would Make A Comeback"
+    }
+  ]
+}
