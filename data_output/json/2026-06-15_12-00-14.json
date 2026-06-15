@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-15 12:00:14",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ArJjW3B15Q02OycPXWT7mHA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-15 12:00:14",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump’s Iran deal raises questions set to dominate G7 summit",
+      "article_headline": "Trump’s Iran deal raises questions set to dominate G7 summit"
+    },
+    {
+      "link": "https://apple.news/ALjtM1dRiSGyLD7lN_mahSg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-15 12:00:14",
+      "pub_time": "2026-06-15 11:00:43",
+      "publication": "The Hill",
+      "author": "Alexander Bolton",
+      "headline": "Social Security’s looming insolvency sparks alarm in Congress",
+      "article_headline": "Social Security’s looming insolvency sparks alarm in Congress"
+    },
+    {
+      "link": "https://apple.news/A4oidGXm_Qxabq31ssXmEhw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-15 12:00:14",
+      "pub_time": "",
+      "publication": "Variety",
+      "author": "",
+      "headline": "Fox is buying Roku in $22 billion deal",
+      "article_headline": "Fox is buying Roku in $22 billion deal"
+    },
+    {
+      "link": "https://apple.news/Aeiq-3BBLQ6y0jzrfchgOMw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-15 12:00:14",
+      "pub_time": "2026-06-15 11:01:43",
+      "publication": "Fox News",
+      "author": "Stephen Sorace",
+      "headline": "U.K. to ban TikTok, YouTube, other social-media apps for children under 16, prime minister says",
+      "article_headline": "U.K. to ban TikTok, YouTube, other social-media apps for children under 16, prime minister says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 12:00:14",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "UFC gets White House bragging rights with wild event and Trump’s blessing",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 12:00:14",
+      "pub_time": "2026-06-15 11:02:17",
+      "publication": "Los Angeles Times",
+      "author": "Rong-Gong Lin II",
+      "headline": "A “very strong” El Niño is likely coming this year — and it could hit California hard",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADxEmbRB6Qdy7VM13bYOhfw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-15 12:00:14",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Loop building goes residential in latest wave of office conversions",
+      "article_headline": "Loop building goes residential in latest wave of office conversions"
+    },
+    {
+      "link": "https://apple.news/Af7kudROCTX-T6lc2G38S-w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-15 12:00:14",
+      "pub_time": "2026-06-15 08:03:21",
+      "publication": "HuffPost",
+      "author": "Julie Kendrick",
+      "headline": "The Anti-Inflammatory Foods Rheumatologists Want Every Patient To Eat More Of",
+      "article_headline": "The Anti-Inflammatory Foods Rheumatologists Want Every Patient To Eat More Of"
+    },
+    {
+      "link": "https://apple.news/ABgIiPOxTRj2tcjcIDHIESQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-15 12:00:14",
+      "pub_time": "2026-06-15 11:28:55",
+      "publication": "People",
+      "author": "Dave Quinn",
+      "headline": "Bill Ritter Reveals the First Signs of Alzheimer's He Noticed 2 Years Before Diagnosis: 'I Was Scared'",
+      "article_headline": "Bill Ritter Reveals the First Signs of Alzheimer's He Noticed 2 Years Before Diagnosis: 'I Was Scared'"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-15 12:00:14",
+      "pub_time": "2026-06-14 17:04:22",
+      "publication": "",
+      "author": "Ben Steiner",
+      "headline": "Four Reasons Why USMNT Should Be Worried About Australia Ahead of World Cup Clash",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AUKvZfRp1TKSJSobcFYSJ2w",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-15 12:00:14",
+      "pub_time": "2026-06-15 10:04:22",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Woman, 21, dies after being thrown from Brazil rope jump bridge without harness",
+      "article_headline": "Woman, 21, dies after being thrown from Brazil rope jump bridge without harness"
+    }
+  ]
+}

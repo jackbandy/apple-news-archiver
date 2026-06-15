@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-15 11:00:20",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ArJjW3B15Q02OycPXWT7mHA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-15 11:00:20",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump’s Iran deal raises questions set to dominate G7 summit",
+      "article_headline": "Trump’s Iran deal raises questions set to dominate G7 summit"
+    },
+    {
+      "link": "https://apple.news/ALjtM1dRiSGyLD7lN_mahSg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-15 11:00:20",
+      "pub_time": "2026-06-15 10:14:49",
+      "publication": "The Hill",
+      "author": "Alexander Bolton",
+      "headline": "Social Security’s looming insolvency sparks alarm in Congress",
+      "article_headline": "Social Security’s looming insolvency sparks alarm in Congress"
+    },
+    {
+      "link": "https://apple.news/ALjtM1dRiSGyLD7lN_mahSg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-15 11:00:20",
+      "pub_time": "2026-06-15 10:14:22",
+      "publication": "The Hill",
+      "author": "Alexander Bolton",
+      "headline": "Social Security’s looming insolvency sparks alarm in Congress",
+      "article_headline": "Social Security’s looming insolvency sparks alarm in Congress"
+    },
+    {
+      "link": "https://apple.news/A4oidGXm_Qxabq31ssXmEhw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-15 11:00:20",
+      "pub_time": "",
+      "publication": "Variety",
+      "author": "",
+      "headline": "Fox is buying Roku in $22 billion deal",
+      "article_headline": "Fox is buying Roku in $22 billion deal"
+    },
+    {
+      "link": "https://apple.news/Aeiq-3BBLQ6y0jzrfchgOMw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-15 11:00:20",
+      "pub_time": "2026-06-15 10:15:18",
+      "publication": "Fox News",
+      "author": "Stephen Sorace",
+      "headline": "U.K. to ban TikTok, YouTube, other social-media apps for children under 16, prime minister says",
+      "article_headline": "U.K. to ban TikTok, YouTube, other social-media apps for children under 16, prime minister says"
+    },
+    {
+      "link": "https://apple.news/Aeiq-3BBLQ6y0jzrfchgOMw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-15 11:00:20",
+      "pub_time": "2026-06-15 10:14:51",
+      "publication": "Fox News",
+      "author": "Stephen Sorace",
+      "headline": "U.K. to ban TikTok, YouTube, other social-media apps for children under 16, prime minister says",
+      "article_headline": "U.K. to ban TikTok, YouTube, other social-media apps for children under 16, prime minister says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 11:00:20",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "UFC gets White House bragging rights with wild event and Trump’s blessing",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Af7kudROCTX-T6lc2G38S-w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-15 11:00:20",
+      "pub_time": "2026-06-15 08:04:00",
+      "publication": "HuffPost",
+      "author": "Julie Kendrick",
+      "headline": "The Anti-Inflammatory Foods Rheumatologists Want Every Patient To Eat More Of",
+      "article_headline": "The Anti-Inflammatory Foods Rheumatologists Want Every Patient To Eat More Of"
+    },
+    {
+      "link": "https://apple.news/AEPuk-_lRSXW7CnxVBp5gsg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-15 11:00:20",
+      "pub_time": "2026-06-15 03:04:27",
+      "publication": "Fast Company",
+      "author": "",
+      "headline": "The FBI just issued an urgent warning for anyone using Microsoft Teams, Outlook, or OneDrive over a new phishing scheme",
+      "article_headline": "The FBI just issued an urgent warning for anyone using Microsoft Teams, Outlook, or OneDrive over a new phishing scheme"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-15 11:00:20",
+      "pub_time": "2026-06-14 17:04:55",
+      "publication": "",
+      "author": "Ben Steiner",
+      "headline": "Four Reasons Why USMNT Should Be Worried About Australia Ahead of World Cup Clash",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AwhUig2vEQJOXH-myDh3cdQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-15 11:00:20",
+      "pub_time": "2026-06-15 00:05:01",
+      "publication": "BuzzFeed",
+      "author": "Katie Delimon",
+      "headline": "My Mother Died Hiding An Enormous Secret. Years Later, A DNA Test Exposed The Truth.",
+      "article_headline": "My Mother Died Hiding An Enormous Secret. Years Later, A DNA Test Exposed The Truth."
+    }
+  ]
+}

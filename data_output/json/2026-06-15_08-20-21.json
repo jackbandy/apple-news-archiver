@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-15 08:20:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ArJjW3B15Q02OycPXWT7mHA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-15 08:20:21",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump’s Iran deal raises questions set to dominate G-7 summit",
+      "article_headline": "Trump’s Iran deal raises questions set to dominate G-7 summit"
+    },
+    {
+      "link": "https://apple.news/Ag-4emCt7QZuazQ8Nmrg-pg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-15 08:20:21",
+      "pub_time": "2026-06-15 08:04:50",
+      "publication": "ABC News",
+      "author": "David Brennan",
+      "headline": "Russia launches attack on Kyiv, officials say, damaging famous cathedral",
+      "article_headline": "Russia launches attack on Kyiv, officials say, damaging famous cathedral"
+    },
+    {
+      "link": "https://apple.news/Ag-4emCt7QZuazQ8Nmrg-pg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-15 08:20:21",
+      "pub_time": "2026-06-15 08:04:23",
+      "publication": "ABC News",
+      "author": "David Brennan",
+      "headline": "Russia launches attack on Kyiv, officials say, damaging famous cathedral",
+      "article_headline": "Russia launches attack on Kyiv, officials say, damaging famous cathedral"
+    },
+    {
+      "link": "https://apple.news/A4oidGXm_Qxabq31ssXmEhw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-15 08:20:21",
+      "pub_time": "",
+      "publication": "Variety",
+      "author": "",
+      "headline": "Fox is buying Roku in $22 billion deal",
+      "article_headline": "Fox is buying Roku in $22 billion deal"
+    },
+    {
+      "link": "https://apple.news/AcyYXxP2JQ3iRQHSXh91f4A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-15 08:20:21",
+      "pub_time": "2026-06-15 08:05:18",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Norwegian crown princess’s son found guilty of 2 counts of rape",
+      "article_headline": "Norwegian crown princess’s son found guilty of 2 counts of rape"
+    },
+    {
+      "link": "https://apple.news/AcyYXxP2JQ3iRQHSXh91f4A",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-15 08:20:21",
+      "pub_time": "2026-06-15 08:04:52",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Norwegian crown princess’s son found guilty of 2 counts of rape",
+      "article_headline": "Norwegian crown princess’s son found guilty of 2 counts of rape"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 08:20:21",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Bloody and bizarre, UFC gets wild White House bragging rights with Trump’s blessing",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_b6RMPh2Tq-wZunx1VIueQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-15 08:20:21",
+      "pub_time": "2026-06-14 08:23:57",
+      "publication": "Martha Stewart",
+      "author": "Kirsten Nunez",
+      "headline": "What Eating Oatmeal Every Day Does to Your Body, According to Nutrition Experts",
+      "article_headline": "What Eating Oatmeal Every Day Does to Your Body, According to Nutrition Experts"
+    },
+    {
+      "link": "https://apple.news/AEPuk-_lRSXW7CnxVBp5gsg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-15 08:20:21",
+      "pub_time": "2026-06-15 03:24:29",
+      "publication": "Fast Company",
+      "author": "",
+      "headline": "The FBI just issued an urgent warning for anyone using Microsoft Teams, Outlook, or OneDrive over a new phishing scheme",
+      "article_headline": "The FBI just issued an urgent warning for anyone using Microsoft Teams, Outlook, or OneDrive over a new phishing scheme"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-15 08:20:21",
+      "pub_time": "2026-06-14 08:24:57",
+      "publication": "",
+      "author": "Cheyenne Buckingham",
+      "headline": "Researchers are uncovering ADHD’s links to these other health conditions",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AwZbaSKJGRh2J59SpP3yIvg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-15 08:20:21",
+      "pub_time": "2026-06-14 19:24:57",
+      "publication": "InStyle",
+      "author": "Sophie Wirt",
+      "headline": "Fine, Thin Hair Is No Match for This $12 Growth Shampoo That Thickens and Fills in “Bald Patches,\" Per Fans",
+      "article_headline": "Fine, Thin Hair Is No Match for This $12 Growth Shampoo That Thickens and Fills in “Bald Patches,\" Per Fans"
+    }
+  ]
+}

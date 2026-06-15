@@ -1,0 +1,155 @@
+{
+  "run_time": "2026-06-15 11:20:27",
+  "story_count": 13,
+  "stories": [
+    {
+      "link": "https://apple.news/ArJjW3B15Q02OycPXWT7mHA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-15 11:20:27",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump’s Iran deal raises questions set to dominate G7 summit",
+      "article_headline": "Trump’s Iran deal raises questions set to dominate G7 summit"
+    },
+    {
+      "link": "https://apple.news/ALjtM1dRiSGyLD7lN_mahSg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-15 11:20:27",
+      "pub_time": "2026-06-15 10:20:57",
+      "publication": "The Hill",
+      "author": "Alexander Bolton",
+      "headline": "Social Security’s looming insolvency sparks alarm in Congress",
+      "article_headline": "Social Security’s looming insolvency sparks alarm in Congress"
+    },
+    {
+      "link": "https://apple.news/A4oidGXm_Qxabq31ssXmEhw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-15 11:20:27",
+      "pub_time": "",
+      "publication": "Variety",
+      "author": "",
+      "headline": "Fox is buying Roku in $22 billion deal",
+      "article_headline": "Fox is buying Roku in $22 billion deal"
+    },
+    {
+      "link": "https://apple.news/Aeiq-3BBLQ6y0jzrfchgOMw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-15 11:20:27",
+      "pub_time": "2026-06-15 10:22:01",
+      "publication": "Fox News",
+      "author": "Stephen Sorace",
+      "headline": "U.K. to ban TikTok, YouTube, other social-media apps for children under 16, prime minister says",
+      "article_headline": "U.K. to ban TikTok, YouTube, other social-media apps for children under 16, prime minister says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 11:20:27",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "UFC gets White House bragging rights with wild event and Trump’s blessing",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 11:20:27",
+      "pub_time": "2026-06-15 10:22:34",
+      "publication": "Los Angeles Times",
+      "author": "Rong-Gong Lin II",
+      "headline": "A “very strong” El Niño is likely coming this year — and it could hit California hard",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ao4maSdG9RfSHxwv8B8Z2yw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-15 11:20:27",
+      "pub_time": "",
+      "publication": "The U.S. and Iran finally reach a deal. What comes next.",
+      "author": "",
+      "headline": "Listen to today’s top stories.,  Play Now  14 min",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-06-15 11:20:27",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The new rules for wearing leggings, Ashley Fetters Maloy",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-06-15 11:20:27",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "This mysterious organ may play a key role in health and longevity, Carolyn Y. Johnson",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-06-15 11:20:27",
+      "pub_time": "",
+      "publication": "WIRED",
+      "author": "",
+      "headline": "The painful truth about long COVID, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Af7kudROCTX-T6lc2G38S-w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-15 11:20:27",
+      "pub_time": "2026-06-15 08:23:46",
+      "publication": "HuffPost",
+      "author": "Julie Kendrick",
+      "headline": "The Anti-Inflammatory Foods Rheumatologists Want Every Patient To Eat More Of",
+      "article_headline": "The Anti-Inflammatory Foods Rheumatologists Want Every Patient To Eat More Of"
+    },
+    {
+      "link": "https://apple.news/AEPuk-_lRSXW7CnxVBp5gsg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-15 11:20:27",
+      "pub_time": "2026-06-15 03:24:20",
+      "publication": "Fast Company",
+      "author": "",
+      "headline": "The FBI just issued an urgent warning for anyone using Microsoft Teams, Outlook, or OneDrive over a new phishing scheme",
+      "article_headline": "The FBI just issued an urgent warning for anyone using Microsoft Teams, Outlook, or OneDrive over a new phishing scheme"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-15 11:20:27",
+      "pub_time": "2026-06-14 17:24:48",
+      "publication": "",
+      "author": "Ben Steiner",
+      "headline": "Four Reasons Why USMNT Should Be Worried About Australia Ahead of World Cup Clash",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

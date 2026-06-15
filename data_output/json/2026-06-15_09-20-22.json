@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-15 09:20:22",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ArJjW3B15Q02OycPXWT7mHA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-15 09:20:22",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump’s Iran deal raises questions set to dominate G7 summit",
+      "article_headline": "Trump’s Iran deal raises questions set to dominate G7 summit"
+    },
+    {
+      "link": "https://apple.news/Ag-4emCt7QZuazQ8Nmrg-pg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-15 09:20:22",
+      "pub_time": "2026-06-15 08:47:52",
+      "publication": "ABC News",
+      "author": "David Brennan",
+      "headline": "Russia launches attack on Kyiv, officials say, damaging famous cathedral",
+      "article_headline": "Russia launches attack on Kyiv, officials say, damaging famous cathedral"
+    },
+    {
+      "link": "https://apple.news/Ag-4emCt7QZuazQ8Nmrg-pg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-15 09:20:22",
+      "pub_time": "2026-06-15 08:46:25",
+      "publication": "ABC News",
+      "author": "David Brennan",
+      "headline": "Russia launches attack on Kyiv, officials say, damaging famous cathedral",
+      "article_headline": "Russia launches attack on Kyiv, officials say, damaging famous cathedral"
+    },
+    {
+      "link": "https://apple.news/A4oidGXm_Qxabq31ssXmEhw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-15 09:20:22",
+      "pub_time": "",
+      "publication": "Variety",
+      "author": "",
+      "headline": "Fox is buying Roku in $22 billion deal",
+      "article_headline": "Fox is buying Roku in $22 billion deal"
+    },
+    {
+      "link": "https://apple.news/AcyYXxP2JQ3iRQHSXh91f4A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-15 09:20:22",
+      "pub_time": "2026-06-15 08:47:20",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Norwegian crown princess’s son found guilty of 2 counts of rape",
+      "article_headline": "Norwegian crown princess’s son found guilty of 2 counts of rape"
+    },
+    {
+      "link": "https://apple.news/AcyYXxP2JQ3iRQHSXh91f4A",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-15 09:20:22",
+      "pub_time": "2026-06-15 08:46:53",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Norwegian crown princess’s son found guilty of 2 counts of rape",
+      "article_headline": "Norwegian crown princess’s son found guilty of 2 counts of rape"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 09:20:22",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Bloody and bizarre, UFC gets wild White House bragging rights with Trump’s blessing",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

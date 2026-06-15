@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-15 07:20:15",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AkP9b4m-GS329rrlBLOjZ6g",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-15 07:20:15",
+      "pub_time": "2026-06-15 06:20:17",
+      "publication": "NBC News",
+      "author": "Dennis Romero, Chantal Da Silva, and Raquel Coronell Uribe",
+      "headline": "U.S. and Iran reach framework deal to end war and reopen the Strait of Hormuz",
+      "article_headline": "U.S. and Iran reach framework deal to end war and reopen the Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AygxAG5ZnTxO4pd7FQdMDug",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-15 07:20:15",
+      "pub_time": "2026-06-15 06:20:45",
+      "publication": "Reuters",
+      "author": "Trevor Hunnicutt and Jacob Bogage",
+      "headline": "White House’s UFC fights concentrate Trump’s sporting, political, and economic power",
+      "article_headline": "White House’s UFC fights concentrate Trump’s sporting, political, and economic power"
+    },
+    {
+      "link": "https://apple.news/Ag-4emCt7QZuazQ8Nmrg-pg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-15 07:20:15",
+      "pub_time": "2026-06-15 06:21:12",
+      "publication": "ABC News",
+      "author": "David Brennan",
+      "headline": "Russia launches “barbaric” attack on Kyiv, officials say, damaging famous cathedral",
+      "article_headline": "Russia launches “barbaric” attack on Kyiv, officials say, damaging famous cathedral"
+    },
+    {
+      "link": "https://apple.news/AcyYXxP2JQ3iRQHSXh91f4A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-15 07:20:15",
+      "pub_time": "2026-06-15 06:21:45",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Norwegian crown princess’s son found guilty of 2 counts of rape",
+      "article_headline": "Norwegian crown princess’s son found guilty of 2 counts of rape"
+    },
+    {
+      "link": "https://apple.news/Axmnd2J3uTVKf1Hs5eCTvWA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-15 07:20:15",
+      "pub_time": "",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "World Cup 2026, “This is our culture”: Japan fans clean up World Cup stadium",
+      "article_headline": "“This is our culture”: Japan fans clean up World Cup stadium"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 07:20:15",
+      "pub_time": "2026-06-15 06:22:44",
+      "publication": "The Washington Post",
+      "author": "Jon Marcus",
+      "headline": "Most Americans don’t know this free college money is on the way",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ao4maSdG9RfSHxwv8B8Z2yw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-15 07:20:15",
+      "pub_time": "",
+      "publication": "The U.S. and Iran finally reach a deal. What comes next.",
+      "author": "",
+      "headline": "Listen to today’s top stories.,  Play Now  14 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A_b6RMPh2Tq-wZunx1VIueQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-15 07:20:15",
+      "pub_time": "2026-06-14 08:23:51",
+      "publication": "Martha Stewart",
+      "author": "Kirsten Nunez",
+      "headline": "What Eating Oatmeal Every Day Does to Your Body, According to Nutrition Experts",
+      "article_headline": "What Eating Oatmeal Every Day Does to Your Body, According to Nutrition Experts"
+    },
+    {
+      "link": "https://apple.news/AEPuk-_lRSXW7CnxVBp5gsg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-15 07:20:15",
+      "pub_time": "2026-06-15 03:24:17",
+      "publication": "Fast Company",
+      "author": "",
+      "headline": "The FBI just issued an urgent warning for anyone using Microsoft Teams, Outlook, or OneDrive over a new phishing scheme",
+      "article_headline": "The FBI just issued an urgent warning for anyone using Microsoft Teams, Outlook, or OneDrive over a new phishing scheme"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-15 07:20:15",
+      "pub_time": "2026-06-14 07:24:45",
+      "publication": "",
+      "author": "Cheyenne Buckingham",
+      "headline": "Researchers are uncovering ADHD’s links to these other health conditions",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AwhdrpPhBRuWqclKqHDeurw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-15 07:20:15",
+      "pub_time": "2026-06-14 15:24:51",
+      "publication": "Golf.com",
+      "author": "David Sundberg, with Zephyr Melton",
+      "headline": "5 exercises every golfer should do to improve their golf games",
+      "article_headline": "5 exercises every golfer should do to improve their golf games"
+    }
+  ]
+}
