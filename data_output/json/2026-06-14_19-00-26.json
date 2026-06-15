@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-06-14 19:00:26",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AU4cYPX8BRWGN4xX1_dGr1w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-14 19:00:26",
+      "pub_time": "2026-06-14 18:37:28",
+      "publication": "The Wall Street Journal",
+      "author": "Anat Peled, Benoit Faucon, and Josh Dawsey",
+      "headline": "U.S. and Iran say they have reached a deal to stop fighting",
+      "article_headline": "U.S. and Iran Say They Have Reached a Deal to Stop Fighting"
+    },
+    {
+      "link": "https://apple.news/A8H9PFJetQkiyLvsAQMPVaA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-14 19:00:26",
+      "pub_time": "2026-06-14 18:38:03",
+      "publication": "The Courier-Journal",
+      "author": "",
+      "headline": "Sen. Mitch McConnell admitted to the hospital",
+      "article_headline": "Kentucky U.S. Sen. Mitch McConnell admitted to the hospital"
+    },
+    {
+      "link": "https://apple.news/AO5IAqaNmTXOYRfkesR171Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-14 19:00:26",
+      "pub_time": "2026-06-14 18:38:30",
+      "publication": "The Kansas City Star",
+      "author": "",
+      "headline": "Crash of skydiving plane kills 12 in Butler, Missouri, authorities say",
+      "article_headline": "Crash of skydiving plane kills 12 in Butler, Missouri, authorities say"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-14 19:00:26",
+      "pub_time": "2026-06-14 18:38:58",
+      "publication": "The Washington Post",
+      "author": "Les Carpenter",
+      "headline": "To UFC fighters, the White House’s small, swampy Octagon is the perfect venue",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-14 19:00:26",
+      "pub_time": "2026-06-14 18:37:03",
+      "publication": "The Washington Post",
+      "author": "Les Carpenter",
+      "headline": "To UFC fighters, the White House’s small, swampy Octagon is the perfect venue",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A63_iNR8DSz-vcppqA2OHUw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-14 19:00:26",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Japan stuns the Netherlands with a late score to earn a 2-2 draw",
+      "article_headline": "Japan stuns the Netherlands with a late score to earn a 2-2 draw"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-14 19:00:26",
+      "pub_time": "2026-06-14 18:37:31",
+      "publication": "Bloomberg Businessweek",
+      "author": "Jack Adamović Davies",
+      "headline": "How a tiny island got caught up in an international gambling scandal",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AoHFTBGuST_uGTMaqvyUGMw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-14 19:00:26",
+      "pub_time": "2026-06-14 14:03:23",
+      "publication": "HuffPost",
+      "author": "Diane Birnbaumer",
+      "headline": "An 88-Year-Old Woman Was Brought To My ER. When Her Family Told Me Why, I Was Stunned.",
+      "article_headline": "An 88-Year-Old Woman Was Brought To My ER. When Her Family Told Me Why, I Was Stunned."
+    },
+    {
+      "link": "https://apple.news/Al-SQWhu5Qa2PaABL6dzpwg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-14 19:00:26",
+      "pub_time": "2026-06-13 21:03:50",
+      "publication": "People",
+      "author": "Toria Sheffield",
+      "headline": "Police Rescue Frightened Dog Trapped in Deep Pond on Golf Course: See the Bodycam Video",
+      "article_headline": "Police Rescue Frightened Dog Trapped in Deep Pond on Golf Course: See the Bodycam Video"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-14 19:00:26",
+      "pub_time": "2026-06-14 07:04:18",
+      "publication": "",
+      "author": "Tom Gott",
+      "headline": "FIFA Facing Further Scrutiny After Familiar Controversy Just Three Days Into World Cup",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AIumiZiP1RfqcTnRbR4pArw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-14 19:00:26",
+      "pub_time": "2026-06-14 12:04:24",
+      "publication": "Martha Stewart",
+      "author": "Samantha Johnson",
+      "headline": "8 Shrubs You'll Never Regret Planting, Whether You're a Beginner or a Pro",
+      "article_headline": "8 Shrubs You'll Never Regret Planting, Whether You're a Beginner or a Pro"
+    }
+  ]
+}

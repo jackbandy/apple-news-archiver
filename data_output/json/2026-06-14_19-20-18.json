@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-14 19:20:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AU4cYPX8BRWGN4xX1_dGr1w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-14 19:20:18",
+      "pub_time": "2026-06-14 19:06:20",
+      "publication": "The Wall Street Journal",
+      "author": "Anat Peled, Benoit Faucon, and Josh Dawsey",
+      "headline": "U.S. and Iran say they have reached a deal to stop fighting",
+      "article_headline": "U.S. and Iran Say They Have Reached a Deal to Stop Fighting"
+    },
+    {
+      "link": "https://apple.news/A8H9PFJetQkiyLvsAQMPVaA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-14 19:20:18",
+      "pub_time": "2026-06-14 19:06:47",
+      "publication": "The Courier-Journal",
+      "author": "",
+      "headline": "Sen. Mitch McConnell admitted to the hospital",
+      "article_headline": "Kentucky U.S. Sen. Mitch McConnell admitted to the hospital"
+    },
+    {
+      "link": "https://apple.news/AO5IAqaNmTXOYRfkesR171Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-14 19:20:18",
+      "pub_time": "2026-06-14 19:07:14",
+      "publication": "The Kansas City Star",
+      "author": "",
+      "headline": "Crash of skydiving plane kills 12 in Butler, Missouri, authorities say",
+      "article_headline": "Crash of skydiving plane kills 12 in Butler, Missouri, authorities say"
+    },
+    {
+      "link": "https://apple.news/A8H9PFJetQkiyLvsAQMPVaA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-14 19:20:18",
+      "pub_time": "2026-06-14 19:06:47",
+      "publication": "The Courier-Journal",
+      "author": "",
+      "headline": "Sen. Mitch McConnell admitted to the hospital",
+      "article_headline": "Kentucky U.S. Sen. Mitch McConnell admitted to the hospital"
+    },
+    {
+      "link": "https://apple.news/AO5IAqaNmTXOYRfkesR171Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-14 19:20:18",
+      "pub_time": "2026-06-14 19:07:14",
+      "publication": "The Kansas City Star",
+      "author": "",
+      "headline": "Crash of skydiving plane kills 12 in Butler, Missouri, authorities say",
+      "article_headline": "Crash of skydiving plane kills 12 in Butler, Missouri, authorities say"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-14 19:20:18",
+      "pub_time": "2026-06-14 19:07:41",
+      "publication": "The Washington Post",
+      "author": "Les Carpenter",
+      "headline": "To UFC fighters, the White House’s small, swampy Octagon is the perfect venue",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-14 19:20:18",
+      "pub_time": "2026-06-14 19:06:46",
+      "publication": "The Washington Post",
+      "author": "Les Carpenter",
+      "headline": "To UFC fighters, the White House’s small, swampy Octagon is the perfect venue",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

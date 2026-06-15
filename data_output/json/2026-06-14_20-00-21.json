@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-14 20:00:21",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AU4cYPX8BRWGN4xX1_dGr1w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-14 20:00:21",
+      "pub_time": "2026-06-14 19:38:23",
+      "publication": "The Wall Street Journal",
+      "author": "Anat Peled, Benoit Faucon, and Josh Dawsey",
+      "headline": "U.S. and Iran say they have reached a deal to stop fighting",
+      "article_headline": "U.S. and Iran Say They Have Reached a Deal to Stop Fighting"
+    },
+    {
+      "link": "https://apple.news/A0D1WeJ4MQwyPB6b-EJi5bg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-14 20:00:21",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Trump arrives at Freedom 250 UFC White House card after bad weather delays fight start times, LIVE, Luke Brown, Michael Charles, Carl Innes, Oskar Garcia, Mark Puleo, Aaron Mentkowski, Andrew Marchand, Matt Moret, and Curt Anderson",
+      "article_headline": "UFC White House live updates: Trump arrives at Freedom 250 card after bad weather delays fight start times"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-14 20:00:21",
+      "pub_time": "",
+      "publication": "Wichita Eagle",
+      "author": "",
+      "headline": "World Cup 2026, How a love affair between Algeria and Kansas became the story of the World Cup",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-14 20:00:21",
+      "pub_time": "2026-06-14 19:38:37",
+      "publication": "Bloomberg Businessweek",
+      "author": "Jack Adamović Davies",
+      "headline": "How a tiny island got caught up in an international gambling scandal",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaEmft58DS76pE5Uiw2H4wQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-14 20:00:21",
+      "pub_time": "",
+      "publication": "What the World Cup means for America",
+      "author": "",
+      "headline": "TV’s beloved coach on the power of the beautiful game.,  Play Now  26 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AaEmft58DS76pE5Uiw2H4wQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-14 20:00:21",
+      "pub_time": "",
+      "publication": "What the World Cup means for America",
+      "author": "",
+      "headline": "TV’s beloved coach on the power of the beautiful game.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AsOUWWCo5TLaTrk_iBPkEDQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-14 20:00:21",
+      "pub_time": "2026-06-14 19:02:48",
+      "publication": "Fox News",
+      "author": "Tracy Wright",
+      "headline": "Spencer Pratt unites with Karen Bass' brother to sue the LA mayor over Palisades fire destruction",
+      "article_headline": "Spencer Pratt unites with Karen Bass' brother to sue the LA mayor over Palisades fire destruction"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-14 22:40:22",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AgPk8-YvQS8WQNny5ooMRGg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-14 22:40:22",
+      "pub_time": "2026-06-14 22:38:26",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "A tentative deal is reached to end the Iran war and Trump orders a stop to the U.S. naval blockade",
+      "article_headline": "A tentative deal is reached to end the Iran war and Trump orders a stop to the U.S. naval blockade"
+    },
+    {
+      "link": "https://apple.news/AMU-bAHhBRSyTdxCZHyDIyA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-14 22:40:22",
+      "pub_time": "2026-06-14 22:38:54",
+      "publication": "POLITICO",
+      "author": "Clea Caulcutt",
+      "headline": "Macron’s last big diplomatic test: Keep Trump engaged in the G7",
+      "article_headline": "Macron’s last big diplomatic test: Keep Trump engaged in the G7"
+    },
+    {
+      "link": "https://apple.news/A6sMlsPc2SFi_A0AYtkJP2w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-14 22:40:22",
+      "pub_time": "2026-06-14 22:39:22",
+      "publication": "Reuters",
+      "author": "Jekaterina Golubkova",
+      "headline": "9 killed, historic monastery on fire as Ukraine faces major Russian attacks",
+      "article_headline": "9 killed, historic monastery on fire as Ukraine faces major Russian attacks"
+    },
+    {
+      "link": "https://apple.news/AMU-bAHhBRSyTdxCZHyDIyA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-14 22:40:22",
+      "pub_time": "2026-06-14 22:38:54",
+      "publication": "POLITICO",
+      "author": "Clea Caulcutt",
+      "headline": "Macron’s last big diplomatic test: Keep Trump engaged in the G7",
+      "article_headline": "Macron’s last big diplomatic test: Keep Trump engaged in the G7"
+    },
+    {
+      "link": "https://apple.news/A6sMlsPc2SFi_A0AYtkJP2w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-14 22:40:22",
+      "pub_time": "2026-06-14 22:39:22",
+      "publication": "Reuters",
+      "author": "Jekaterina Golubkova",
+      "headline": "9 killed, historic monastery on fire as Ukraine faces major Russian attacks",
+      "article_headline": "9 killed, historic monastery on fire as Ukraine faces major Russian attacks"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-14 22:40:22",
+      "pub_time": "2026-06-14 22:39:49",
+      "publication": "The Wall Street Journal",
+      "author": "Alex Leary and Terell Wright",
+      "headline": "Blood, sweat and corporate sponsors: Trump hosts White House cage fight",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-14 22:40:22",
+      "pub_time": "2026-06-14 22:38:55",
+      "publication": "The Wall Street Journal",
+      "author": "Alex Leary and Terell Wright",
+      "headline": "Blood, sweat and corporate sponsors: Trump hosts White House cage fight",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
