@@ -1,0 +1,120 @@
+{
+  "run_time": "2026-06-15 16:00:16",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/ATryg8uWfTNKa1qmiMYfLLg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-15 16:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "What Iran and the U.S. are saying about their deal to end the war",
+      "article_headline": "What Iran and the U.S. are saying about their deal to end the war"
+    },
+    {
+      "link": "https://apple.news/AmQInff9BQ_qPZhZIbPc6GQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-15 16:00:16",
+      "pub_time": "2026-06-15 15:01:45",
+      "publication": "NBC News",
+      "author": "Dareh Gregorian and Ryan J. Reilly",
+      "headline": "Gavin Newsom says DOJ is investigating him and his wife, blames Trump",
+      "article_headline": "Gavin Newsom says DOJ is investigating him and his wife, blames Trump"
+    },
+    {
+      "link": "https://apple.news/AmQInff9BQ_qPZhZIbPc6GQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-15 16:00:16",
+      "pub_time": "2026-06-15 15:01:18",
+      "publication": "NBC News",
+      "author": "Dareh Gregorian and Ryan J. Reilly",
+      "headline": "Gavin Newsom says DOJ is investigating him and his wife, blames Trump",
+      "article_headline": "Gavin Newsom says DOJ is investigating him and his wife, blames Trump"
+    },
+    {
+      "link": "https://apple.news/A_oI_h8mGQAWTme2oW-n0xQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-15 16:00:16",
+      "pub_time": "2026-06-15 15:01:46",
+      "publication": "Los Angeles Times",
+      "author": "Grace Toohey",
+      "headline": "DEVELOPING, B-52 bomber crashes at Edwards Air Force Base in California",
+      "article_headline": "B-52 bomber crashes at Edwards Air Force Base in California"
+    },
+    {
+      "link": "https://apple.news/AesLx74tgRcSyk0XfyDkzbA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-15 16:00:16",
+      "pub_time": "2026-06-15 15:02:14",
+      "publication": "The Guardian",
+      "author": "Miranda Bryant",
+      "headline": "Son of Norway’s crown princess convicted of rape and sentenced to 4 years in prison",
+      "article_headline": "Son of Norway’s crown princess convicted of rape and sentenced to 4 years in prison"
+    },
+    {
+      "link": "https://apple.news/ASYFe16HrSyONKe3DRZ59sQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-15 16:00:16",
+      "pub_time": "",
+      "publication": "Yahoo Sports",
+      "author": "",
+      "headline": "World Cup 2026, Tiny Cape Verde stuns powerhouse Spain with 0-0 draw in first major World Cup shock",
+      "article_headline": "Tiny Cape Verde stuns powerhouse Spain with 0-0 draw in first major World Cup shock"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 16:00:16",
+      "pub_time": "2026-06-15 15:03:14",
+      "publication": "The Washington Post",
+      "author": "Amy Brittain",
+      "headline": "This agent sent models to meet Jeffrey Epstein. Now he’s trying to explain why.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-06-15 16:00:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The new rules for wearing leggings, Ashley Fetters Maloy",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-06-15 16:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The teen boys and young men injecting peptides in search of perfection, Sara Ashley O’Brien",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-06-15 16:00:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "This mysterious organ may play a key role in health and longevity, Carolyn Y. Johnson",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
