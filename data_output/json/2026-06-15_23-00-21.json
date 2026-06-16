@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-15 23:00:21",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AwmQxXWOVSV-imTRINy-UAA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-15 23:00:21",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump’s Iran deal greeted with skepticism and scrutiny on Capitol Hill",
+      "article_headline": "Trump’s Iran deal greeted with skepticism and scrutiny on Capitol Hill"
+    },
+    {
+      "link": "https://apple.news/Ar_hYF3cdS0KwRBTMWLPLGA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-15 23:00:21",
+      "pub_time": "2026-06-15 22:52:50",
+      "publication": "Fox News",
+      "author": "Sophia Compton and Morgan Phillips",
+      "headline": "8 people presumed dead in B-52 bomber crash at Edwards Air Force Base in California",
+      "article_headline": "8 people presumed dead in B-52 bomber crash at Edwards Air Force Base in California"
+    },
+    {
+      "link": "https://apple.news/AhBm8ofE3SfuOENWRAfilTw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-15 23:00:21",
+      "pub_time": "2026-06-15 22:53:18",
+      "publication": "POLITICO",
+      "author": "Kyle Cheney",
+      "headline": "Supreme Court wades into fight over “prolonged” detention of some ICE detainees",
+      "article_headline": "Supreme Court wades into fight over “prolonged” detention of some ICE detainees"
+    },
+    {
+      "link": "https://apple.news/Ar_hYF3cdS0KwRBTMWLPLGA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-15 23:00:21",
+      "pub_time": "2026-06-15 22:52:51",
+      "publication": "Fox News",
+      "author": "Sophia Compton and Morgan Phillips",
+      "headline": "8 people presumed dead in B-52 bomber crash at Edwards Air Force Base in California",
+      "article_headline": "8 people presumed dead in B-52 bomber crash at Edwards Air Force Base in California"
+    },
+    {
+      "link": "https://apple.news/AhBm8ofE3SfuOENWRAfilTw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-15 23:00:21",
+      "pub_time": "2026-06-15 22:53:18",
+      "publication": "POLITICO",
+      "author": "Kyle Cheney",
+      "headline": "Supreme Court wades into fight over “prolonged” detention of some ICE detainees",
+      "article_headline": "Supreme Court wades into fight over “prolonged” detention of some ICE detainees"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 23:00:21",
+      "pub_time": "2026-06-15 22:52:46",
+      "publication": "The Washington Post",
+      "author": "Perry Stein",
+      "headline": "Inside the Trump administration’s rapid rollback of gun regulations",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 23:00:21",
+      "pub_time": "2026-06-15 22:51:51",
+      "publication": "The Washington Post",
+      "author": "Perry Stein",
+      "headline": "Inside the Trump administration’s rapid rollback of gun regulations",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-15 23:20:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AwmQxXWOVSV-imTRINy-UAA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-15 23:20:21",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump’s Iran deal greeted with skepticism and scrutiny on Capitol Hill",
+      "article_headline": "Trump’s Iran deal greeted with skepticism and scrutiny on Capitol Hill"
+    },
+    {
+      "link": "https://apple.news/Ar_hYF3cdS0KwRBTMWLPLGA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-15 23:20:21",
+      "pub_time": "2026-06-15 22:52:50",
+      "publication": "Fox News",
+      "author": "Sophia Compton and Morgan Phillips",
+      "headline": "8 people presumed dead in B-52 bomber crash at Edwards Air Force Base in California",
+      "article_headline": "8 people presumed dead in B-52 bomber crash at Edwards Air Force Base in California"
+    },
+    {
+      "link": "https://apple.news/AhBm8ofE3SfuOENWRAfilTw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-15 23:20:21",
+      "pub_time": "2026-06-15 22:53:18",
+      "publication": "POLITICO",
+      "author": "Kyle Cheney",
+      "headline": "Supreme Court wades into fight over “prolonged” detention of some ICE detainees",
+      "article_headline": "Supreme Court wades into fight over “prolonged” detention of some ICE detainees"
+    },
+    {
+      "link": "https://apple.news/Ar_hYF3cdS0KwRBTMWLPLGA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-15 23:20:21",
+      "pub_time": "2026-06-15 22:52:51",
+      "publication": "Fox News",
+      "author": "Sophia Compton and Morgan Phillips",
+      "headline": "8 people presumed dead in B-52 bomber crash at Edwards Air Force Base in California",
+      "article_headline": "8 people presumed dead in B-52 bomber crash at Edwards Air Force Base in California"
+    },
+    {
+      "link": "https://apple.news/AhBm8ofE3SfuOENWRAfilTw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-15 23:20:21",
+      "pub_time": "2026-06-15 22:53:18",
+      "publication": "POLITICO",
+      "author": "Kyle Cheney",
+      "headline": "Supreme Court wades into fight over “prolonged” detention of some ICE detainees",
+      "article_headline": "Supreme Court wades into fight over “prolonged” detention of some ICE detainees"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 23:20:21",
+      "pub_time": "2026-06-15 22:52:46",
+      "publication": "The Washington Post",
+      "author": "Perry Stein",
+      "headline": "Inside the Trump administration’s rapid rollback of gun regulations",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-15 23:20:21",
+      "pub_time": "2026-06-15 22:51:51",
+      "publication": "The Washington Post",
+      "author": "Perry Stein",
+      "headline": "Inside the Trump administration’s rapid rollback of gun regulations",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AsEumG1BMRMyFvbr7Bwhhgw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-15 23:20:21",
+      "pub_time": "2026-06-15 14:23:27",
+      "publication": "Reader’s Digest",
+      "author": "Jane Lacroix",
+      "headline": "Bruce Willis Showed This Unexpected Dementia Symptom Years Before His Diagnosis, According to His Wife",
+      "article_headline": "Bruce Willis Showed This Unexpected Dementia Symptom Years Before His Diagnosis, According to His Wife"
+    },
+    {
+      "link": "https://apple.news/AQvlmD2iYRJCdBkM_vMYNlQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-15 23:20:21",
+      "pub_time": "2026-06-15 22:23:54",
+      "publication": "People",
+      "author": "Angelique Brenes",
+      "headline": "Jelly Roll Files for Divorce From Bunnie Xo After a Decade of Marriage",
+      "article_headline": "Jelly Roll Files for Divorce From Bunnie Xo After a Decade of Marriage"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-15 23:20:21",
+      "pub_time": "2026-06-15 11:24:22",
+      "publication": "",
+      "author": "Cheyenne Buckingham",
+      "headline": "Researchers are uncovering ADHD’s links to these other health conditions",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AfkSZe6h8Ro-sqlI4gthafw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-15 23:20:21",
+      "pub_time": "2026-06-15 08:24:28",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "The Diet That May Lower Bad Cholesterol 'As Much As A Statin'",
+      "article_headline": "The Diet That May Lower Bad Cholesterol 'As Much As A Statin'"
+    }
+  ]
+}
