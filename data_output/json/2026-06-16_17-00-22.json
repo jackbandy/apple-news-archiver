@@ -1,0 +1,51 @@
+{
+  "run_time": "2026-06-16 17:00:22",
+  "story_count": 4,
+  "stories": [
+    {
+      "link": "https://apple.news/AlrLbXdE2StWH6JF8x-An9Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-16 17:00:22",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Education Department shifts oversight of special education and civil rights, further dismantling agency",
+      "article_headline": "Education Department shifts oversight of special education and civil rights, further dismantling agency"
+    },
+    {
+      "link": "https://apple.news/AUDX9KP-wRLCsFOXrdvDjHg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-16 17:00:22",
+      "pub_time": "2026-06-16 16:00:51",
+      "publication": "The Wall Street Journal",
+      "author": "Lindsay Wise and Philip Wegmann",
+      "headline": "Trump is losing the hawks who once defended the Iran war",
+      "article_headline": "Trump is losing the hawks who once defended the Iran war"
+    },
+    {
+      "link": "https://apple.news/AL3C_ptWbTzavaHAAu-TQ6w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-16 17:00:22",
+      "pub_time": "2026-06-16 16:01:18",
+      "publication": "Reuters",
+      "author": "Nolan Mccaskill",
+      "headline": "The president’s endorsements face tests in Georgia, Alabama primaries",
+      "article_headline": "The president’s endorsements face tests in Georgia, Alabama primaries"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-16 17:00:22",
+      "pub_time": "2026-06-16 16:01:51",
+      "publication": "The Washington Post",
+      "author": "Sarah Blaskey and Jonathan O'Connell",
+      "headline": "Trump said no taxpayer money would be spent on the ballroom. A contractor’s invoices show otherwise.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
