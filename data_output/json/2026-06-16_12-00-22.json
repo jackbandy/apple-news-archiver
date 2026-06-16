@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-06-16 12:00:22",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A-RLVQ6WQQJ6uj12GpoVkwA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-16 12:00:22",
+      "pub_time": "2026-06-16 11:50:24",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Natalie Andrews, and Noemie Bisserbe",
+      "headline": "U.S. allies use G7 to focus Trump’s attention back to Ukraine",
+      "article_headline": "U.S. allies use G7 to focus Trump’s attention back to Ukraine"
+    },
+    {
+      "link": "https://apple.news/AqJ8btCojS--FGYhyqFiL9w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-16 12:00:22",
+      "pub_time": "",
+      "publication": "Fox News",
+      "author": "",
+      "headline": "FBI disrupts alleged explosive-drone plot targeting White House UFC event, officials say",
+      "article_headline": "FBI disrupts alleged explosive-drone plot targeting White House UFC event, officials say"
+    },
+    {
+      "link": "https://apple.news/AyVTk82AXTTOw4-KbcYZWbw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-16 12:00:22",
+      "pub_time": "2026-06-16 11:50:24",
+      "publication": "Minnesota Reformer",
+      "author": "Madison McVan",
+      "headline": "Justice Department charges 15 Minnesota residents in anti-ICE protests",
+      "article_headline": "Justice Department charges 15 Minnesota residents in anti-ICE protests"
+    },
+    {
+      "link": "https://apple.news/AiUVboQ1pR_2wzEXJbCow_A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-16 12:00:22",
+      "pub_time": "2026-06-16 11:50:52",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "DEVELOPING, U.K. military investigates report that Russian warship fired warning shots near yacht in Channel",
+      "article_headline": "U.K. military investigates report that Russian warship fired warning shots near yacht in Channel"
+    },
+    {
+      "link": "https://apple.news/AyVTk82AXTTOw4-KbcYZWbw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-16 12:00:22",
+      "pub_time": "2026-06-16 11:50:24",
+      "publication": "Minnesota Reformer",
+      "author": "Madison McVan",
+      "headline": "Justice Department charges 15 Minnesota residents in anti-ICE protests",
+      "article_headline": "Justice Department charges 15 Minnesota residents in anti-ICE protests"
+    },
+    {
+      "link": "https://apple.news/AiUVboQ1pR_2wzEXJbCow_A",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-16 12:00:22",
+      "pub_time": "2026-06-16 11:50:51",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "DEVELOPING, U.K. military investigates report that Russian warship fired warning shots near yacht in Channel",
+      "article_headline": "U.K. military investigates report that Russian warship fired warning shots near yacht in Channel"
+    },
+    {
+      "link": "https://apple.news/ArbJeb0wWRVC2Xk4VB22TJA",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-16 12:00:22",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "World Cup 2026, Iran’s coach says team was forced to leave U.S. immediately after opening World Cup match",
+      "article_headline": "Iran’s coach says team was forced to leave U.S. immediately after opening World Cup match"
+    },
+    {
+      "link": "https://apple.news/AhSgVjITBSHiOJHq3xofoKA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-16 12:00:22",
+      "pub_time": "2026-06-16 06:04:23",
+      "publication": "HuffPost",
+      "author": "Fleurine Tideman",
+      "headline": "This Seemingly 'Boring' Hobby Has Suddenly Become Such A Turn-On For Modern Daters",
+      "article_headline": "This Seemingly 'Boring' Hobby Has Suddenly Become Such A Turn-On For Modern Daters"
+    },
+    {
+      "link": "https://apple.news/AUqanxnVVQ8--RBC-Ihq1-A",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-16 12:00:22",
+      "pub_time": "2026-06-16 11:04:56",
+      "publication": "BuzzFeed",
+      "author": "Dave Stopera",
+      "headline": "30 Extremely Dumb Screenshots That Get Funnier And Funnier And Funnier And Funnier And Funnier Every Single Time I See Them",
+      "article_headline": "30 Extremely Dumb Screenshots That Get Funnier And Funnier And Funnier And Funnier And Funnier Every Single Time I See Them"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-16 12:00:22",
+      "pub_time": "2026-06-15 12:05:23",
+      "publication": "",
+      "author": "Marla Christiansen",
+      "headline": "10 Things You’ll Regret Throwing Away During Your Next Decluttering Spree",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AhbSBC9H4RECg9wVphnd0Kg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-16 12:00:22",
+      "pub_time": "2026-06-15 22:05:23",
+      "publication": "ABC News",
+      "author": "Shafiq Najib and Youri Benadjaoud",
+      "headline": "Antidepressant recalled due to presence of potentially cancer-causing impurity",
+      "article_headline": "Antidepressant recalled due to presence of potentially cancer-causing impurity"
+    }
+  ]
+}

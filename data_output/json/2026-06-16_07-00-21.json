@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-16 07:00:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ACmCzS8PvR7acq1ft-0rNOg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-16 07:00:21",
+      "pub_time": "2026-06-16 06:34:23",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "G7 leaders open summit talks on Ukraine and the Middle East as Zelenskyy joins them in France",
+      "article_headline": "G7 leaders open summit talks on Ukraine and the Middle East as Zelenskyy joins them in France"
+    },
+    {
+      "link": "https://apple.news/A7E-m_Mv3T2C4ICqyEbyb-g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-16 07:00:21",
+      "pub_time": "",
+      "publication": "Fox News",
+      "author": "",
+      "headline": "Trump’s endorsement power faces crucial tests in closely watched Georgia and Alabama GOP runoff elections",
+      "article_headline": "Trump’s endorsement power faces crucial tests in closely watched Georgia and Alabama GOP runoff elections"
+    },
+    {
+      "link": "https://apple.news/Av3wlY3cfQVG9pND2H0eLqA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-16 07:00:21",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "How Anthropic lost the White House’s trust — and then its flagship product",
+      "article_headline": "How Anthropic lost the White House’s trust — and then its flagship product"
+    },
+    {
+      "link": "https://apple.news/AZFkQdJNUTYeBQ7aL3swNXQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-16 07:00:21",
+      "pub_time": "2026-06-16 06:34:50",
+      "publication": "The Christian Science Monitor",
+      "author": "Sarah Matusek",
+      "headline": "A former Kansas mayor wasn’t a U.S. citizen, but voted. His supporters say it’s not that simple.",
+      "article_headline": "A former Kansas mayor wasn’t a U.S. citizen, but voted. His supporters say it’s not that simple."
+    },
+    {
+      "link": "https://apple.news/AZFkQdJNUTYeBQ7aL3swNXQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-16 07:00:21",
+      "pub_time": "2026-06-16 06:34:23",
+      "publication": "The Christian Science Monitor",
+      "author": "Sarah Matusek",
+      "headline": "A former Kansas mayor wasn’t a U.S. citizen, but voted. His supporters say it’s not that simple.",
+      "article_headline": "A former Kansas mayor wasn’t a U.S. citizen, but voted. His supporters say it’s not that simple."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-16 07:00:21",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, World Cup today: the 1-foul game, a $1.7 billion squad, and the Golden Boot battle",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-16 07:00:21",
+      "pub_time": "2026-06-16 06:34:50",
+      "publication": "The Wall Street Journal",
+      "author": "Dasl Yoon and Timothy W. Martin",
+      "headline": "The world’s most surprising economic success story is … North Korea",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A-X7hF9P2SDaU4yn7O6V1pw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-16 07:00:21",
+      "pub_time": "2026-06-16 06:44:31",
+      "publication": "BuzzFeed",
+      "author": "Jake Farrington",
+      "headline": "33 Things That Will \"Completely Die Out\" When We Lose The Older Generations, And While I'm Happy To See Some Of These Things Go, I'm Mostly Thinking \"Oh, We Are So Effed\"",
+      "article_headline": "33 Things That Will \"Completely Die Out\" When We Lose The Older Generations, And While I'm Happy To See Some Of These Things Go, I'm Mostly Thinking \"Oh, We Are So Effed\""
+    },
+    {
+      "link": "https://apple.news/A_wS8B2YmQmqK5JA5ZV-b2w",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-16 07:00:21",
+      "pub_time": "2026-06-15 15:03:59",
+      "publication": "Reader’s Digest",
+      "author": "Kelly Aiglon",
+      "headline": "Always Take a Picture of This Room Before Leaving the House (Hint: It's Not the One You Probably Think!)",
+      "article_headline": "Always Take a Picture of This Room Before Leaving the House (Hint: It's Not the One You Probably Think!)"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-16 07:00:21",
+      "pub_time": "2026-06-15 13:04:26",
+      "publication": "",
+      "author": "Stephanie Sengwe",
+      "headline": "'He's a Character': 18 Photos of Prince Louis That Prove He Is a Royally Good Time",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AhUwvzlO3RTiuO7g5DTKzdw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-16 07:00:21",
+      "pub_time": "2026-06-15 21:04:31",
+      "publication": "TheStreet",
+      "author": "Patricia Battle and Dana Sullivan Kilroy",
+      "headline": "T-Mobile warns customers that a key service will double in price",
+      "article_headline": "T-Mobile warns customers that a key service will double in price"
+    }
+  ]
+}
