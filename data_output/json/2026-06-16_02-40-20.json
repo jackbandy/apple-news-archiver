@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-16 02:40:20",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A_i99FAjQQb2Ph-MuNWLyeQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-16 02:40:20",
+      "pub_time": "2026-06-16 00:40:21",
+      "publication": "Reuters",
+      "author": "John Irish, Julia Payne, and Michel Rose",
+      "headline": "European leaders to push Trump on Iran deal, Ukraine talks as G7 summit kicks off",
+      "article_headline": "Europeans to test Trump on Iran deal risks, urge Ukraine rethink at G7"
+    },
+    {
+      "link": "https://apple.news/Ap_GTN2wkQX6pKbgsURpOfA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-16 02:40:20",
+      "pub_time": "2026-06-16 00:40:49",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "“We lost eight great Americans”: B-52 crash at Edwards Air Force Base in California kills entire crew",
+      "article_headline": "‘We lost eight great Americans’: B-52 crash kills crew at Edwards Air Force Base in California"
+    },
+    {
+      "link": "https://apple.news/A_FQQryUyQFeyZMh3QzqJQA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-16 02:40:20",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Republican divides and strange alliances emerge ahead of Georgia primary runoffs",
+      "article_headline": "Republican divides and strange alliances emerge ahead of Georgia primary runoffs"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-16 02:40:20",
+      "pub_time": "2026-06-16 00:41:49",
+      "publication": "The Washington Post",
+      "author": "Perry Stein",
+      "headline": "Inside the Trump administration’s rapid rollback of gun regulations",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AENwqG6bpQQ6IRuHvTtZHGQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-16 02:40:20",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "World Cup 2026, “We are here to play football”: Iran opens World Cup with 2-2 draw against New Zealand",
+      "article_headline": "Frustrated Iran vents about restrictions after draw with New Zealand at World Cup"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-16 02:40:20",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "Selling mobile homes made him a billionare. Behind the scenes, his residents were suffering., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AhZ0LmmPtRhG3yHrtMEp42A",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-16 02:40:20",
+      "pub_time": "",
+      "publication": "How a tiny nation stunned a soccer powerhouse",
+      "author": "",
+      "headline": "Plus, more World Cup reaction.,  Play Now  40 min",
+      "article_headline": ""
+    }
+  ]
+}
