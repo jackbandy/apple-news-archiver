@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-17 13:00:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AqbDhlSwJTGeqjGOogjyrVg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-17 13:00:32",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump delays his own national intelligence nominee, fueling tension with fellow Republicans",
+      "article_headline": "Trump delays his own national intelligence nominee, fueling tension with fellow Republicans"
+    },
+    {
+      "link": "https://apple.news/Ag9WFty9KT5y2WBHLZ-yiYQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-17 13:00:32",
+      "pub_time": "2026-06-17 12:41:01",
+      "publication": "Fox News",
+      "author": "Morgan Phillips",
+      "headline": "Trump administration unveils sweeping terms of proposed Iran agreement",
+      "article_headline": "Trump administration unveils sweeping terms of proposed Iran agreement"
+    },
+    {
+      "link": "https://apple.news/Ag9WFty9KT5y2WBHLZ-yiYQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-17 13:00:32",
+      "pub_time": "2026-06-17 12:40:34",
+      "publication": "Fox News",
+      "author": "Morgan Phillips",
+      "headline": "Trump administration unveils sweeping terms of proposed Iran agreement",
+      "article_headline": "Trump administration unveils sweeping terms of proposed Iran agreement"
+    },
+    {
+      "link": "https://apple.news/A-D0_b9w2SLWTv55ylxErig",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-17 13:00:32",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, What to expect from Kevin Warsh’s first Fed interest-rate meeting",
+      "article_headline": "What to expect from Kevin Warsh’s first Fed interest-rate meeting"
+    },
+    {
+      "link": "https://apple.news/A2UFj96H_RseAvruE0JHxrA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-17 13:00:32",
+      "pub_time": "2026-06-17 12:41:28",
+      "publication": "FOX 5 New York",
+      "author": "Amanda Hurley",
+      "headline": "Rex Heuermann sentenced to life in prison without parole for Gilgo Beach murders",
+      "article_headline": "Rex Heuermann sentenced to life in prison without parole for Gilgo Beach murders"
+    },
+    {
+      "link": "https://apple.news/A2UFj96H_RseAvruE0JHxrA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-17 13:00:32",
+      "pub_time": "2026-06-17 12:41:01",
+      "publication": "FOX 5 New York",
+      "author": "Amanda Hurley",
+      "headline": "Rex Heuermann sentenced to life in prison without parole for Gilgo Beach murders",
+      "article_headline": "Rex Heuermann sentenced to life in prison without parole for Gilgo Beach murders"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-17 13:00:32",
+      "pub_time": "2026-06-17 12:41:27",
+      "publication": "The Washington Post",
+      "author": "Ben Noll and Sarah Kaplan",
+      "headline": "The season’s first tropical storm could dump more than a foot of rain on the South",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

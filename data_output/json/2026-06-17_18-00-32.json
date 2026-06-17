@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-17 18:00:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A_SLLkEafTLarKr923Nu6kQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-17 18:00:32",
+      "pub_time": "2026-06-17 17:55:34",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Takeaways from the text of the preliminary U.S.-Iran deal, MORE DETAILS",
+      "article_headline": "Takeaways from the text of the preliminary U.S.-Iran deal"
+    },
+    {
+      "link": "https://apple.news/A-95fmK2YRra9lsMXPmeCvQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-17 18:00:32",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Fed holds rates steady at Warsh’s first meeting, but more officials see higher rates as next move",
+      "article_headline": "Fed holds rates steady at Warsh’s first meeting, but more officials see higher rates as next move"
+    },
+    {
+      "link": "https://apple.news/AR5V-euKrRdq2cyEkiZFVPQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-17 18:00:32",
+      "pub_time": "2026-06-17 17:56:34",
+      "publication": "Military Times",
+      "author": "Cristina Stassis",
+      "headline": "Air Force identifies 8 crewmembers killed in California B-52 crash",
+      "article_headline": "Air Force identifies 8 crewmembers killed in California B-52 crash"
+    },
+    {
+      "link": "https://apple.news/AR5V-euKrRdq2cyEkiZFVPQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-17 18:00:32",
+      "pub_time": "2026-06-17 17:56:07",
+      "publication": "Military Times",
+      "author": "Cristina Stassis",
+      "headline": "Air Force identifies 8 crewmembers killed in California B-52 crash",
+      "article_headline": "Air Force identifies 8 crewmembers killed in California B-52 crash"
+    },
+    {
+      "link": "https://apple.news/AdJf1TydxQTy45ALrm9ANZA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-17 18:00:32",
+      "pub_time": "",
+      "publication": "The Hollywood Reporter",
+      "author": "",
+      "headline": "Daveigh Chase, ‘The Ring’ star and voice of Lilo in ‘Lilo & Stitch,’ dies at 35",
+      "article_headline": "Daveigh Chase, ‘The Ring’ star and voice of Lilo in ‘Lilo & Stitch,’ dies at 35"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-17 18:00:32",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, How migration, colonial ties and tweaks to FIFA eligibility rules have made this the diaspora World Cup",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-17 18:00:32",
+      "pub_time": "2026-06-17 17:55:07",
+      "publication": "WIRED",
+      "author": "Jackie Cooperman",
+      "headline": "Why America’s starter homes are vanishing — and what’s replacing them",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

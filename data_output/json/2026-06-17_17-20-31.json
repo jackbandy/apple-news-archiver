@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-17 17:20:31",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A_SLLkEafTLarKr923Nu6kQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-17 17:20:31",
+      "pub_time": "2026-06-17 16:31:32",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Takeaways from the text of the preliminary U.S.-Iran deal, MORE DETAILS",
+      "article_headline": "Takeaways from the text of the preliminary U.S.-Iran deal"
+    },
+    {
+      "link": "https://apple.news/A-95fmK2YRra9lsMXPmeCvQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-17 17:20:31",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Fed holds rates steady at Warsh’s first meeting, but more officials see higher rates as next move",
+      "article_headline": "Fed holds rates steady at Warsh’s first meeting, but more officials see higher rates as next move"
+    },
+    {
+      "link": "https://apple.news/AR5V-euKrRdq2cyEkiZFVPQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-17 17:20:31",
+      "pub_time": "2026-06-17 16:32:32",
+      "publication": "Military Times",
+      "author": "Cristina Stassis",
+      "headline": "Air Force identifies 8 crewmembers killed in California B-52 crash",
+      "article_headline": "Air Force identifies 8 crewmembers killed in California B-52 crash"
+    },
+    {
+      "link": "https://apple.news/AR5V-euKrRdq2cyEkiZFVPQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-17 17:20:31",
+      "pub_time": "2026-06-17 16:32:05",
+      "publication": "Military Times",
+      "author": "Cristina Stassis",
+      "headline": "Air Force identifies 8 crewmembers killed in California B-52 crash",
+      "article_headline": "Air Force identifies 8 crewmembers killed in California B-52 crash"
+    },
+    {
+      "link": "https://apple.news/AdJf1TydxQTy45ALrm9ANZA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-17 17:20:31",
+      "pub_time": "",
+      "publication": "The Hollywood Reporter",
+      "author": "",
+      "headline": "Daveigh Chase, ‘The Ring’ star and voice of Lilo in ‘Lilo & Stitch,’ dies at 35",
+      "article_headline": "Daveigh Chase, ‘The Ring’ star and voice of Lilo in ‘Lilo & Stitch,’ dies at 35"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-17 17:20:31",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Cristiano Ronaldo and Portugal fall flat against Congo in a World Cup shocker",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-17 17:20:31",
+      "pub_time": "2026-06-17 16:32:05",
+      "publication": "National Geographic",
+      "author": "Patrick Webster",
+      "headline": "This creature was dubbed the Sasquatch of the sea. Scientists just found it.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AirNMFfaiSROhTTkrVnw_UQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-17 17:20:31",
+      "pub_time": "2026-06-17 15:23:11",
+      "publication": "BuzzFeed",
+      "author": "Matt Stopera",
+      "headline": "Please Look At What Hydrogen Peroxide Did To The Reflecting Pool 24 Hours Later",
+      "article_headline": "Please Look At What Hydrogen Peroxide Did To The Reflecting Pool 24 Hours Later"
+    },
+    {
+      "link": "https://apple.news/AgToIsKfFSPanbufOWU-Leg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-17 17:20:31",
+      "pub_time": "2026-06-17 06:23:38",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Dear Abby: Patriarch's passing created chasms among survivors",
+      "article_headline": "Dear Abby: Patriarch's passing created chasms among survivors"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-17 17:20:31",
+      "pub_time": "2026-06-17 13:24:11",
+      "publication": "",
+      "author": "Matthew Boyle",
+      "headline": "Why Companies Are Cutting Middle Managers in the AI Era",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAJILVlDOSpO0lxKxFcvP_Q",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-17 17:20:31",
+      "pub_time": "2026-06-17 16:24:11",
+      "publication": "The Guardian",
+      "author": "Dani Anguiano",
+      "headline": "Two California students swept out to sea and drowned while napping on beach",
+      "article_headline": "Two California students swept out to sea and drowned while napping on beach"
+    }
+  ]
+}
