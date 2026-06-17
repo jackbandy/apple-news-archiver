@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-16 21:00:21",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AhO6pQebLT9WH30k4H9Z8eA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-16 21:00:21",
+      "pub_time": "2026-06-16 20:31:23",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran says deal to end war with U.S. requires Israel to withdraw from Lebanon",
+      "article_headline": "Iran says deal to end war with U.S. requires Israel to withdraw from Lebanon"
+    },
+    {
+      "link": "https://apple.news/AL2IvqxzGTYe6mrZb7Q8chw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-16 21:00:21",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump-backed Mike Collins to face Jon Ossoff in Georgia for U.S. Senate seat",
+      "article_headline": "Trump-backed Mike Collins to face Jon Ossoff in Georgia for U.S. Senate seat"
+    },
+    {
+      "link": "https://apple.news/AryQGMca5Tl-WzR3WH4_k-g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-16 21:00:21",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Congo Ebola outbreak may be worst ever, Africa CDC says",
+      "article_headline": "Congo Ebola outbreak may be worst ever, Africa CDC says"
+    },
+    {
+      "link": "https://apple.news/AvvdYlVGlRXenqL4M-hRA9w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-16 21:00:21",
+      "pub_time": "2026-06-16 20:31:49",
+      "publication": "The Washington Post",
+      "author": "Arelis R. Hernández",
+      "headline": "Death of woman released by ICE on a winter day is now ruled a homicide",
+      "article_headline": "Death of woman released by ICE on a winter day is now ruled a homicide"
+    },
+    {
+      "link": "https://apple.news/AvvdYlVGlRXenqL4M-hRA9w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-16 21:00:21",
+      "pub_time": "2026-06-16 20:31:23",
+      "publication": "The Washington Post",
+      "author": "Arelis R. Hernández",
+      "headline": "Death of woman released by ICE on a winter day is now ruled a homicide",
+      "article_headline": "Death of woman released by ICE on a winter day is now ruled a homicide"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-16 21:00:21",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Live updates: Lionel Messi gives Argentina early lead against Algeria in World Cup opener, LIVE, Ed Mackey, Max Mathews, Jack Lang, Duncan Alexander, Felipe Cardenas, Charlie Scott, Phil Hay, Oliver Kay, Carl Innes, Jillian Thaw, Will Jeanes, Luke Bosher, Adam Crafton, and Michael Bailey",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-16 21:00:21",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "Sam Bankman-Fried’s life behind bars, and his plan to get free, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
