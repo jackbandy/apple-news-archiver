@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-17 22:00:30",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ac-4MmNnWR26L6jEtE0cnxw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-17 22:00:30",
+      "pub_time": "2026-06-17 21:44:32",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Trump and Iran’s president digitally sign interim deal with terms to end war, MORE DETAILS",
+      "article_headline": "Trump and Iran’s president digitally sign interim deal with terms to end war"
+    },
+    {
+      "link": "https://apple.news/Ai1ANGRb_S6iMoaiaAqBpLg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-17 22:00:30",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Major Supreme Court rulings loom on birthright citizenship, presidential power",
+      "article_headline": "Major Supreme Court rulings loom on birthright citizenship, presidential power"
+    },
+    {
+      "link": "https://apple.news/ACha0IT-sRiSMOFzAVKBk6Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-17 22:00:30",
+      "pub_time": "2026-06-17 21:45:31",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration seeks to halt the first U.S. reparations program for Black people",
+      "article_headline": "Trump administration seeks to halt the first U.S. reparations program for Black people"
+    },
+    {
+      "link": "https://apple.news/ACha0IT-sRiSMOFzAVKBk6Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-17 22:00:30",
+      "pub_time": "2026-06-17 21:45:03",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration seeks to halt the first U.S. reparations program for Black people",
+      "article_headline": "Trump administration seeks to halt the first U.S. reparations program for Black people"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-17 22:00:30",
+      "pub_time": "2026-06-17 21:44:30",
+      "publication": "The Wall Street Journal",
+      "author": "Anastasiia Malenko",
+      "headline": "Inside the race to save one of Ukraine’s holiest sites from a Russian strike",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AtspE9XNMRNaFZMPXodslKA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-17 22:00:30",
+      "pub_time": "2026-06-17 21:44:30",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Historic World Cup goal brings rare joy to DR Congo amid Ebola outbreak",
+      "article_headline": "Historic World Cup goal brings rare joy to DR Congo amid Ebola outbreak"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-17 22:00:30",
+      "pub_time": "2026-06-17 21:44:03",
+      "publication": "The Wall Street Journal",
+      "author": "Anastasiia Malenko",
+      "headline": "Inside the race to save one of Ukraine’s holiest sites from a Russian strike",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

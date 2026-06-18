@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-17 20:20:33",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Ac-4MmNnWR26L6jEtE0cnxw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-17 20:20:33",
+      "pub_time": "2026-06-17 20:06:34",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Trump and Iran’s president digitally sign interim agreement with terms to end war, MORE DETAILS",
+      "article_headline": "Trump and Iran’s president digitally sign interim agreement with terms to end war"
+    },
+    {
+      "link": "https://apple.news/Aw8iO5qmnRHCpXGLY9gD_7Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-17 20:20:33",
+      "pub_time": "",
+      "publication": "CNBC",
+      "author": "",
+      "headline": "Fed keeps interest rates unchanged in June: what that means for you",
+      "article_headline": "Fed keeps interest rates unchanged in June: what that means for you"
+    },
+    {
+      "link": "https://apple.news/ACha0IT-sRiSMOFzAVKBk6Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-17 20:20:33",
+      "pub_time": "2026-06-17 20:07:35",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration seeks to halt the first U.S. reparations program for Black people",
+      "article_headline": "Trump administration seeks to halt the first U.S. reparations program for Black people"
+    },
+    {
+      "link": "https://apple.news/ACha0IT-sRiSMOFzAVKBk6Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-17 20:20:33",
+      "pub_time": "2026-06-17 20:07:08",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration seeks to halt the first U.S. reparations program for Black people",
+      "article_headline": "Trump administration seeks to halt the first U.S. reparations program for Black people"
+    },
+    {
+      "link": "https://apple.news/A7sSABjnASuykr1CpkowscA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-17 20:20:33",
+      "pub_time": "2026-06-17 20:07:35",
+      "publication": "Gothamist",
+      "author": "",
+      "headline": "Luigi Mangione to pursue mental health defense in Manhattan murder trial",
+      "article_headline": "Luigi Mangione to pursue mental health defense in Manhattan murder trial"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-17 20:20:33",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, How migration, colonial ties, and tweaks to FIFA eligibility rules have made this the diaspora World Cup",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A7sSABjnASuykr1CpkowscA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-17 20:20:33",
+      "pub_time": "2026-06-17 20:07:07",
+      "publication": "Gothamist",
+      "author": "",
+      "headline": "Luigi Mangione to pursue mental health defense in Manhattan murder trial",
+      "article_headline": "Luigi Mangione to pursue mental health defense in Manhattan murder trial"
+    },
+    {
+      "link": "https://apple.news/AirNMFfaiSROhTTkrVnw_UQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-17 20:20:33",
+      "pub_time": "2026-06-17 15:24:13",
+      "publication": "BuzzFeed",
+      "author": "Matt Stopera",
+      "headline": "Please Look At What Hydrogen Peroxide Did To The Reflecting Pool 24 Hours Later",
+      "article_headline": "Please Look At What Hydrogen Peroxide Did To The Reflecting Pool 24 Hours Later"
+    },
+    {
+      "link": "https://apple.news/AAJILVlDOSpO0lxKxFcvP_Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-17 20:20:33",
+      "pub_time": "2026-06-17 16:24:40",
+      "publication": "The Guardian",
+      "author": "Dani Anguiano",
+      "headline": "Two California students swept out to sea and drowned while napping on beach",
+      "article_headline": "Two California students swept out to sea and drowned while napping on beach"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-17 20:20:33",
+      "pub_time": "2026-06-17 13:25:14",
+      "publication": "",
+      "author": "Darren Orf",
+      "headline": "150 Years Ago, a Super El Niño Killed 50 Million People. The Next One Is Right Around the Corner.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AY8SasJ80TsiVEqyk4_qarA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-17 20:20:33",
+      "pub_time": "2026-06-17 10:25:14",
+      "publication": "Inc.",
+      "author": "MOSES JEANFRANCOIS",
+      "headline": "United Airlines Is Bringing Europe’s Most Controversial Seating Trend to the U.S.",
+      "article_headline": "United Airlines Is Bringing Europe’s Most Controversial Seating Trend to the U.S."
+    }
+  ]
+}

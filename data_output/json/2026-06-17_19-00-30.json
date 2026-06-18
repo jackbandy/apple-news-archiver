@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-17 19:00:30",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AfaLXe8yJQ5ybZTbV5KC4BA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-17 19:00:30",
+      "pub_time": "2026-06-17 18:44:31",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "Key takeaways from the 14-point memorandum of understanding between U.S., Iran, MORE DETAILS",
+      "article_headline": "Key takeaways from the 14-point memorandum of understanding between U.S., Iran"
+    },
+    {
+      "link": "https://apple.news/Aw8iO5qmnRHCpXGLY9gD_7Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-17 19:00:30",
+      "pub_time": "",
+      "publication": "CNBC",
+      "author": "",
+      "headline": "Fed keeps interest rates unchanged in June: what that means for you",
+      "article_headline": "Fed keeps interest rates unchanged in June: what that means for you"
+    },
+    {
+      "link": "https://apple.news/Ar3R7stXITIWCeutXFFZ-mQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-17 19:00:30",
+      "pub_time": "2026-06-17 18:45:32",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Takeaways from the G7: Trump’s new attitude toward allies buoyed by their praise for Iran deal",
+      "article_headline": "Takeaways from the G7: Trump’s new attitude toward allies buoyed by their praise for Iran deal"
+    },
+    {
+      "link": "https://apple.news/Ar3R7stXITIWCeutXFFZ-mQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-17 19:00:30",
+      "pub_time": "2026-06-17 18:45:04",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Takeaways from the G7: Trump’s new attitude toward allies buoyed by their praise for Iran deal",
+      "article_headline": "Takeaways from the G7: Trump’s new attitude toward allies buoyed by their praise for Iran deal"
+    },
+    {
+      "link": "https://apple.news/ANiFEgr8RQO-i_Y4AS1k-bA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-17 19:00:30",
+      "pub_time": "2026-06-17 18:45:31",
+      "publication": "NBC News",
+      "author": "Matt Lavietes, Chloe Atkins, and Adam Reiss",
+      "headline": "Luigi Mangione will use a psychiatric defense in state murder case",
+      "article_headline": "Luigi Mangione will use a psychiatric defense in state murder case"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-17 19:00:30",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, How migration, colonial ties, and tweaks to FIFA eligibility rules have made this the diaspora World Cup",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ANiFEgr8RQO-i_Y4AS1k-bA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-17 19:00:30",
+      "pub_time": "2026-06-17 18:44:05",
+      "publication": "NBC News",
+      "author": "Matt Lavietes, Chloe Atkins, and Adam Reiss",
+      "headline": "Luigi Mangione will use a psychiatric defense in state murder case",
+      "article_headline": "Luigi Mangione will use a psychiatric defense in state murder case"
+    }
+  ]
+}
