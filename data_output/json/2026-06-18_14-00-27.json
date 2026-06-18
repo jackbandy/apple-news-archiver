@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-18 14:00:27",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AvTgcSue_T-ecdPDbLCUOzg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-18 14:00:27",
+      "pub_time": "2026-06-18 13:29:29",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, U.S.-Iran deal signing gets more ships moving in Strait of Hormuz, but big challenges remain, MORE DETAILS",
+      "article_headline": "U.S.-Iran deal signing gets more ships moving in Strait of Hormuz, but big challenges remain"
+    },
+    {
+      "link": "https://apple.news/AuDiAikU6RqqJgK0iXvF8tg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-18 14:00:27",
+      "pub_time": "",
+      "publication": "Fox News",
+      "author": "",
+      "headline": "Supreme Court unanimously limits use of gun law used to prosecute Hunter Biden",
+      "article_headline": "Supreme Court unanimously limits use of gun law used to prosecute Hunter Biden"
+    },
+    {
+      "link": "https://apple.news/AuL9hxD-BTMaq3fuEhMo98A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-18 14:00:27",
+      "pub_time": "2026-06-18 13:30:30",
+      "publication": "NBC News",
+      "author": "Yuliya Talmazan",
+      "headline": "Ukraine unleashes biggest attack on Moscow in years, setting a key oil refinery ablaze",
+      "article_headline": "Ukraine unleashes biggest attack on Moscow in years, setting a key oil refinery ablaze"
+    },
+    {
+      "link": "https://apple.news/AuL9hxD-BTMaq3fuEhMo98A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-18 14:00:27",
+      "pub_time": "2026-06-18 13:30:03",
+      "publication": "NBC News",
+      "author": "Yuliya Talmazan",
+      "headline": "Ukraine unleashes biggest attack on Moscow in years, setting a key oil refinery ablaze",
+      "article_headline": "Ukraine unleashes biggest attack on Moscow in years, setting a key oil refinery ablaze"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-18 14:00:27",
+      "pub_time": "2026-06-18 13:30:31",
+      "publication": "The Washington Post",
+      "author": "Jonathan O'Connell, Riley Beggin, Jarrell Dillard, and Sarah Blaskey",
+      "headline": "Millions in Secret Service funds redirected amid White House ballroom construction",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A9re6XSlxQ6mqhAHYlHXqag",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-18 14:00:27",
+      "pub_time": "2026-06-18 13:29:31",
+      "publication": "Chicago Tribune",
+      "author": "",
+      "headline": "Obama Presidential Center dedication opens in Chicago with star-studded ceremony",
+      "article_headline": "Obama Presidential Center dedication opens in Chicago with star-studded ceremony"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-18 14:00:27",
+      "pub_time": "2026-06-18 13:30:04",
+      "publication": "The Washington Post",
+      "author": "Jonathan O'Connell, Riley Beggin, Jarrell Dillard, and Sarah Blaskey",
+      "headline": "Millions in Secret Service funds redirected amid White House ballroom construction",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AeugYp_NzTJqR-qDw3wzFpg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-18 14:00:27",
+      "pub_time": "2026-06-18 12:03:40",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "These are the most intelligent dog breeds you can own",
+      "article_headline": "These are the most intelligent dog breeds you can own"
+    },
+    {
+      "link": "https://apple.news/Aunn_129STU-Os47jw-TdHQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-18 14:00:27",
+      "pub_time": "2026-06-18 13:04:08",
+      "publication": "HuffPost",
+      "author": "Ashley Broadwater",
+      "headline": "This Common Phone Habit Is Probably The Reason You Keep Getting Spam Calls",
+      "article_headline": "This Common Phone Habit Is Probably The Reason You Keep Getting Spam Calls"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-18 14:00:27",
+      "pub_time": "2026-06-18 12:04:35",
+      "publication": "",
+      "author": "Andrew Marchand",
+      "headline": "Fox’s World Cup problem: Zlatan Ibrahimović and Alexi Lalas",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aunn_129STU-Os47jw-TdHQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-18 14:00:27",
+      "pub_time": "2026-06-18 12:04:41",
+      "publication": "HuffPost",
+      "author": "Ashley Broadwater",
+      "headline": "This Common Phone Habit Is Probably The Reason You Keep Getting Spam Calls",
+      "article_headline": "This Common Phone Habit Is Probably The Reason You Keep Getting Spam Calls"
+    }
+  ]
+}
