@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-06-18 06:00:33",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ab5cdfIJuTiG6Myg58bvvjw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-18 06:00:33",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump defends Iran deal, says he wants to avoid “economic catastrophe”",
+      "article_headline": "Trump Signs Iran Deal, Says He Wants to Avoid ‘Economic Catastrophe’"
+    },
+    {
+      "link": "https://apple.news/Arwv2bM8wT5mAdHCylSAJCQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-18 06:00:33",
+      "pub_time": "2026-06-18 05:18:03",
+      "publication": "The Guardian",
+      "author": "Peter Beaumont, Warren Murray, and Pjotr Sauer",
+      "headline": "Russian oil refinery on fire after a barrage of Ukrainian drones strikes Moscow",
+      "article_headline": "Russian oil refinery on fire after a barrage of Ukrainian drones strikes Moscow"
+    },
+    {
+      "link": "https://apple.news/AyBQUltmVTJyRqIixMvE0lA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-18 06:00:33",
+      "pub_time": "2026-06-18 05:18:31",
+      "publication": "Reuters",
+      "author": "Phil Stewart, Sabine Siebold, and Lili Bayer",
+      "headline": "Hegseth announces review of U.S. troops in Europe, scorns some NATO allies",
+      "article_headline": "Hegseth announces review of U.S. troops in Europe, scorns some NATO allies"
+    },
+    {
+      "link": "https://apple.news/Arwv2bM8wT5mAdHCylSAJCQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-18 06:00:33",
+      "pub_time": "2026-06-18 05:18:03",
+      "publication": "The Guardian",
+      "author": "Peter Beaumont, Warren Murray, and Pjotr Sauer",
+      "headline": "Russian oil refinery on fire after a barrage of Ukrainian drones strikes Moscow",
+      "article_headline": "Russian oil refinery on fire after a barrage of Ukrainian drones strikes Moscow"
+    },
+    {
+      "link": "https://apple.news/AyBQUltmVTJyRqIixMvE0lA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-18 06:00:33",
+      "pub_time": "2026-06-18 05:18:31",
+      "publication": "Reuters",
+      "author": "Phil Stewart, Sabine Siebold, and Lili Bayer",
+      "headline": "Hegseth announces review of U.S. troops in Europe, scorns some NATO allies",
+      "article_headline": "Hegseth announces review of U.S. troops in Europe, scorns some NATO allies"
+    },
+    {
+      "link": "https://apple.news/AdjY4cWDfT7qcNYjSKKgBBw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-18 06:00:33",
+      "pub_time": "2026-06-18 05:18:59",
+      "publication": "Haaretz",
+      "author": "Nir Hasson",
+      "headline": "121 women, 253 children: More than 1,000 people killed during Gaza ceasefire",
+      "article_headline": "121 women, 253 children: More than 1,000 people killed during Gaza ceasefire"
+    },
+    {
+      "link": "https://apple.news/AdjY4cWDfT7qcNYjSKKgBBw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-18 06:00:33",
+      "pub_time": "2026-06-18 05:18:32",
+      "publication": "Haaretz",
+      "author": "Nir Hasson",
+      "headline": "121 women, 253 children: More than 1,000 people killed during Gaza ceasefire",
+      "article_headline": "121 women, 253 children: More than 1,000 people killed during Gaza ceasefire"
+    }
+  ]
+}
