@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-06-18 08:00:33",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Ax_0JFi3UQ_mxKyVFFRf_Lg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-18 08:00:33",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "First tankers cross the Strait of Hormuz after Iran deal, as new Israeli strikes stir doubt in Lebanon",
+      "article_headline": "First tankers cross the Strait of Hormuz after Iran deal, as new Israeli strikes stir doubt in Lebanon"
+    },
+    {
+      "link": "https://apple.news/Arwv2bM8wT5mAdHCylSAJCQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-18 08:00:33",
+      "pub_time": "2026-06-18 07:01:03",
+      "publication": "The Guardian",
+      "author": "Peter Beaumont and Pjotr Sauer",
+      "headline": "Moscow oil refinery hit in Ukraine’s biggest air raid on city since the start of war",
+      "article_headline": "Moscow oil refinery hit in Ukraine’s biggest air raid on city since the start of war"
+    },
+    {
+      "link": "https://apple.news/ArA7GqG2iSKOTTfCif4NvNg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-18 08:00:33",
+      "pub_time": "2026-06-18 07:01:31",
+      "publication": "The Wall Street Journal",
+      "author": "Daniel Michaels and Michael R. Gordon",
+      "headline": "Hegseth announces review of U.S. forces in Europe, threatens NATO cuts",
+      "article_headline": "Hegseth announces review of U.S. forces in Europe, threatens NATO cuts"
+    },
+    {
+      "link": "https://apple.news/AD4jb3UecQ_mNJ-Mw4W0W_Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-18 08:00:33",
+      "pub_time": "2026-06-18 07:02:03",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "As the Obama Presidential Center opens, Chicago neighborhoods await the fiscal return",
+      "article_headline": "As the Obama Presidential Center opens, Chicago neighborhoods await the fiscal return"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-18 08:00:33",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, We keep seeing draws in this year’s World Cup. Is that an anomaly or the new norm?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-18 08:00:33",
+      "pub_time": "2026-06-18 07:02:36",
+      "publication": "The Wall Street Journal",
+      "author": "Joel Schectman",
+      "headline": "A $40 million gold heist risks exposing CIA’s top-secret spy programs",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_dhAykEqRuqy-QHJT6PFvQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-18 08:00:33",
+      "pub_time": "",
+      "publication": "Trump unveils his Iran deal. Some Republicans are already attacking it.",
+      "author": "",
+      "headline": "Listen to today’s top stories.,  Play Now  14 min",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-18 08:00:33",
+      "pub_time": "2026-06-17 18:03:39",
+      "publication": "",
+      "author": "Patrick Barkham",
+      "headline": "‘Most famous tree in the world’: Sherwood Forest’s 1,000-year-old Major oak dies",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-18 08:00:33",
+      "pub_time": "2026-06-17 08:03:56",
+      "publication": "",
+      "author": "Maria Azzurra Volpe",
+      "headline": "Popular supplement ingredient linked to shorter lifespans in men",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AwQ4BYNolTjyHRzpTbJ8Qlg",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-18 08:00:33",
+      "pub_time": "2026-06-17 18:03:56",
+      "publication": "ABC News",
+      "author": "Kelly McCarthy",
+      "headline": "1st-time World Cup visitors are obsessed with these American foods, drinks",
+      "article_headline": "1st-time World Cup visitors are obsessed with these American foods, drinks"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-18 08:00:33",
+      "pub_time": "2026-06-17 13:04:23",
+      "publication": "",
+      "author": "Darren Orf",
+      "headline": "150 Years Ago, a Super El Niño Killed 50 Million People. The Next One Is Right Around the Corner.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
