@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-19 11:40:27",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A6fXi5mRdQPO8b9yHKdh28g",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-19 11:40:27",
+      "pub_time": "2026-06-19 10:50:29",
+      "publication": "TIME",
+      "author": "Callum Sutherland and Olivia-Anne Cleary",
+      "headline": "Israel and Hezbollah agree to ceasefire after renewed fighting threatens to derail U.S.-Iran peace talks",
+      "article_headline": "Israel and Hezbollah agree to ceasefire after renewed fighting threatens to derail U.S.-Iran peace talks"
+    },
+    {
+      "link": "https://apple.news/AQLVj4VOrQGCoLUS8pTv0Bg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-19 11:40:27",
+      "pub_time": "2026-06-19 10:50:57",
+      "publication": "The Guardian",
+      "author": "Cate Brown",
+      "headline": "Bill Pulte assumes role of acting director of national intelligence",
+      "article_headline": "Bill Pulte assumes role of acting director of national intelligence"
+    },
+    {
+      "link": "https://apple.news/AfFzhvMo3Roacyu67eLB9eQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-19 11:40:27",
+      "pub_time": "2026-06-19 10:51:25",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "As Juneteenth is celebrated across the U.S., Obama’s presidential center opens in Chicago",
+      "article_headline": "As Juneteenth is celebrated across the U.S., Obama’s presidential center opens in Chicago"
+    },
+    {
+      "link": "https://apple.news/AQLVj4VOrQGCoLUS8pTv0Bg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-19 11:40:27",
+      "pub_time": "2026-06-19 10:49:57",
+      "publication": "The Guardian",
+      "author": "Cate Brown",
+      "headline": "Bill Pulte assumes role of acting director of national intelligence",
+      "article_headline": "Bill Pulte assumes role of acting director of national intelligence"
+    },
+    {
+      "link": "https://apple.news/AfFzhvMo3Roacyu67eLB9eQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-19 11:40:27",
+      "pub_time": "2026-06-19 10:50:25",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "As Juneteenth is celebrated across the U.S., Obama’s presidential center opens in Chicago",
+      "article_headline": "As Juneteenth is celebrated across the U.S., Obama’s presidential center opens in Chicago"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 11:40:27",
+      "pub_time": "2026-06-19 10:50:52",
+      "publication": "Los Angeles Times",
+      "author": "Salvador Hernandez",
+      "headline": "The B-52 bomber is an iconic, aging warhorse. The probe of a fatal crash could influence its future.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 11:40:27",
+      "pub_time": "2026-06-19 10:49:58",
+      "publication": "Los Angeles Times",
+      "author": "Salvador Hernandez",
+      "headline": "The B-52 bomber is an iconic, aging warhorse. The probe of a fatal crash could influence its future.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
