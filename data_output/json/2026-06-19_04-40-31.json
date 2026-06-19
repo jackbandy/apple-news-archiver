@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-19 04:40:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AzOU1JJzdToGvCBvJfoZuIw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-19 04:40:31",
+      "pub_time": "2026-06-19 00:40:33",
+      "publication": "The Guardian",
+      "author": "Patrick Wintour",
+      "headline": "Iran announces plans to bring in maritime fees for Strait of Hormuz",
+      "article_headline": "Iran announces plans to bring in maritime fees for Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AYDx8wXZdTVmAMAcfE-1esg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-19 04:40:31",
+      "pub_time": "2026-06-19 00:41:01",
+      "publication": "ABC News",
+      "author": "Dr. Jade Cobern, Luis Martinez, and Mary Kekatos",
+      "headline": "Flu outbreak at Joint Base San Antonio after Hegseth ends mandatory vaccination",
+      "article_headline": "Flu outbreak at Joint Base San Antonio after Hegseth ends mandatory vaccination"
+    },
+    {
+      "link": "https://apple.news/AN7Y_AuDfTSqbP66kSpyWBQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-19 04:40:31",
+      "pub_time": "2026-06-19 00:41:29",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Labour’s Burnham wins U.K. special election, setting up a showdown with Starmer to lead Britain",
+      "article_headline": "Labour’s Burnham wins U.K. special election, setting up a showdown with Starmer to lead Britain"
+    },
+    {
+      "link": "https://apple.news/AG4vvUF0tQGq-VbNVpAnDAw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-19 04:40:31",
+      "pub_time": "2026-06-19 00:42:02",
+      "publication": "PolitiFact",
+      "author": "Alex Min",
+      "headline": "Juneteenth has been a federal holiday since 2021, but it’s not a paid day off in all 50 states",
+      "article_headline": "Juneteenth has been a federal holiday since 2021, but it’s not a paid day off in all 50 states"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 04:40:31",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Mexico were booed at half-time. Then became the first team to qualify for World Cup knockouts.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 04:40:31",
+      "pub_time": "",
+      "publication": "Rolling Stone",
+      "author": "",
+      "headline": "Her son died of a rare bone cancer. Is this radioactive-waste site to blame?, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A0HUemoHfTl6c74E1kULiNw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-19 04:40:31",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Mayor Johnson proposes $425 million TIF subsidy for The 78",
+      "article_headline": "Mayor Johnson proposes $425 million TIF subsidy for The 78"
+    }
+  ]
+}

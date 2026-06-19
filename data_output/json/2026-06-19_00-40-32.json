@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-06-19 00:40:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AzOU1JJzdToGvCBvJfoZuIw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-19 00:40:32",
+      "pub_time": "2026-06-19 00:01:34",
+      "publication": "The Guardian",
+      "author": "Patrick Wintour",
+      "headline": "Iran announces plans to bring in maritime fees for Strait of Hormuz",
+      "article_headline": "Iran announces plans to bring in maritime fees for Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AYDx8wXZdTVmAMAcfE-1esg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-19 00:40:32",
+      "pub_time": "2026-06-19 00:02:02",
+      "publication": "ABC News",
+      "author": "Dr. Jade Cobern, Luis Martinez, and Mary Kekatos",
+      "headline": "Flu outbreak at Joint Base San Antonio after Hegseth ends mandatory vaccination",
+      "article_headline": "Flu outbreak at Joint Base San Antonio after Hegseth ends mandatory vaccination"
+    },
+    {
+      "link": "https://apple.news/AN7Y_AuDfTSqbP66kSpyWBQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-19 00:40:32",
+      "pub_time": "2026-06-19 00:02:30",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Labour’s Burnham wins U.K. special election, setting up a showdown with Starmer to lead Britain",
+      "article_headline": "Labour’s Burnham wins U.K. special election, setting up a showdown with Starmer to lead Britain"
+    },
+    {
+      "link": "https://apple.news/AYDx8wXZdTVmAMAcfE-1esg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-19 00:40:32",
+      "pub_time": "2026-06-19 00:02:02",
+      "publication": "ABC News",
+      "author": "Dr. Jade Cobern, Luis Martinez, and Mary Kekatos",
+      "headline": "Flu outbreak at Joint Base San Antonio after Hegseth ends mandatory vaccination",
+      "article_headline": "Flu outbreak at Joint Base San Antonio after Hegseth ends mandatory vaccination"
+    },
+    {
+      "link": "https://apple.news/AN7Y_AuDfTSqbP66kSpyWBQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-19 00:40:32",
+      "pub_time": "2026-06-19 00:02:30",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Labour’s Burnham wins U.K. special election, setting up a showdown with Starmer to lead Britain",
+      "article_headline": "Labour’s Burnham wins U.K. special election, setting up a showdown with Starmer to lead Britain"
+    },
+    {
+      "link": "https://apple.news/AG4vvUF0tQGq-VbNVpAnDAw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-19 00:40:32",
+      "pub_time": "2026-06-19 00:01:57",
+      "publication": "PolitiFact",
+      "author": "Alex Min",
+      "headline": "Juneteenth has been a federal holiday since 2021, but it’s not a paid day off in all 50 states",
+      "article_headline": "Juneteenth has been a federal holiday since 2021, but it’s not a paid day off in all 50 states"
+    },
+    {
+      "link": "https://apple.news/AG4vvUF0tQGq-VbNVpAnDAw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-19 00:40:32",
+      "pub_time": "2026-06-19 00:01:30",
+      "publication": "PolitiFact",
+      "author": "Alex Min",
+      "headline": "Juneteenth has been a federal holiday since 2021, but it’s not a paid day off in all 50 states",
+      "article_headline": "Juneteenth has been a federal holiday since 2021, but it’s not a paid day off in all 50 states"
+    }
+  ]
+}
