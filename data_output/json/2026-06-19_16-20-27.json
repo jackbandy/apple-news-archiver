@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-06-19 16:20:27",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AuQQEWpM9SnKZS9VJP9Owgg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-19 16:20:27",
+      "pub_time": "2026-06-19 16:17:29",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon, Feliz Solomon, and Lara Seligman",
+      "headline": "Israel, Hezbollah agree to renewed ceasefire as Iran peace talks postponed",
+      "article_headline": "Israel, Hezbollah Agree to Renewed Ceasefire as Iran Peace Talks Postponed"
+    },
+    {
+      "link": "https://apple.news/AWk8p6ekPScWS-XBkYb-jwQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-19 16:20:27",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, U.S. advances to World Cup knockout rounds with dominant win over Australia",
+      "article_headline": "USMNT beats Australia, soars into World Cup knockout stage; How’d they do it without Pulisic?"
+    },
+    {
+      "link": "https://apple.news/AEUcQ7V9TS4KV6qhqDgzefQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-19 16:20:27",
+      "pub_time": "",
+      "publication": "Earth.com",
+      "author": "",
+      "headline": "Scientists finally pinpoint the cause of Atlantic Ocean warming",
+      "article_headline": "Scientists finally pinpoint the cause of Atlantic Ocean warming"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 16:20:27",
+      "pub_time": "2026-06-19 16:16:57",
+      "publication": "National Geographic",
+      "author": "Sydney Combs",
+      "headline": "Why we celebrate the end of slavery on Juneteenth",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AE25ujWZPR4a9YNTj0p-ozw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-19 16:20:27",
+      "pub_time": "",
+      "publication": "People",
+      "author": "",
+      "headline": "James Burrows, ‘Cheers’ co-creator and ‘Will & Grace’ director, dies at 85",
+      "article_headline": "James Burrows, ‘Cheers’ co-creator and ‘Will & Grace’ director, dies at 85"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 16:20:27",
+      "pub_time": "2026-06-19 16:17:29",
+      "publication": "The Washington Post",
+      "author": "Carolyn Y. Johnson",
+      "headline": "What 5,500-year-old DNA reveals about the origins of plague",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 16:20:27",
+      "pub_time": "2026-06-18 16:22:44",
+      "publication": "WIRED",
+      "author": "Hugo Lowell",
+      "headline": "Trump Mocked Mark Zuckerberg and Jeff Bezos by Showing Off Fawning Texts",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

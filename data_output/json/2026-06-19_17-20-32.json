@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-06-19 17:20:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AslFfNLbJSUyqxvK0jB7jTg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-19 17:20:32",
+      "pub_time": "2026-06-19 16:50:34",
+      "publication": "Fox News",
+      "author": "Morgan Phillips and Efrat Lachter",
+      "headline": "Israel-Hezbollah ceasefire becomes first test of Trump’s Iran framework after talks delay",
+      "article_headline": "Israel-Hezbollah ceasefire becomes first test of Trump’s Iran framework after talks delay"
+    },
+    {
+      "link": "https://apple.news/AWk8p6ekPScWS-XBkYb-jwQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-19 17:20:32",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, U.S. advances to World Cup knockout rounds with dominant win over Australia",
+      "article_headline": "USMNT beats Australia, soars into World Cup knockout stage; How’d they do it without Pulisic?"
+    },
+    {
+      "link": "https://apple.news/AE6VZ0wgaTrCg59JKAPRNsg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-19 17:20:32",
+      "pub_time": "2026-06-19 16:50:35",
+      "publication": "Reuters",
+      "author": "Gradel Muyisa, Emma Farge, Clement Bonnerot, and Ammu Kannampilly",
+      "headline": "At least 30 deaths at Congo camp show Ebola could be spreading fast",
+      "article_headline": "At least 30 deaths at Congo camp show Ebola could be spreading fast"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 17:20:32",
+      "pub_time": "2026-06-19 16:51:03",
+      "publication": "The Washington Post",
+      "author": "Tara Copp and Michael Birnbaum",
+      "headline": "Trump visits new Air Force One, a luxury gift from Qatar that will soon fly him",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AE25ujWZPR4a9YNTj0p-ozw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-19 17:20:32",
+      "pub_time": "",
+      "publication": "People",
+      "author": "",
+      "headline": "James Burrows, ‘Cheers’ co-creator and ‘Will & Grace’ director, dies at 85",
+      "article_headline": "James Burrows, ‘Cheers’ co-creator and ‘Will & Grace’ director, dies at 85"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 17:20:32",
+      "pub_time": "2026-06-19 16:50:35",
+      "publication": "National Geographic",
+      "author": "Sydney Combs",
+      "headline": "Why we celebrate the end of slavery on Juneteenth",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 17:20:32",
+      "pub_time": "2026-06-19 15:22:50",
+      "publication": "Sports Illustrated",
+      "author": "Grey Whitebloom",
+      "headline": "Every Celebrity Spotted at the USMNT’s World Cup Clash vs. Australia",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

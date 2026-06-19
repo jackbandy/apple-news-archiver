@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-19 13:00:29",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AQOLpQFVySoq31bZZ68aQng",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-19 13:00:29",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Israel and Hezbollah agree to renew their ceasefire, officials say",
+      "article_headline": "Israel and Hezbollah agree to renew their ceasefire, officials say"
+    },
+    {
+      "link": "https://apple.news/AEUcQ7V9TS4KV6qhqDgzefQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-19 13:00:29",
+      "pub_time": "",
+      "publication": "Earth.com",
+      "author": "",
+      "headline": "Scientists finally pinpoint the cause of Atlantic Ocean warming",
+      "article_headline": "Scientists finally pinpoint the cause of Atlantic Ocean warming"
+    },
+    {
+      "link": "https://apple.news/A-qdKT8mOTFO2r-DA8tIkOA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-19 13:00:29",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Christian Pulisic out of USA vs. Australia World Cup game because of calf injury",
+      "article_headline": "Christian Pulisic out of USA vs. Australia World Cup game because of calf injury"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 13:00:29",
+      "pub_time": "2026-06-19 12:44:00",
+      "publication": "National Geographic",
+      "author": "Sydney Combs",
+      "headline": "Why we celebrate the end of slavery on Juneteenth",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 13:00:29",
+      "pub_time": "2026-06-19 12:44:06",
+      "publication": "Los Angeles Times",
+      "author": "Salvador Hernandez",
+      "headline": "The B-52 bomber is an iconic, aging warhorse. The probe of a fatal crash could influence its future.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AE4O8o5XQS5yibrYRrUB0iA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-19 13:00:29",
+      "pub_time": "2026-06-19 12:44:06",
+      "publication": "ABC News",
+      "author": "Peter Charalambous",
+      "headline": "Reflecting Pool renovations to cost more than $16 million",
+      "article_headline": "Reflecting Pool renovations to cost more than $16 million"
+    },
+    {
+      "link": "https://apple.news/AE4O8o5XQS5yibrYRrUB0iA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-19 13:00:29",
+      "pub_time": "",
+      "publication": "Chicago Tribune",
+      "author": "",
+      "headline": "Local News, Chicago, Only halfway through the year, Illinois’s tornado tally closes in on record of 142",
+      "article_headline": "Reflecting Pool renovations to cost more than $16 million"
+    }
+  ]
+}

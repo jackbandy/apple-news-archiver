@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-06-19 12:40:31",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AQOLpQFVySoq31bZZ68aQng",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-19 12:40:31",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Israel and Hezbollah agree to renew their ceasefire, officials say",
+      "article_headline": "Israel and Hezbollah agree to renew their ceasefire, officials say"
+    },
+    {
+      "link": "https://apple.news/AQLVj4VOrQGCoLUS8pTv0Bg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-19 12:40:31",
+      "pub_time": "2026-06-19 12:24:01",
+      "publication": "The Guardian",
+      "author": "Cate Brown",
+      "headline": "Bill Pulte assumes role of acting director of national intelligence",
+      "article_headline": "Bill Pulte assumes role of acting director of national intelligence"
+    },
+    {
+      "link": "https://apple.news/AQLVj4VOrQGCoLUS8pTv0Bg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-19 12:40:31",
+      "pub_time": "2026-06-19 12:23:34",
+      "publication": "The Guardian",
+      "author": "Cate Brown",
+      "headline": "Bill Pulte assumes role of acting director of national intelligence",
+      "article_headline": "Bill Pulte assumes role of acting director of national intelligence"
+    },
+    {
+      "link": "https://apple.news/AEUcQ7V9TS4KV6qhqDgzefQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-19 12:40:31",
+      "pub_time": "",
+      "publication": "Earth.com",
+      "author": "",
+      "headline": "Scientists finally pinpoint the cause of Atlantic Ocean warming",
+      "article_headline": "Scientists finally pinpoint the cause of Atlantic Ocean warming"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 12:40:31",
+      "pub_time": "2026-06-19 12:24:30",
+      "publication": "National Geographic",
+      "author": "Sydney Combs",
+      "headline": "Why we celebrate the end of slavery on Juneteenth",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 12:40:31",
+      "pub_time": "2026-06-19 12:23:35",
+      "publication": "National Geographic",
+      "author": "Sydney Combs",
+      "headline": "Why we celebrate the end of slavery on Juneteenth",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-19 12:40:31",
+      "pub_time": "2026-06-19 12:23:35",
+      "publication": "Los Angeles Times",
+      "author": "Salvador Hernandez",
+      "headline": "The B-52 bomber is an iconic, aging warhorse. The probe of a fatal crash could influence its future.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ap5_o2mp3RCalzwSvqYvdeA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-19 12:40:31",
+      "pub_time": "2026-06-19 10:43:10",
+      "publication": "HuffPost",
+      "author": "Monica Torres",
+      "headline": "This Is What A Grandchild Will ACTUALLY Remember About Their Grandparents",
+      "article_headline": "This Is What A Grandchild Will ACTUALLY Remember About Their Grandparents"
+    },
+    {
+      "link": "https://apple.news/ADBF5kcKWRuWHVEPXZWQZOg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-19 12:40:31",
+      "pub_time": "2026-06-18 22:43:38",
+      "publication": "BuzzFeed",
+      "author": "Alana Nicole",
+      "headline": "Frugal People Are Sharing The 1 Thing They Absolutely Refuse To Spend Money On, And Honestly, They're Right",
+      "article_headline": "Frugal People Are Sharing The 1 Thing They Absolutely Refuse To Spend Money On, And Honestly, They're Right"
+    },
+    {
+      "link": "https://apple.news/Ap5_o2mp3RCalzwSvqYvdeA",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-19 12:40:31",
+      "pub_time": "2026-06-19 09:44:11",
+      "publication": "HuffPost",
+      "author": "Monica Torres",
+      "headline": "This Is What A Grandchild Will ACTUALLY Remember About Their Grandparents",
+      "article_headline": "This Is What A Grandchild Will ACTUALLY Remember About Their Grandparents"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-19 12:40:31",
+      "pub_time": "2026-06-18 12:44:39",
+      "publication": "",
+      "author": "Janine Henni",
+      "headline": "Kate Middleton and Prince William's New Picture May Have Shown Something for the First Time",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
