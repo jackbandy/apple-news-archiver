@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-20 12:00:28",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AgmHxwBIsRb--PwBOsRKhIg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-20 12:00:28",
+      "pub_time": "2026-06-20 11:00:30",
+      "publication": "The Wall Street Journal",
+      "author": "Andrew Dowell",
+      "headline": "Iran closes Strait of Hormuz as fighting flares again in Lebanon",
+      "article_headline": "Iran closes Strait of Hormuz as fighting flares again in Lebanon"
+    },
+    {
+      "link": "https://apple.news/A1qpg9bljTY243eyNTcafTA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-20 12:00:28",
+      "pub_time": "2026-06-20 11:00:57",
+      "publication": "POLITICO",
+      "author": "Ibrahim Naber",
+      "headline": "“This war has now reached your homes”: Ukraine’s startling new message for Russia",
+      "article_headline": "“This war has now reached your homes”: Ukraine’s startling new message for Russia"
+    },
+    {
+      "link": "https://apple.news/AGVZlf8UgRROmaBAnN04soQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-20 12:00:28",
+      "pub_time": "2026-06-20 11:01:24",
+      "publication": "NPR",
+      "author": "Ava Berger",
+      "headline": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews",
+      "article_headline": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-20 12:00:28",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Paraguay’s Miguel Almirón gets first-ever red card for covering mouth in confrontational situation",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AOIm28cReQDupycno59VWjg?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RNMk5BclBsOFN4YWFRTktQTGNvZXZRI25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-20 12:00:28",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Health, Nearly all Americans share this heart-disease risk factor, and new guidelines will help doctors catch it. Plus, more medical breakthroughs., Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-20 12:00:28",
+      "pub_time": "2026-06-20 11:02:29",
+      "publication": "The Wall Street Journal",
+      "author": "Anne Tergesen",
+      "headline": "The retirement tax break that most people overlook",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-20 12:00:28",
+      "pub_time": "",
+      "publication": "The songs that unexpectedly changed America",
+      "author": "",
+      "headline": "A look as the U.S. turns 250.,  Play Now  23 min",
+      "article_headline": ""
+    }
+  ]
+}

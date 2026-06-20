@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-06-20 08:40:27",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Augifq6pjR8ys59sS5PEZhw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-20 08:40:27",
+      "pub_time": "2026-06-20 08:31:28",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk, Jana Choukeir, and Steve Holland",
+      "headline": "Israeli strikes kill 16 in Lebanon after truce, prospect of U.S.-Iran talks unclear",
+      "article_headline": "Israeli strikes kill 16 in Lebanon after truce, prospect of U.S.-Iran talks unclear"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-20 08:40:27",
+      "pub_time": "2026-06-20 08:31:56",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Osipovich",
+      "headline": "Russia faces spreading fuel shortages after Ukrainian drones pummel refineries",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AGVZlf8UgRROmaBAnN04soQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-20 08:40:27",
+      "pub_time": "2026-06-20 08:32:01",
+      "publication": "NPR",
+      "author": "Ava Berger",
+      "headline": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews",
+      "article_headline": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-20 08:40:27",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Paraguay’s Miguel Almirón gets first-ever red card for covering mouth in situation of confrontation",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AGVZlf8UgRROmaBAnN04soQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-20 08:40:27",
+      "pub_time": "2026-06-20 08:31:35",
+      "publication": "NPR",
+      "author": "Ava Berger",
+      "headline": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews",
+      "article_headline": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews"
+    },
+    {
+      "link": "https://apple.news/AOIm28cReQDupycno59VWjg?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RNMk5BclBsOFN4YWFRTktQTGNvZXZRI25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-20 08:40:27",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Health, Nearly all Americans share this heart-disease risk factor. New guidelines will help doctors catch it., Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-20 08:40:27",
+      "pub_time": "2026-06-20 08:32:29",
+      "publication": "Bloomberg Businessweek",
+      "author": "Stacey Vanek Smith and Deena Shanker",
+      "headline": "The infuriating rise of the $8 ice-cream cone",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
