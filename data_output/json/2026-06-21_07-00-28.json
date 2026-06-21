@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-21 07:00:28",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A7rBGu2n5SM6jEAexihu-nA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-21 07:00:28",
+      "pub_time": "2026-06-21 06:15:30",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk, Dave Graham, and Tala Ramadan",
+      "headline": "Vance, Iranians in Switzerland for first talks, overshadowed by closure of Strait of Hormuz",
+      "article_headline": "Vance, Iranians in Switzerland for first talks, overshadowed by closure of Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AOKNmhWcOQamdAUMxxkMTag",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-21 07:00:28",
+      "pub_time": "2026-06-21 06:15:58",
+      "publication": "The Washington Post",
+      "author": "Cat Zakrzewski and Maura Judkis",
+      "headline": "Trump likely to drain Reflecting Pool again, following peeling paint and algae",
+      "article_headline": "Trump likely to drain Reflecting Pool again, following peeling paint and algae"
+    },
+    {
+      "link": "https://apple.news/ANluKzBvSQNy6g0Pw8QqqSQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-21 07:00:28",
+      "pub_time": "2026-06-21 06:16:26",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents",
+      "article_headline": "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents"
+    },
+    {
+      "link": "https://apple.news/AOKNmhWcOQamdAUMxxkMTag",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-21 07:00:28",
+      "pub_time": "2026-06-21 06:15:58",
+      "publication": "The Washington Post",
+      "author": "Cat Zakrzewski and Maura Judkis",
+      "headline": "Trump likely to drain Reflecting Pool again, following peeling paint and algae",
+      "article_headline": "Trump likely to drain Reflecting Pool again, following peeling paint and algae"
+    },
+    {
+      "link": "https://apple.news/ANluKzBvSQNy6g0Pw8QqqSQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-21 07:00:28",
+      "pub_time": "2026-06-21 06:16:26",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents",
+      "article_headline": "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-21 07:00:28",
+      "pub_time": "2026-06-21 06:16:53",
+      "publication": "WIRED",
+      "author": "Isabella Ward",
+      "headline": "The most promising Ebola vaccine has been sitting on the shelf for 15 years",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-21 07:00:28",
+      "pub_time": "2026-06-21 06:15:58",
+      "publication": "WIRED",
+      "author": "Isabella Ward",
+      "headline": "The most promising Ebola vaccine has been sitting on the shelf for 15 years",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAB03QgdCRxGjXAJmIVaZag",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-21 07:00:28",
+      "pub_time": "2026-06-21 01:03:10",
+      "publication": "InStyle",
+      "author": "Ama Kwarteng and Emma Greene",
+      "headline": "We Tested 40+ Shampoos for Thinning Hair, But These 11 Grew Thicker, Healthier Hair in 8 Weeks or Less",
+      "article_headline": "We Tested 40+ Shampoos for Thinning Hair, But These 11 Grew Thicker, Healthier Hair in 8 Weeks or Less"
+    },
+    {
+      "link": "https://apple.news/AO2BcNQIXRfeEBJR-sMCQOQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-21 07:00:28",
+      "pub_time": "2026-06-21 05:03:38",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "The 'magic number' for a comfortable retirement just got bigger",
+      "article_headline": "The 'magic number' for a comfortable retirement just got bigger"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-21 07:00:28",
+      "pub_time": "2026-06-20 07:04:05",
+      "publication": "",
+      "author": "Lucy Notarantonio",
+      "headline": "Most Who Stop GLP-1 Drugs Like Ozempic Face the Same Fate—Expert Explains",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-21 07:00:28",
+      "pub_time": "2026-06-20 09:04:05",
+      "publication": "",
+      "author": "Alicia Geigel",
+      "headline": "The 71-Cent Hack That Magically Erased Stubborn Hard Water Stains From My Toilet And Saved Me Hours Of Scrubbing",
+      "article_headline": ""
+    }
+  ]
+}

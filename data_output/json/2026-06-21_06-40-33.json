@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-21 06:40:33",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A7rBGu2n5SM6jEAexihu-nA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-21 06:40:33",
+      "pub_time": "2026-06-21 06:15:34",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk, Dave Graham, and Tala Ramadan",
+      "headline": "Vance, Iranians in Switzerland for first talks, overshadowed by closure of Strait of Hormuz",
+      "article_headline": "Vance, Iranians in Switzerland for first talks, overshadowed by closure of Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AOKNmhWcOQamdAUMxxkMTag",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-21 06:40:33",
+      "pub_time": "2026-06-21 06:16:02",
+      "publication": "The Washington Post",
+      "author": "Cat Zakrzewski and Maura Judkis",
+      "headline": "Trump likely to drain Reflecting Pool again, following peeling paint and algae",
+      "article_headline": "Trump likely to drain Reflecting Pool again, following peeling paint and algae"
+    },
+    {
+      "link": "https://apple.news/ANluKzBvSQNy6g0Pw8QqqSQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-21 06:40:33",
+      "pub_time": "2026-06-21 06:16:30",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents",
+      "article_headline": "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents"
+    },
+    {
+      "link": "https://apple.news/AOKNmhWcOQamdAUMxxkMTag",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-21 06:40:33",
+      "pub_time": "2026-06-21 06:16:03",
+      "publication": "The Washington Post",
+      "author": "Cat Zakrzewski and Maura Judkis",
+      "headline": "Trump likely to drain Reflecting Pool again, following peeling paint and algae",
+      "article_headline": "Trump likely to drain Reflecting Pool again, following peeling paint and algae"
+    },
+    {
+      "link": "https://apple.news/ANluKzBvSQNy6g0Pw8QqqSQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-21 06:40:33",
+      "pub_time": "2026-06-21 06:16:30",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents",
+      "article_headline": "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-21 06:40:33",
+      "pub_time": "2026-06-21 06:15:58",
+      "publication": "WIRED",
+      "author": "Isabella Ward",
+      "headline": "The most promising Ebola vaccine has been sitting on the shelf for 15 years",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-21 06:40:33",
+      "pub_time": "2026-06-21 06:15:03",
+      "publication": "WIRED",
+      "author": "Isabella Ward",
+      "headline": "The most promising Ebola vaccine has been sitting on the shelf for 15 years",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
