@@ -1,0 +1,119 @@
+{
+  "run_time": "2026-06-20 21:20:32",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AgmHxwBIsRb--PwBOsRKhIg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-20 21:20:32",
+      "pub_time": "2026-06-20 20:55:34",
+      "publication": "The Wall Street Journal",
+      "author": "Andrew Dowell and Robbie Gramer",
+      "headline": "Vance heads to peace talks, after Iran says it closed Strait of Hormuz",
+      "article_headline": "Vance heads to peace talks, after Iran says it closed Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AR2EG36h1RbCC_hpvMy1srQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-20 21:20:32",
+      "pub_time": "2026-06-20 20:56:01",
+      "publication": "FOX Weather",
+      "author": "Angela Fortuna",
+      "headline": "Extreme heat to grip the Pacific Northwest with millions at risk of triple-digit temperatures",
+      "article_headline": "Extreme heat to grip the Pacific Northwest with millions at risk of triple-digit temperatures"
+    },
+    {
+      "link": "https://apple.news/Atx7dN8JNTh20XqqlPALoiA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-20 21:20:32",
+      "pub_time": "2026-06-20 20:56:28",
+      "publication": "The Guardian",
+      "author": "Anna Betts",
+      "headline": "Trump acknowledges “real problems” at reflecting pool after makeover, blaming “vandalism”",
+      "article_headline": "Trump acknowledges “real problems” at reflecting pool after makeover, blaming “vandalism”"
+    },
+    {
+      "link": "https://apple.news/AR2EG36h1RbCC_hpvMy1srQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-20 21:20:32",
+      "pub_time": "2026-06-20 20:56:02",
+      "publication": "FOX Weather",
+      "author": "Angela Fortuna",
+      "headline": "Extreme heat to grip the Pacific Northwest with millions at risk of triple-digit temperatures",
+      "article_headline": "Extreme heat to grip the Pacific Northwest with millions at risk of triple-digit temperatures"
+    },
+    {
+      "link": "https://apple.news/Atx7dN8JNTh20XqqlPALoiA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-20 21:20:32",
+      "pub_time": "2026-06-20 20:56:29",
+      "publication": "The Guardian",
+      "author": "Anna Betts",
+      "headline": "Trump acknowledges “real problems” at reflecting pool after makeover, blaming “vandalism”",
+      "article_headline": "Trump acknowledges “real problems” at reflecting pool after makeover, blaming “vandalism”"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-20 21:20:32",
+      "pub_time": "2026-06-20 20:56:57",
+      "publication": "WIRED",
+      "author": "Isabella Ward",
+      "headline": "The most promising ebola vaccine has been sitting on the shelf for 15 years",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-20 21:20:32",
+      "pub_time": "2026-06-20 20:56:03",
+      "publication": "WIRED",
+      "author": "Isabella Ward",
+      "headline": "The most promising ebola vaccine has been sitting on the shelf for 15 years",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AMZF0-FEmS9akAnk7vKNacA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-20 21:20:32",
+      "pub_time": "2026-06-20 16:23:51",
+      "publication": "People",
+      "author": "Toria Sheffield",
+      "headline": "An Elderly Woman Lay Injured Outside for 16 Hours, Then 2 Teens Happened to Ride By",
+      "article_headline": "An Elderly Woman Lay Injured Outside for 16 Hours, Then 2 Teens Happened to Ride By"
+    },
+    {
+      "link": "https://apple.news/Ad4H3H7jGSzi8Iw0d7Yiz9Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-20 21:20:32",
+      "pub_time": "2026-06-20 18:24:24",
+      "publication": "BuzzFeed",
+      "author": "Hannah Marder",
+      "headline": "\"We Found KKK Robes In His Stuff\": 54 Jaw-Dropping Secrets That Came Out After Someone Died",
+      "article_headline": "\"We Found KKK Robes In His Stuff\": 54 Jaw-Dropping Secrets That Came Out After Someone Died"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-20 21:20:32",
+      "pub_time": "2026-06-20 13:24:51",
+      "publication": "",
+      "author": "Eva Geitheim",
+      "headline": "The NFL Is Implementing a New Strategy to Improve Officiating—but There Are Concerns",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

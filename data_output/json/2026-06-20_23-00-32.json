@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-20 23:00:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A7rBGu2n5SM6jEAexihu-nA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-20 23:00:32",
+      "pub_time": "2026-06-20 22:35:34",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk, Jana Choukeir, Ahmed Tolba, and Steve Holland",
+      "headline": "U.S. disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland",
+      "article_headline": "U.S. disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland"
+    },
+    {
+      "link": "https://apple.news/AOKNmhWcOQamdAUMxxkMTag",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-20 23:00:32",
+      "pub_time": "2026-06-20 22:36:02",
+      "publication": "The Washington Post",
+      "author": "Cat Zakrzewski and Maura Judkis",
+      "headline": "Trump likely to drain Reflecting Pool again, following peeling paint and algae",
+      "article_headline": "Trump likely to drain Reflecting Pool again, following peeling paint and algae"
+    },
+    {
+      "link": "https://apple.news/ANluKzBvSQNy6g0Pw8QqqSQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-20 23:00:32",
+      "pub_time": "2026-06-20 22:36:29",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents",
+      "article_headline": "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents"
+    },
+    {
+      "link": "https://apple.news/AOKNmhWcOQamdAUMxxkMTag",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-20 23:00:32",
+      "pub_time": "2026-06-20 22:36:02",
+      "publication": "The Washington Post",
+      "author": "Cat Zakrzewski and Maura Judkis",
+      "headline": "Trump likely to drain Reflecting Pool again, following peeling paint and algae",
+      "article_headline": "Trump likely to drain Reflecting Pool again, following peeling paint and algae"
+    },
+    {
+      "link": "https://apple.news/ANluKzBvSQNy6g0Pw8QqqSQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-20 23:00:32",
+      "pub_time": "2026-06-20 22:36:30",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents",
+      "article_headline": "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-20 23:00:32",
+      "pub_time": "2026-06-20 22:36:57",
+      "publication": "WIRED",
+      "author": "Isabella Ward",
+      "headline": "The most promising ebola vaccine has been sitting on the shelf for 15 years",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-20 23:00:32",
+      "pub_time": "2026-06-20 22:36:03",
+      "publication": "WIRED",
+      "author": "Isabella Ward",
+      "headline": "The most promising ebola vaccine has been sitting on the shelf for 15 years",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AMZF0-FEmS9akAnk7vKNacA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-20 23:00:32",
+      "pub_time": "2026-06-20 16:03:14",
+      "publication": "People",
+      "author": "Toria Sheffield",
+      "headline": "An Elderly Woman Lay Injured Outside for 16 Hours, Then 2 Teens Happened to Ride By",
+      "article_headline": "An Elderly Woman Lay Injured Outside for 16 Hours, Then 2 Teens Happened to Ride By"
+    },
+    {
+      "link": "https://apple.news/A4jphwT_fRKawegpeyd2v8w",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-20 23:00:32",
+      "pub_time": "2026-06-20 14:03:41",
+      "publication": "HuffPost",
+      "author": "Hilary Hanson",
+      "headline": "Woman Jumped Into Crocodile Pit To Save 3-Year-Old Who Stranger Put Into Enclosure",
+      "article_headline": "Woman Jumped Into Crocodile Pit To Save 3-Year-Old Who Stranger Put Into Enclosure"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-20 23:00:32",
+      "pub_time": "2026-06-20 13:04:15",
+      "publication": "",
+      "author": "Eva Geitheim",
+      "headline": "The NFL Is Implementing a New Strategy to Improve Officiating—but There Are Concerns",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AxRgMcXqVSoG4tuoLDdBOVQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-20 23:00:32",
+      "pub_time": "2026-06-20 07:04:15",
+      "publication": "CBS News",
+      "author": "Kerry Breen",
+      "headline": "Strange symptom leads to man's Stage IV cancer diagnosis",
+      "article_headline": "Strange symptom leads to man's Stage IV cancer diagnosis"
+    }
+  ]
+}

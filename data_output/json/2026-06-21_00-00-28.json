@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-21 00:00:28",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A7rBGu2n5SM6jEAexihu-nA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-21 00:00:28",
+      "pub_time": "2026-06-20 23:00:30",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk, Jana Choukeir, Ahmed Tolba, and Steve Holland",
+      "headline": "U.S. disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland",
+      "article_headline": "U.S. disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland"
+    },
+    {
+      "link": "https://apple.news/AOKNmhWcOQamdAUMxxkMTag",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-21 00:00:28",
+      "pub_time": "2026-06-20 23:00:57",
+      "publication": "The Washington Post",
+      "author": "Cat Zakrzewski and Maura Judkis",
+      "headline": "Trump likely to drain Reflecting Pool again, following peeling paint and algae",
+      "article_headline": "Trump likely to drain Reflecting Pool again, following peeling paint and algae"
+    },
+    {
+      "link": "https://apple.news/ANluKzBvSQNy6g0Pw8QqqSQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-21 00:00:28",
+      "pub_time": "2026-06-20 23:01:26",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents",
+      "article_headline": "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-21 00:00:28",
+      "pub_time": "2026-06-20 23:01:58",
+      "publication": "WIRED",
+      "author": "Isabella Ward",
+      "headline": "The most promising ebola vaccine has been sitting on the shelf for 15 years",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/APqDIBnTETp6Pg4u-XRVpgQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-21 00:00:28",
+      "pub_time": "2026-06-20 23:02:03",
+      "publication": "NPR",
+      "author": "Sophie Neiman",
+      "headline": "These nuns spent a lifetime helping others. In their last years, who will help them?",
+      "article_headline": "These nuns spent a lifetime helping others. In their last years, who will help them?"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-21 00:00:28",
+      "pub_time": "",
+      "publication": "GQ",
+      "author": "",
+      "headline": "He’s the food world’s ultimate nepo baby — and he’s already earned two Michelin stars, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AJI9T6309QiCSRlMH5EfAfg",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-21 00:00:28",
+      "pub_time": "",
+      "publication": "The songs that unexpectedly changed America",
+      "author": "",
+      "headline": "A look as the U.S. turns 250.,  Play Now  23 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AMZF0-FEmS9akAnk7vKNacA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-21 00:00:28",
+      "pub_time": "2026-06-20 16:03:17",
+      "publication": "People",
+      "author": "Toria Sheffield",
+      "headline": "An Elderly Woman Lay Injured Outside for 16 Hours, Then 2 Teens Happened to Ride By",
+      "article_headline": "An Elderly Woman Lay Injured Outside for 16 Hours, Then 2 Teens Happened to Ride By"
+    },
+    {
+      "link": "https://apple.news/A4jphwT_fRKawegpeyd2v8w",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-21 00:00:28",
+      "pub_time": "2026-06-20 14:03:45",
+      "publication": "HuffPost",
+      "author": "Hilary Hanson",
+      "headline": "Woman Jumped Into Crocodile Pit To Save 3-Year-Old Who Stranger Put Into Enclosure",
+      "article_headline": "Woman Jumped Into Crocodile Pit To Save 3-Year-Old Who Stranger Put Into Enclosure"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-21 00:00:28",
+      "pub_time": "2026-06-20 00:04:18",
+      "publication": "",
+      "author": "Lucy Notarantonio",
+      "headline": "Most Who Stop GLP-1 Drugs Like Ozempic Face the Same Fate—Expert Explains",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AxRgMcXqVSoG4tuoLDdBOVQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-21 00:00:28",
+      "pub_time": "2026-06-20 07:04:18",
+      "publication": "CBS News",
+      "author": "Kerry Breen",
+      "headline": "Strange symptom leads to man's Stage IV cancer diagnosis",
+      "article_headline": "Strange symptom leads to man's Stage IV cancer diagnosis"
+    }
+  ]
+}

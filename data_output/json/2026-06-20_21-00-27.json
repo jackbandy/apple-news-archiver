@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-20 21:00:27",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AgmHxwBIsRb--PwBOsRKhIg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-20 21:00:27",
+      "pub_time": "2026-06-20 20:55:29",
+      "publication": "The Wall Street Journal",
+      "author": "Andrew Dowell and Robbie Gramer",
+      "headline": "Vance heads to peace talks, after Iran says it closed Strait of Hormuz",
+      "article_headline": "Vance heads to peace talks, after Iran says it closed Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AR2EG36h1RbCC_hpvMy1srQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-20 21:00:27",
+      "pub_time": "2026-06-20 20:55:57",
+      "publication": "FOX Weather",
+      "author": "Angela Fortuna",
+      "headline": "Extreme heat to grip the Pacific Southwest with millions at risk of triple-digit temperatures",
+      "article_headline": "Extreme heat to grip the Pacific Southwest with millions at risk of triple-digit temperatures"
+    },
+    {
+      "link": "https://apple.news/Atx7dN8JNTh20XqqlPALoiA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-20 21:00:27",
+      "pub_time": "2026-06-20 20:56:24",
+      "publication": "The Guardian",
+      "author": "Anna Betts",
+      "headline": "Trump acknowledges “real problems” at reflecting pool after makeover, blaming “vandalism”",
+      "article_headline": "Trump acknowledges “real problems” at reflecting pool after makeover, blaming “vandalism”"
+    },
+    {
+      "link": "https://apple.news/AR2EG36h1RbCC_hpvMy1srQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-20 21:00:27",
+      "pub_time": "2026-06-20 20:55:57",
+      "publication": "FOX Weather",
+      "author": "Angela Fortuna",
+      "headline": "Extreme heat to grip the Pacific Southwest with millions at risk of triple-digit temperatures",
+      "article_headline": "Extreme heat to grip the Pacific Southwest with millions at risk of triple-digit temperatures"
+    },
+    {
+      "link": "https://apple.news/Atx7dN8JNTh20XqqlPALoiA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-20 21:00:27",
+      "pub_time": "2026-06-20 20:56:24",
+      "publication": "The Guardian",
+      "author": "Anna Betts",
+      "headline": "Trump acknowledges “real problems” at reflecting pool after makeover, blaming “vandalism”",
+      "article_headline": "Trump acknowledges “real problems” at reflecting pool after makeover, blaming “vandalism”"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-20 21:00:27",
+      "pub_time": "2026-06-20 20:56:52",
+      "publication": "WIRED",
+      "author": "Isabella Ward",
+      "headline": "The most promising ebola vaccine has been sitting on the shelf for 15 years",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-20 21:00:27",
+      "pub_time": "2026-06-20 20:56:02",
+      "publication": "WIRED",
+      "author": "Isabella Ward",
+      "headline": "The most promising ebola vaccine has been sitting on the shelf for 15 years",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
