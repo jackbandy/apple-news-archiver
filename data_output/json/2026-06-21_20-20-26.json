@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-06-21 20:20:26",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ah4-k8lruTqujm78aDyfGZg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-21 20:20:26",
+      "pub_time": "2026-06-21 20:01:28",
+      "publication": "NBC News",
+      "author": "Mark Hodge, Amina Kilpatrick, and Jeremy Mikula",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/ANC42gOwbQnaHJUB939NWSQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-21 20:20:26",
+      "pub_time": "2026-06-21 20:01:56",
+      "publication": "POLITICO",
+      "author": "Eric Bazail-Eimil",
+      "headline": "DACA renewal delays fuel worries Trump is quietly undermining “Dreamers”",
+      "article_headline": "DACA renewal delays fuel worries Trump is quietly undermining “Dreamers”"
+    },
+    {
+      "link": "https://apple.news/AjOwMj2AtQFmiFCgUJabqcg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-21 20:20:26",
+      "pub_time": "2026-06-21 20:02:24",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump-backed de la Espriella holds razor-thin lead in Colombia's election as rival challenges vote",
+      "article_headline": "Trump-backed de la Espriella holds razor-thin lead in Colombia's election as rival challenges vote"
+    },
+    {
+      "link": "https://apple.news/ANC42gOwbQnaHJUB939NWSQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-21 20:20:26",
+      "pub_time": "2026-06-21 20:00:56",
+      "publication": "POLITICO",
+      "author": "Eric Bazail-Eimil",
+      "headline": "DACA renewal delays fuel worries Trump is quietly undermining “Dreamers”",
+      "article_headline": "DACA renewal delays fuel worries Trump is quietly undermining “Dreamers”"
+    },
+    {
+      "link": "https://apple.news/AjOwMj2AtQFmiFCgUJabqcg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-21 20:20:26",
+      "pub_time": "2026-06-21 20:01:23",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump-backed de la Espriella holds razor-thin lead in Colombia's election as rival challenges vote",
+      "article_headline": "Trump-backed de la Espriella holds razor-thin lead in Colombia's election as rival challenges vote"
+    },
+    {
+      "link": "https://apple.news/AmTRipgPcTrC5HDg8lMUB_w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-21 20:20:26",
+      "pub_time": "2026-06-21 20:01:50",
+      "publication": "The Guardian",
+      "author": "Jon Henley",
+      "headline": "France cancels events and restricts alcohol consumption amid brutal heatwave",
+      "article_headline": "France cancels events and restricts alcohol consumption amid brutal heatwave"
+    },
+    {
+      "link": "https://apple.news/AmTRipgPcTrC5HDg8lMUB_w",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-21 20:20:26",
+      "pub_time": "2026-06-21 20:01:23",
+      "publication": "The Guardian",
+      "author": "Jon Henley",
+      "headline": "France cancels events and restricts alcohol consumption amid brutal heatwave",
+      "article_headline": "France cancels events and restricts alcohol consumption amid brutal heatwave"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-21 20:40:33",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Ah4-k8lruTqujm78aDyfGZg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-21 20:40:33",
+      "pub_time": "2026-06-21 20:30:35",
+      "publication": "NBC News",
+      "author": "Mark Hodge, Amina Kilpatrick, and Jeremy Mikula",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/ANC42gOwbQnaHJUB939NWSQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-21 20:40:33",
+      "pub_time": "2026-06-21 20:31:03",
+      "publication": "POLITICO",
+      "author": "Eric Bazail-Eimil",
+      "headline": "DACA renewal delays fuel worries Trump is quietly undermining “Dreamers”",
+      "article_headline": "DACA renewal delays fuel worries Trump is quietly undermining “Dreamers”"
+    },
+    {
+      "link": "https://apple.news/AjOwMj2AtQFmiFCgUJabqcg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-21 20:40:33",
+      "pub_time": "2026-06-21 20:31:31",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump-backed de la Espriella holds razor-thin lead in Colombia's election as rival challenges vote",
+      "article_headline": "Trump-backed de la Espriella holds razor-thin lead in Colombia's election as rival challenges vote"
+    },
+    {
+      "link": "https://apple.news/ANC42gOwbQnaHJUB939NWSQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-21 20:40:33",
+      "pub_time": "2026-06-21 20:31:03",
+      "publication": "POLITICO",
+      "author": "Eric Bazail-Eimil",
+      "headline": "DACA renewal delays fuel worries Trump is quietly undermining “Dreamers”",
+      "article_headline": "DACA renewal delays fuel worries Trump is quietly undermining “Dreamers”"
+    },
+    {
+      "link": "https://apple.news/AjOwMj2AtQFmiFCgUJabqcg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-21 20:40:33",
+      "pub_time": "2026-06-21 20:31:31",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump-backed de la Espriella holds razor-thin lead in Colombia's election as rival challenges vote",
+      "article_headline": "Trump-backed de la Espriella holds razor-thin lead in Colombia's election as rival challenges vote"
+    },
+    {
+      "link": "https://apple.news/AmTRipgPcTrC5HDg8lMUB_w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-21 20:40:33",
+      "pub_time": "2026-06-21 20:30:58",
+      "publication": "The Guardian",
+      "author": "Jon Henley",
+      "headline": "France cancels events and restricts alcohol consumption amid brutal heatwave",
+      "article_headline": "France cancels events and restricts alcohol consumption amid brutal heatwave"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-21 20:40:33",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Cape Verde do it again — World Cup debutants stun Uruguay to take big step towards knockout stage",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AgvS668R3RgKOEnRMNvLbpA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-21 20:40:33",
+      "pub_time": "2026-06-20 22:44:22",
+      "publication": "BuzzFeed",
+      "author": "Megan Liscomb",
+      "headline": "\"I Read It In 3 Hours, And I Cried Throughout The Whole 3 Hours\": People Are Sharing The Best Books They've Read In 2026 So Far",
+      "article_headline": "\"I Read It In 3 Hours, And I Cried Throughout The Whole 3 Hours\": People Are Sharing The Best Books They've Read In 2026 So Far"
+    },
+    {
+      "link": "https://apple.news/ATtEBgPFRTFSQUw4k0DNJ_w",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-21 20:40:33",
+      "pub_time": "2026-06-21 15:44:49",
+      "publication": "Variety",
+      "author": "Jack Dunn",
+      "headline": "Iowa Anchor Dustin Nolan Calls Out 'Sanitized News' as He Quits on Air in Emotional Sign-Off: 'We Have to Take People Out of Their Bubbles'",
+      "article_headline": "Iowa Anchor Dustin Nolan Calls Out 'Sanitized News' as He Quits on Air in Emotional Sign-Off: 'We Have to Take People Out of Their Bubbles'"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-21 20:40:33",
+      "pub_time": "2026-06-20 20:45:23",
+      "publication": "",
+      "author": "Emily Craig",
+      "headline": "The alcohol damage you can reverse in midlife",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_nbuqH_ATeOFcEo-xaBnjA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-21 20:40:33",
+      "pub_time": "2026-06-21 19:45:23",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Senators' deal unites Brady Tkachuk with brother on Panthers",
+      "article_headline": "Senators' deal unites Brady Tkachuk with brother on Panthers"
+    }
+  ]
+}

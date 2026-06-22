@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-21 21:40:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ah4-k8lruTqujm78aDyfGZg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-21 21:40:32",
+      "pub_time": "2026-06-21 20:40:34",
+      "publication": "NBC News",
+      "author": "Mark Hodge, Amina Kilpatrick, and Jeremy Mikula",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/ANC42gOwbQnaHJUB939NWSQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-21 21:40:32",
+      "pub_time": "2026-06-21 20:41:02",
+      "publication": "POLITICO",
+      "author": "Eric Bazail-Eimil",
+      "headline": "DACA renewal delays fuel worries Trump is quietly undermining “Dreamers”",
+      "article_headline": "DACA renewal delays fuel worries Trump is quietly undermining “Dreamers”"
+    },
+    {
+      "link": "https://apple.news/AjOwMj2AtQFmiFCgUJabqcg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-21 21:40:32",
+      "pub_time": "2026-06-21 20:41:29",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump-backed de la Espriella holds razor-thin lead in Colombia's election as rival challenges vote",
+      "article_headline": "Trump-backed de la Espriella holds razor-thin lead in Colombia's election as rival challenges vote"
+    },
+    {
+      "link": "https://apple.news/AmTRipgPcTrC5HDg8lMUB_w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-21 21:40:32",
+      "pub_time": "2026-06-21 20:42:02",
+      "publication": "The Guardian",
+      "author": "Jon Henley",
+      "headline": "France cancels events and restricts alcohol consumption amid brutal heatwave",
+      "article_headline": "France cancels events and restricts alcohol consumption amid brutal heatwave"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-21 21:40:32",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Cape Verde do it again — World Cup debutants stun Uruguay to take big step towards knockout stage",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-21 21:40:32",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "Inside America’s billion-dollar peptides craze — and the race to cash in on the boom, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A0362HWlwTVGUij3LNcfRFQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-21 21:40:32",
+      "pub_time": "",
+      "publication": "Chicago Tribune",
+      "author": "",
+      "headline": "Local News, Chicago, Ford City Mall’s main building shutters for good on Monday, but the site’s future remains in limbo",
+      "article_headline": "Ford City Mall’s main building shutters for good on Monday, but the site’s future remains in limbo"
+    }
+  ]
+}
