@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-22 11:00:33",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A9ihdcPXRSWK7UYWnQMTanA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-22 11:00:33",
+      "pub_time": "2026-06-22 10:53:34",
+      "publication": "The Washington Post",
+      "author": "Isaac Arnsdorf",
+      "headline": "Vance says Iran agrees to nuclear inspections, as under Obama deal",
+      "article_headline": "Vance says Iran agrees to nuclear inspections, as under Obama deal"
+    },
+    {
+      "link": "https://apple.news/Aqq6J8ZsZTcOk800-Q9pz8g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-22 11:00:33",
+      "pub_time": "2026-06-22 10:54:02",
+      "publication": "NBC News",
+      "author": "Henry Austin, Nick Duffy, and Freddie Clayton",
+      "headline": "Keir Starmer resigns as British prime minister, clearing the path for the country’s seventh leader in a decade",
+      "article_headline": "Keir Starmer resigns as British prime minister, clearing the path for the country’s seventh leader in a decade"
+    },
+    {
+      "link": "https://apple.news/Aqq6J8ZsZTcOk800-Q9pz8g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-22 11:00:33",
+      "pub_time": "2026-06-22 10:52:35",
+      "publication": "NBC News",
+      "author": "Henry Austin, Nick Duffy, and Freddie Clayton",
+      "headline": "Keir Starmer resigns as British prime minister, clearing the path for the country’s seventh leader in a decade",
+      "article_headline": "Keir Starmer resigns as British prime minister, clearing the path for the country’s seventh leader in a decade"
+    },
+    {
+      "link": "https://apple.news/A4cGiHi_6TEycgZcvA3S43g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-22 11:00:33",
+      "pub_time": "",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "“A huge grab of power”: how Trump is defying Congress on foreign aid",
+      "article_headline": "“A huge grab of power”: how Trump is defying Congress on foreign aid"
+    },
+    {
+      "link": "https://apple.news/AOXZrRIl6R1WXRKj30E6Rhg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-22 11:00:33",
+      "pub_time": "2026-06-22 10:53:30",
+      "publication": "Rolling Stone",
+      "author": "Dan Hyman",
+      "headline": "Clive Davis, music executive who signed Whitney Houston and Bruce Springsteen, has died at 94",
+      "article_headline": "Clive Davis, music executive who signed Whitney Houston and Bruce Springsteen, has died at 94"
+    },
+    {
+      "link": "https://apple.news/AOXZrRIl6R1WXRKj30E6Rhg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-22 11:00:33",
+      "pub_time": "2026-06-22 10:53:03",
+      "publication": "Rolling Stone",
+      "author": "Dan Hyman",
+      "headline": "Clive Davis, music executive who signed Whitney Houston and Bruce Springsteen, has died at 94",
+      "article_headline": "Clive Davis, music executive who signed Whitney Houston and Bruce Springsteen, has died at 94"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-22 11:00:33",
+      "pub_time": "2026-06-22 10:53:30",
+      "publication": "The Wall Street Journal",
+      "author": "Jacob Passy",
+      "headline": "They can’t fly Spirit anymore, so they’re taking the bus instead",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
