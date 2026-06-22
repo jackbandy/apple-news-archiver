@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-22 04:20:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A90awk4PTTqWXRid1oTnofA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-22 04:20:32",
+      "pub_time": "2026-06-22 03:49:34",
+      "publication": "The Wall Street Journal",
+      "author": "David Luhnow and Max Colchester",
+      "headline": "U.K. Prime Minister Keir Starmer quits amid rebellion",
+      "article_headline": "U.K. Prime Minister Keir Starmer quits amid rebellion"
+    },
+    {
+      "link": "https://apple.news/AFWdPHq8yQDW48XHswMiK9Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-22 04:20:32",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "U.S. and Iran conclude high-level talks in Switzerland",
+      "article_headline": "U.S. and Iran conclude high-level talks in Switzerland"
+    },
+    {
+      "link": "https://apple.news/ABZWQPreQSF2HoAQY5FZnpA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-22 04:20:32",
+      "pub_time": "2026-06-22 03:49:33",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Trump-backed political outsider wins Colombia’s presidential election, initial count shows",
+      "article_headline": "Trump-backed political outsider wins Colombia’s presidential election, initial count shows"
+    },
+    {
+      "link": "https://apple.news/Ar84mJJAISvqQLDh05xyJbA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-22 04:20:32",
+      "pub_time": "2026-06-22 03:50:01",
+      "publication": "NPR",
+      "author": "Jane Arraf",
+      "headline": "Leading Lebanese conservationist dies after Israeli airstrike on her home",
+      "article_headline": "Leading Lebanese conservationist dies after Israeli airstrike on her home"
+    },
+    {
+      "link": "https://apple.news/ABZWQPreQSF2HoAQY5FZnpA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-22 04:20:32",
+      "pub_time": "2026-06-22 03:49:33",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Trump-backed political outsider wins Colombia’s presidential election, initial count shows",
+      "article_headline": "Trump-backed political outsider wins Colombia’s presidential election, initial count shows"
+    },
+    {
+      "link": "https://apple.news/Ar84mJJAISvqQLDh05xyJbA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-22 04:20:32",
+      "pub_time": "2026-06-22 03:50:00",
+      "publication": "NPR",
+      "author": "Jane Arraf",
+      "headline": "Leading Lebanese conservationist dies after Israeli airstrike on her home",
+      "article_headline": "Leading Lebanese conservationist dies after Israeli airstrike on her home"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-22 04:20:32",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Mohamed Salah leads Egypt to historic first World Cup win",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

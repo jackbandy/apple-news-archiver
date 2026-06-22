@@ -1,0 +1,119 @@
+{
+  "run_time": "2026-06-22 03:20:25",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AFWdPHq8yQDW48XHswMiK9Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-22 03:20:25",
+      "pub_time": "2026-06-22 00:20:27",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk, Dave Graham, and Tala Ramadan",
+      "headline": "U.S. and Iran conclude high-level talks in Switzerland",
+      "article_headline": "U.S. and Iran conclude high-level talks in Switzerland"
+    },
+    {
+      "link": "https://apple.news/A9A0TL9mfSructYCy1KkCtA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-22 03:20:25",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Democratic socialists roar back into spotlight with L.A., D.C. races",
+      "article_headline": "Democratic socialists roar back into spotlight with L.A., D.C. races"
+    },
+    {
+      "link": "https://apple.news/ABZWQPreQSF2HoAQY5FZnpA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-22 03:20:25",
+      "pub_time": "2026-06-22 00:21:27",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Trump-backed political outsider wins Colombia’s presidential election, initial count shows",
+      "article_headline": "Trump-backed political outsider wins Colombia’s presidential election, initial count shows"
+    },
+    {
+      "link": "https://apple.news/Ar84mJJAISvqQLDh05xyJbA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-22 03:20:25",
+      "pub_time": "2026-06-22 00:21:54",
+      "publication": "NPR",
+      "author": "Jane Arraf",
+      "headline": "Leading Lebanese conservationist dies after Israeli airstrike on her home",
+      "article_headline": "Leading Lebanese conservationist dies after Israeli airstrike on her home"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-22 03:20:25",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Mohamed Salah leads Egypt to historic first World Cup win",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-22 03:20:25",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "Inside America’s billion-dollar peptides craze — and the race to cash in on the boom, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AK7VXCJssQxO2jwUiSsTuVw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-22 03:20:25",
+      "pub_time": "",
+      "publication": "This record-breaking U.S. soccer team is in uncharted territory",
+      "author": "",
+      "headline": "Meet its breakout star.,  Play Now  35 min",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-22 03:20:25",
+      "pub_time": "2026-06-21 21:23:27",
+      "publication": "",
+      "author": "Chelsea Stewart",
+      "headline": "World Cup Visitors Are Giving Their Brutally Honest Takes On America, And They All Keep Saying The Same Thing",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AAemFObJyQsqw3FMKbFUSlw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-22 03:20:25",
+      "pub_time": "2026-06-21 08:23:43",
+      "publication": "Martha Stewart",
+      "author": "Randi Gollin",
+      "headline": "The No. 1 Bedtime Drink for Deeper Sleep, According to Experts",
+      "article_headline": "The No. 1 Bedtime Drink for Deeper Sleep, According to Experts"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-22 03:20:25",
+      "pub_time": "2026-06-21 08:24:10",
+      "publication": "",
+      "author": "Rachel Burchfield",
+      "headline": "Prince William Beams Alongside Lookalike Daughter Princess Charlotte in Never-Before-Seen Photo Released for Both His 44th Birthday and Father’s Day",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

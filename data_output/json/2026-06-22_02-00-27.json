@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-22 02:00:27",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AFWdPHq8yQDW48XHswMiK9Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-22 02:00:27",
+      "pub_time": "2026-06-22 01:00:29",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk, Dave Graham, and Tala Ramadan",
+      "headline": "U.S. and Iran conclude high-level talks in Switzerland",
+      "article_headline": "U.S. and Iran conclude high-level talks in Switzerland"
+    },
+    {
+      "link": "https://apple.news/A9A0TL9mfSructYCy1KkCtA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-22 02:00:27",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Democratic socialists roar back into spotlight with L.A., D.C. races",
+      "article_headline": "Democratic socialists roar back into spotlight with L.A., D.C. races"
+    },
+    {
+      "link": "https://apple.news/ABZWQPreQSF2HoAQY5FZnpA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-22 02:00:27",
+      "pub_time": "2026-06-22 01:01:30",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Trump-backed political outsider wins Colombia’s presidential election, initial count shows",
+      "article_headline": "Trump-backed political outsider wins Colombia’s presidential election, initial count shows"
+    },
+    {
+      "link": "https://apple.news/Ar84mJJAISvqQLDh05xyJbA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-22 02:00:27",
+      "pub_time": "2026-06-22 01:01:57",
+      "publication": "NPR",
+      "author": "Jane Arraf",
+      "headline": "Leading Lebanese conservationist dies after Israeli airstrike on her home",
+      "article_headline": "Leading Lebanese conservationist dies after Israeli airstrike on her home"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-22 02:00:27",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Mohamed Salah leads Egypt to historic first World Cup win",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-22 02:00:27",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "Inside America’s billion-dollar peptides craze — and the race to cash in on the boom, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AK7VXCJssQxO2jwUiSsTuVw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-22 02:00:27",
+      "pub_time": "",
+      "publication": "This record-breaking U.S. soccer team is in uncharted territory",
+      "author": "",
+      "headline": "Meet its breakout star.,  Play Now  35 min",
+      "article_headline": ""
+    }
+  ]
+}

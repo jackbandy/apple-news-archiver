@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-22 05:00:33",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A90awk4PTTqWXRid1oTnofA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-22 05:00:33",
+      "pub_time": "2026-06-22 04:55:35",
+      "publication": "The Wall Street Journal",
+      "author": "David Luhnow and Max Colchester",
+      "headline": "U.K. Prime Minister Keir Starmer quits amid rebellion",
+      "article_headline": "U.K. Prime Minister Keir Starmer quits amid rebellion"
+    },
+    {
+      "link": "https://apple.news/AFWdPHq8yQDW48XHswMiK9Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-22 05:00:33",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "U.S. and Iran conclude high-level talks in Switzerland",
+      "article_headline": "U.S. and Iran conclude high-level talks in Switzerland"
+    },
+    {
+      "link": "https://apple.news/ABZWQPreQSF2HoAQY5FZnpA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-22 05:00:33",
+      "pub_time": "2026-06-22 04:55:34",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Trump-backed political outsider wins Colombia’s presidential election, initial count shows",
+      "article_headline": "Trump-backed political outsider wins Colombia’s presidential election, initial count shows"
+    },
+    {
+      "link": "https://apple.news/AjlLWsFMrSHyeCdzffbwkvw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-22 05:00:33",
+      "pub_time": "2026-06-22 04:56:01",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say",
+      "article_headline": "Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say"
+    },
+    {
+      "link": "https://apple.news/ABZWQPreQSF2HoAQY5FZnpA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-22 05:00:33",
+      "pub_time": "2026-06-22 04:55:34",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Trump-backed political outsider wins Colombia’s presidential election, initial count shows",
+      "article_headline": "Trump-backed political outsider wins Colombia’s presidential election, initial count shows"
+    },
+    {
+      "link": "https://apple.news/AjlLWsFMrSHyeCdzffbwkvw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-22 05:00:33",
+      "pub_time": "2026-06-22 04:56:01",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say",
+      "article_headline": "Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-22 05:00:33",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Mohamed Salah leads Egypt to historic first World Cup win",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
