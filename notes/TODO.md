@@ -1,26 +1,46 @@
 # TODO
 
-Updated 2026-05-12.
+Updated 2026-06-15. Reviewed by an LLM coding tool (Claude Code) on 2026-06-15, with some stale items resolved and some open decisions surfaced below.
+
+---
+
+## Decisions Needed
+
+These block the dependent work below
+
+- [ ] **D1 — Canonical CSV path.** Two CSVs exist: `docs/data/stories.csv` (the
+  `config_demo.py` default; read directly by the dashboard) and
+  `data_output/stories.csv` (what the current `config_real.py` appears to write,
+  per the working tree). Decide which is the single source of truth:
+  - **Option A:** scraper writes straight into `docs/data/stories.csv` — simplest, but couples each collection run to the published site contents.
+  - **Option B:** scraper writes to `data_output/stories.csv` and a separate step copies/publishes it into `docs/data/` — decouples collection from the site.
+  - Whichever wins, point scraper + backfill + verifier + dashboard at it and delete the other. (Blocks P0 "canonical data outputs".)
+- [ ] **D2 — Public section set.** Which sections are "public"? The scraper can
+  emit `top`, `trending`, `reader_favorites`, `popular`, and region sections
+  (`chicago`, `illinois`, `illinois_politics`); the dashboard only knows the
+  first three. Pick the supported set, then:
+  - Make it config-driven (e.g. dashboard reads available sections from the data) or hard-code the agreed list in both places.
+  - **D2a — Region headers:** keep them behind config (e.g. `EXTRA_SECTION_HEADERS` in `config_real.py`) or drop the hardcoded "Chicago"/"Illinois"/"Illinois Politics" from `get_stories.py` entirely. (Blocks the two P1 "section support" / "region headers" items.)
 
 ---
 
 ## P0 (Blockers Before Advertising / Going Public)
 
-- [ ] Fix repo naming/link drift in the dashboard: `docs/index.html` links to `jackbandy/apple-news-archiver` (header + footer), but this repo is `apple-news-scraper`.
-- [ ] Clarify canonical data outputs: both `data_output/stories.csv` and `docs/data/stories.csv` are in the repo. Pick one canonical CSV path and make everything point at it (scraper, backfill, verifier, dashboard).
-- [ ] Update `README.md`:
+- [x] ~~Fix repo naming/link drift in the dashboard~~ — intentional: dashboard keeps the `apple-news-archiver` naming even though the repo is `apple-news-scraper`. No change needed.
+- [ ] Clarify canonical data outputs: both `data_output/stories.csv` and `docs/data/stories.csv` are in the repo. Pick one canonical CSV path and make everything point at it (scraper, backfill, verifier, dashboard). **→ blocked on decision D1.**
+- [x] Update `README.md`:
   - Document the config system (`config.py` / `config_demo.py` pattern)
   - Mention the live web dashboard in `docs/`
   - Describe the backfill tooling
-  - Fix the cron interval (says every 5 minutes, actual is hourly)
+  - Fix the cron interval (README already shows `*/20`, matching the real 20-min cadence; the "every 5 minutes / hourly" note was stale)
   - Add a "Data" section describing `stories.csv` schema and output format
 
 ## P1 (Correctness / Data Quality)
 
-- [ ] Align section support across scraper + dashboard:
+- [ ] Align section support across scraper + dashboard: **→ blocked on decision D2.**
   - `get_stories.py` can emit `popular`, `chicago`, `illinois`, `illinois_politics`, but the dashboard filter dropdown (`docs/index.html`), stats (`docs/js/data.js`), and coverage (`docs/js/coverage.js`) only account for `top`, `trending`, `reader_favorites`.
   - Decide the “public” section set and make it config-driven (or remove region-specific sections entirely).
-- [ ] Remove / gate region-specific headers: `get_stories.py` hardcodes "Chicago"/"Illinois"/"Illinois Politics". For public use, move these to config (e.g. `EXTRA_SECTION_HEADERS`) or drop them.
+- [ ] Remove / gate region-specific headers: `get_stories.py` hardcodes "Chicago"/"Illinois"/"Illinois Politics". For public use, move these to config (e.g. `EXTRA_SECTION_HEADERS`) or drop them. **→ blocked on decision D2a.**
 - [ ] Implement story label capture (see `notes/scraper-label-fix.md`) — read 3 text elements per cell instead of 1, add `label` column to CSV
 
 ## P2 (Simplification / Consolidation)
@@ -65,11 +85,12 @@ Key consolidation points:
 
 ## P4 (Housekeeping / Hygiene)
 
-- [ ] Remove backup files from repo and add to `.gitignore`:
+- [x] Remove backup files from repo and add to `.gitignore`:
   - `data_output/stories.csv.bak`, `stories.csv.verify_bak`, `stories-old.csv`
   - Add `*.bak` and `*.verify_bak` patterns to `.gitignore`
-- [ ] Rename `config-demo.py` → `config_demo.py` to match what `config.py` actually imports
-- [ ] Add `.claude/` to `.gitignore` — both root and `docs/.claude/` contain personal workspace settings
+  - (Patterns present in `.gitignore` and files are untracked; the `.bak`/`stories-old.csv` files still sit on disk locally but are ignored.)
+- [x] Rename `config-demo.py` → `config_demo.py` to match what `config.py` actually imports (already `config_demo.py`)
+- [x] Add `.claude/` to `.gitignore` — both root and `docs/.claude/` contain personal workspace settings (`.claude/` pattern present in `.gitignore`)
 - [x] Add `requests` to `requirements.txt` (used by `fill_trending_sources.py`)
 - [ ] Clean up `notes/` — consolidate into a `DEVELOPMENT.md` or delete stale notes before going public
 - [ ] Delete stale branches: `data-collection`, `demo-maintenance`, `website-update-2026` (local + remote)

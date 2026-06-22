@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-22 14:00:33",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A9ihdcPXRSWK7UYWnQMTanA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-22 14:00:33",
+      "pub_time": "2026-06-22 13:16:35",
+      "publication": "The Washington Post",
+      "author": "Isaac Arnsdorf and Karen DeYoung",
+      "headline": "Vance says Iran agrees to nuclear inspections, as under Obama deal",
+      "article_headline": "Vance says Iran agrees to nuclear inspections, as under Obama deal"
+    },
+    {
+      "link": "https://apple.news/AyQvvFXLaRb2zKSH4zxxO7Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-22 14:00:33",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Supreme Court allows a ruling that ends a tool to protect minority voters in 7 states",
+      "article_headline": "Supreme Court allows a ruling that ends a tool to protect minority voters in 7 states"
+    },
+    {
+      "link": "https://apple.news/AKso-T0BOQmuISMplz5y0nQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-22 14:00:33",
+      "pub_time": "2026-06-22 13:16:35",
+      "publication": "The Minnesota Star Tribune",
+      "author": "",
+      "headline": "Federal judge rejects subpoenas of elected Minnesota officials, including Gov. Tim Walz",
+      "article_headline": "Federal judge blocks subpoenas of elected officials over immigration enforcement"
+    },
+    {
+      "link": "https://apple.news/AzMjPtnbMSS2YDwJ-22IXww",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-22 14:00:33",
+      "pub_time": "",
+      "publication": "FOX Sports",
+      "author": "",
+      "headline": "World Cup 2026, Lionel Messi breaks all-time FIFA men’s World Cup scoring record in match against Austria",
+      "article_headline": "Lionel Messi Breaks All-Time FIFA Men's World Cup Scoring Record Against Austria"
+    },
+    {
+      "link": "https://apple.news/AKso-T0BOQmuISMplz5y0nQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-22 14:00:33",
+      "pub_time": "2026-06-22 13:16:35",
+      "publication": "The Minnesota Star Tribune",
+      "author": "",
+      "headline": "Federal judge rejects subpoenas of elected Minnesota officials, including Gov. Tim Walz",
+      "article_headline": "Federal judge blocks subpoenas of elected officials over immigration enforcement"
+    },
+    {
+      "link": "https://apple.news/AOXZrRIl6R1WXRKj30E6Rhg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-22 14:00:33",
+      "pub_time": "",
+      "publication": "Rolling Stone",
+      "author": "",
+      "headline": "Clive Davis, music executive who signed Whitney Houston and Bruce Springsteen, has died at 94",
+      "article_headline": "Clive Davis, Music Executive Who Signed Whitney Houston and Bruce Springsteen, Dead at 94"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-22 14:00:33",
+      "pub_time": "2026-06-22 13:17:29",
+      "publication": "Los Angeles Times",
+      "author": "Jaweed Kaleem",
+      "headline": "The AI cheating crisis roiling America’s universities",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AeJasRTYrS_O1MxBIVdCI3g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-22 14:00:33",
+      "pub_time": "2026-06-22 08:04:09",
+      "publication": "EatingWell",
+      "author": "Gillean Barkyoumb, M.S., RDN",
+      "headline": "4 Supplements That Can Damage Your Liver",
+      "article_headline": "4 Supplements That Can Damage Your Liver"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-22 14:00:33",
+      "pub_time": "2026-06-22 09:04:36",
+      "publication": "",
+      "author": "Lauren Dana Ellman",
+      "headline": "This Is the Safest Country for Solo Travel in the World—and Nearly 90% of Residents Feel Safe Walking Alone at Night",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ApTMci0C8TlGHPsZMKL5JSQ",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-22 14:00:33",
+      "pub_time": "2026-06-22 10:04:36",
+      "publication": "Southern Living",
+      "author": "Brandee Gruener",
+      "headline": "12 Things To Toss Before You Turn 70 For A Simpler, Happier Life",
+      "article_headline": "12 Things To Toss Before You Turn 70 For A Simpler, Happier Life"
+    },
+    {
+      "link": "https://apple.news/A1n-ldNf0Svas5q35g1PYNA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-22 14:00:33",
+      "pub_time": "2026-06-22 11:05:10",
+      "publication": "Popular Mechanics",
+      "author": "Darren Orf",
+      "headline": "Archaeologists Found an ‘Anomaly’ Near the Pyramids That May Reveal an Ancient Portal",
+      "article_headline": "Archaeologists Found an ‘Anomaly’ Near the Pyramids That May Reveal an Ancient Portal"
+    }
+  ]
+}

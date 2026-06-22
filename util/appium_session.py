@@ -13,6 +13,8 @@ import os
 from appium import webdriver
 from appium.options.ios.xcuitest.base import XCUITestOptions
 
+from util.setup import wait_for_wda_teardown
+
 
 def build_xcuitest_options(
     *,
@@ -85,6 +87,10 @@ def start_driver(
     If we see the common WDA connection-refused error, we optionally retry once
     with `rebuild_wda=True` so Appium reinstalls WDA on the simulator.
     """
+    # Don't start a new automation session while a previous one is still
+    # tearing down — that race can crash SpringBoard's accessibility automation.
+    wait_for_wda_teardown()
+
     options = build_xcuitest_options(
         app_path=app_path,
         device_name=device_name,

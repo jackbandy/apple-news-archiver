@@ -1,5 +1,5 @@
-# config-demo.py — template for public use
-# Copy this to config-real.py and fill in your values.
+# config_demo.py — template for public use
+# Copy this to config_real.py and fill in your values.
 
 # Devices to rotate through. Each run picks the next device in order.
 # Format: (name, os_version, udid)

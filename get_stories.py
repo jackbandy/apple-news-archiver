@@ -26,7 +26,10 @@ from util.gestures import (
     tap, swipe, back_swipe, long_press_copy_link, get_article_headline,
 )
 from util.parsing import parse_cell_label, parse_pub_date
-from util.setup import wda_needs_reinstall, clear_wda_derived_data, wipe_app_data_folder
+from util.setup import (
+    wda_needs_reinstall, clear_wda_derived_data, wipe_app_data_folder,
+    wait_for_wda_teardown, relaunch_simulator,
+)
 from util.appium_session import start_driver
 
 from config import (
@@ -175,6 +178,16 @@ def main():
     except Exception:
         pass
     driver.quit()
+
+    # Hygiene: wait for WDA's automation session to finish tearing down, then
+    # fully shut the simulator down and boot it fresh. This clears SpringBoard's
+    # accessibility-automation state between runs, which otherwise accumulates
+    # and can crash SpringBoard on the next session.
+    try:
+        wait_for_wda_teardown()
+        relaunch_simulator(udid)
+    except Exception as e:
+        print("Simulator relaunch failed: {}".format(e))
 
 
 

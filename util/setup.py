@@ -1,9 +1,16 @@
 import os
 import re
 import json
+import time
+import socket
 import subprocess
 from shutil import rmtree
 from glob import glob
+
+
+# WebDriverAgent serves its HTTP control interface on this port while an
+# XCUITest/XCTest automation session is alive.
+WDA_PORT = 8100
 
 
 # Path where Xcode caches WDA DerivedData from source builds.
@@ -115,6 +122,50 @@ def clear_wda_derived_data():
             print("clear_wda_derived_data: removed {}".format(path))
         except Exception as e:
             print("clear_wda_derived_data: could not remove {} ({})".format(path, e))
+
+
+def wait_for_wda_teardown(port=WDA_PORT, host='127.0.0.1', timeout=30):
+    '''Block until WebDriverAgent stops accepting connections on `port`.
+
+    A live WDA session keeps an XCTest automation session (XCTAutomationSession)
+    open inside the simulator. Starting a new XCUITest session while a previous
+    one is still tearing down races SpringBoard's accessibility-automation
+    init and can crash SpringBoard. Callers wait here so only one automation
+    session is being set up or torn down at a time.
+
+    Returns True once the port is refused (teardown complete), or False if it is
+    still open after `timeout` seconds (caller may proceed anyway).
+    '''
+    deadline = time.time() + timeout
+    while time.time() < deadline:
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.settimeout(1)
+        try:
+            sock.connect((host, port))
+        except OSError:
+            # Connection refused/unreachable → no live WDA session.
+            sock.close()
+            return True
+        else:
+            # Port still open → previous session not yet torn down.
+            sock.close()
+            time.sleep(1)
+    print("wait_for_wda_teardown: WDA still listening on {}:{} after {}s".format(
+        host, port, timeout))
+    return False
+
+
+def relaunch_simulator(udid):
+    '''Shut the simulator down to clear SpringBoard's accessibility/automation state.
+
+    Shutting down tears down XCTAutomationSession state that accumulates across
+    runs and can crash SpringBoard on the next session. Appium will boot a fresh
+    simulator when the next session starts, so we don't re-boot here — re-booting
+    would leave a dangling open window when device rotation picks a different UDID
+    next run. All failures are non-fatal.
+    '''
+    subprocess.run(['xcrun', 'simctl', 'shutdown', udid],
+                   check=False, capture_output=True)
 
 
 def wipe_app_data_folder(path):
