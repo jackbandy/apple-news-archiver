@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-22 18:00:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A7PDvB7MoQKqNZcdMg6pbRA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-22 18:00:32",
+      "pub_time": "",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "Judge blocks Trump administration’s database of Americans’ personal information",
+      "article_headline": "Judge blocks Trump administration’s database of Americans’ personal information"
+    },
+    {
+      "link": "https://apple.news/AFWdPHq8yQDW48XHswMiK9Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-22 18:00:32",
+      "pub_time": "2026-06-22 17:55:02",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk, Dave Graham, and Laila Bassam",
+      "headline": "U.S. waives Iran sanctions after talks as Lebanon fighting abates",
+      "article_headline": "US waives Iran sanctions after talks; Lebanon fighting abates"
+    },
+    {
+      "link": "https://apple.news/Ao6knGHVWQjuFrtA6F9uKrg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-22 18:00:32",
+      "pub_time": "2026-06-22 17:55:29",
+      "publication": "NBC News",
+      "author": "Sahil Kapur",
+      "headline": "Senate passes sweeping housing affordability bill with bipartisan support",
+      "article_headline": "Senate passes sweeping housing affordability bill with bipartisan support"
+    },
+    {
+      "link": "https://apple.news/AFWdPHq8yQDW48XHswMiK9Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-22 18:00:32",
+      "pub_time": "2026-06-22 17:55:02",
+      "publication": "Reuters",
+      "author": "Humeyra Pamuk, Dave Graham, and Laila Bassam",
+      "headline": "U.S. waives Iran sanctions after talks as Lebanon fighting abates",
+      "article_headline": "US waives Iran sanctions after talks; Lebanon fighting abates"
+    },
+    {
+      "link": "https://apple.news/Ao6knGHVWQjuFrtA6F9uKrg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-22 18:00:32",
+      "pub_time": "2026-06-22 17:55:29",
+      "publication": "NBC News",
+      "author": "Sahil Kapur",
+      "headline": "Senate passes sweeping housing affordability bill with bipartisan support",
+      "article_headline": "Senate passes sweeping housing affordability bill with bipartisan support"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-22 18:00:32",
+      "pub_time": "2026-06-22 17:54:57",
+      "publication": "The Wall Street Journal",
+      "author": "David Luhnow and Max Colchester",
+      "headline": "The forces that broke the 2-party system in the U.K.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-22 18:00:32",
+      "pub_time": "2026-06-22 17:54:07",
+      "publication": "The Wall Street Journal",
+      "author": "David Luhnow and Max Colchester",
+      "headline": "The forces that broke the 2-party system in the U.K.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A1VBCDM5xQhmVeKEsnldbtg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-22 18:00:32",
+      "pub_time": "2026-06-22 15:03:44",
+      "publication": "NBC News",
+      "author": "Tom Winter and Andrew Blankstein",
+      "headline": "Nancy Guthrie case: Second note sent to media outlets said she had died",
+      "article_headline": "Nancy Guthrie case: Second note sent to media outlets said she had died"
+    },
+    {
+      "link": "https://apple.news/AiAdTuHF3TEO1ErDDvl2bDQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-22 18:00:32",
+      "pub_time": "2026-06-22 09:04:12",
+      "publication": "Real Simple",
+      "author": "Leslie Corona",
+      "headline": "Say Goodbye to Granite and Marble—This Countertop Material Will Be Everywhere This Year",
+      "article_headline": "Say Goodbye to Granite and Marble—This Countertop Material Will Be Everywhere This Year"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-22 18:00:32",
+      "pub_time": "2026-06-22 09:04:45",
+      "publication": "",
+      "author": "Lauren Dana Ellman",
+      "headline": "This Is the Safest Country for Solo Travel in the World—and Nearly 90% of Residents Feel Safe Walking Alone at Night",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ApTMci0C8TlGHPsZMKL5JSQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-22 18:00:32",
+      "pub_time": "2026-06-22 10:04:45",
+      "publication": "Southern Living",
+      "author": "Brandee Gruener",
+      "headline": "12 Things To Toss Before You Turn 70 For A Simpler, Happier Life",
+      "article_headline": "12 Things To Toss Before You Turn 70 For A Simpler, Happier Life"
+    }
+  ]
+}
