@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-23 00:20:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A8Fn1ED1xSHuJvb7k8aw5aw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-23 00:20:32",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The Supreme Court is about to decide 4 cases defining Trump’s power",
+      "article_headline": "The Supreme Court Is About to Decide Four Cases Defining Trump’s Power"
+    },
+    {
+      "link": "https://apple.news/A7G81Cs36T8ulYqpPOfFTjQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-23 00:20:32",
+      "pub_time": "2026-06-23 00:01:01",
+      "publication": "TIME",
+      "author": "Chantelle Lee",
+      "headline": "DHS moves to increase the price tag for those seeking U.S. citizenship",
+      "article_headline": "DHS moves to increase the price tag for those seeking U.S. citizenship"
+    },
+    {
+      "link": "https://apple.news/Aah0iQSEaT2GNOQYrwJkY2w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-23 00:20:32",
+      "pub_time": "2026-06-23 00:01:29",
+      "publication": "Reuters",
+      "author": "Makini Brice, Emma Pinedo, and Sarah Young",
+      "headline": "At least 18 dead in France as record-breaking heatwave continues across Europe",
+      "article_headline": "At least 18 dead in France as record-breaking heatwave continues across Europe"
+    },
+    {
+      "link": "https://apple.news/A7G81Cs36T8ulYqpPOfFTjQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-23 00:20:32",
+      "pub_time": "2026-06-23 00:00:01",
+      "publication": "TIME",
+      "author": "Chantelle Lee",
+      "headline": "DHS moves to increase the price tag for those seeking U.S. citizenship",
+      "article_headline": "DHS moves to increase the price tag for those seeking U.S. citizenship"
+    },
+    {
+      "link": "https://apple.news/Aah0iQSEaT2GNOQYrwJkY2w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-23 00:20:32",
+      "pub_time": "2026-06-23 00:00:28",
+      "publication": "Reuters",
+      "author": "Makini Brice, Emma Pinedo, and Sarah Young",
+      "headline": "At least 18 dead in France as record-breaking heatwave continues across Europe",
+      "article_headline": "At least 18 dead in France as record-breaking heatwave continues across Europe"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 00:20:32",
+      "pub_time": "2026-06-23 00:00:55",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Maura Judkis",
+      "headline": "Trump said “vandals” gashed the Reflecting Pool. He hasn’t provided evidence.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 00:20:32",
+      "pub_time": "2026-06-23 00:00:05",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Maura Judkis",
+      "headline": "Trump said “vandals” gashed the Reflecting Pool. He hasn’t provided evidence.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AFyCq828PRU2kRUCHAIXG9w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-23 00:20:32",
+      "pub_time": "2026-06-22 20:23:43",
+      "publication": "CBS News",
+      "author": "Pat Milton, Jonathan Vigliotti, and Anna Schecter",
+      "headline": "Nancy Guthrie ransom note, believed to be from abductor, said she died, sources say",
+      "article_headline": "Nancy Guthrie ransom note, believed to be from abductor, said she died, sources say"
+    },
+    {
+      "link": "https://apple.news/AWEyHkad2QR6uZsl2iZl4xw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-23 00:20:32",
+      "pub_time": "2026-06-22 18:24:11",
+      "publication": "People",
+      "author": "Meredith Wilshere",
+      "headline": "‘Outgoing’ 9-Year-Old Changes ‘Overnight’ into Angry Person Parents Don’t Recognize. Then Gets a Shocking Diagnosis (Exclusive)",
+      "article_headline": "‘Outgoing’ 9-Year-Old Changes ‘Overnight’ into Angry Person Parents Don’t Recognize. Then Gets a Shocking Diagnosis (Exclusive)"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-23 00:20:32",
+      "pub_time": "2026-06-22 09:24:45",
+      "publication": "",
+      "author": "Lauren Dana Ellman",
+      "headline": "This Is the Safest Country for Solo Travel in the World—and Nearly 90% of Residents Feel Safe Walking Alone at Night",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AdVHofdgaTsSrppiDbZFbdg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-23 00:20:32",
+      "pub_time": "2026-06-22 16:24:45",
+      "publication": "Southern Living",
+      "author": "Molly Burford",
+      "headline": "This Simple Trick Can Keep Your House Up To 20 Degrees Cooler This Summer",
+      "article_headline": "This Simple Trick Can Keep Your House Up To 20 Degrees Cooler This Summer"
+    }
+  ]
+}

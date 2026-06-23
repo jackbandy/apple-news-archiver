@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-23 00:40:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A8Fn1ED1xSHuJvb7k8aw5aw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-23 00:40:31",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The Supreme Court is about to decide 4 cases defining Trump’s power",
+      "article_headline": "The Supreme Court Is About to Decide Four Cases Defining Trump’s Power"
+    },
+    {
+      "link": "https://apple.news/A7G81Cs36T8ulYqpPOfFTjQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-23 00:40:31",
+      "pub_time": "2026-06-23 00:01:00",
+      "publication": "TIME",
+      "author": "Chantelle Lee",
+      "headline": "DHS moves to increase the price tag for those seeking U.S. citizenship",
+      "article_headline": "DHS moves to increase the price tag for those seeking U.S. citizenship"
+    },
+    {
+      "link": "https://apple.news/Aah0iQSEaT2GNOQYrwJkY2w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-23 00:40:31",
+      "pub_time": "2026-06-23 00:01:28",
+      "publication": "Reuters",
+      "author": "Makini Brice, Emma Pinedo, and Sarah Young",
+      "headline": "At least 18 dead in France as record-breaking heatwave continues across Europe",
+      "article_headline": "At least 18 dead in France as record-breaking heatwave continues across Europe"
+    },
+    {
+      "link": "https://apple.news/A7G81Cs36T8ulYqpPOfFTjQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-23 00:40:31",
+      "pub_time": "2026-06-23 00:00:00",
+      "publication": "TIME",
+      "author": "Chantelle Lee",
+      "headline": "DHS moves to increase the price tag for those seeking U.S. citizenship",
+      "article_headline": "DHS moves to increase the price tag for those seeking U.S. citizenship"
+    },
+    {
+      "link": "https://apple.news/Aah0iQSEaT2GNOQYrwJkY2w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-23 00:40:31",
+      "pub_time": "2026-06-23 00:00:28",
+      "publication": "Reuters",
+      "author": "Makini Brice, Emma Pinedo, and Sarah Young",
+      "headline": "At least 18 dead in France as record-breaking heatwave continues across Europe",
+      "article_headline": "At least 18 dead in France as record-breaking heatwave continues across Europe"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 00:40:31",
+      "pub_time": "2026-06-23 00:00:56",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Maura Judkis",
+      "headline": "Trump said “vandals” gashed the Reflecting Pool. He hasn’t provided evidence.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 00:40:31",
+      "pub_time": "2026-06-23 00:00:01",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Maura Judkis",
+      "headline": "Trump said “vandals” gashed the Reflecting Pool. He hasn’t provided evidence.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

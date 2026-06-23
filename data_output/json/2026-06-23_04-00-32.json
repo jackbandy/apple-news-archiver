@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-23 04:00:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A8Fn1ED1xSHuJvb7k8aw5aw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-23 04:00:32",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The Supreme Court is about to decide 4 cases defining Trump’s power",
+      "article_headline": "The Supreme Court Is About to Decide Four Cases Defining Trump’s Power"
+    },
+    {
+      "link": "https://apple.news/A7G81Cs36T8ulYqpPOfFTjQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-23 04:00:32",
+      "pub_time": "2026-06-23 00:01:02",
+      "publication": "TIME",
+      "author": "Chantelle Lee",
+      "headline": "DHS moves to increase the price tag for those seeking U.S. citizenship",
+      "article_headline": "DHS moves to increase the price tag for those seeking U.S. citizenship"
+    },
+    {
+      "link": "https://apple.news/Aah0iQSEaT2GNOQYrwJkY2w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-23 04:00:32",
+      "pub_time": "2026-06-23 00:01:30",
+      "publication": "Reuters",
+      "author": "Makini Brice, Emma Pinedo, and Sarah Young",
+      "headline": "At least 18 dead in France as record-breaking heatwave continues across Europe",
+      "article_headline": "At least 18 dead in France as record-breaking heatwave continues across Europe"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 04:00:32",
+      "pub_time": "2026-06-23 00:02:03",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Maura Judkis",
+      "headline": "Trump said “vandals” gashed the Reflecting Pool. He hasn’t provided evidence.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 04:00:32",
+      "pub_time": "",
+      "publication": "Popular Mechanics",
+      "author": "",
+      "headline": "It’s the Mount Everest of shipwrecks. Divers are risking their lives to unearth its secrets., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_tJ1yUlyTLaBly3wD1qamQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-23 04:00:32",
+      "pub_time": "2026-06-22 10:02:38",
+      "publication": "FOX 32 Chicago",
+      "author": "",
+      "headline": "Illinois police chief issues warning to parents after Georgia man allegedly traveled to meet local girl",
+      "article_headline": "Illinois police chief issues warning to parents after Georgia man allegedly traveled to meet local girl"
+    },
+    {
+      "link": "https://apple.news/AGcobqP3RRf2wlZ2IJeZYow",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-23 04:00:32",
+      "pub_time": "2026-06-22 18:03:05",
+      "publication": "Fox News",
+      "author": "Louis Casiano",
+      "headline": "Chicago priest tells Trump to 'shut up' and restore gun violence prevention funding after deadly weekend",
+      "article_headline": "Chicago priest tells Trump to 'shut up' and restore gun violence prevention funding after deadly weekend"
+    }
+  ]
+}
