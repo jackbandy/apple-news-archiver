@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-23 16:20:33",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AESbRsaKzQnGLVZEmxX-BXQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-23 16:20:33",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Senate passes measure directing Trump to end hostilities with Iran",
+      "article_headline": "Senate passes measure directing Trump to end hostilities with Iran"
+    },
+    {
+      "link": "https://apple.news/AH3MAfnwrRKOVtC9hu-mxCg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-23 16:20:33",
+      "pub_time": "2026-06-23 15:21:03",
+      "publication": "The Guardian",
+      "author": "Sam Levine",
+      "headline": "Texas anti-ICE protesters are sentenced to at least 50 years in prison",
+      "article_headline": "Texas anti-ICE protesters are sentenced to at least 50 years in prison"
+    },
+    {
+      "link": "https://apple.news/A3gPKAFxRTRWH2T8d3LzdTw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-23 16:20:33",
+      "pub_time": "2026-06-23 15:21:31",
+      "publication": "The Hill",
+      "author": "Mallory Wilson and Julia Manchester",
+      "headline": "Reflecting Pool renovations become unwelcome distraction for Trump",
+      "article_headline": "Reflecting Pool renovations become unwelcome distraction for Trump"
+    },
+    {
+      "link": "https://apple.news/Ag96ESpeKS0mHIGmN9GJllA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-23 16:20:33",
+      "pub_time": "2026-06-23 15:22:04",
+      "publication": "NBC News",
+      "author": "Elmira Aliieva",
+      "headline": "Deadly heat wave grips Europe with red alerts and scorching records",
+      "article_headline": "Deadly heat wave grips Europe with red alerts and scorching records"
+    },
+    {
+      "link": "https://apple.news/AN4a-MuqxRCG-NYvuhYP8ng",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-23 16:20:33",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "World Cup 2026, Cristiano Ronaldo makes history with a goal in his sixth World Cup",
+      "article_headline": "Cristiano Ronaldo makes history with a goal in his sixth World Cup"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 16:20:33",
+      "pub_time": "2026-06-23 15:23:04",
+      "publication": "The San Francisco Standard",
+      "author": "Evan Quarnstrom",
+      "headline": "Something strange is eating away at one of California’s most iconic beaches",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 16:20:33",
+      "pub_time": "2026-06-23 15:44:19",
+      "publication": "Billboard",
+      "author": "Katie Atkinson, Kyle Denis, Chris Eggertsen, Lyndsey Havens, and Andrew Unterberger",
+      "headline": "Five Burning Questions About Olivia Rodrigo's 'You Seem Pretty Sad for a Girl So in Love' No. 1 Debut",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

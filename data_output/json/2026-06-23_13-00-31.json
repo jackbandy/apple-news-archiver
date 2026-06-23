@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-23 13:00:31",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AYEvKog99RzuE3g6AmZN0HA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-23 13:00:31",
+      "pub_time": "2026-06-23 12:35:33",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Dispute over nuclear inspections clouds work to finalize deal to end Iran war",
+      "article_headline": "Dispute over nuclear inspections clouds work to finalize deal to end Iran war"
+    },
+    {
+      "link": "https://apple.news/AqjL5jK_oSjmPVEZDRxQroQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-23 13:00:31",
+      "pub_time": "2026-06-23 11:01:00",
+      "publication": "The Washington Post",
+      "author": "Justin Jouvenal",
+      "headline": "Supreme Court says Rastafarian can’t sue prison officials over shorn dreadlocks",
+      "article_headline": "Supreme Court says Rastafarian can’t sue prison officials over shorn dreadlocks"
+    },
+    {
+      "link": "https://apple.news/ATTfXa6BlTqOJ8vag_73ULA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-23 13:00:31",
+      "pub_time": "2026-06-23 05:01:28",
+      "publication": "Fox News",
+      "author": "Paul Steinhauser",
+      "headline": "A tale of 2 parties: Trump, Mamdani put political clout on the line as 4 states hold primaries",
+      "article_headline": "A tale of 2 parties: Trump, Mamdani put political clout on the line as 4 states hold primaries"
+    },
+    {
+      "link": "https://apple.news/A_qpLKd_lRViiSdbpxGSCxA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-23 13:00:31",
+      "pub_time": "2026-06-23 12:02:01",
+      "publication": "Reuters",
+      "author": "Sudip Kar-Gupta, Emma Pinedo, and Clotaire Achi",
+      "headline": "40 drown in France as people seek relief from Europe’s heat wave",
+      "article_headline": "40 drown in France as people seek relief from Europe’s heat wave"
+    },
+    {
+      "link": "https://apple.news/AN4a-MuqxRCG-NYvuhYP8ng",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-23 13:00:31",
+      "pub_time": "2026-06-23 12:15:34",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Cristiano Ronaldo makes history with a goal in his sixth World Cup",
+      "article_headline": "Cristiano Ronaldo makes history with a goal in his sixth World Cup"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 13:00:31",
+      "pub_time": "2026-06-21 13:03:02",
+      "publication": "The Wall Street Journal",
+      "author": "James Mackintosh",
+      "headline": "All the money flooding into AI is a warning sign",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AN4a-MuqxRCG-NYvuhYP8ng",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-23 13:00:31",
+      "pub_time": "2026-06-23 12:15:06",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Cristiano Ronaldo makes history with a goal in his sixth World Cup",
+      "article_headline": "Cristiano Ronaldo makes history with a goal in his sixth World Cup"
+    },
+    {
+      "link": "https://apple.news/Aitv2YYlQSjWTrHApj5PiHg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-23 13:00:31",
+      "pub_time": "2026-06-22 14:04:06",
+      "publication": "Delish",
+      "author": "Amanda Mactas",
+      "headline": "M&M's Is Getting Rid Of 2 Iconic Colors—But There's A Good Reason Why",
+      "article_headline": "M&M's Is Getting Rid Of 2 Iconic Colors—But There's A Good Reason Why"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-23 13:00:31",
+      "pub_time": "2026-06-22 21:04:33",
+      "publication": "",
+      "author": "Thomas Westerholm",
+      "headline": "COVID vaccine linked to new side effect, especially in older adults",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A-m7Hqs0qQP-Y1lg1UXLIxg",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-23 13:00:31",
+      "pub_time": "2026-06-23 07:04:33",
+      "publication": "Fox News",
+      "author": "Kurt Knutsson, CyberGuy Report",
+      "headline": "What scammers do the week your spouse dies",
+      "article_headline": "What scammers do the week your spouse dies"
+    },
+    {
+      "link": "https://apple.news/ACtYyzibJTdmho6lv967TkA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-23 13:00:31",
+      "pub_time": "2026-06-22 18:05:07",
+      "publication": "WIRED",
+      "author": "Ritsuko Kawai",
+      "headline": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified",
+      "article_headline": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified"
+    }
+  ]
+}
