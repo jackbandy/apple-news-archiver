@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-22 22:20:29",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ao6knGHVWQjuFrtA6F9uKrg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-22 22:20:29",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Senate passes sweeping housing affordability bill with bipartisan support",
+      "article_headline": "Senate passes sweeping housing affordability bill with bipartisan support"
+    },
+    {
+      "link": "https://apple.news/ABLhab5FGSnqjC8VbAroMmw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-22 22:20:29",
+      "pub_time": "2026-06-22 21:20:59",
+      "publication": "The Washington Post",
+      "author": "Justin Jouvenal",
+      "headline": "Tensions run high as Supreme Court prepares to rule on 3 Trump priorities",
+      "article_headline": "Tensions run high as Supreme Court prepares to rule on 3 Trump priorities"
+    },
+    {
+      "link": "https://apple.news/AjR_LNT3RQgqrSOIwVGbMpQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-22 22:20:29",
+      "pub_time": "2026-06-22 21:21:27",
+      "publication": "Votebeat",
+      "author": "Dion Nissenbaum and Natalia Contreras",
+      "headline": "Judge blocks Trump administration’s overhaul of SAVE database",
+      "article_headline": "Judge blocks Trump administration’s overhaul of SAVE database"
+    },
+    {
+      "link": "https://apple.news/Aik3AIKwFSr2zSDEmb0iSXA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-22 22:20:29",
+      "pub_time": "2026-06-22 21:21:59",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Deadly Surfside building collapse was set in motion weeks earlier, federal report says",
+      "article_headline": "New report says Surfside collapse was set in motion weeks earlier. What we know now"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-22 22:20:29",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "What climate change costs you at the checkout counter",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-22 22:20:29",
+      "pub_time": "",
+      "publication": "Popular Mechanics",
+      "author": "",
+      "headline": "It’s the Mount Everest of shipwrecks. Divers are risking their lives to unearth its secrets., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AT-k7fhgITAigr3PZDpieAg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-22 22:20:29",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, West Suburban Medical Center could lose power next month because of unpaid electric bill",
+      "article_headline": "West Suburban Medical Center could lose power next month because of unpaid electric bill"
+    }
+  ]
+}

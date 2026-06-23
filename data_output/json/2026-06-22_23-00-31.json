@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-06-22 23:00:31",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AafptXnUJRTKryJz7Sbarug",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-22 23:00:31",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Senate overwhelmingly passes sweeping bipartisan housing affordability bill",
+      "article_headline": "Senate overwhelmingly passes sweeping bipartisan housing affordability bill"
+    },
+    {
+      "link": "https://apple.news/ABLhab5FGSnqjC8VbAroMmw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-22 23:00:31",
+      "pub_time": "2026-06-22 22:56:01",
+      "publication": "The Washington Post",
+      "author": "Justin Jouvenal",
+      "headline": "Tensions run high as Supreme Court prepares to rule on 3 Trump priorities",
+      "article_headline": "Tensions run high as Supreme Court prepares to rule on 3 Trump priorities"
+    },
+    {
+      "link": "https://apple.news/Aah0iQSEaT2GNOQYrwJkY2w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-22 23:00:31",
+      "pub_time": "2026-06-22 22:56:29",
+      "publication": "Reuters",
+      "author": "Makini Brice, Emma Pinedo, and Sarah Young",
+      "headline": "At least 18 dead in France as record-breaking heatwave continues across Europe",
+      "article_headline": "At least 18 dead in France as record-breaking heatwave continues across Europe"
+    },
+    {
+      "link": "https://apple.news/ABLhab5FGSnqjC8VbAroMmw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-22 23:00:31",
+      "pub_time": "2026-06-22 22:56:00",
+      "publication": "The Washington Post",
+      "author": "Justin Jouvenal",
+      "headline": "Tensions run high as Supreme Court prepares to rule on 3 Trump priorities",
+      "article_headline": "Tensions run high as Supreme Court prepares to rule on 3 Trump priorities"
+    },
+    {
+      "link": "https://apple.news/Aah0iQSEaT2GNOQYrwJkY2w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-22 23:00:31",
+      "pub_time": "2026-06-22 22:56:28",
+      "publication": "Reuters",
+      "author": "Makini Brice, Emma Pinedo, and Sarah Young",
+      "headline": "At least 18 dead in France as record-breaking heatwave continues across Europe",
+      "article_headline": "At least 18 dead in France as record-breaking heatwave continues across Europe"
+    },
+    {
+      "link": "https://apple.news/Aik3AIKwFSr2zSDEmb0iSXA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-22 23:00:31",
+      "pub_time": "2026-06-22 22:56:56",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Deadly Surfside building collapse was set in motion weeks earlier, federal report says",
+      "article_headline": "New report says Surfside collapse was set in motion weeks earlier. What we know now"
+    },
+    {
+      "link": "https://apple.news/Aik3AIKwFSr2zSDEmb0iSXA",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-22 23:00:31",
+      "pub_time": "2026-06-22 22:56:28",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Deadly Surfside building collapse was set in motion weeks earlier, federal report says",
+      "article_headline": "New report says Surfside collapse was set in motion weeks earlier. What we know now"
+    },
+    {
+      "link": "https://apple.news/AorjiCAQ7R-KQvji2LiiGvw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-22 23:00:31",
+      "pub_time": "2026-06-22 16:04:30",
+      "publication": "ABC News",
+      "author": "Aaron Katersky, Josh Margolin, and Trevor Ault",
+      "headline": "Nancy Guthrie abduction: 2nd ransom note sent to Tucson TV station said she died",
+      "article_headline": "Nancy Guthrie abduction: 2nd ransom note sent to Tucson TV station said she died"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-22 23:00:31",
+      "pub_time": "2026-06-22 09:04:58",
+      "publication": "",
+      "author": "Lauren Dana Ellman",
+      "headline": "This Is the Safest Country for Solo Travel in the World—and Nearly 90% of Residents Feel Safe Walking Alone at Night",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AdVHofdgaTsSrppiDbZFbdg",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-22 23:00:31",
+      "pub_time": "2026-06-22 16:05:04",
+      "publication": "Southern Living",
+      "author": "Molly Burford",
+      "headline": "This Simple Trick Can Keep Your House Up To 20 Degrees Cooler This Summer",
+      "article_headline": "This Simple Trick Can Keep Your House Up To 20 Degrees Cooler This Summer"
+    },
+    {
+      "link": "https://apple.news/AzokA8sL4RiWk9TInpzcbtw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-22 23:00:31",
+      "pub_time": "2026-06-22 11:05:32",
+      "publication": "Money",
+      "author": "Marc Guberti",
+      "headline": "Medicare Doesn't Travel With You. Here's What Actually Happens If You Get Sick on a Trip Abroad",
+      "article_headline": "Medicare Doesn't Travel With You. Here's What Actually Happens If You Get Sick on a Trip Abroad"
+    }
+  ]
+}
