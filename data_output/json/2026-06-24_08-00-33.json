@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-24 08:00:33",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A3jKsqtaVTVGLveMKEZhViQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-24 08:00:33",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Mamdani emerges as kingmaker, and other takeaways from Tuesday’s primaries",
+      "article_headline": "Mamdani emerges as kingmaker, and other takeaways from Tuesday’s primaries"
+    },
+    {
+      "link": "https://apple.news/A2qYV0fyERA62UFdUNAW_mw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-24 08:00:33",
+      "pub_time": "2026-06-24 07:23:03",
+      "publication": "Reuters",
+      "author": "Andrew Chung",
+      "headline": "Trump’s power takes center stage in Supreme Court’s home stretch",
+      "article_headline": "Trump’s power takes center stage in Supreme Court’s home stretch"
+    },
+    {
+      "link": "https://apple.news/AdK1thy8mTKCVMYtcdIdt3Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-24 08:00:33",
+      "pub_time": "2026-06-24 07:23:30",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.N. nuclear boss says inspectors will visit Iran sites. Tehran says only after a final deal.",
+      "article_headline": "U.N. nuclear boss says inspectors will visit Iran sites. Tehran says only after a final deal."
+    },
+    {
+      "link": "https://apple.news/A2qYV0fyERA62UFdUNAW_mw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-24 08:00:33",
+      "pub_time": "2026-06-24 07:23:02",
+      "publication": "Reuters",
+      "author": "Andrew Chung",
+      "headline": "Trump’s power takes center stage in Supreme Court’s home stretch",
+      "article_headline": "Trump’s power takes center stage in Supreme Court’s home stretch"
+    },
+    {
+      "link": "https://apple.news/AdK1thy8mTKCVMYtcdIdt3Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-24 08:00:33",
+      "pub_time": "2026-06-24 07:23:30",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.N. nuclear boss says inspectors will visit Iran sites. Tehran says only after a final deal.",
+      "article_headline": "U.N. nuclear boss says inspectors will visit Iran sites. Tehran says only after a final deal."
+    },
+    {
+      "link": "https://apple.news/Ap_cUzQKnReyzkryRYcasJw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-24 08:00:33",
+      "pub_time": "2026-06-24 07:22:58",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Europe swelters under record-breaking heatwave",
+      "article_headline": "Europe swelters under record-breaking heatwave"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-24 08:00:33",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "World Cup 2026, The World Cup’s other hydration break: a high-speed beer run",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aj3ZHRXHpRLe7CeYM2lzrWQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-24 08:00:33",
+      "pub_time": "2026-06-24 05:04:13",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Here are the 10 wealthiest suburbs in America",
+      "article_headline": "Here are the 10 wealthiest suburbs in America"
+    },
+    {
+      "link": "https://apple.news/A2PRpf0l6R0m4XTLv4upnhw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-24 08:00:33",
+      "pub_time": "2026-06-24 05:04:41",
+      "publication": "TMZ",
+      "author": "TMZ Staff",
+      "headline": "New Video Shows Boy Plunging 50 Feet at Disneyland's Tiana’s Bayou Adventure",
+      "article_headline": "New Video Shows Boy Plunging 50 Feet at Disneyland's Tiana’s Bayou Adventure"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-24 08:00:33",
+      "pub_time": "2026-06-23 08:05:09",
+      "publication": "",
+      "author": "Thomas Westerholm",
+      "headline": "COVID vaccine linked to new side effect, especially in older adults",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A56QEwYd1SJeZADVSlbFm6w",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-24 08:00:33",
+      "pub_time": "2026-06-23 17:05:15",
+      "publication": "BuzzFeed",
+      "author": "Kristen Harris",
+      "headline": "16 Wealthy Celebs Who Are Super Frugal Now Because They Grew Up In Poverty",
+      "article_headline": "16 Wealthy Celebs Who Are Super Frugal Now Because They Grew Up In Poverty"
+    }
+  ]
+}

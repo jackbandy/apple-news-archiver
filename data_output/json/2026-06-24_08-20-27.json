@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-24 08:20:27",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A3jKsqtaVTVGLveMKEZhViQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-24 08:20:27",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Mamdani emerges as kingmaker, and other takeaways from Tuesday’s primaries",
+      "article_headline": "Mamdani emerges as kingmaker, and other takeaways from Tuesday’s primaries"
+    },
+    {
+      "link": "https://apple.news/A2qYV0fyERA62UFdUNAW_mw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-24 08:20:27",
+      "pub_time": "2026-06-24 07:22:57",
+      "publication": "Reuters",
+      "author": "Andrew Chung",
+      "headline": "Trump’s power takes center stage in Supreme Court’s home stretch",
+      "article_headline": "Trump’s power takes center stage in Supreme Court’s home stretch"
+    },
+    {
+      "link": "https://apple.news/AdK1thy8mTKCVMYtcdIdt3Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-24 08:20:27",
+      "pub_time": "2026-06-24 07:23:24",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.N. nuclear boss says inspectors will visit Iran sites. Tehran says only after a final deal.",
+      "article_headline": "U.N. nuclear boss says inspectors will visit Iran sites. Tehran says only after a final deal."
+    },
+    {
+      "link": "https://apple.news/A2qYV0fyERA62UFdUNAW_mw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-24 08:20:27",
+      "pub_time": "2026-06-24 07:22:57",
+      "publication": "Reuters",
+      "author": "Andrew Chung",
+      "headline": "Trump’s power takes center stage in Supreme Court’s home stretch",
+      "article_headline": "Trump’s power takes center stage in Supreme Court’s home stretch"
+    },
+    {
+      "link": "https://apple.news/AdK1thy8mTKCVMYtcdIdt3Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-24 08:20:27",
+      "pub_time": "2026-06-24 07:23:24",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.N. nuclear boss says inspectors will visit Iran sites. Tehran says only after a final deal.",
+      "article_headline": "U.N. nuclear boss says inspectors will visit Iran sites. Tehran says only after a final deal."
+    },
+    {
+      "link": "https://apple.news/Ap_cUzQKnReyzkryRYcasJw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-24 08:20:27",
+      "pub_time": "2026-06-24 07:22:51",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Europe swelters under record-breaking heatwave",
+      "article_headline": "Europe swelters under record-breaking heatwave"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-24 08:20:27",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "World Cup 2026, The World Cup’s other hydration break: a high-speed beer run",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_u5XIRT_RkqP89cgG-JLPA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-24 08:20:27",
+      "pub_time": "2026-06-23 22:24:00",
+      "publication": "Fox News",
+      "author": "Ian Miller",
+      "headline": "Knicks parade attendee who dumped trash on sidewalk identified as JPMorgan Chase DEI exec, promptly fired",
+      "article_headline": "Knicks parade attendee who dumped trash on sidewalk identified as JPMorgan Chase DEI exec, promptly fired"
+    },
+    {
+      "link": "https://apple.news/AXYuWJ33BS1ahhvSh-B1Z2A",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-24 08:20:27",
+      "pub_time": "2026-06-23 23:24:33",
+      "publication": "BuzzFeed",
+      "author": "Morgan Sloss",
+      "headline": "Nearly 3 Million People Watched This Video Of A British Tourist Removing Towels From Pool Chairs At A Hotel",
+      "article_headline": "Nearly 3 Million People Watched This Video Of A British Tourist Removing Towels From Pool Chairs At A Hotel"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-24 08:20:27",
+      "pub_time": "2026-06-23 08:25:00",
+      "publication": "",
+      "author": "Thomas Westerholm",
+      "headline": "COVID vaccine linked to new side effect, especially in older adults",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ahs-yQHYZSHSThtiS5Y08Fg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-24 08:20:27",
+      "pub_time": "2026-06-24 01:25:00",
+      "publication": "Reuters",
+      "author": "Reuters",
+      "headline": "China says it has a right to target people overseas with new ethnic unity law",
+      "article_headline": "China says it has a right to target people overseas with new ethnic unity law"
+    }
+  ]
+}
