@@ -12,8 +12,6 @@ __author__ = "Jack Bandy"
 
 import os
 import re
-import csv
-import json
 import fcntl
 import signal
 import datetime
@@ -25,6 +23,7 @@ from appium.webdriver.common.appiumby import AppiumBy
 from util.gestures import (
     tap, swipe, back_swipe, long_press_copy_link, get_article_headline,
 )
+from util.io import save_stories as _save_stories, save_json as _save_json
 from util.parsing import parse_cell_label, parse_pub_date
 from util.setup import (
     wda_needs_reinstall, clear_wda_derived_data, wipe_app_data_folder,
@@ -38,7 +37,7 @@ from config import (
     COLLECT_TOP_STORIES, APP_PATH,
     MIN_STORY_CELL_HEIGHT, TAB_BAR_HEIGHT, SAFE_TAP_MARGIN, MAX_TOP_STORIES,
     MAX_TOP_HOME, MAX_READER_FAVORITES, MAX_POPULAR_STORIES, MAX_TRENDING,
-    MAX_RUN_SECONDS,
+    MAX_RUN_SECONDS, HEADLESS_SIMULATOR,
 )
 
 
@@ -127,6 +126,7 @@ def main():
             udid=udid,
             platform_version=device_os,
             rebuild_wda=reinstall,
+            headless_mode=HEADLESS_SIMULATOR,
             clear_wda_derived_data_fn=clear_wda_derived_data,
         )
     except Exception as e:
@@ -596,45 +596,12 @@ def collect_top_stories_view(driver, run_time, seen_links=None):
 
 
 
-# data I/O
-
 def save_stories(stories):
-    '''Append story rows to stories.csv, writing header if file is new.'''
-    write_header = not os.path.exists(output_file)
-    with open(output_file, 'a', newline='') as f:
-        writer = csv.writer(f)
-        if write_header:
-            writer.writerow(['link', 'rank', 'section', 'run_time', 'pub_time', 'publication', 'author', 'headline', 'article_headline', 'link_status', 'resolved_link', 'web_headline'])
-        for row in stories:
-            link = row[0]
-            is_plus = len(row) > 9 and row[9]
-            link_status = 'P' if is_plus else ('U' if link else 'M')
-            writer.writerow(list(row[:9]) + [link_status, '', ''])
+    _save_stories(stories, output_file)
 
 
 def save_json(stories, run_time):
-    '''Write a JSON file for this run to data_output/json/<run_time>.json.'''
-    json_folder = os.path.join(output_folder, 'json')
-    os.makedirs(json_folder, exist_ok=True)
-    filename = run_time.replace(':', '-').replace(' ', '_') + '.json'
-    path = os.path.join(json_folder, filename)
-
-    keys = ['link', 'rank', 'section', 'run_time', 'pub_time', 'publication', 'author', 'headline', 'article_headline']
-    records = []
-    for row in stories:
-        d = dict(zip(keys, row))
-        if len(row) > 9 and row[9]:
-            d['link_status'] = 'P'
-        records.append(d)
-
-    payload = {
-        'run_time': run_time,
-        'story_count': len(records),
-        'stories': records,
-    }
-    with open(path, 'w', encoding='utf-8') as f:
-        json.dump(payload, f, indent=2, ensure_ascii=False)
-    print("JSON saved to {}".format(path))
+    _save_json(stories, run_time, output_folder)
 
 
 

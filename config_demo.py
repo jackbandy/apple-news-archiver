@@ -39,3 +39,6 @@ MAX_TRENDING = 4          # trending stories
 
 # Maximum wall-clock seconds a single run may take before it is killed (0 = no limit)
 MAX_RUN_SECONDS = 900     # 15 minutes
+
+# Run the simulator without a visible window (requires appium-xcuitest-driver >= 4)
+HEADLESS_SIMULATOR = False

@@ -24,6 +24,7 @@ def build_xcuitest_options(
     platform_version,
     rebuild_wda=False,
     no_reset=True,
+    headless_mode=False,
 ):
     """
     Construct XCUITestOptions with the repo's standard WDA bootstrapping.
@@ -59,6 +60,9 @@ def build_xcuitest_options(
     if rebuild_wda:
         options.set_capability("useNewWDA", True)
 
+    if headless_mode:
+        options.set_capability("appium:isHeadless", True)
+
     return options
 
 
@@ -77,6 +81,7 @@ def start_driver(
     udid,
     platform_version,
     rebuild_wda=False,
+    headless_mode=False,
     command_executor="http://localhost:4723",
     retry_on_wda_refusal=True,
     clear_wda_derived_data_fn=None,
@@ -97,6 +102,7 @@ def start_driver(
         udid=udid,
         platform_version=platform_version,
         rebuild_wda=rebuild_wda,
+        headless_mode=headless_mode,
     )
     try:
         return webdriver.Remote(command_executor=command_executor, options=options)
@@ -113,6 +119,7 @@ def start_driver(
                 udid=udid,
                 platform_version=platform_version,
                 rebuild_wda=True,
+                headless_mode=headless_mode,
                 command_executor=command_executor,
                 retry_on_wda_refusal=False,
                 clear_wda_derived_data_fn=clear_wda_derived_data_fn,

@@ -63,3 +63,7 @@ def _rotate_device():
 
 
 _rotate_device()
+
+# Default for optional settings not present in older config_real.py files.
+if 'HEADLESS_SIMULATOR' not in dir():
+    HEADLESS_SIMULATOR = False

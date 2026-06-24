@@ -156,16 +156,19 @@ def wait_for_wda_teardown(port=WDA_PORT, host='127.0.0.1', timeout=30):
 
 
 def relaunch_simulator(udid):
-    '''Shut the simulator down to clear SpringBoard's accessibility/automation state.
+    '''Shut down the simulator device and quit the Simulator app.
 
     Shutting down tears down XCTAutomationSession state that accumulates across
-    runs and can crash SpringBoard on the next session. Appium will boot a fresh
-    simulator when the next session starts, so we don't re-boot here — re-booting
-    would leave a dangling open window when device rotation picks a different UDID
-    next run. All failures are non-fatal.
+    runs and can crash SpringBoard on the next session. Quitting the Simulator
+    app closes its window so Appium opens a clean one on the next session.
+    All failures are non-fatal.
     '''
     subprocess.run(['xcrun', 'simctl', 'shutdown', udid],
                    check=False, capture_output=True)
+    subprocess.run(
+        ['osascript', '-e', 'tell application "Simulator" to quit'],
+        check=False, capture_output=True,
+    )
 
 
 def wipe_app_data_folder(path):
