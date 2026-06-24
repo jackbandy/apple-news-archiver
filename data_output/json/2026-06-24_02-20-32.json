@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-24 02:20:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AWIZO00-WSYWVbLm0GZlXwg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-24 02:20:32",
+      "pub_time": "2026-06-24 00:20:33",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Mamdani-backed candidates sweep Democratic primaries in New York City, MORE COVERAGE",
+      "article_headline": "Mamdani-backed candidates sweep Democratic primaries in New York City"
+    },
+    {
+      "link": "https://apple.news/Afbyd-Jt9S_Wi6_Rv7cr7Yw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-24 02:20:32",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump heads to Capitol to speak with GOP senators who have grown increasingly frustrated with him",
+      "article_headline": "Trump heads to Capitol to speak with GOP senators who have grown increasingly frustrated with him"
+    },
+    {
+      "link": "https://apple.news/AVQEYwtZ3TKu6A2LQ2eWPoQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-24 02:20:32",
+      "pub_time": "2026-06-24 00:21:33",
+      "publication": "The Wall Street Journal",
+      "author": "Anat Peled",
+      "headline": "Israel’s military is caught in a political no man’s land in Lebanon",
+      "article_headline": "Israel’s Military Is Caught in a Political No Man’s Land in Lebanon"
+    },
+    {
+      "link": "https://apple.news/Auhf4694TTaOb9gpC1vAbRg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-24 02:20:32",
+      "pub_time": "2026-06-24 00:22:05",
+      "publication": "The Atlantic",
+      "author": "Nancy A. Youssef and Missy Ryan",
+      "headline": "Another top general is out at the Pentagon",
+      "article_headline": "Another top general is out at the Pentagon"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-24 02:20:32",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Grading every pick from the first round of the 2026 NBA draft",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-24 02:20:32",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "The company behind the world’s most popular GLP-1 has a new blockbuster drug in the works, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A3FVcu1X3TSSK9YHhwNVU8Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-24 02:20:32",
+      "pub_time": "2026-06-23 20:22:52",
+      "publication": "TheStreet",
+      "author": "Kirk O’Neil",
+      "headline": "32-year-old high-end restaurant chain closes all locations",
+      "article_headline": "32-year-old high-end restaurant chain closes all locations"
+    },
+    {
+      "link": "https://apple.news/ARKCC8IlzQPyjfyVGmHBLNA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-24 02:20:32",
+      "pub_time": "2026-06-23 21:23:39",
+      "publication": "NBC News",
+      "author": "Colin Sheeley and Dennis Romero",
+      "headline": "Boy falls down 50-foot waterfall after getting off Disneyland ride early",
+      "article_headline": "Boy falls down 50-foot waterfall after getting off Disneyland ride early"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-24 02:20:32",
+      "pub_time": "2026-06-23 02:24:07",
+      "publication": "",
+      "author": "Thomas Westerholm",
+      "headline": "COVID vaccine linked to new side effect, especially in older adults",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_u5XIRT_RkqP89cgG-JLPA",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-24 02:20:32",
+      "pub_time": "2026-06-23 22:24:07",
+      "publication": "Fox News",
+      "author": "Ian Miller",
+      "headline": "Knicks parade attendee who dumped trash on sidewalk identified as JPMorgan Chase DEI exec, promptly fired",
+      "article_headline": "Knicks parade attendee who dumped trash on sidewalk identified as JPMorgan Chase DEI exec, promptly fired"
+    },
+    {
+      "link": "https://apple.news/AuiuZCXZ8SoyrcDU_mwT7fQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-24 02:20:32",
+      "pub_time": "2026-06-24 01:24:41",
+      "publication": "The Guardian",
+      "author": "Achol Arok",
+      "headline": "Woman attacked by shark at Coogee beach wakes briefly from coma to say three words",
+      "article_headline": "Woman attacked by shark at Coogee beach wakes briefly from coma to say three words"
+    }
+  ]
+}

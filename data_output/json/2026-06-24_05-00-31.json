@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-06-24 05:00:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AWIZO00-WSYWVbLm0GZlXwg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-24 05:00:31",
+      "pub_time": "2026-06-24 00:00:33",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Mamdani-backed candidates sweep Democratic primaries in New York City, MORE COVERAGE",
+      "article_headline": "Mamdani-backed candidates sweep Democratic primaries in New York City"
+    },
+    {
+      "link": "https://apple.news/Afbyd-Jt9S_Wi6_Rv7cr7Yw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-24 05:00:31",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump heads to Capitol to speak with GOP senators who have grown increasingly frustrated with him",
+      "article_headline": "Trump heads to Capitol to speak with GOP senators who have grown increasingly frustrated with him"
+    },
+    {
+      "link": "https://apple.news/AVQEYwtZ3TKu6A2LQ2eWPoQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-24 05:00:31",
+      "pub_time": "2026-06-24 00:01:33",
+      "publication": "The Wall Street Journal",
+      "author": "Anat Peled",
+      "headline": "Israel’s military is caught in a political no man’s land in Lebanon",
+      "article_headline": "Israel’s Military Is Caught in a Political No Man’s Land in Lebanon"
+    },
+    {
+      "link": "https://apple.news/Auhf4694TTaOb9gpC1vAbRg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-24 05:00:31",
+      "pub_time": "2026-06-24 00:02:05",
+      "publication": "The Atlantic",
+      "author": "Nancy A. Youssef and Missy Ryan",
+      "headline": "Another top general is out at the Pentagon",
+      "article_headline": "Another top general is out at the Pentagon"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-24 05:00:31",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Grading every pick from the first round of the 2026 NBA draft",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-24 05:00:31",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "The company behind the world’s most popular GLP-1 has a new blockbuster drug in the works, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-24 05:00:31",
+      "pub_time": "2026-06-24 04:02:51",
+      "publication": "The Washington Post",
+      "author": "Kevin Schaul",
+      "headline": "Are ChatGPT and other AI chatbots politically biased? We tested them.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
