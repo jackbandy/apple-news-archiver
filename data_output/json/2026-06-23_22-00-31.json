@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-23 22:00:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AsHz171WwTUGx5a4aEpqQzA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-23 22:00:31",
+      "pub_time": "2026-06-23 21:52:32",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Mamdani slate sweeps Democratic primaries in New York, ousts 2 incumbents from Congress, MORE COVERAGE",
+      "article_headline": "Mamdani slate sweeps Democratic primaries in New York, ousts 2 incumbents from Congress"
+    },
+    {
+      "link": "https://apple.news/AGrJ30jfySiu_WG-SChModw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-23 22:00:31",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Federal judge blocks Trump administration policy allowing arrests at immigration courts",
+      "article_headline": "Federal judge blocks Trump administration policy allowing arrests at immigration courts"
+    },
+    {
+      "link": "https://apple.news/AzzF8dbaRTHSHllqvfkH9YQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-23 22:00:31",
+      "pub_time": "2026-06-23 21:53:32",
+      "publication": "Bloomberg",
+      "author": "",
+      "headline": "Congress passes sweeping housing bill in rare bipartisan accord",
+      "article_headline": "Congress Passes Sweeping Housing Bill in Rare Bipartisan Accord"
+    },
+    {
+      "link": "https://apple.news/AzzF8dbaRTHSHllqvfkH9YQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-23 22:00:31",
+      "pub_time": "2026-06-23 21:52:05",
+      "publication": "Bloomberg",
+      "author": "",
+      "headline": "Congress passes sweeping housing bill in rare bipartisan accord",
+      "article_headline": "Congress Passes Sweeping Housing Bill in Rare Bipartisan Accord"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 22:00:31",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Los Angeles school district approves one of the nation’s strictest screen-time policies",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AF4XthA5MQPGq3Wm3BpsHpg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-23 22:00:31",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Wizards pick AJ Dybantsa at No. 1 in NBA draft as highly anticipated first round unfolds, LIVE, Mike Prada, Law Murray, John Hollinger, Dan Woike, James L. Edwards III, William Pogatsias, David Aldridge, Sam Vecenie, Mike Vorkunov, Fred Katz, Joel Lorenzi, Tony Jones, Devon Henderson, Jared Weiss, Eric Koreen, Matthew Ho, Tyler Batiste, Esfandiar Baraheni, and Jay King",
+      "article_headline": "NBA Draft live updates: AJ Dybantsa goes No. 1; grades and reaction as Round 1 unfolds"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 22:00:31",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "The company behind the world’s most popular GLP-1 has a new blockbuster drug in the works, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

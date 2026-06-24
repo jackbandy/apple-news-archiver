@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-23 23:40:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AsHz171WwTUGx5a4aEpqQzA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-23 23:40:32",
+      "pub_time": "2026-06-23 22:40:33",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Mamdani slate sweeps Democratic primaries in New York, ousts 2 incumbents from Congress, MORE COVERAGE",
+      "article_headline": "Mamdani slate sweeps Democratic primaries in New York, ousts 2 incumbents from Congress"
+    },
+    {
+      "link": "https://apple.news/AGrJ30jfySiu_WG-SChModw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-23 23:40:32",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Federal judge blocks Trump administration policy allowing immigration arrests at courthouses",
+      "article_headline": "Federal judge blocks Trump administration policy allowing immigration arrests at courthouses"
+    },
+    {
+      "link": "https://apple.news/AzzF8dbaRTHSHllqvfkH9YQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-23 23:40:32",
+      "pub_time": "2026-06-23 22:41:33",
+      "publication": "Bloomberg",
+      "author": "",
+      "headline": "Congress passes sweeping housing bill in rare bipartisan accord",
+      "article_headline": "Congress Passes Sweeping Housing Bill in Rare Bipartisan Accord"
+    },
+    {
+      "link": "https://apple.news/AVQEYwtZ3TKu6A2LQ2eWPoQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-23 23:40:32",
+      "pub_time": "2026-06-23 22:42:06",
+      "publication": "The Wall Street Journal",
+      "author": "Anat Peled",
+      "headline": "Israel’s military is caught in a political no man’s land in Lebanon",
+      "article_headline": "Israel’s Military Is Caught in a Political No Man’s Land in Lebanon"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 23:40:32",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Grading every pick from the first round of the 2026 NBA draft",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 23:40:32",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "The company behind the world’s most popular GLP-1 has a new blockbuster drug in the works, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A38aU7mTPRoeeeNeP07DadQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-23 23:40:32",
+      "pub_time": "2026-06-23 19:42:52",
+      "publication": "Reuters",
+      "author": "David Shepardson",
+      "headline": "Automakers could halt car sales in California without delay in vehicle tracking law",
+      "article_headline": "Automakers could halt car sales in California without delay in vehicle tracking law"
+    }
+  ]
+}

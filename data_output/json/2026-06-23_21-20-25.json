@@ -1,0 +1,121 @@
+{
+  "run_time": "2026-06-23 21:20:25",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AGrJ30jfySiu_WG-SChModw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-23 21:20:25",
+      "pub_time": "2026-06-23 21:14:27",
+      "publication": "POLITICO",
+      "author": "Aaron Pellish",
+      "headline": "Federal judge blocks Trump administration policy allowing arrests at immigration courts",
+      "article_headline": "Federal judge blocks Trump administration policy allowing arrests at immigration courts"
+    },
+    {
+      "link": "https://apple.news/At6UYf9H8ShWEaXzXFBpXNQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-23 21:20:25",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Two Mamdani-backed candidates win Democratic primaries in New York",
+      "article_headline": "Two Mamdani-Backed Candidates Win Democratic Primaries in New York"
+    },
+    {
+      "link": "https://apple.news/AzzF8dbaRTHSHllqvfkH9YQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-23 21:20:25",
+      "pub_time": "2026-06-23 21:14:28",
+      "publication": "Bloomberg",
+      "author": "",
+      "headline": "Congress passes sweeping housing bill in rare bipartisan accord",
+      "article_headline": "Congress Passes Sweeping Housing Bill in Rare Bipartisan Accord"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 21:20:25",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Los Angeles school district approves one of the nation’s strictest screen-time policies",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AF4XthA5MQPGq3Wm3BpsHpg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-23 21:20:25",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Wizards pick AJ Dybantsa at No. 1, and more updates from the NBA draft, LIVE, Mike Prada, Matthew Ho, Law Murray, Sam Vecenie, Dan Woike, Tyler Batiste, John Hollinger, Esfandiar Baraheni, David Aldridge, Eric Koreen, Joel Lorenzi, Devon Henderson, Mike Vorkunov, Jay King, Eric Nehm, Brendan Marks, Mark Selig, Zach Harper, Christian Clark, Nick Friedell, and Fred Katz",
+      "article_headline": "NBA Draft live updates: AJ Dybantsa goes No. 1; grades and reaction as Round 1 unfolds"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 21:20:25",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "The company behind the world’s most popular GLP-1 has a new blockbuster drug in the works, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ay9vaApQ2QM2DrDE8J2tTkg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-23 21:20:25",
+      "pub_time": "2026-06-23 03:22:44",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Opinion | The left's Reflecting Pool obsession is absurd | Opinion",
+      "article_headline": "Opinion | The left's Reflecting Pool obsession is absurd | Opinion"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-06-23 21:20:25",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The science around GLP-1 drugs and cancer is suddenly getting a lot more interesting, Ariana Eunjung Cha and Christopher Rowland",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-06-23 21:20:25",
+      "pub_time": "",
+      "publication": "The Telegraph",
+      "author": "",
+      "headline": "Six surprising signs of ADHD you might not spot, Laurel Ives",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-06-23 21:20:25",
+      "pub_time": "",
+      "publication": "WIRED",
+      "author": "",
+      "headline": "The painful truth about long COVID, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-23 18:40:27",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AESbRsaKzQnGLVZEmxX-BXQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-23 18:40:27",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Senate passes measure directing Trump to end hostilities with Iran",
+      "article_headline": "Senate passes measure directing Trump to end hostilities with Iran"
+    },
+    {
+      "link": "https://apple.news/AH3MAfnwrRKOVtC9hu-mxCg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-23 18:40:27",
+      "pub_time": "2026-06-23 17:58:56",
+      "publication": "The Guardian",
+      "author": "Sam Levine",
+      "headline": "Texas anti-ICE protesters sentenced to at least 50 years in prison",
+      "article_headline": "Texas anti-ICE protesters sentenced to at least 50 years in prison"
+    },
+    {
+      "link": "https://apple.news/AH3MAfnwrRKOVtC9hu-mxCg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-23 18:40:27",
+      "pub_time": "2026-06-23 17:58:29",
+      "publication": "The Guardian",
+      "author": "Sam Levine",
+      "headline": "Texas anti-ICE protesters sentenced to at least 50 years in prison",
+      "article_headline": "Texas anti-ICE protesters sentenced to at least 50 years in prison"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 18:40:27",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "CDC’s chief blocked a COVID vaccine study. Now it’s in a top medical journal.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A_VVW-jMwRTWmB5PEDn3wPA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-23 18:40:27",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "World Cup 2026, Homeland Security is changing guidelines for Iran soccer team’s next match",
+      "article_headline": "Homeland Security is changing guidelines for Iran soccer team’s next match"
+    },
+    {
+      "link": "https://apple.news/AKLyDiMFBSNCvRgqJn0CmcA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-23 18:40:27",
+      "pub_time": "2026-06-23 17:58:30",
+      "publication": "ABC News",
+      "author": "Matthew Glasser and Briana Alvarado",
+      "headline": "First-of-its-kind mission will attempt to save aging space telescope",
+      "article_headline": "First-of-its-kind mission will attempt to save aging space telescope"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 18:40:27",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "The company behind the world’s most popular GLP-1 has a new blockbuster drug in the works, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

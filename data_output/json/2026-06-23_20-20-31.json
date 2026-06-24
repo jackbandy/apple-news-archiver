@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-23 20:20:31",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AgNC8UGBEQCOVYIoJQXC3Jw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-23 20:20:31",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Senate votes to block Trump from resuming Iran war",
+      "article_headline": "Senate votes to block Trump from resuming Iran war"
+    },
+    {
+      "link": "https://apple.news/AzzF8dbaRTHSHllqvfkH9YQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-23 20:20:31",
+      "pub_time": "2026-06-23 20:04:01",
+      "publication": "Bloomberg",
+      "author": "",
+      "headline": "Congress passes sweeping housing bill in rare bipartisan accord",
+      "article_headline": "Congress Passes Sweeping Housing Bill in Rare Bipartisan Accord"
+    },
+    {
+      "link": "https://apple.news/AzzF8dbaRTHSHllqvfkH9YQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-23 20:20:31",
+      "pub_time": "2026-06-23 20:03:39",
+      "publication": "Bloomberg",
+      "author": "",
+      "headline": "Congress passes sweeping housing bill in rare bipartisan accord",
+      "article_headline": "Congress Passes Sweeping Housing Bill in Rare Bipartisan Accord"
+    },
+    {
+      "link": "https://apple.news/Ag51H2WtTRe6ML_A58V7zUg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-23 20:20:31",
+      "pub_time": "2026-06-23 20:04:07",
+      "publication": "Video",
+      "author": "Jacob Rosen",
+      "headline": "CBS News, Federal judge bars Trump administration from arresting immigrants at courts",
+      "article_headline": "Federal judge bars Trump administration from arresting immigrants at courts"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 20:20:31",
+      "pub_time": "2026-06-23 20:04:35",
+      "publication": "Los Angeles Times",
+      "author": "Kate Sequeira",
+      "headline": "Los Angeles school district approves one of the nation’s strictest screen-time policies",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AF4XthA5MQPGq3Wm3BpsHpg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-23 20:20:31",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Live updates: Wizards pick AJ Dybantsa at No. 1, and more from the NBA draft, LIVE, Mike Prada, Mike Vorkunov, John Hollinger, Sam Vecenie, Fred Katz, Jay King, David Aldridge, Eric Nehm, Christian Clark, Law Murray, Mark Selig, Eric Koreen, Dan Woike, Sam Amick, Devon Henderson, William Pogatsias, Mirin Fader, Brendan Marks, Jon Greenberg, Jayne Orenstein, Tony Jones, Joel Lorenzi, and Josh Robbins",
+      "article_headline": "NBA Draft live updates: AJ Dybantsa goes No. 1, Darryn Peterson No. 2; grades and reaction"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-23 20:20:31",
+      "pub_time": "2026-06-23 20:04:09",
+      "publication": "Los Angeles Times",
+      "author": "Kate Sequeira",
+      "headline": "Los Angeles school district approves one of the nation’s strictest screen-time policies",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AjXMouC69SdW7iFk9d-33dg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-23 20:20:31",
+      "pub_time": "2026-06-23 10:23:46",
+      "publication": "CBS News",
+      "author": "Angelica Leicht",
+      "headline": "Which debts are forgiven when someone dies?",
+      "article_headline": "Which debts are forgiven when someone dies?"
+    },
+    {
+      "link": "https://apple.news/Aj7Le6vbAQ92LYrE7JWd2Og",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-23 20:20:31",
+      "pub_time": "2026-06-23 18:24:14",
+      "publication": "HuffPost",
+      "author": "Angelica Martinez and BuzzFeed",
+      "headline": "‘Every Other Meat Is Ruined’: World Cup Fans Are Finally Tasting American Food — And Their Reactions Are So Wholesome",
+      "article_headline": "‘Every Other Meat Is Ruined’: World Cup Fans Are Finally Tasting American Food — And Their Reactions Are So Wholesome"
+    },
+    {
+      "link": "https://apple.news/Aj7Le6vbAQ92LYrE7JWd2Og",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-23 20:20:31",
+      "pub_time": "2026-06-23 17:24:48",
+      "publication": "HuffPost",
+      "author": "Angelica Martinez and BuzzFeed",
+      "headline": "‘Every Other Meat Is Ruined’: World Cup Fans Are Finally Tasting American Food — And Their Reactions Are So Wholesome",
+      "article_headline": "‘Every Other Meat Is Ruined’: World Cup Fans Are Finally Tasting American Food — And Their Reactions Are So Wholesome"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-23 20:20:31",
+      "pub_time": "2026-06-22 21:25:15",
+      "publication": "",
+      "author": "Thomas Westerholm",
+      "headline": "COVID vaccine linked to new side effect, especially in older adults",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
