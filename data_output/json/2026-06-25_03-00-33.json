@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-06-25 03:00:33",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AKUHM8uSgRkKl6wcV3ev32Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 03:00:33",
+      "pub_time": "2026-06-25 01:00:34",
+      "publication": "Reuters",
+      "author": "Vivian Sequera and Mayela Armas",
+      "headline": "Powerful back-to-back earthquakes hit Venezuela, killing at least 32 and injuring hundreds",
+      "article_headline": "Two major earthquakes strike Venezuela, killing at least 32 and injuring hundreds"
+    },
+    {
+      "link": "https://apple.news/ACqWDs-jvT8Kh8bJBzUno3A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 03:00:33",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Under pressure from Trump, Republican-led Senate reverses course on resolution to end war in Iran",
+      "article_headline": "Under pressure from Trump, Republican-led Senate reverses course on Iran"
+    },
+    {
+      "link": "https://apple.news/AfSots8drS327xPcMQOT1PA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 03:00:33",
+      "pub_time": "2026-06-25 01:01:35",
+      "publication": "Bloomberg",
+      "author": "Michael Nienaber and Arne Delfs",
+      "headline": "European leaders vow to take NATO burden as Trump withdraws",
+      "article_headline": "European Leaders Vow to Take NATO Burden as Trump Withdraws"
+    },
+    {
+      "link": "https://apple.news/AXm5CJljgQwaFe-NSYpobpw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 03:00:33",
+      "pub_time": "2026-06-25 01:02:03",
+      "publication": "The Texas Tribune",
+      "author": "Lomi Kriel",
+      "headline": "Mexican man dies in ICE custody in Texas, at least the 20th fatality in immigration detention this year",
+      "article_headline": "Mexican man dies in ICE custody in Texas, at least the 20th fatality in immigration detention this year"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 03:00:33",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, South Africa reaches World Cup knockout rounds for first time with stunning upset over South Korea",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 03:00:33",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "Charlie Kirk built a powerful conservative youth movement. Can it survive without him?, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 03:00:33",
+      "pub_time": "2026-06-24 14:02:51",
+      "publication": "People",
+      "author": "Jordan Greene",
+      "headline": "She Jumped into the Pacific Ocean to Cool Off. Seconds Later, She Felt ‘Electric Knife’ Pain Shoot Through Her Arm (Exclusive)",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AT7fHUERhTouZPOF0oqDwdg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-25 03:00:33",
+      "pub_time": "2026-06-24 17:03:11",
+      "publication": "HuffPost",
+      "author": "Matt Stopera and BuzzFeed",
+      "headline": "These 42 Tweets From Japanese Tourists Visiting America Are So Deeply Accurate It Hurts",
+      "article_headline": "These 42 Tweets From Japanese Tourists Visiting America Are So Deeply Accurate It Hurts"
+    },
+    {
+      "link": "https://apple.news/ANSNGjkCSSMKsYh1zkeprhQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-25 03:00:33",
+      "pub_time": "2026-06-24 17:03:45",
+      "publication": "BuzzFeed",
+      "author": "Mike Spohr",
+      "headline": "33 \"Before And After\" Photos That Are Just So Interesting To Look At",
+      "article_headline": "33 \"Before And After\" Photos That Are Just So Interesting To Look At"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-25 03:00:33",
+      "pub_time": "2026-06-25 00:04:12",
+      "publication": "",
+      "author": "Charisma Madarang",
+      "headline": "Dolly Parton Graces Opening of Tennessee Truck Stop: 'I Couldn't Leave It to Beavers'",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ai-9dWcuuRICl_Vt4xRt81A",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-25 03:00:33",
+      "pub_time": "2026-06-24 11:04:12",
+      "publication": "CBS News",
+      "author": "Angelica Leicht",
+      "headline": "What is the $5,000 rule for HVAC systems?",
+      "article_headline": "What is the $5,000 rule for HVAC systems?"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-25 05:40:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A39FN89AQT_e0H_uoZBlHlw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 05:40:32",
+      "pub_time": "2026-06-25 05:21:34",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "At least 164 dead after earthquakes hit Venezuela, among nation’s most powerful in a century",
+      "article_headline": "At least 164 dead and 971 injured after powerful quakes rock Venezuela, acting president says"
+    },
+    {
+      "link": "https://apple.news/ACqWDs-jvT8Kh8bJBzUno3A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 05:40:32",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Under pressure from Trump, Republican-led Senate reverses course on resolution to end war in Iran",
+      "article_headline": "Under pressure from Trump, Republican-led Senate reverses course on Iran"
+    },
+    {
+      "link": "https://apple.news/AfSots8drS327xPcMQOT1PA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 05:40:32",
+      "pub_time": "2026-06-25 05:21:34",
+      "publication": "Bloomberg",
+      "author": "Michael Nienaber and Arne Delfs",
+      "headline": "European leaders vow to take NATO burden as Trump withdraws",
+      "article_headline": "European Leaders Vow to Take NATO Burden as Trump Withdraws"
+    },
+    {
+      "link": "https://apple.news/AhabyqojmSaWOORfqf4oCtQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 05:40:32",
+      "pub_time": "2026-06-25 05:22:01",
+      "publication": "Axios",
+      "author": "Rebecca Falconer",
+      "headline": "Trump asks Congress for $87.6 billion, mostly for the Iran war",
+      "article_headline": "Trump asks Congress for $87.6 billion, mostly for the Iran war"
+    },
+    {
+      "link": "https://apple.news/AfSots8drS327xPcMQOT1PA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 05:40:32",
+      "pub_time": "2026-06-25 05:21:34",
+      "publication": "Bloomberg",
+      "author": "Michael Nienaber and Arne Delfs",
+      "headline": "European leaders vow to take NATO burden as Trump withdraws",
+      "article_headline": "European Leaders Vow to Take NATO Burden as Trump Withdraws"
+    },
+    {
+      "link": "https://apple.news/AhabyqojmSaWOORfqf4oCtQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-25 05:40:32",
+      "pub_time": "2026-06-25 05:22:02",
+      "publication": "Axios",
+      "author": "Rebecca Falconer",
+      "headline": "Trump asks Congress for $87.6 billion, mostly for the Iran war",
+      "article_headline": "Trump asks Congress for $87.6 billion, mostly for the Iran war"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 05:40:32",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, South Africa reaches World Cup knockout rounds for first time with stunning upset over South Korea",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-25 04:00:30",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AKUHM8uSgRkKl6wcV3ev32Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 04:00:30",
+      "pub_time": "2026-06-25 01:00:32",
+      "publication": "Reuters",
+      "author": "Vivian Sequera and Mayela Armas",
+      "headline": "Powerful back-to-back earthquakes hit Venezuela, killing at least 32 and injuring hundreds",
+      "article_headline": "Two major earthquakes strike Venezuela, killing at least 32 and injuring hundreds"
+    },
+    {
+      "link": "https://apple.news/ACqWDs-jvT8Kh8bJBzUno3A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 04:00:30",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Under pressure from Trump, Republican-led Senate reverses course on resolution to end war in Iran",
+      "article_headline": "Under pressure from Trump, Republican-led Senate reverses course on Iran"
+    },
+    {
+      "link": "https://apple.news/AfSots8drS327xPcMQOT1PA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 04:00:30",
+      "pub_time": "2026-06-25 01:01:32",
+      "publication": "Bloomberg",
+      "author": "Michael Nienaber and Arne Delfs",
+      "headline": "European leaders vow to take NATO burden as Trump withdraws",
+      "article_headline": "European Leaders Vow to Take NATO Burden as Trump Withdraws"
+    },
+    {
+      "link": "https://apple.news/AXm5CJljgQwaFe-NSYpobpw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 04:00:30",
+      "pub_time": "2026-06-25 01:01:59",
+      "publication": "The Texas Tribune",
+      "author": "Lomi Kriel",
+      "headline": "Mexican man dies in ICE custody in Texas, at least the 20th fatality in immigration detention this year",
+      "article_headline": "Mexican man dies in ICE custody in Texas, at least the 20th fatality in immigration detention this year"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 04:00:30",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, South Africa reaches World Cup knockout rounds for first time with stunning upset over South Korea",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 04:00:30",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "Charlie Kirk built a powerful conservative youth movement. Can it survive without him?, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AA51WzSMARXelMPT3BgAT_A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 04:00:30",
+      "pub_time": "2026-06-24 13:02:48",
+      "publication": "Entertainment Weekly",
+      "author": "Marina Watts",
+      "headline": "Kaley Cuoco steps out weeks after announcing major family news",
+      "article_headline": "Kaley Cuoco steps out weeks after announcing major family news"
+    },
+    {
+      "link": "https://apple.news/ANSNGjkCSSMKsYh1zkeprhQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-25 04:00:30",
+      "pub_time": "2026-06-24 17:03:32",
+      "publication": "BuzzFeed",
+      "author": "Mike Spohr",
+      "headline": "33 \"Before And After\" Photos That Are Just So Interesting To Look At",
+      "article_headline": "33 \"Before And After\" Photos That Are Just So Interesting To Look At"
+    },
+    {
+      "link": "https://apple.news/AHf31XPHZTnC0_4jaIRWtnA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-25 04:00:30",
+      "pub_time": "2026-06-24 16:04:04",
+      "publication": "People",
+      "author": "Wendy Grossman Kantor",
+      "headline": "11-Year-Old Girl Suffers Massive Stroke At School: 'Mommy, I Don't Feel Good' (Exclusive)",
+      "article_headline": "11-Year-Old Girl Suffers Massive Stroke At School: 'Mommy, I Don't Feel Good' (Exclusive)"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-25 04:00:30",
+      "pub_time": "2026-06-24 04:04:32",
+      "publication": "",
+      "author": "Melissa Matthews",
+      "headline": "Stop Carrying These 6 Things in Your Wallet—Experts Explain Why",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AdRYFEwDwTCKsuYIfxmm_jA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-25 04:00:30",
+      "pub_time": "2026-06-24 20:04:32",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "2 missing Chicago men found dead outside Mexico City, family confirms",
+      "article_headline": "2 missing Chicago men found dead outside Mexico City, family confirms"
+    }
+  ]
+}
