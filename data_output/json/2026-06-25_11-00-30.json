@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-06-25 11:00:30",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AqZBUBSWURXybgbTpfWMApg?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 11:00:30",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Supreme Court sides with Trump in 2 high-stakes immigration cases. Here’s the latest on the rulings.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Avnhr0wUpRBOJhb8nWI1LxA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 11:00:30",
+      "pub_time": "2026-06-25 10:53:00",
+      "publication": "Reuters",
+      "author": "Vivian Sequera and Mayela Armas",
+      "headline": "Thousands feared dead in Venezuela after 2 major earthquakes",
+      "article_headline": "Thousands feared dead in Venezuela after 2 major earthquakes"
+    },
+    {
+      "link": "https://apple.news/AHmf9Yk7aTUW4InFGoLkJwA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 11:00:30",
+      "pub_time": "2026-06-25 10:53:28",
+      "publication": "The Washington Post",
+      "author": "Patrick Marley",
+      "headline": "Federal court blocks Trump’s executive order limiting mail ballots",
+      "article_headline": "Federal court blocks Trump’s executive order limiting mail ballots"
+    },
+    {
+      "link": "https://apple.news/Avnhr0wUpRBOJhb8nWI1LxA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 11:00:30",
+      "pub_time": "2026-06-25 10:53:01",
+      "publication": "Reuters",
+      "author": "Vivian Sequera and Mayela Armas",
+      "headline": "Thousands feared dead in Venezuela after 2 major earthquakes",
+      "article_headline": "Thousands feared dead in Venezuela after 2 major earthquakes"
+    },
+    {
+      "link": "https://apple.news/AHmf9Yk7aTUW4InFGoLkJwA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 11:00:30",
+      "pub_time": "2026-06-25 10:53:29",
+      "publication": "The Washington Post",
+      "author": "Patrick Marley",
+      "headline": "Federal court blocks Trump’s executive order limiting mail ballots",
+      "article_headline": "Federal court blocks Trump’s executive order limiting mail ballots"
+    },
+    {
+      "link": "https://apple.news/Am0BnfmwNRaihYRSV_275Jw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-25 11:00:30",
+      "pub_time": "2026-06-25 10:53:56",
+      "publication": "Video",
+      "author": "Alexa Herrera",
+      "headline": "CBS New York, Prosecutors to drop Harvey Weinstein’s New York rape charge",
+      "article_headline": "Prosecutors to drop Harvey Weinstein’s New York rape charge"
+    },
+    {
+      "link": "https://apple.news/Am0BnfmwNRaihYRSV_275Jw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-25 11:00:30",
+      "pub_time": "2026-06-25 10:53:29",
+      "publication": "Video",
+      "author": "Alexa Herrera",
+      "headline": "CBS New York, Prosecutors to drop Harvey Weinstein’s New York rape charge",
+      "article_headline": "Prosecutors to drop Harvey Weinstein’s New York rape charge"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-25 11:00:30",
+      "pub_time": "2026-06-25 06:04:27",
+      "publication": "",
+      "author": "Iona Brannon",
+      "headline": "This Is the No. 1 Phrase You Should Say to Get a Free Room Upgrade, According to Hotel Staff and Frequent Travelers",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AQU3g94vhSZGqPAac4ocVgQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-25 11:00:30",
+      "pub_time": "2026-06-25 07:04:43",
+      "publication": "HuffPost",
+      "author": "Caroline Bologna",
+      "headline": "Eating These Beloved Snacks May Raise Your Dementia Risk — Even If You Otherwise Eat Healthy",
+      "article_headline": "Eating These Beloved Snacks May Raise Your Dementia Risk — Even If You Otherwise Eat Healthy"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-25 11:00:30",
+      "pub_time": "2026-06-24 15:05:11",
+      "publication": "",
+      "author": "Lauren Thomann",
+      "headline": "10 Kirkland Signature Costco Products That Are Even Better Than Their Name-Brand Equivalents",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AJjMPzLO6TWe_GUQYOBY8YQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-25 11:00:30",
+      "pub_time": "2026-06-25 06:05:16",
+      "publication": "Autoblog",
+      "author": "Karl Furlong",
+      "headline": "America’s New $21,500 Mini Gas Truck Has A Manual And 600-Mile Range",
+      "article_headline": "America’s New $21,500 Mini Gas Truck Has A Manual And 600-Mile Range"
+    }
+  ]
+}

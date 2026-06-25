@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-25 09:40:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AD4KL6S7zSOSN6URx4LQTyw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 09:40:32",
+      "pub_time": "2026-06-25 09:25:33",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Supreme Court clears way for Trump administration to revive restrictive immigration policy",
+      "article_headline": "Supreme Court clears way for Trump administration to revive restrictive immigration policy"
+    },
+    {
+      "link": "https://apple.news/Avnhr0wUpRBOJhb8nWI1LxA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 09:40:32",
+      "pub_time": "2026-06-25 09:26:01",
+      "publication": "Reuters",
+      "author": "Vivian Sequera and Mayela Armas",
+      "headline": "Thousands feared dead in Venezuela after 2 major earthquakes",
+      "article_headline": "Thousands feared dead in Venezuela after 2 major earthquakes"
+    },
+    {
+      "link": "https://apple.news/Avnhr0wUpRBOJhb8nWI1LxA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 09:40:32",
+      "pub_time": "2026-06-25 09:25:33",
+      "publication": "Reuters",
+      "author": "Vivian Sequera and Mayela Armas",
+      "headline": "Thousands feared dead in Venezuela after 2 major earthquakes",
+      "article_headline": "Thousands feared dead in Venezuela after 2 major earthquakes"
+    },
+    {
+      "link": "https://apple.news/AzsPdm0fMQ1azZf3IsLHaUg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 09:40:32",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Key measure of inflation climbed in May as surging oil prices pushed costs higher",
+      "article_headline": "Key measure of inflation climbed in May as surging oil prices pushed costs higher"
+    },
+    {
+      "link": "https://apple.news/AI28JeW1QT0e-bNbYKPeAUA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 09:40:32",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Senate Republicans try to make up with Trump after tensions boil over on Iran",
+      "article_headline": "Senate Republicans try to make up with Trump after tensions boil over on Iran"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 09:40:32",
+      "pub_time": "2026-06-25 09:26:01",
+      "publication": "The Washington Post",
+      "author": "Clara Ence Morse, Leslie Shapiro, Praveena Somasundaram, and Eric Lau",
+      "headline": "These megadonors are pouring more than $1.3 billion into the 2026 election",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 09:40:32",
+      "pub_time": "2026-06-25 09:26:01",
+      "publication": "Los Angeles Times",
+      "author": "Caroline Petrow-Cohen",
+      "headline": "This startup was supposed to revolutionize California’s wine industry: “It totally failed”",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

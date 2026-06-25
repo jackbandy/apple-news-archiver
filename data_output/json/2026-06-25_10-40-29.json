@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-06-25 10:40:29",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AqZBUBSWURXybgbTpfWMApg?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 10:40:29",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Supreme Court sides with Trump in 2 high-stakes immigration cases. Here’s the latest on the rulings.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Avnhr0wUpRBOJhb8nWI1LxA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 10:40:29",
+      "pub_time": "2026-06-25 10:20:58",
+      "publication": "Reuters",
+      "author": "Vivian Sequera and Mayela Armas",
+      "headline": "Thousands feared dead in Venezuela after 2 major earthquakes",
+      "article_headline": "Thousands feared dead in Venezuela after 2 major earthquakes"
+    },
+    {
+      "link": "https://apple.news/Avnhr0wUpRBOJhb8nWI1LxA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 10:40:29",
+      "pub_time": "2026-06-25 10:20:30",
+      "publication": "Reuters",
+      "author": "Vivian Sequera and Mayela Armas",
+      "headline": "Thousands feared dead in Venezuela after 2 major earthquakes",
+      "article_headline": "Thousands feared dead in Venezuela after 2 major earthquakes"
+    },
+    {
+      "link": "https://apple.news/AzsPdm0fMQ1azZf3IsLHaUg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 10:40:29",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Key measure of inflation climbed in May as surging oil prices pushed costs higher",
+      "article_headline": "Key measure of inflation climbed in May as surging oil prices pushed costs higher"
+    },
+    {
+      "link": "https://apple.news/AI28JeW1QT0e-bNbYKPeAUA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 10:40:29",
+      "pub_time": "2026-06-25 10:21:25",
+      "publication": "The Hill",
+      "author": "Alexander Bolton",
+      "headline": "Senate Republicans try to make up with Trump after tensions boil over on Iran",
+      "article_headline": "Senate Republicans try to make up with Trump after tensions boil over on Iran"
+    },
+    {
+      "link": "https://apple.news/AI28JeW1QT0e-bNbYKPeAUA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-25 10:40:29",
+      "pub_time": "2026-06-25 10:20:57",
+      "publication": "The Hill",
+      "author": "Alexander Bolton",
+      "headline": "Senate Republicans try to make up with Trump after tensions boil over on Iran",
+      "article_headline": "Senate Republicans try to make up with Trump after tensions boil over on Iran"
+    },
+    {
+      "link": "https://apple.news/Am0BnfmwNRaihYRSV_275Jw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-25 10:40:29",
+      "pub_time": "2026-06-25 10:20:25",
+      "publication": "Video",
+      "author": "Alexa Herrera",
+      "headline": "CBS New York, Prosecutors to drop Harvey Weinstein’s New York rape charge",
+      "article_headline": "Prosecutors to drop Harvey Weinstein’s New York rape charge"
+    },
+    {
+      "link": "https://apple.news/AduHChoXASW--XYNBUKpLBA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-25 10:40:29",
+      "pub_time": "2026-06-25 05:44:32",
+      "publication": "Travel + Leisure",
+      "author": "Iona Brannon",
+      "headline": "This Is the No. 1 Phrase You Should Say to Get a Free Room Upgrade, According to Hotel Staff and Frequent Travelers",
+      "article_headline": "This Is the No. 1 Phrase You Should Say to Get a Free Room Upgrade, According to Hotel Staff and Frequent Travelers"
+    },
+    {
+      "link": "https://apple.news/AQU3g94vhSZGqPAac4ocVgQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-25 10:40:29",
+      "pub_time": "2026-06-25 06:45:00",
+      "publication": "HuffPost",
+      "author": "Caroline Bologna",
+      "headline": "Eating These Beloved Snacks May Raise Your Dementia Risk — Even If You Otherwise Eat Healthy",
+      "article_headline": "Eating These Beloved Snacks May Raise Your Dementia Risk — Even If You Otherwise Eat Healthy"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-25 10:40:29",
+      "pub_time": "2026-06-24 14:45:27",
+      "publication": "",
+      "author": "Lauren Thomann",
+      "headline": "10 Kirkland Signature Costco Products That Are Even Better Than Their Name-Brand Equivalents",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AHCfdWvG8Td2oX99b8WE3bw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-25 10:40:29",
+      "pub_time": "2026-06-25 06:45:33",
+      "publication": "BuzzFeed",
+      "author": "Mike Spohr",
+      "headline": "51 Photos That Will Make Parents Laugh And The Rest Of You Run To Get Sterilized",
+      "article_headline": "51 Photos That Will Make Parents Laugh And The Rest Of You Run To Get Sterilized"
+    }
+  ]
+}

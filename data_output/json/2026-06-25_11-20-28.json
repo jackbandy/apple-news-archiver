@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-25 11:20:28",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AqZBUBSWURXybgbTpfWMApg?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 11:20:28",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Supreme Court sides with Trump in 2 high-stakes immigration cases. Here’s the latest on the rulings.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A1Ip1FYPQTuiN-Y5jhffdAg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 11:20:28",
+      "pub_time": "2026-06-25 11:17:58",
+      "publication": "Votebeat",
+      "author": "Dion Nissenbaum",
+      "headline": "Federal judge blocks key pillars of Trump executive order restricting mail voting in 2026 election",
+      "article_headline": "Federal judge blocks key pillars of Trump executive order restricting mail voting in 2026 election"
+    },
+    {
+      "link": "https://apple.news/Avnhr0wUpRBOJhb8nWI1LxA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 11:20:28",
+      "pub_time": "2026-06-25 11:18:26",
+      "publication": "Reuters",
+      "author": "Vivian Sequera and Mayela Armas",
+      "headline": "Thousands feared dead in Venezuela after 2 major earthquakes",
+      "article_headline": "Thousands feared dead in Venezuela after 2 major earthquakes"
+    },
+    {
+      "link": "https://apple.news/A1Ip1FYPQTuiN-Y5jhffdAg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 11:20:28",
+      "pub_time": "2026-06-25 11:17:59",
+      "publication": "Votebeat",
+      "author": "Dion Nissenbaum",
+      "headline": "Federal judge blocks key pillars of Trump executive order restricting mail voting in 2026 election",
+      "article_headline": "Federal judge blocks key pillars of Trump executive order restricting mail voting in 2026 election"
+    },
+    {
+      "link": "https://apple.news/Avnhr0wUpRBOJhb8nWI1LxA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 11:20:28",
+      "pub_time": "2026-06-25 11:18:27",
+      "publication": "Reuters",
+      "author": "Vivian Sequera and Mayela Armas",
+      "headline": "Thousands feared dead in Venezuela after 2 major earthquakes",
+      "article_headline": "Thousands feared dead in Venezuela after 2 major earthquakes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 11:20:28",
+      "pub_time": "2026-06-25 11:17:55",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Florida closes “Alligator Alcatraz” immigrant-detention center after 1 year",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 11:20:28",
+      "pub_time": "2026-06-25 11:17:00",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Florida closes “Alligator Alcatraz” immigrant-detention center after 1 year",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

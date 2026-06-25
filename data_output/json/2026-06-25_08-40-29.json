@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-25 08:40:29",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A39FN89AQT_e0H_uoZBlHlw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 08:40:29",
+      "pub_time": "2026-06-25 08:36:31",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "At least 164 dead after Venezuela hit by 2 of its most powerful earthquakes in a century",
+      "article_headline": "2 powerful quakes hit Venezuela, killing at least 164 and injuring nearly 1,000"
+    },
+    {
+      "link": "https://apple.news/AzsPdm0fMQ1azZf3IsLHaUg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 08:40:29",
+      "pub_time": "2026-06-25 08:36:58",
+      "publication": "NBC News",
+      "author": "Rob Wile",
+      "headline": "Key measure of inflation climbed in May as surging oil prices pushed costs higher",
+      "article_headline": "Key measure of inflation climbed in May as surging oil prices pushed costs higher"
+    },
+    {
+      "link": "https://apple.news/AzsPdm0fMQ1azZf3IsLHaUg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 08:40:29",
+      "pub_time": "2026-06-25 08:36:31",
+      "publication": "NBC News",
+      "author": "Rob Wile",
+      "headline": "Key measure of inflation climbed in May as surging oil prices pushed costs higher",
+      "article_headline": "Key measure of inflation climbed in May as surging oil prices pushed costs higher"
+    },
+    {
+      "link": "https://apple.news/AI28JeW1QT0e-bNbYKPeAUA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 08:40:29",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Senate Republicans try to make up with Trump after tensions boil over on Iran",
+      "article_headline": "Senate Republicans try to make up with Trump after tensions boil over on Iran"
+    },
+    {
+      "link": "https://apple.news/Ag08w5AQHRVuu5sklB-Ph0A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 08:40:29",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "El Niño roars to life with eye-popping data. Here are 5 things to know.",
+      "article_headline": "El Niño roars to life with eye-popping data. Here are 5 things to know."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 08:40:29",
+      "pub_time": "2026-06-25 08:37:00",
+      "publication": "The Washington Post",
+      "author": "Clara Ence Morse, Leslie Shapiro, Praveena Somasundaram, and Eric Lau",
+      "headline": "These megadonors are pouring more than $1.3 billion into the 2026 election",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 08:40:29",
+      "pub_time": "2026-06-25 08:36:00",
+      "publication": "Los Angeles Times",
+      "author": "Caroline Petrow-Cohen",
+      "headline": "This startup was supposed to revolutionize California’s wine industry: “It totally failed”",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

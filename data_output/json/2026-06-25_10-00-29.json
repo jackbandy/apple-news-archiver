@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-25 10:00:29",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AD4KL6S7zSOSN6URx4LQTyw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 10:00:29",
+      "pub_time": "2026-06-25 09:50:30",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Supreme Court clears way for Trump administration to revive restrictive immigration policy, MORE COVERAGE",
+      "article_headline": "Supreme Court clears way for Trump administration to revive restrictive immigration policy"
+    },
+    {
+      "link": "https://apple.news/Avnhr0wUpRBOJhb8nWI1LxA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 10:00:29",
+      "pub_time": "2026-06-25 09:51:02",
+      "publication": "Reuters",
+      "author": "Vivian Sequera and Mayela Armas",
+      "headline": "Thousands feared dead in Venezuela after 2 major earthquakes",
+      "article_headline": "Thousands feared dead in Venezuela after 2 major earthquakes"
+    },
+    {
+      "link": "https://apple.news/AzsPdm0fMQ1azZf3IsLHaUg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 10:00:29",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Inflation report could fuel concerns about higher interest rates, even as oil prices fall",
+      "article_headline": "Inflation report could fuel concerns about higher interest rates, even as oil prices fall"
+    },
+    {
+      "link": "https://apple.news/Avnhr0wUpRBOJhb8nWI1LxA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 10:00:29",
+      "pub_time": "2026-06-25 09:51:02",
+      "publication": "Reuters",
+      "author": "Vivian Sequera and Mayela Armas",
+      "headline": "Thousands feared dead in Venezuela after 2 major earthquakes",
+      "article_headline": "Thousands feared dead in Venezuela after 2 major earthquakes"
+    },
+    {
+      "link": "https://apple.news/AI28JeW1QT0e-bNbYKPeAUA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 10:00:29",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Senate Republicans try to make up with Trump after tensions boil over on Iran",
+      "article_headline": "Senate Republicans try to make up with Trump after tensions boil over on Iran"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 10:00:29",
+      "pub_time": "2026-06-25 09:50:56",
+      "publication": "The Washington Post",
+      "author": "Clara Ence Morse, Leslie Shapiro, Praveena Somasundaram, and Eric Lau",
+      "headline": "Meet the megadonors pouring more than $1.3 billion into the 2026 election",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 10:00:29",
+      "pub_time": "2026-06-25 09:50:02",
+      "publication": "The Washington Post",
+      "author": "Clara Ence Morse, Leslie Shapiro, Praveena Somasundaram, and Eric Lau",
+      "headline": "Meet the megadonors pouring more than $1.3 billion into the 2026 election",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AduHChoXASW--XYNBUKpLBA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-25 10:00:29",
+      "pub_time": "2026-06-25 06:03:39",
+      "publication": "Travel + Leisure",
+      "author": "Iona Brannon",
+      "headline": "This Is the No. 1 Phrase You Should Say to Get a Free Room Upgrade, According to Hotel Staff and Frequent Travelers",
+      "article_headline": "This Is the No. 1 Phrase You Should Say to Get a Free Room Upgrade, According to Hotel Staff and Frequent Travelers"
+    },
+    {
+      "link": "https://apple.news/AJjMPzLO6TWe_GUQYOBY8YQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-25 10:00:29",
+      "pub_time": "2026-06-25 06:04:06",
+      "publication": "Autoblog",
+      "author": "Karl Furlong",
+      "headline": "America’s New $21,500 Mini Gas Truck Has A Manual And 600-Mile Range",
+      "article_headline": "America’s New $21,500 Mini Gas Truck Has A Manual And 600-Mile Range"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-25 10:00:29",
+      "pub_time": "2026-06-24 15:04:40",
+      "publication": "",
+      "author": "Lauren Thomann",
+      "headline": "10 Kirkland Signature Costco Products That Are Even Better Than Their Name-Brand Equivalents",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AGC3kJjknQG-F1oeABxrBbw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-25 10:00:29",
+      "pub_time": "2026-06-24 23:04:40",
+      "publication": "BuzzFeed",
+      "author": "Dannica Ramirez",
+      "headline": "Older People Are Sharing The Common, Everyday Practices From \"Back In The Day\" That No Longer Exist",
+      "article_headline": "Older People Are Sharing The Common, Everyday Practices From \"Back In The Day\" That No Longer Exist"
+    }
+  ]
+}
