@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-24 20:20:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A31NZMyNBTe2JdaWIFNxFuQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-24 20:20:31",
+      "pub_time": "2026-06-24 20:09:32",
+      "publication": "The Dallas Morning News",
+      "author": "",
+      "headline": "Trump joins Senate GOP lunch as Iran debate divides Republicans, MORE DETAILS",
+      "article_headline": "Trump joins Senate GOP lunch as Iran debate divides Republicans"
+    },
+    {
+      "link": "https://apple.news/AT7Pk-IaNRzqV3I085yD0Nw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-24 20:20:31",
+      "pub_time": "2026-06-24 20:10:04",
+      "publication": "ABC News",
+      "author": "Peter Charalambous",
+      "headline": "Judge permanently blocks Trump executive order requiring proof of citizenship to vote",
+      "article_headline": "Judge permanently blocks Trump executive order requiring proof of citizenship to vote"
+    },
+    {
+      "link": "https://apple.news/A09RoPYdOTvqa7mfoMsExww",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-24 20:20:31",
+      "pub_time": "2026-06-24 20:10:32",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Back-to-back powerful earthquakes slam Venezuela, collapsing buildings in Caracas",
+      "article_headline": "Back-to-back powerful earthquakes slam Venezuela, collapsing buildings in the capital of Caracas"
+    },
+    {
+      "link": "https://apple.news/AT7Pk-IaNRzqV3I085yD0Nw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-24 20:20:31",
+      "pub_time": "2026-06-24 20:10:04",
+      "publication": "ABC News",
+      "author": "Peter Charalambous",
+      "headline": "Judge permanently blocks Trump executive order requiring proof of citizenship to vote",
+      "article_headline": "Judge permanently blocks Trump executive order requiring proof of citizenship to vote"
+    },
+    {
+      "link": "https://apple.news/A09RoPYdOTvqa7mfoMsExww",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-24 20:20:31",
+      "pub_time": "2026-06-24 20:10:31",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Back-to-back powerful earthquakes slam Venezuela, collapsing buildings in Caracas",
+      "article_headline": "Back-to-back powerful earthquakes slam Venezuela, collapsing buildings in the capital of Caracas"
+    },
+    {
+      "link": "https://apple.news/AeUuAU8v2TWm8w8QdeqJ0ww",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-24 20:20:31",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "New drugs are replacing chemo for aggressive breast cancer",
+      "article_headline": "New drugs are replacing chemo for aggressive breast cancer"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-24 20:20:31",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, FIFA revokes credentials of World Cup commentator after expletive-laden on-air rant",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

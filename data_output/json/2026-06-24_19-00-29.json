@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-24 19:00:29",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A31NZMyNBTe2JdaWIFNxFuQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-24 19:00:29",
+      "pub_time": "2026-06-24 17:00:31",
+      "publication": "The Dallas Morning News",
+      "author": "",
+      "headline": "Trump joins Senate GOP lunch as Iran debate divides Republicans, MORE DETAILS",
+      "article_headline": "Trump joins Senate GOP lunch as Iran debate divides Republicans"
+    },
+    {
+      "link": "https://apple.news/AT7Pk-IaNRzqV3I085yD0Nw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-24 19:00:29",
+      "pub_time": "2026-06-24 15:01:03",
+      "publication": "ABC News",
+      "author": "Peter Charalambous",
+      "headline": "Judge permanently blocks Trump executive order requiring proof of citizenship to vote",
+      "article_headline": "Judge permanently blocks Trump executive order requiring proof of citizenship to vote"
+    },
+    {
+      "link": "https://apple.news/Ac3XWAT1-RpiRIIVnsEiIcA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-24 19:00:29",
+      "pub_time": "2026-06-24 17:01:31",
+      "publication": "NPR",
+      "author": "Emmet Livingstone and Arsène Mpiana",
+      "headline": "Inside the gold-mining town where the Ebola outbreak likely started",
+      "article_headline": "Inside the gold-mining town where the Ebola outbreak likely started"
+    },
+    {
+      "link": "https://apple.news/AeUuAU8v2TWm8w8QdeqJ0ww",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-24 19:00:29",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "New drugs are replacing chemo for aggressive breast cancer",
+      "article_headline": "New drugs are replacing chemo for aggressive breast cancer"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-24 19:00:29",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, FIFA revokes credentials of World Cup commentator after expletive-laden on-air rant",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-24 19:00:29",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "Charlie Kirk built a powerful conservative youth movement. Can it survive without him?, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AkM-BCiL8Ru2tHW86TO_wew",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-24 19:00:29",
+      "pub_time": "2026-06-24 15:02:52",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "A tourist spent $5 on a Las Vegas slot. Minutes later, everything changed",
+      "article_headline": "A tourist spent $5 on a Las Vegas slot. Minutes later, everything changed"
+    },
+    {
+      "link": "https://apple.news/AaG6lZXxbTLKYEv8SYZBnFw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-24 19:00:29",
+      "pub_time": "2026-06-24 13:03:35",
+      "publication": "BuzzFeed",
+      "author": "Mike Spohr",
+      "headline": "50 T-Shirts People Saw Out In Public That Were So Funny They Snapped A Photo",
+      "article_headline": "50 T-Shirts People Saw Out In Public That Were So Funny They Snapped A Photo"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-24 19:00:29",
+      "pub_time": "2026-06-23 19:04:08",
+      "publication": "",
+      "author": "Thomas Westerholm",
+      "headline": "COVID vaccine linked to new side effect, especially in older adults",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A1tmJsagwRUWoGwEuGlRgwA",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-24 19:00:29",
+      "pub_time": "2026-06-24 17:04:08",
+      "publication": "The Guardian",
+      "author": "Uwa Ede-Osifo",
+      "headline": "Yosemite visitor dies after being swept over nearly 600ft waterfall",
+      "article_headline": "Yosemite visitor dies after being swept over nearly 600ft waterfall"
+    },
+    {
+      "link": "https://apple.news/AnfCYG4txTCumO0HFu2eoQw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-24 19:00:29",
+      "pub_time": "2026-06-24 13:04:36",
+      "publication": "Popular Mechanics",
+      "author": "Tim Newcomb",
+      "headline": "These Tombs Stayed Hidden from Grave Robbers for 2,600 Years. Now, They’re Scientific Treasure Troves.",
+      "article_headline": "These Tombs Stayed Hidden from Grave Robbers for 2,600 Years. Now, They’re Scientific Treasure Troves."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-24 19:40:30",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A31NZMyNBTe2JdaWIFNxFuQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-24 19:40:30",
+      "pub_time": "2026-06-24 17:40:31",
+      "publication": "The Dallas Morning News",
+      "author": "",
+      "headline": "Trump joins Senate GOP lunch as Iran debate divides Republicans, MORE DETAILS",
+      "article_headline": "Trump joins Senate GOP lunch as Iran debate divides Republicans"
+    },
+    {
+      "link": "https://apple.news/AT7Pk-IaNRzqV3I085yD0Nw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-24 19:40:30",
+      "pub_time": "2026-06-24 14:41:03",
+      "publication": "ABC News",
+      "author": "Peter Charalambous",
+      "headline": "Judge permanently blocks Trump executive order requiring proof of citizenship to vote",
+      "article_headline": "Judge permanently blocks Trump executive order requiring proof of citizenship to vote"
+    },
+    {
+      "link": "https://apple.news/Ac3XWAT1-RpiRIIVnsEiIcA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-24 19:40:30",
+      "pub_time": "2026-06-24 17:41:31",
+      "publication": "NPR",
+      "author": "Emmet Livingstone and Arsène Mpiana",
+      "headline": "Inside the gold-mining town where the Ebola outbreak likely started",
+      "article_headline": "Inside the gold-mining town where the Ebola outbreak likely started"
+    },
+    {
+      "link": "https://apple.news/AeUuAU8v2TWm8w8QdeqJ0ww",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-24 19:40:30",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "New drugs are replacing chemo for aggressive breast cancer",
+      "article_headline": "New drugs are replacing chemo for aggressive breast cancer"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-24 19:40:30",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, FIFA revokes credentials of World Cup commentator after expletive-laden on-air rant",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-24 19:40:30",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "Charlie Kirk built a powerful conservative youth movement. Can it survive without him?, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AB0as8GPCSJa-roh9Lhd0gg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-24 19:40:30",
+      "pub_time": "2026-06-24 17:42:52",
+      "publication": "FOOD & WINE",
+      "author": "Patricia Kelly Yeo",
+      "headline": "Why America’s Best New Burgers Are Almost Impossible to Order",
+      "article_headline": "Why America’s Best New Burgers Are Almost Impossible to Order"
+    }
+  ]
+}

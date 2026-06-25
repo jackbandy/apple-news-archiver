@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-24 18:20:27",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A31NZMyNBTe2JdaWIFNxFuQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-24 18:20:27",
+      "pub_time": "2026-06-24 18:02:28",
+      "publication": "The Dallas Morning News",
+      "author": "",
+      "headline": "Trump joins Senate GOP lunch as Iran debate divides Republicans, MORE COVERAGE",
+      "article_headline": "Trump joins Senate GOP lunch as Iran debate divides Republicans"
+    },
+    {
+      "link": "https://apple.news/AT7Pk-IaNRzqV3I085yD0Nw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-24 18:20:27",
+      "pub_time": "2026-06-24 18:03:01",
+      "publication": "ABC News",
+      "author": "Peter Charalambous",
+      "headline": "Judge permanently blocks Trump executive order requiring proof of citizenship to vote",
+      "article_headline": "Judge permanently blocks Trump executive order requiring proof of citizenship to vote"
+    },
+    {
+      "link": "https://apple.news/Ac3XWAT1-RpiRIIVnsEiIcA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-24 18:20:27",
+      "pub_time": "2026-06-24 18:03:28",
+      "publication": "NPR",
+      "author": "Emmet Livingstone and Arsène Mpiana",
+      "headline": "Inside the gold-mining town where the Ebola outbreak likely started",
+      "article_headline": "Inside the gold-mining town where the Ebola outbreak likely started"
+    },
+    {
+      "link": "https://apple.news/AT7Pk-IaNRzqV3I085yD0Nw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-24 18:20:27",
+      "pub_time": "2026-06-24 18:02:02",
+      "publication": "ABC News",
+      "author": "Peter Charalambous",
+      "headline": "Judge permanently blocks Trump executive order requiring proof of citizenship to vote",
+      "article_headline": "Judge permanently blocks Trump executive order requiring proof of citizenship to vote"
+    },
+    {
+      "link": "https://apple.news/Ac3XWAT1-RpiRIIVnsEiIcA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-24 18:20:27",
+      "pub_time": "2026-06-24 18:02:30",
+      "publication": "NPR",
+      "author": "Emmet Livingstone and Arsène Mpiana",
+      "headline": "Inside the gold-mining town where the Ebola outbreak likely started",
+      "article_headline": "Inside the gold-mining town where the Ebola outbreak likely started"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-24 18:20:27",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "New drugs are replacing chemo for aggressive breast cancer",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-24 18:20:27",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, FIFA revokes credentials of World Cup commentator after expletive-laden on-air rant",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaG6lZXxbTLKYEv8SYZBnFw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-24 18:20:27",
+      "pub_time": "2026-06-24 13:23:37",
+      "publication": "BuzzFeed",
+      "author": "Mike Spohr",
+      "headline": "50 T-Shirts People Saw Out In Public That Were So Funny They Snapped A Photo",
+      "article_headline": "50 T-Shirts People Saw Out In Public That Were So Funny They Snapped A Photo"
+    },
+    {
+      "link": "https://apple.news/A1tmJsagwRUWoGwEuGlRgwA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-24 18:20:27",
+      "pub_time": "2026-06-24 16:24:05",
+      "publication": "The Guardian",
+      "author": "Uwa Ede-Osifo",
+      "headline": "Yosemite visitor dies after being swept over nearly 600ft waterfall",
+      "article_headline": "Yosemite visitor dies after being swept over nearly 600ft waterfall"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-24 18:20:27",
+      "pub_time": "2026-06-23 18:24:32",
+      "publication": "",
+      "author": "Thomas Westerholm",
+      "headline": "COVID vaccine linked to new side effect, especially in older adults",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AkmNUYuqHQfmqWfe1yxb4HQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-24 18:20:27",
+      "pub_time": "2026-06-24 15:24:38",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Watch Amazon contractor turn pristine lawn to ruin during delivery",
+      "article_headline": "Watch Amazon contractor turn pristine lawn to ruin during delivery"
+    }
+  ]
+}
