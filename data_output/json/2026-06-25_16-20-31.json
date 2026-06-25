@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-25 16:20:31",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A-2GuPOQgQcqsrPYAb5Oyjg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 16:20:31",
+      "pub_time": "2026-06-25 16:11:32",
+      "publication": "NPR",
+      "author": "",
+      "headline": "The death toll in Venezuela is rising after major earthquakes topple many buildings, MORE COVERAGE",
+      "article_headline": "The death toll in Venezuela is rising after major earthquakes topple many buildings"
+    },
+    {
+      "link": "https://apple.news/AqZBUBSWURXybgbTpfWMApg?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 16:20:31",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Politics, Supreme Court sides with Trump in 2 high-stakes immigration cases",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A-p9-ecdfR4aOMfoeMAe3Jg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 16:20:31",
+      "pub_time": "2026-06-25 16:11:37",
+      "publication": "The Wall Street Journal",
+      "author": "Rebecca Feng and Shelby Holliday",
+      "headline": "Iran attacks cargo ship, testing Trump’s deal to reopen Strait of Hormuz",
+      "article_headline": "Iran attacks cargo ship, testing Trump’s deal to reopen Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AzTwuL8VnTyWIHsMRjcVGmw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 16:20:31",
+      "pub_time": "2026-06-25 16:12:04",
+      "publication": "POLITICO",
+      "author": "Eric Bazail-Eimil",
+      "headline": "Homeland Security watchdog opens probes into ICE treatment of detained immigrants",
+      "article_headline": "Homeland Security watchdog opens probes into ICE treatment of detained immigrants"
+    },
+    {
+      "link": "https://apple.news/AzTwuL8VnTyWIHsMRjcVGmw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 16:20:31",
+      "pub_time": "2026-06-25 16:11:37",
+      "publication": "POLITICO",
+      "author": "Eric Bazail-Eimil",
+      "headline": "Homeland Security watchdog opens probes into ICE treatment of detained immigrants",
+      "article_headline": "Homeland Security watchdog opens probes into ICE treatment of detained immigrants"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 16:20:31",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "WNBA suspends Alyssa Thomas after her fist made contact with Caitlin Clark’s throat",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 16:20:31",
+      "pub_time": "2026-06-25 16:12:05",
+      "publication": "The Atlantic",
+      "author": "Stephanie H. Murray",
+      "headline": "Americans are in denial about eldercare",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AduHChoXASW--XYNBUKpLBA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-25 16:20:31",
+      "pub_time": "2026-06-25 05:23:44",
+      "publication": "Travel + Leisure",
+      "author": "Iona Brannon",
+      "headline": "This Is the No. 1 Phrase You Should Say to Get a Free Room Upgrade, According to Hotel Staff and Frequent Travelers",
+      "article_headline": "This Is the No. 1 Phrase You Should Say to Get a Free Room Upgrade, According to Hotel Staff and Frequent Travelers"
+    },
+    {
+      "link": "https://apple.news/AUc1m6BAQRuWbvCgnRTPM2A",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-25 16:20:31",
+      "pub_time": "2026-06-25 13:24:17",
+      "publication": "HuffPost",
+      "author": "Mary Elizabeth Holliday",
+      "headline": "I'm Ending My Life Today. Here's What I Want You To Know Before I Go.",
+      "article_headline": "I'm Ending My Life Today. Here's What I Want You To Know Before I Go."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-25 16:20:31",
+      "pub_time": "2026-06-25 11:24:44",
+      "publication": "",
+      "author": "Nick Romano",
+      "headline": "'Avengers: Endgame' rerelease confirms new title, footage, and end tag",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AJjMPzLO6TWe_GUQYOBY8YQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-25 16:20:31",
+      "pub_time": "2026-06-25 06:24:44",
+      "publication": "Autoblog",
+      "author": "Karl Furlong",
+      "headline": "America’s New $21,500 Mini Gas Truck Has A Manual And 600-Mile Range",
+      "article_headline": "America’s New $21,500 Mini Gas Truck Has A Manual And 600-Mile Range"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-25 18:00:31",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A-p9-ecdfR4aOMfoeMAe3Jg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 18:00:31",
+      "pub_time": "2026-06-25 17:00:32",
+      "publication": "The Wall Street Journal",
+      "author": "Rebecca Feng and Shelby Holliday",
+      "headline": "Iran attacks cargo ship, testing Trump’s deal to reopen Strait of Hormuz",
+      "article_headline": "Iran attacks cargo ship, testing Trump’s deal to reopen Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AeD1RK1YCRXyJdepiOlCvhg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 18:00:31",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Supreme Court hands Trump major victories on his immigration agenda",
+      "article_headline": "Supreme Court hands Trump major victories on his immigration agenda"
+    },
+    {
+      "link": "https://apple.news/A-2GuPOQgQcqsrPYAb5Oyjg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 18:00:31",
+      "pub_time": "2026-06-25 17:01:33",
+      "publication": "NPR",
+      "author": "Emma Bowman",
+      "headline": "The death toll in Venezuela is rising after major earthquakes topple many buildings",
+      "article_headline": "The death toll in Venezuela is rising after major earthquakes topple many buildings"
+    },
+    {
+      "link": "https://apple.news/AzTwuL8VnTyWIHsMRjcVGmw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 18:00:31",
+      "pub_time": "2026-06-25 17:02:01",
+      "publication": "POLITICO",
+      "author": "Eric Bazail-Eimil",
+      "headline": "Homeland Security watchdog opens probes into ICE treatment of detained immigrants",
+      "article_headline": "Homeland Security watchdog opens probes into ICE treatment of detained immigrants"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 18:00:31",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "WNBA suspends Alyssa Thomas after her fist made contact with Caitlin Clark’s throat",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 18:00:31",
+      "pub_time": "2026-06-25 17:02:34",
+      "publication": "The Atlantic",
+      "author": "Stephanie H. Murray",
+      "headline": "Americans are in denial about eldercare",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AVS_gNJb8REe6UeFBVkkP4w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 18:00:31",
+      "pub_time": "2026-06-25 17:26:49",
+      "publication": "The Hollywood Reporter",
+      "author": "Ryan Gajewski",
+      "headline": "'Ratatouille' Director Shuts Down Sequel Talk Despite Pixar's Interest: \"We Told That Story\"",
+      "article_headline": "'Ratatouille' Director Shuts Down Sequel Talk Despite Pixar's Interest: \"We Told That Story\""
+    },
+    {
+      "link": "https://apple.news/A7-b3m8PMSu-wdbN_fgjaLw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-25 18:00:31",
+      "pub_time": "2026-06-25 12:03:46",
+      "publication": "BuzzFeed",
+      "author": "Dave Stopera",
+      "headline": "It's No Secret That Everything Is Getting WAY More Expensive And WAY Worse By The Day And These Pictures Are All The Proof I Need",
+      "article_headline": "It's No Secret That Everything Is Getting WAY More Expensive And WAY Worse By The Day And These Pictures Are All The Proof I Need"
+    },
+    {
+      "link": "https://apple.news/AYw8Nm-O0SP26FIT-bmobmw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-25 18:00:31",
+      "pub_time": "2026-06-25 17:45:13",
+      "publication": "HuffPost",
+      "author": "Jenna Guillaume and BuzzFeed",
+      "headline": "These 15 Old Hollywood Stars Were Queer — And The Studios Did Everything To Hide It",
+      "article_headline": "These 15 Old Hollywood Stars Were Queer — And The Studios Did Everything To Hide It"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-25 18:00:31",
+      "pub_time": "2026-06-25 12:04:40",
+      "publication": "",
+      "author": "Nick Romano",
+      "headline": "'Avengers: Endgame' rerelease confirms new title, footage, and end tag",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AYw8Nm-O0SP26FIT-bmobmw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-25 18:00:31",
+      "pub_time": "2026-06-25 17:44:46",
+      "publication": "HuffPost",
+      "author": "Jenna Guillaume and BuzzFeed",
+      "headline": "These 15 Old Hollywood Stars Were Queer — And The Studios Did Everything To Hide It",
+      "article_headline": "These 15 Old Hollywood Stars Were Queer — And The Studios Did Everything To Hide It"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-06-25 15:20:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A-2GuPOQgQcqsrPYAb5Oyjg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 15:20:31",
+      "pub_time": "2026-06-25 15:07:32",
+      "publication": "NPR",
+      "author": "",
+      "headline": "The death toll is rising after major Venezuelan earthquakes topple many buildings, MORE COVERAGE",
+      "article_headline": "The death toll is rising after major Venezuelan earthquakes topple many buildings"
+    },
+    {
+      "link": "https://apple.news/AqZBUBSWURXybgbTpfWMApg?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 15:20:31",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Politics, Supreme Court sides with Trump in 2 high-stakes immigration cases",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A-p9-ecdfR4aOMfoeMAe3Jg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 15:20:31",
+      "pub_time": "2026-06-25 15:06:36",
+      "publication": "The Wall Street Journal",
+      "author": "Rebecca Feng and Shelby Holliday",
+      "headline": "Iran attacks cargo ship, testing Trump’s deal to reopen Strait of Hormuz",
+      "article_headline": "Iran attacks cargo ship, testing Trump’s deal to reopen Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/A09dS9bZpTU2yIyxkWv2b6g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 15:20:31",
+      "pub_time": "2026-06-25 15:07:03",
+      "publication": "Reuters",
+      "author": "Andrew Goudsward",
+      "headline": "Reflecting Pool now under surveillance as Trump blames vandals for green algae",
+      "article_headline": "Reflecting Pool now under surveillance as Trump blames vandals for green algae"
+    },
+    {
+      "link": "https://apple.news/A-p9-ecdfR4aOMfoeMAe3Jg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 15:20:31",
+      "pub_time": "2026-06-25 15:06:36",
+      "publication": "The Wall Street Journal",
+      "author": "Rebecca Feng and Shelby Holliday",
+      "headline": "Iran attacks cargo ship, testing Trump’s deal to reopen Strait of Hormuz",
+      "article_headline": "Iran attacks cargo ship, testing Trump’s deal to reopen Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/A09dS9bZpTU2yIyxkWv2b6g",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-25 15:20:31",
+      "pub_time": "2026-06-25 15:07:03",
+      "publication": "Reuters",
+      "author": "Andrew Goudsward",
+      "headline": "Reflecting Pool now under surveillance as Trump blames vandals for green algae",
+      "article_headline": "Reflecting Pool now under surveillance as Trump blames vandals for green algae"
+    },
+    {
+      "link": "https://apple.news/A3IUoqFzYSbGAU38bbKmHkw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-25 15:20:31",
+      "pub_time": "2026-06-25 15:07:30",
+      "publication": "ABC News",
+      "author": "Shafiq Najib and Susan Schwartz",
+      "headline": "Passengers restrain pilot during apparent medical emergency on “terrifying” flight",
+      "article_headline": "Passengers restrain pilot during apparent medical emergency on “terrifying” flight"
+    }
+  ]
+}

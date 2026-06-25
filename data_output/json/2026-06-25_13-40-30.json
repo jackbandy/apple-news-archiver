@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-25 13:40:30",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A39FN89AQT_e0H_uoZBlHlw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 13:40:30",
+      "pub_time": "2026-06-25 13:37:32",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Venezuelans search rubble for survivors after 2 strong quakes kill at least 188, MORE COVERAGE",
+      "article_headline": "Venezuelans search rubble for survivors after 2 strong quakes kill at least 188"
+    },
+    {
+      "link": "https://apple.news/AqZBUBSWURXybgbTpfWMApg?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 13:40:30",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Politics, Supreme Court sides with Trump in 2 high-stakes immigration cases",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A5CleZGlaS0S0vWe9668W2Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 13:40:30",
+      "pub_time": "2026-06-25 13:36:37",
+      "publication": "The Washington Post",
+      "author": "Todd Frankel",
+      "headline": "Ship attacked in Strait of Hormuz as Iran threatens U.N.-backed route",
+      "article_headline": "Ship attacked in Strait of Hormuz as Iran threatens U.N.-backed route"
+    },
+    {
+      "link": "https://apple.news/A09dS9bZpTU2yIyxkWv2b6g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 13:40:30",
+      "pub_time": "2026-06-25 13:37:05",
+      "publication": "Reuters",
+      "author": "Andrew Goudsward",
+      "headline": "Reflecting Pool now under surveillance as Trump blames 'vandals' for green algae",
+      "article_headline": "Reflecting Pool now under surveillance as Trump blames 'vandals' for green algae"
+    },
+    {
+      "link": "https://apple.news/A09dS9bZpTU2yIyxkWv2b6g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 13:40:30",
+      "pub_time": "2026-06-25 13:36:37",
+      "publication": "Reuters",
+      "author": "Andrew Goudsward",
+      "headline": "Reflecting Pool now under surveillance as Trump blames 'vandals' for green algae",
+      "article_headline": "Reflecting Pool now under surveillance as Trump blames 'vandals' for green algae"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 13:40:30",
+      "pub_time": "",
+      "publication": "The Hollywood Reporter",
+      "author": "",
+      "headline": "David Clayton-Thomas, Blood, Sweat & Tears singer, dies at 84",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 13:40:30",
+      "pub_time": "2026-06-25 13:37:04",
+      "publication": "Bloomberg Businessweek",
+      "author": "Scott Carpenter",
+      "headline": "A credit loophole so big you can drive an SUV through it",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

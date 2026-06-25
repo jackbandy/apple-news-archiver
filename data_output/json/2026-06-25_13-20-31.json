@@ -1,0 +1,119 @@
+{
+  "run_time": "2026-06-25 13:20:31",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AqZBUBSWURXybgbTpfWMApg?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 13:20:31",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Supreme Court sides with Trump in 2 high-stakes immigration cases. Here’s the latest on the rulings.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A1Ip1FYPQTuiN-Y5jhffdAg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 13:20:31",
+      "pub_time": "2026-06-25 12:48:01",
+      "publication": "Votebeat",
+      "author": "Dion Nissenbaum",
+      "headline": "Federal judge blocks key pillars of Trump executive order restricting mail voting in 2026 election",
+      "article_headline": "Federal judge blocks key pillars of Trump executive order restricting mail voting in 2026 election"
+    },
+    {
+      "link": "https://apple.news/Avnhr0wUpRBOJhb8nWI1LxA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 13:20:31",
+      "pub_time": "2026-06-25 12:48:29",
+      "publication": "Reuters",
+      "author": "Vivian Sequera and Mayela Armas",
+      "headline": "“Like a horror movie”: Thousands are feared dead in Venezuela after 2 major earthquakes",
+      "article_headline": "“Like a horror movie”: Thousands are feared dead in Venezuela after 2 major earthquakes"
+    },
+    {
+      "link": "https://apple.news/A1Ip1FYPQTuiN-Y5jhffdAg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 13:20:31",
+      "pub_time": "2026-06-25 12:48:02",
+      "publication": "Votebeat",
+      "author": "Dion Nissenbaum",
+      "headline": "Federal judge blocks key pillars of Trump executive order restricting mail voting in 2026 election",
+      "article_headline": "Federal judge blocks key pillars of Trump executive order restricting mail voting in 2026 election"
+    },
+    {
+      "link": "https://apple.news/Avnhr0wUpRBOJhb8nWI1LxA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 13:20:31",
+      "pub_time": "2026-06-25 12:48:29",
+      "publication": "Reuters",
+      "author": "Vivian Sequera and Mayela Armas",
+      "headline": "“Like a horror movie”: Thousands are feared dead in Venezuela after 2 major earthquakes",
+      "article_headline": "“Like a horror movie”: Thousands are feared dead in Venezuela after 2 major earthquakes"
+    },
+    {
+      "link": "https://apple.news/Aqhze6Eh2Q8S2-LsRS6wm3g",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-25 13:20:31",
+      "pub_time": "2026-06-25 12:47:57",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Florida closes “Alligator Alcatraz” immigrant-detention center after one year",
+      "article_headline": "DeSantis says Alligator Alcatraz ‘fulfilled’ its role as he closes it after 1 year"
+    },
+    {
+      "link": "https://apple.news/Aqhze6Eh2Q8S2-LsRS6wm3g",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-25 13:20:31",
+      "pub_time": "2026-06-25 12:47:30",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Florida closes “Alligator Alcatraz” immigrant-detention center after one year",
+      "article_headline": "DeSantis says Alligator Alcatraz ‘fulfilled’ its role as he closes it after 1 year"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-06-25 13:20:31",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The new rules for wearing leggings, Ashley Fetters Maloy",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-06-25 13:20:31",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "This mysterious organ may play a key role in health and longevity, Carolyn Y. Johnson",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-06-25 13:20:31",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The thyroid symptoms often mistaken for normal, Ashley Abramson",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

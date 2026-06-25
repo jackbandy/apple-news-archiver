@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-25 17:00:27",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A-p9-ecdfR4aOMfoeMAe3Jg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 17:00:27",
+      "pub_time": "2026-06-25 16:55:29",
+      "publication": "The Wall Street Journal",
+      "author": "Rebecca Feng and Shelby Holliday",
+      "headline": "Iran attacks cargo ship, testing Trump’s deal to reopen Strait of Hormuz",
+      "article_headline": "Iran attacks cargo ship, testing Trump’s deal to reopen Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/A-2GuPOQgQcqsrPYAb5Oyjg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 17:00:27",
+      "pub_time": "2026-06-25 16:55:56",
+      "publication": "NPR",
+      "author": "Emma Bowman",
+      "headline": "The death toll in Venezuela is rising after major earthquakes topple many buildings",
+      "article_headline": "The death toll in Venezuela is rising after major earthquakes topple many buildings"
+    },
+    {
+      "link": "https://apple.news/A-2GuPOQgQcqsrPYAb5Oyjg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 17:00:27",
+      "pub_time": "2026-06-25 16:55:29",
+      "publication": "NPR",
+      "author": "Emma Bowman",
+      "headline": "The death toll in Venezuela is rising after major earthquakes topple many buildings",
+      "article_headline": "The death toll in Venezuela is rising after major earthquakes topple many buildings"
+    },
+    {
+      "link": "https://apple.news/AeD1RK1YCRXyJdepiOlCvhg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 17:00:27",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Supreme Court hands Trump major victories on his immigration agenda",
+      "article_headline": "Supreme Court hands Trump major victories on his immigration agenda"
+    },
+    {
+      "link": "https://apple.news/AzTwuL8VnTyWIHsMRjcVGmw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 17:00:27",
+      "pub_time": "2026-06-25 16:56:24",
+      "publication": "POLITICO",
+      "author": "Eric Bazail-Eimil",
+      "headline": "Homeland Security watchdog opens probes into ICE treatment of detained immigrants",
+      "article_headline": "Homeland Security watchdog opens probes into ICE treatment of detained immigrants"
+    },
+    {
+      "link": "https://apple.news/AzTwuL8VnTyWIHsMRjcVGmw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-25 17:00:27",
+      "pub_time": "2026-06-25 16:55:57",
+      "publication": "POLITICO",
+      "author": "Eric Bazail-Eimil",
+      "headline": "Homeland Security watchdog opens probes into ICE treatment of detained immigrants",
+      "article_headline": "Homeland Security watchdog opens probes into ICE treatment of detained immigrants"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 17:00:27",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "WNBA suspends Alyssa Thomas after her fist made contact with Caitlin Clark’s throat",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

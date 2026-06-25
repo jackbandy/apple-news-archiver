@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-25 14:20:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A39FN89AQT_e0H_uoZBlHlw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 14:20:31",
+      "pub_time": "2026-06-25 14:06:32",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Venezuelans search rubble for survivors after 2 strong quakes kill at least 188, MORE COVERAGE",
+      "article_headline": "Venezuelans search rubble for survivors after 2 strong quakes kill at least 188"
+    },
+    {
+      "link": "https://apple.news/AqZBUBSWURXybgbTpfWMApg?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 14:20:31",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Politics, Supreme Court sides with Trump in 2 high-stakes immigration cases",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A-p9-ecdfR4aOMfoeMAe3Jg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 14:20:31",
+      "pub_time": "2026-06-25 14:05:36",
+      "publication": "The Wall Street Journal",
+      "author": "Rebecca Feng and Shelby Holliday",
+      "headline": "Iran attacks cargo ship, testing Trump’s deal to reopen strait",
+      "article_headline": "Iran attacks cargo ship, testing Trump’s deal to reopen strait"
+    },
+    {
+      "link": "https://apple.news/A09dS9bZpTU2yIyxkWv2b6g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 14:20:31",
+      "pub_time": "2026-06-25 14:06:03",
+      "publication": "Reuters",
+      "author": "Andrew Goudsward",
+      "headline": "Reflecting Pool now under surveillance as Trump blames vandals for green algae",
+      "article_headline": "Reflecting Pool now under surveillance as Trump blames vandals for green algae"
+    },
+    {
+      "link": "https://apple.news/A09dS9bZpTU2yIyxkWv2b6g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 14:20:31",
+      "pub_time": "2026-06-25 14:05:36",
+      "publication": "Reuters",
+      "author": "Andrew Goudsward",
+      "headline": "Reflecting Pool now under surveillance as Trump blames vandals for green algae",
+      "article_headline": "Reflecting Pool now under surveillance as Trump blames vandals for green algae"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 14:20:31",
+      "pub_time": "",
+      "publication": "The Hollywood Reporter",
+      "author": "",
+      "headline": "David Clayton-Thomas, Blood, Sweat & Tears singer, dies at 84",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 14:20:31",
+      "pub_time": "2026-06-25 14:06:03",
+      "publication": "The Atlantic",
+      "author": "Stephanie H. Murray",
+      "headline": "Americans are in denial about elder care",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
