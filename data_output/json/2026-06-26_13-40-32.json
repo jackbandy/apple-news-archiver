@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-26 13:40:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AIkosEoUaQpaBl2ds1iz6Dg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-26 13:40:32",
+      "pub_time": "2026-06-26 13:32:33",
+      "publication": "Reuters",
+      "author": "Rami Ayyub, Maya Gebeily, and Michael Martina",
+      "headline": "Israel and Lebanon sign framework peace deal after U.S.-mediated talks",
+      "article_headline": "Israel, Lebanon sign framework peace deal after US-mediated talks"
+    },
+    {
+      "link": "https://apple.news/AmIs6QCFYQiqZZxX5m5KANg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-26 13:40:32",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Former Trump adviser John Bolton pleads guilty in classified-files case",
+      "article_headline": "Former Trump adviser John Bolton pleads guilty in classified-files case"
+    },
+    {
+      "link": "https://apple.news/AR9hneZ2uSQyfo9Vzcx_3gg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-26 13:40:32",
+      "pub_time": "2026-06-26 13:32:33",
+      "publication": "The Guardian",
+      "author": "Clavel Rangel and Tom Phillips",
+      "headline": "Venezuela quake death toll reaches 920; interim president vows to save “as many people as possible”",
+      "article_headline": "Venezuela quake death toll reaches 920; interim president vows to save “as many people as possible”"
+    },
+    {
+      "link": "https://apple.news/Aht3DlBgqTHKFt3Txjlpd-A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-26 13:40:32",
+      "pub_time": "2026-06-26 13:33:01",
+      "publication": "Los Angeles Times",
+      "author": "Brittny Mejia",
+      "headline": "Mistrial declared in Palisades Fire arson case, a stunning blow to feds",
+      "article_headline": "Mistrial declared in Palisades Fire arson case, a stunning blow to feds"
+    },
+    {
+      "link": "https://apple.news/AR9hneZ2uSQyfo9Vzcx_3gg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-26 13:40:32",
+      "pub_time": "2026-06-26 13:32:34",
+      "publication": "The Guardian",
+      "author": "Clavel Rangel and Tom Phillips",
+      "headline": "Venezuela quake death toll reaches 920; interim president vows to save “as many people as possible”",
+      "article_headline": "Venezuela quake death toll reaches 920; interim president vows to save “as many people as possible”"
+    },
+    {
+      "link": "https://apple.news/Aht3DlBgqTHKFt3Txjlpd-A",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-26 13:40:32",
+      "pub_time": "2026-06-26 13:33:02",
+      "publication": "Los Angeles Times",
+      "author": "Brittny Mejia",
+      "headline": "Mistrial declared in Palisades Fire arson case, a stunning blow to feds",
+      "article_headline": "Mistrial declared in Palisades Fire arson case, a stunning blow to feds"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-26 13:40:32",
+      "pub_time": "2026-06-26 13:33:30",
+      "publication": "The Telegraph",
+      "author": "Hannah Furness",
+      "headline": "King Charles and Queen Camilla announce they won’t live at Buckingham Palace",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AXRPd-5I1RZquL89CAGQPXQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-26 13:40:32",
+      "pub_time": "2026-06-25 17:44:12",
+      "publication": "HuffPost",
+      "author": "Elyse Wanshel",
+      "headline": "Officials Roasted After Posting Video Of Alleged Reflecting Pool Vandal In The Act",
+      "article_headline": "Officials Roasted After Posting Video Of Alleged Reflecting Pool Vandal In The Act"
+    },
+    {
+      "link": "https://apple.news/Ax1674LCzTSaCT_y09H27hA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-26 13:40:32",
+      "pub_time": "2026-06-26 12:44:40",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Gracie the missing giraffe is found in Texas after 2-week search",
+      "article_headline": "Gracie the missing giraffe is found in Texas after 2-week search"
+    },
+    {
+      "link": "https://apple.news/AXRPd-5I1RZquL89CAGQPXQ",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-26 13:40:32",
+      "pub_time": "2026-06-25 16:45:13",
+      "publication": "HuffPost",
+      "author": "Elyse Wanshel",
+      "headline": "Officials Roasted After Posting Video Of Alleged Reflecting Pool Vandal In The Act",
+      "article_headline": "Officials Roasted After Posting Video Of Alleged Reflecting Pool Vandal In The Act"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-26 13:40:32",
+      "pub_time": "2026-06-25 22:45:41",
+      "publication": "",
+      "author": "Raechal Shewfelt",
+      "headline": "Ann Blyth, one of the last surviving stars of Hollywood's Golden Age, has died",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

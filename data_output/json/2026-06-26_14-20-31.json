@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-26 14:20:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AIkosEoUaQpaBl2ds1iz6Dg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-26 14:20:31",
+      "pub_time": "2026-06-26 13:58:33",
+      "publication": "Reuters",
+      "author": "Rami Ayyub, Maya Gebeily, and Michael Martina",
+      "headline": "Israel and Lebanon sign framework peace deal after U.S.-mediated talks",
+      "article_headline": "Israel, Lebanon sign framework peace deal after US-mediated talks"
+    },
+    {
+      "link": "https://apple.news/AMvy9Aj3FSjS2UVplh0w_aw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-26 14:20:31",
+      "pub_time": "2026-06-26 13:59:00",
+      "publication": "NPR",
+      "author": "Manuel Rueda",
+      "headline": "Venezuela is reeling from earthquakes as the rising death toll nears 1,000",
+      "article_headline": "Venezuela is reeling from earthquakes as the rising death toll nears 1,000"
+    },
+    {
+      "link": "https://apple.news/AMvy9Aj3FSjS2UVplh0w_aw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-26 14:20:31",
+      "pub_time": "2026-06-26 13:58:32",
+      "publication": "NPR",
+      "author": "Manuel Rueda",
+      "headline": "Venezuela is reeling from earthquakes as the rising death toll nears 1,000",
+      "article_headline": "Venezuela is reeling from earthquakes as the rising death toll nears 1,000"
+    },
+    {
+      "link": "https://apple.news/AmIs6QCFYQiqZZxX5m5KANg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-26 14:20:31",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Former Trump adviser John Bolton pleads guilty in classified-files case",
+      "article_headline": "Former Trump adviser John Bolton pleads guilty in classified-files case"
+    },
+    {
+      "link": "https://apple.news/Aht3DlBgqTHKFt3Txjlpd-A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-26 14:20:31",
+      "pub_time": "2026-06-26 13:59:27",
+      "publication": "Los Angeles Times",
+      "author": "Brittny Mejia",
+      "headline": "Mistrial declared in Palisades Fire arson case, a stunning blow to feds",
+      "article_headline": "Mistrial declared in Palisades Fire arson case, a stunning blow to feds"
+    },
+    {
+      "link": "https://apple.news/Aht3DlBgqTHKFt3Txjlpd-A",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-26 14:20:31",
+      "pub_time": "2026-06-26 13:59:01",
+      "publication": "Los Angeles Times",
+      "author": "Brittny Mejia",
+      "headline": "Mistrial declared in Palisades Fire arson case, a stunning blow to feds",
+      "article_headline": "Mistrial declared in Palisades Fire arson case, a stunning blow to feds"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-26 14:20:31",
+      "pub_time": "2026-06-26 13:59:28",
+      "publication": "The Telegraph",
+      "author": "Hannah Furness",
+      "headline": "King Charles and Queen Camilla announce they won’t live at Buckingham Palace",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

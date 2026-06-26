@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-26 15:00:27",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AIkosEoUaQpaBl2ds1iz6Dg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-26 15:00:27",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Israel and Lebanon sign framework peace deal after U.S.-mediated talks",
+      "article_headline": "Israel, Lebanon sign initial agreement after US-mediated talks"
+    },
+    {
+      "link": "https://apple.news/AMvy9Aj3FSjS2UVplh0w_aw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-26 15:00:27",
+      "pub_time": "2026-06-26 14:52:56",
+      "publication": "NPR",
+      "author": "Manuel Rueda",
+      "headline": "Venezuela is reeling from earthquakes as the rising death toll nears 1,000",
+      "article_headline": "Venezuela is reeling from earthquakes as the rising death toll nears 1,000"
+    },
+    {
+      "link": "https://apple.news/AMvy9Aj3FSjS2UVplh0w_aw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-26 15:00:27",
+      "pub_time": "2026-06-26 14:52:29",
+      "publication": "NPR",
+      "author": "Manuel Rueda",
+      "headline": "Venezuela is reeling from earthquakes as the rising death toll nears 1,000",
+      "article_headline": "Venezuela is reeling from earthquakes as the rising death toll nears 1,000"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-26 15:00:27",
+      "pub_time": "2026-06-26 14:52:57",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Texas becomes first state to mandate students read the Bible in public school",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ANE4idBOZSfeSORoeo4Y3RQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-26 15:00:27",
+      "pub_time": "2026-06-26 14:52:57",
+      "publication": "The Guardian",
+      "author": "José Olivares",
+      "headline": "U.N. calls for “prompt investigations” of deaths in U.S. immigration custody",
+      "article_headline": "U.N. calls for “prompt investigations” of deaths in U.S. immigration custody"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-26 15:00:27",
+      "pub_time": "2026-06-26 14:52:30",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Texas becomes first state to mandate students read the Bible in public school",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ANE4idBOZSfeSORoeo4Y3RQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-26 15:00:27",
+      "pub_time": "2026-06-26 14:52:30",
+      "publication": "The Guardian",
+      "author": "José Olivares",
+      "headline": "U.N. calls for “prompt investigations” of deaths in U.S. immigration custody",
+      "article_headline": "U.N. calls for “prompt investigations” of deaths in U.S. immigration custody"
+    }
+  ]
+}

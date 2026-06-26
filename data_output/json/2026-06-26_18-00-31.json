@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-26 18:00:31",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AlQMMetlnQqaTx9O29K1V0A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-26 18:00:31",
+      "pub_time": "2026-06-26 17:00:33",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Benoit Faucon, and Rebecca Feng",
+      "headline": "U.S. launches fresh attacks on Iran",
+      "article_headline": "U.S. Launches Fresh Attacks on Iran"
+    },
+    {
+      "link": "https://apple.news/ADXOFW6CDTwOI4xI_dX_-bg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-26 18:00:31",
+      "pub_time": "2026-06-26 17:01:00",
+      "publication": "The Guardian",
+      "author": "Camille Rodríguez Montilla, Jane Clinton, Clavel Rangel, and Tom Phillips",
+      "headline": "Survivors tell of “brutal and fast” Venezuela quakes amid pleas for international help",
+      "article_headline": "Survivors tell of “brutal and fast” Venezuela quakes amid pleas for international help"
+    },
+    {
+      "link": "https://apple.news/AareUi4JeSAGQDdpn3ca0Jw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-26 18:00:31",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Israel and Lebanon sign framework agreement with U.S. in “first step” toward peace, Rubio says",
+      "article_headline": "Israel and Lebanon sign framework agreement with U.S. in “first step” toward peace, Rubio says"
+    },
+    {
+      "link": "https://apple.news/Ar45v6k7nTYCNHdzEOKh0UA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-26 18:00:31",
+      "pub_time": "2026-06-26 17:02:00",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Texas becomes first state to mandate students read the Bible in public schools",
+      "article_headline": "Texas becomes first state to mandate students read the Bible in public school"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-26 18:00:31",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, They finished the World Cup group stage in third place. Now they’re in limbo.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-26 18:00:31",
+      "pub_time": "2026-06-26 17:02:32",
+      "publication": "NJ.com",
+      "author": "",
+      "headline": "A controversial new trend in youth sports: repeating the eighth grade",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Apd65iva0SEu_iehlVej1MA",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-26 18:00:31",
+      "pub_time": "",
+      "publication": "Turkey spoils the USMNT’s perfect World Cup start",
+      "author": "",
+      "headline": "But does it matter?,  Play Now  46 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ANETx4WIuT1aEV5NFWPl72g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-26 18:00:31",
+      "pub_time": "2026-06-26 16:03:35",
+      "publication": "BuzzFeed",
+      "author": "Angelica Martinez",
+      "headline": "\"It's Basically A Cult Town\": 37 Places Across The US That People Deem \"The Most Unsettling\"",
+      "article_headline": "\"It's Basically A Cult Town\": 37 Places Across The US That People Deem \"The Most Unsettling\""
+    },
+    {
+      "link": "https://apple.news/AjBS-AKg0TVGYgvDQCj_7xw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-26 18:00:31",
+      "pub_time": "2026-06-26 08:04:08",
+      "publication": "HuffPost",
+      "author": "Natasha Hinde",
+      "headline": "Parenting Expert Shares Two Words You Should Say To A Rude Child",
+      "article_headline": "Parenting Expert Shares Two Words You Should Say To A Rude Child"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-26 18:00:31",
+      "pub_time": "2026-06-26 07:04:36",
+      "publication": "",
+      "author": "Christopher Mims",
+      "headline": "Analysis | Smartglasses Are Inevitable. But What—or Who—Are They For?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AiHLhAM3mQYervpXBYd3vmw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-26 18:00:31",
+      "pub_time": "2026-06-26 15:04:36",
+      "publication": "Real Simple",
+      "author": "Haley Lyndes",
+      "headline": "Millions of Amazon Prime Day Deals Expire Soon! These 50 Are Worth the Last-Minute Dash, From $2",
+      "article_headline": "Millions of Amazon Prime Day Deals Expire Soon! These 50 Are Worth the Last-Minute Dash, From $2"
+    }
+  ]
+}
