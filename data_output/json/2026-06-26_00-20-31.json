@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-26 00:20:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AIvuofTIrTBKeapmxRfPZCw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-26 00:20:31",
+      "pub_time": "2026-06-26 00:01:33",
+      "publication": "Bloomberg",
+      "author": "Andreina Itriago, Patricia Laya, and Fabiola Zerpa",
+      "headline": "Venezuela searches for survivors as quakes death toll hits 235",
+      "article_headline": "Venezuela searches for survivors as quakes death toll hits 235"
+    },
+    {
+      "link": "https://apple.news/AzjBoM39oRQe-WwVggOdKDg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-26 00:20:31",
+      "pub_time": "2026-06-26 00:02:01",
+      "publication": "The Wall Street Journal",
+      "author": "Anika Arora Seth, Denise Blostein, Milàn Czerny, and Shelby Holliday",
+      "headline": "How Iran devastated an American naval base — and caused a U.S. recalculation",
+      "article_headline": "How Iran Devastated an American Naval Base—and Caused a U.S. Recalculation"
+    },
+    {
+      "link": "https://apple.news/AWc3wKeXcRLemaBgADAofEA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-26 00:20:31",
+      "pub_time": "2026-06-26 00:02:30",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Supreme Court’s ruling to end protections for Haitian, Syrian immigrants could have broader impact",
+      "article_headline": "Supreme Court’s ruling to end protections for Haitian, Syrian immigrants could have broader impact"
+    },
+    {
+      "link": "https://apple.news/AzjBoM39oRQe-WwVggOdKDg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-26 00:20:31",
+      "pub_time": "2026-06-26 00:02:01",
+      "publication": "The Wall Street Journal",
+      "author": "Anika Arora Seth, Denise Blostein, Milàn Czerny, and Shelby Holliday",
+      "headline": "How Iran devastated an American naval base — and caused a U.S. recalculation",
+      "article_headline": "How Iran Devastated an American Naval Base—and Caused a U.S. Recalculation"
+    },
+    {
+      "link": "https://apple.news/AWc3wKeXcRLemaBgADAofEA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-26 00:20:31",
+      "pub_time": "2026-06-26 00:02:29",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Supreme Court’s ruling to end protections for Haitian, Syrian immigrants could have broader impact",
+      "article_headline": "Supreme Court’s ruling to end protections for Haitian, Syrian immigrants could have broader impact"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-26 00:20:31",
+      "pub_time": "2026-06-26 00:01:57",
+      "publication": "",
+      "author": "",
+      "headline": "Video, National Geographic",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-26 00:20:31",
+      "pub_time": "2026-06-26 00:01:02",
+      "publication": "",
+      "author": "",
+      "headline": "Video, National Geographic",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
