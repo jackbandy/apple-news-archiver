@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-25 20:00:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A7UnM1izKSTyCFxtftT9cmg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-25 20:00:32",
+      "pub_time": "2026-06-25 19:36:33",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.N. agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel",
+      "article_headline": "U.N. agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel"
+    },
+    {
+      "link": "https://apple.news/AeD1RK1YCRXyJdepiOlCvhg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-25 20:00:32",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Supreme Court hands Trump major victories on his immigration agenda",
+      "article_headline": "Supreme Court hands Trump major victories on his immigration agenda"
+    },
+    {
+      "link": "https://apple.news/AFuj1qfjTQ-ye65NOxxe1HQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-25 20:00:32",
+      "pub_time": "2026-06-25 19:36:34",
+      "publication": "NPR",
+      "author": "Katia Riddle",
+      "headline": "What made the deadly Venezuelan earthquakes different",
+      "article_headline": "What made the deadly Venezuelan earthquakes different"
+    },
+    {
+      "link": "https://apple.news/ALP69m6uqSlCZ9D2EO3YLeg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-25 20:00:32",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "A river crisis is unfolding in the American West",
+      "article_headline": "A river crisis is unfolding in the American West"
+    },
+    {
+      "link": "https://apple.news/AFuj1qfjTQ-ye65NOxxe1HQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-25 20:00:32",
+      "pub_time": "2026-06-25 19:36:34",
+      "publication": "NPR",
+      "author": "Katia Riddle",
+      "headline": "What made the deadly Venezuelan earthquakes different",
+      "article_headline": "What made the deadly Venezuelan earthquakes different"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 20:00:32",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "World Cup 2026, The Harvard data nerd defending America’s goal at the World Cup",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-25 20:00:32",
+      "pub_time": "",
+      "publication": "Rolling Stone",
+      "author": "",
+      "headline": "He built a following helping people make 3D-printed guns. Then the authorities came knocking., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AYvOGt7seSuebguUG1GOMzw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-25 20:00:32",
+      "pub_time": "2026-06-25 17:03:45",
+      "publication": "The Daily Beast",
+      "author": "William Vaillancourt",
+      "headline": "Putin Humiliated as Troops Threaten to ‘Turn Their Weapons’ on Him",
+      "article_headline": "Putin Humiliated as Troops Threaten to ‘Turn Their Weapons’ on Him"
+    },
+    {
+      "link": "https://apple.news/Ar1v4qlxsT86EY1Ti0DnJ7w",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-25 20:00:32",
+      "pub_time": "2026-06-25 18:04:13",
+      "publication": "BuzzFeed",
+      "author": "Dave Stopera",
+      "headline": "I Am Crying Laughing At These Restaurant Workers Sharing The Extremely Dumb Things Customers Have Actually Said To Their Faces",
+      "article_headline": "I Am Crying Laughing At These Restaurant Workers Sharing The Extremely Dumb Things Customers Have Actually Said To Their Faces"
+    },
+    {
+      "link": "https://apple.news/Ar1v4qlxsT86EY1Ti0DnJ7w",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-25 20:00:32",
+      "pub_time": "2026-06-25 17:04:46",
+      "publication": "BuzzFeed",
+      "author": "Dave Stopera",
+      "headline": "I Am Crying Laughing At These Restaurant Workers Sharing The Extremely Dumb Things Customers Have Actually Said To Their Faces",
+      "article_headline": "I Am Crying Laughing At These Restaurant Workers Sharing The Extremely Dumb Things Customers Have Actually Said To Their Faces"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-25 20:00:32",
+      "pub_time": "2026-06-25 16:05:13",
+      "publication": "",
+      "author": "Rosie Marder",
+      "headline": "Rick Steves Says Pickpockets Are Targeting This No. 1 Item—After Mine Was Stolen, I Made This Change",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
