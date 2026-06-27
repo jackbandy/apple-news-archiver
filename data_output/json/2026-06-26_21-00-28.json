@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-26 21:00:28",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AVaWys6ZsSVmPp7OlX7jdEg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-26 21:00:28",
+      "pub_time": "2026-06-26 20:00:29",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. strikes Iran in response to attack on ship that Trump says violated ceasefire",
+      "article_headline": "US strikes Iran in response to a drone attack on a ship"
+    },
+    {
+      "link": "https://apple.news/AqUNpN8MPTTS5sGaesxJC-g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-26 21:00:28",
+      "pub_time": "",
+      "publication": "NOTUS",
+      "author": "",
+      "headline": "Millions of people dropped Affordable Care Act insurance after premiums skyrocketed",
+      "article_headline": "Millions of people dropped Affordable Care Act insurance after premiums skyrocketed"
+    },
+    {
+      "link": "https://apple.news/AppzKaKp0Ta66dxp0AoYXMQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-26 21:00:28",
+      "pub_time": "2026-06-26 20:01:29",
+      "publication": "The Texas Tribune",
+      "author": "Jaden Edison",
+      "headline": "Texas makes Bible stories required reading for millions of public-school students",
+      "article_headline": "Mandated Bible stories in reading lists, revamped history for Texas public schools approved"
+    },
+    {
+      "link": "https://apple.news/Av-I6ht1rQqC1k5fkdMQNBg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-26 21:00:28",
+      "pub_time": "2026-06-26 20:01:57",
+      "publication": "The Christian Science Monitor",
+      "author": "Whitney Eulich and Tibisay Zea",
+      "headline": "Venezuela earthquakes hit nation at an already delicate moment",
+      "article_headline": "Venezuela earthquakes hit nation at an already delicate moment"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-26 21:00:28",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "World Cup 2026, The World Cup fan matrix: who’s having fun and who’s completely miserable",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-26 21:00:28",
+      "pub_time": "",
+      "publication": "GQ",
+      "author": "",
+      "headline": "Meet the bodyguards tasked with protecting America’s frightened billionaires, Grayson Schaffer",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AZ3NBNo4cTxa1lWq-_L84cw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-26 21:00:28",
+      "pub_time": "2026-06-26 15:02:44",
+      "publication": "Motor1.com",
+      "author": "",
+      "headline": "Man Goes To Toyota Dealership For 4Runner. Then He Calls His Insurance Company To See What His Rate Would Be: 'Don’t Do That'",
+      "article_headline": "Man Goes To Toyota Dealership For 4Runner. Then He Calls His Insurance Company To See What His Rate Would Be: 'Don’t Do That'"
+    },
+    {
+      "link": "https://apple.news/ANETx4WIuT1aEV5NFWPl72g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-26 21:00:28",
+      "pub_time": "2026-06-26 16:03:32",
+      "publication": "BuzzFeed",
+      "author": "Angelica Martinez",
+      "headline": "\"It's Basically A Cult Town\": 37 Places Across The US That People Deem \"The Most Unsettling\"",
+      "article_headline": "\"It's Basically A Cult Town\": 37 Places Across The US That People Deem \"The Most Unsettling\""
+    },
+    {
+      "link": "https://apple.news/AQ5tS9WpTSrmErTNFBpks0g",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-26 21:00:28",
+      "pub_time": "2026-06-26 08:03:59",
+      "publication": "Money",
+      "author": "Marc Guberti",
+      "headline": "The Medicare Perks Retirees Leave on the Table Every Year",
+      "article_headline": "The Medicare Perks Retirees Leave on the Table Every Year"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-26 21:00:28",
+      "pub_time": "2026-06-26 14:04:33",
+      "publication": "",
+      "author": "Darren Orf",
+      "headline": "Scientists Believe They’ve Found a Groundbreaking New Energy Source–And It’s Virtually Unlimited",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AKGoBsAK-SoSGZaL7YZK38w",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-26 21:00:28",
+      "pub_time": "2026-06-26 12:04:33",
+      "publication": "People",
+      "author": "Natasha Dye",
+      "headline": "Fans React to Norway's Viking-Themed World Cup Photo Shoot: 'I'm Speechless'",
+      "article_headline": "Fans React to Norway's Viking-Themed World Cup Photo Shoot: 'I'm Speechless'"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-26 18:40:31",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AlQMMetlnQqaTx9O29K1V0A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-26 18:40:31",
+      "pub_time": "2026-06-26 18:07:33",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Benoit Faucon, and Rebecca Feng",
+      "headline": "U.S. launches fresh attacks on Iran",
+      "article_headline": "U.S. Launches Fresh Attacks on Iran"
+    },
+    {
+      "link": "https://apple.news/Ar45v6k7nTYCNHdzEOKh0UA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-26 18:40:31",
+      "pub_time": "2026-06-26 18:08:00",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Texas becomes first state to mandate students read the Bible in public schools",
+      "article_headline": "Texas becomes first state to mandate students read the Bible in public school"
+    },
+    {
+      "link": "https://apple.news/Ar45v6k7nTYCNHdzEOKh0UA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-26 18:40:31",
+      "pub_time": "2026-06-26 18:07:32",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Texas becomes first state to mandate students read the Bible in public schools",
+      "article_headline": "Texas becomes first state to mandate students read the Bible in public school"
+    },
+    {
+      "link": "https://apple.news/ATo-u1PyQSsyZ9ratcXsATw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-26 18:40:31",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "5 million have dropped ACA insurance after Trump and GOP lawmakers let prices skyrocket",
+      "article_headline": "5 million have dropped ACA insurance after Trump and GOP lawmakers let prices skyrocket"
+    },
+    {
+      "link": "https://apple.news/Av-I6ht1rQqC1k5fkdMQNBg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-26 18:40:31",
+      "pub_time": "2026-06-26 18:08:27",
+      "publication": "The Christian Science Monitor",
+      "author": "Whitney Eulich and Tibisay Zea",
+      "headline": "Venezuela earthquakes hit nation at an already delicate moment",
+      "article_headline": "Venezuela earthquakes hit nation at an already delicate moment"
+    },
+    {
+      "link": "https://apple.news/Av-I6ht1rQqC1k5fkdMQNBg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-26 18:40:31",
+      "pub_time": "2026-06-26 18:08:01",
+      "publication": "The Christian Science Monitor",
+      "author": "Whitney Eulich and Tibisay Zea",
+      "headline": "Venezuela earthquakes hit nation at an already delicate moment",
+      "article_headline": "Venezuela earthquakes hit nation at an already delicate moment"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-26 18:40:31",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, They finished the World Cup group stage in third place. Now they’re in limbo.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ANETx4WIuT1aEV5NFWPl72g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-26 18:40:31",
+      "pub_time": "2026-06-26 15:44:05",
+      "publication": "BuzzFeed",
+      "author": "Angelica Martinez",
+      "headline": "\"It's Basically A Cult Town\": 37 Places Across The US That People Deem \"The Most Unsettling\"",
+      "article_headline": "\"It's Basically A Cult Town\": 37 Places Across The US That People Deem \"The Most Unsettling\""
+    },
+    {
+      "link": "https://apple.news/ArN_H4AG0SL2MMTq4EGrM5Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-26 18:40:31",
+      "pub_time": "2026-06-26 17:44:38",
+      "publication": "Fox News",
+      "author": "Brie Stimson",
+      "headline": "Woman stalked by charging bear on morning dog walk captures terrifying encounter on camera",
+      "article_headline": "Woman stalked by charging bear on morning dog walk captures terrifying encounter on camera"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-26 18:40:31",
+      "pub_time": "2026-06-26 07:45:06",
+      "publication": "",
+      "author": "Christopher Mims",
+      "headline": "Analysis | Smartglasses Are Inevitable. But What—or Who—Are They For?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-26 18:40:31",
+      "pub_time": "2026-06-26 14:45:06",
+      "publication": "",
+      "author": "",
+      "headline": "Gracie the missing giraffe is found in Texas after 2-week search",
+      "article_headline": ""
+    }
+  ]
+}
