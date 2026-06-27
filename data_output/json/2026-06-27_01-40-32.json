@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-27 01:40:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Al1zrdtZaSsK55sbcIKiZSw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-27 01:40:32",
+      "pub_time": "2026-06-27 00:40:33",
+      "publication": "Reuters",
+      "author": "Idrees Ali and Enas Alashray",
+      "headline": "US strikes Iran in response to attack on cargo ship in Strait of Hormuz",
+      "article_headline": "US strikes Iran in response to attack on cargo ship in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/Awo45OCIyRoG1qhuaKMfzbg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-27 01:40:32",
+      "pub_time": "2026-06-27 00:41:01",
+      "publication": "NBC News",
+      "author": "Ana Vanessa Herrero, Nicole Acevedo, and Geraldine Cols Azócar",
+      "headline": "Agony, then “a miracle”: Venezuelan families describe reuniting with rescued loved ones",
+      "article_headline": "Agony, then “a miracle”: Venezuelan families describe reuniting with rescued loved ones"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 01:40:32",
+      "pub_time": "2026-06-27 00:41:34",
+      "publication": "The Washington Post",
+      "author": "Gerrit De Vynck and Isaac Arnsdorf",
+      "headline": "The U.S. government will decide who gets to use the latest American AI technology",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AqFTVu36YRQioYdjtCuLTZQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-27 01:40:32",
+      "pub_time": "2026-06-27 00:41:34",
+      "publication": "Grist",
+      "author": "",
+      "headline": "How climate change impacts every system in the body",
+      "article_headline": "How climate change impacts every system in the body"
+    },
+    {
+      "link": "https://apple.news/AqFTVu36YRQioYdjtCuLTZQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-27 01:40:32",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "World Cup 2026, The 2026 World Cup has already set an attendance record. But there’s a catch.",
+      "article_headline": "How climate change impacts every system in the body"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 01:40:32",
+      "pub_time": "",
+      "publication": "GQ",
+      "author": "",
+      "headline": "Meet the bodyguards tasked with protecting America’s frightened billionaires, Grayson Schaffer",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A1fNpzA5yRLKOOwMmtlQumQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-27 01:40:32",
+      "pub_time": "",
+      "publication": "Axios Chicago",
+      "author": "",
+      "headline": "Local News, Chicago, Illinois among states opting out of Trump-backed America 250 state fair",
+      "article_headline": "Illinois among states opting out of Trump-backed America 250 state fair"
+    },
+    {
+      "link": "https://apple.news/ARgq9kNRESsqTL3zRLwPnpg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-27 01:40:32",
+      "pub_time": "2026-06-26 17:43:52",
+      "publication": "BuzzFeed",
+      "author": "Brian Galindo",
+      "headline": "People Who Cleaned Out Family Members' Homes After They Died Are Sharing What They Found Or Discovered",
+      "article_headline": "People Who Cleaned Out Family Members' Homes After They Died Are Sharing What They Found Or Discovered"
+    },
+    {
+      "link": "https://apple.news/AydgucWtERuqNbdAt3kpv_Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-27 01:40:32",
+      "pub_time": "2026-06-26 16:44:19",
+      "publication": "TheStreet",
+      "author": "Tobi Opeyemi Amure",
+      "headline": "SpaceX just put every US carrier on notice",
+      "article_headline": "SpaceX just put every US carrier on notice"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-27 01:40:32",
+      "pub_time": "2026-06-26 06:44:46",
+      "publication": "",
+      "author": "Stacey Leasca",
+      "headline": "We Asked 7 Travel Experts Their Favorite U.S. Summer Destinations—and They All Picked This Region",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AQ5tS9WpTSrmErTNFBpks0g",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-27 01:40:32",
+      "pub_time": "2026-06-26 08:44:53",
+      "publication": "Money",
+      "author": "Marc Guberti",
+      "headline": "The Medicare Perks Retirees Leave on the Table Every Year",
+      "article_headline": "The Medicare Perks Retirees Leave on the Table Every Year"
+    }
+  ]
+}

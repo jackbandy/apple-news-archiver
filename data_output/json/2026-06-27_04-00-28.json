@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-27 04:00:28",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Al1zrdtZaSsK55sbcIKiZSw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-27 04:00:28",
+      "pub_time": "2026-06-27 01:00:30",
+      "publication": "Reuters",
+      "author": "Idrees Ali and Enas Alashray",
+      "headline": "US strikes Iran in response to attack on cargo ship in Strait of Hormuz",
+      "article_headline": "US strikes Iran in response to attack on cargo ship in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/Awo45OCIyRoG1qhuaKMfzbg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-27 04:00:28",
+      "pub_time": "2026-06-27 01:00:57",
+      "publication": "NBC News",
+      "author": "Ana Vanessa Herrero, Nicole Acevedo, and Geraldine Cols Azócar",
+      "headline": "Agony, then “a miracle”: Venezuelan families describe reuniting with rescued loved ones",
+      "article_headline": "Agony, then “a miracle”: Venezuelan families describe reuniting with rescued loved ones"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 04:00:28",
+      "pub_time": "2026-06-27 01:01:30",
+      "publication": "The Washington Post",
+      "author": "Gerrit De Vynck and Isaac Arnsdorf",
+      "headline": "The U.S. government will decide who gets to use the latest American AI technology",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AqFTVu36YRQioYdjtCuLTZQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-27 04:00:28",
+      "pub_time": "2026-06-27 01:01:30",
+      "publication": "Grist",
+      "author": "",
+      "headline": "How climate change impacts every system in the body",
+      "article_headline": "How climate change impacts every system in the body"
+    },
+    {
+      "link": "https://apple.news/ArON512v-TqaYRSI6YKQLDw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-27 04:00:28",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "World Cup 2026, The 2026 World Cup has already set an attendance record. But there’s a catch.",
+      "article_headline": "The 2026 World Cup has already set an attendance record. But there’s a catch."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 04:00:28",
+      "pub_time": "",
+      "publication": "GQ",
+      "author": "",
+      "headline": "Meet the bodyguards tasked with protecting America’s frightened billionaires, Grayson Schaffer",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AXuKgio7GTdCd0YpscXA86g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-27 04:00:28",
+      "pub_time": "2026-06-26 09:02:44",
+      "publication": "FOOD & WINE",
+      "author": "Amelia Schwartz",
+      "headline": "We Tried 10 Yellow Mustards — Our No. 1 Pick Is Less Than $1",
+      "article_headline": "We Tried 10 Yellow Mustards — Our No. 1 Pick Is Less Than $1"
+    }
+  ]
+}

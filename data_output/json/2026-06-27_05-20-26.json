@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-27 05:20:26",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ALqQpnvdrQTmR7SojUTQM0Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-27 05:20:26",
+      "pub_time": "2026-06-27 05:07:28",
+      "publication": "Reuters",
+      "author": "Eman Abouhassira and Jana Choukeir",
+      "headline": "Iran says it hits US-linked targets as Bahrain reports drone attack",
+      "article_headline": "Iran says it hits US-linked targets as Bahrain reports drone attack"
+    },
+    {
+      "link": "https://apple.news/Awo45OCIyRoG1qhuaKMfzbg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-27 05:20:26",
+      "pub_time": "2026-06-27 05:07:55",
+      "publication": "NBC News",
+      "author": "Ana Vanessa Herrero, Nicole Acevedo, and Geraldine Cols Azócar",
+      "headline": "Agony, then “a miracle”: Venezuelan families describe reuniting with rescued loved ones",
+      "article_headline": "Agony, then “a miracle”: Venezuelan families describe reuniting with rescued loved ones"
+    },
+    {
+      "link": "https://apple.news/Awo45OCIyRoG1qhuaKMfzbg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-27 05:20:26",
+      "pub_time": "2026-06-27 05:07:28",
+      "publication": "NBC News",
+      "author": "Ana Vanessa Herrero, Nicole Acevedo, and Geraldine Cols Azócar",
+      "headline": "Agony, then “a miracle”: Venezuelan families describe reuniting with rescued loved ones",
+      "article_headline": "Agony, then “a miracle”: Venezuelan families describe reuniting with rescued loved ones"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 05:20:26",
+      "pub_time": "2026-06-27 05:07:56",
+      "publication": "The Washington Post",
+      "author": "Gerrit De Vynck and Isaac Arnsdorf",
+      "headline": "The U.S. government will decide who gets to use the latest American AI technology",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AqFTVu36YRQioYdjtCuLTZQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-27 05:20:26",
+      "pub_time": "2026-06-27 05:07:56",
+      "publication": "Grist",
+      "author": "",
+      "headline": "How climate change impacts every system in the body",
+      "article_headline": "How climate change impacts every system in the body"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 05:20:26",
+      "pub_time": "2026-06-27 05:07:29",
+      "publication": "The Washington Post",
+      "author": "Gerrit De Vynck and Isaac Arnsdorf",
+      "headline": "The U.S. government will decide who gets to use the latest American AI technology",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AqFTVu36YRQioYdjtCuLTZQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-27 05:20:26",
+      "pub_time": "2026-06-27 05:07:29",
+      "publication": "Grist",
+      "author": "",
+      "headline": "How climate change impacts every system in the body",
+      "article_headline": "How climate change impacts every system in the body"
+    }
+  ]
+}
