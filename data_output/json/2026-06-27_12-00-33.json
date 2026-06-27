@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-27 12:00:33",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AqLV0RB9PSiGl9xhOQwjSnA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-27 12:00:33",
+      "pub_time": "2026-06-27 11:10:34",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon and Lara Seligman",
+      "headline": "Middle East fighting widens with attacks on Bahrain, a Hormuz tanker",
+      "article_headline": "Middle East fighting widens with attacks on Bahrain, a Hormuz tanker"
+    },
+    {
+      "link": "https://apple.news/A4aTcCQ1lS9yR1_SGCOslOA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-27 12:00:33",
+      "pub_time": "2026-06-27 11:11:02",
+      "publication": "WIRED",
+      "author": "Aranza Bustamante",
+      "headline": "Why Venezuela’s second earthquake was so damaging to buildings",
+      "article_headline": "Why Venezuela’s Second Earthquake Was So Damaging to Buildings"
+    },
+    {
+      "link": "https://apple.news/A4aTcCQ1lS9yR1_SGCOslOA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-27 12:00:33",
+      "pub_time": "2026-06-27 11:09:35",
+      "publication": "WIRED",
+      "author": "Aranza Bustamante",
+      "headline": "Why Venezuela’s second earthquake was so damaging to buildings",
+      "article_headline": "Why Venezuela’s Second Earthquake Was So Damaging to Buildings"
+    },
+    {
+      "link": "https://apple.news/AhN1mcXX5R4eenRjQuFFrWg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-27 12:00:33",
+      "pub_time": "",
+      "publication": "Fox News",
+      "author": "",
+      "headline": "Trump’s endorsement power faces new test in Louisiana Republican Senate runoff",
+      "article_headline": "Trump’s endorsement power faces new test in Louisiana Republican Senate runoff"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 12:00:33",
+      "pub_time": "2026-06-27 11:10:31",
+      "publication": "Los Angeles Times",
+      "author": "David Zahniser",
+      "headline": "L.A. finally reaches a deal for recovering its Olympic costs",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 12:00:33",
+      "pub_time": "2026-06-27 11:09:36",
+      "publication": "Los Angeles Times",
+      "author": "David Zahniser",
+      "headline": "L.A. finally reaches a deal for recovering its Olympic costs",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AcQKNWBk7RMiIpJHkYpZDqQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RVOXh4R1dSV1NQU011R0xGMTR0VF9BI25mZl9paWQ%3D",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-27 12:00:33",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Climate, Scientists find a groundbreaking energy source. Plus, how to build a heat-proof city.",
+      "article_headline": ""
+    }
+  ]
+}

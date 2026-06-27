@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-27 07:40:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ALqQpnvdrQTmR7SojUTQM0Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-27 07:40:32",
+      "pub_time": "2026-06-27 06:40:33",
+      "publication": "Reuters",
+      "author": "Jana Choukeir and Eman Abouhassira",
+      "headline": "Iran says it hit U.S.-linked targets as Bahrain reports a drone attack",
+      "article_headline": "Fresh ship struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal"
+    },
+    {
+      "link": "https://apple.news/Awo45OCIyRoG1qhuaKMfzbg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-27 07:40:32",
+      "pub_time": "2026-06-27 06:41:01",
+      "publication": "NBC News",
+      "author": "Ana Vanessa Herrero, Nicole Acevedo, and Geraldine Cols Azócar",
+      "headline": "Agony, then “a miracle”: Venezuelan families describe reuniting with rescued loved ones",
+      "article_headline": "Agony, then “a miracle”: Venezuelan families describe reuniting with rescued loved ones"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 07:40:32",
+      "pub_time": "2026-06-27 06:41:34",
+      "publication": "The Washington Post",
+      "author": "Gerrit De Vynck and Isaac Arnsdorf",
+      "headline": "The U.S. government will decide who gets to use the latest American AI technology",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AqFTVu36YRQioYdjtCuLTZQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-27 07:40:32",
+      "pub_time": "2026-06-27 06:41:34",
+      "publication": "Grist",
+      "author": "",
+      "headline": "How climate change impacts every system in the body",
+      "article_headline": "How climate change impacts every system in the body"
+    },
+    {
+      "link": "https://apple.news/ArON512v-TqaYRSI6YKQLDw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-27 07:40:32",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "World Cup 2026, The 2026 World Cup has already set an attendance record. But there’s a catch.",
+      "article_headline": "The 2026 World Cup has already set an attendance record. But there’s a catch."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 07:40:32",
+      "pub_time": "2026-06-27 06:42:35",
+      "publication": "The Wall Street Journal",
+      "author": "Amira McKee",
+      "headline": "America is running low on its go-to protein supplement",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AlxXvrcNUQqybaLEXUqg9VQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-27 07:40:32",
+      "pub_time": "",
+      "publication": "The little-known forces quietly killing the college degree",
+      "author": "",
+      "headline": "Is higher education still worth it?,  Play Now  24 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ARgq9kNRESsqTL3zRLwPnpg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-27 07:40:32",
+      "pub_time": "2026-06-26 17:43:47",
+      "publication": "BuzzFeed",
+      "author": "Brian Galindo",
+      "headline": "People Who Cleaned Out Family Members' Homes After They Died Are Sharing What They Found Or Discovered",
+      "article_headline": "People Who Cleaned Out Family Members' Homes After They Died Are Sharing What They Found Or Discovered"
+    },
+    {
+      "link": "https://apple.news/AplTlLjfLQdGZjUSXAZH7-g",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-27 07:40:32",
+      "pub_time": "2026-06-26 10:44:19",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "4 people convicted over insecticide deaths of tourist family at hotel",
+      "article_headline": "4 people convicted over insecticide deaths of tourist family at hotel"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-27 07:40:32",
+      "pub_time": "2026-06-26 13:44:47",
+      "publication": "",
+      "author": "Darren Orf",
+      "headline": "Scientists Believe They’ve Found a Groundbreaking New Energy Source–And It’s Virtually Unlimited",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AzL8GgsPDRNWM6SczSue1iw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-27 07:40:32",
+      "pub_time": "2026-06-26 16:44:47",
+      "publication": "Entertainment Weekly",
+      "author": "Marina Watts",
+      "headline": "Ed Norton looks back on 'financial bomb' of a movie that eventually defined a generation",
+      "article_headline": "Ed Norton looks back on 'financial bomb' of a movie that eventually defined a generation"
+    }
+  ]
+}

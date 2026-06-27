@@ -1,0 +1,96 @@
+{
+  "run_time": "2026-06-27 10:00:32",
+  "story_count": 8,
+  "stories": [
+    {
+      "link": "https://apple.news/ALqQpnvdrQTmR7SojUTQM0Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-27 10:00:32",
+      "pub_time": "2026-06-27 09:26:33",
+      "publication": "Reuters",
+      "author": "Jana Choukeir and Eman Abouhassira",
+      "headline": "Iran, U.S. trade attacks in worst escalation since peace deal",
+      "article_headline": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal"
+    },
+    {
+      "link": "https://apple.news/A4aTcCQ1lS9yR1_SGCOslOA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-27 10:00:32",
+      "pub_time": "2026-06-27 09:27:01",
+      "publication": "WIRED",
+      "author": "Aranza Bustamante",
+      "headline": "Why Venezuela’s second earthquake was so damaging to buildings",
+      "article_headline": "Why Venezuela’s Second Earthquake Was So Damaging to Buildings"
+    },
+    {
+      "link": "https://apple.news/A4aTcCQ1lS9yR1_SGCOslOA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-27 10:00:32",
+      "pub_time": "2026-06-27 09:26:35",
+      "publication": "WIRED",
+      "author": "Aranza Bustamante",
+      "headline": "Why Venezuela’s second earthquake was so damaging to buildings",
+      "article_headline": "Why Venezuela’s Second Earthquake Was So Damaging to Buildings"
+    },
+    {
+      "link": "https://apple.news/AhN1mcXX5R4eenRjQuFFrWg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-27 10:00:32",
+      "pub_time": "",
+      "publication": "Fox News",
+      "author": "",
+      "headline": "Trump’s endorsement power faces new test in Louisiana Republican Senate runoff",
+      "article_headline": "Trump’s endorsement power faces new test in Louisiana Republican Senate runoff"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 10:00:32",
+      "pub_time": "2026-06-27 09:27:29",
+      "publication": "Los Angeles Times",
+      "author": "David Zahniser",
+      "headline": "L.A. finally reaches a deal for recovering its Olympic costs",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 10:00:32",
+      "pub_time": "2026-06-27 09:26:35",
+      "publication": "Los Angeles Times",
+      "author": "David Zahniser",
+      "headline": "L.A. finally reaches a deal for recovering its Olympic costs",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ArON512v-TqaYRSI6YKQLDw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-27 10:00:32",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "World Cup 2026, The 2026 World Cup has already set an attendance record. But there’s a catch.",
+      "article_headline": "The 2026 World Cup has already set an attendance record. But there’s a catch."
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-27 10:00:32",
+      "pub_time": "2026-06-26 12:03:51",
+      "publication": "WIRED",
+      "author": "Kait Hanson",
+      "headline": "11 Books Everyone Should Read Before They Turn 75",
+      "article_headline": "Why Venezuela’s Second Earthquake Was So Damaging to Buildings"
+    }
+  ]
+}
