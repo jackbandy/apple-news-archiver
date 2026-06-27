@@ -1,0 +1,74 @@
+{
+  "run_time": "2026-06-27 18:00:31",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AqLV0RB9PSiGl9xhOQwjSnA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-27 18:00:31",
+      "pub_time": "2026-06-27 17:00:33",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon and Lara Seligman",
+      "headline": "Middle East fighting widens with attacks on Bahrain, a Hormuz tanker",
+      "article_headline": "Middle East fighting widens with attacks on Bahrain, a Hormuz tanker"
+    },
+    {
+      "link": "https://apple.news/A8f4suSKXSBmqFzbBywnd9w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-27 18:00:31",
+      "pub_time": "2026-06-27 17:01:01",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Time running out for trapped survivors as Venezuela quake toll reaches 1,430",
+      "article_headline": "Time running out for trapped survivors as Venezuela quake toll reaches 1,430"
+    },
+    {
+      "link": "https://apple.news/An1Gl5TzzQ-6KQ7Hxjr5Mag",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-27 18:00:31",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Trump taps Oklahoma law-enforcement official to lead ICE",
+      "article_headline": "Trump taps Oklahoma law-enforcement official to lead ICE"
+    },
+    {
+      "link": "https://apple.news/AmU_YC7CCQcuUBDpDd3j_Yg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-27 18:00:31",
+      "pub_time": "",
+      "publication": "Bloomberg",
+      "author": "",
+      "headline": "Why is Europe warming twice as fast as the world average?",
+      "article_headline": "Why is Europe warming twice as fast as the world average?"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 18:00:31",
+      "pub_time": "2026-06-27 17:02:34",
+      "publication": "The Washington Post",
+      "author": "Maegan Vazquez",
+      "headline": "Confederate flag image removed from North Carolina’s booth at the Great American State Fair",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 18:00:31",
+      "pub_time": "2026-06-27 17:02:34",
+      "publication": "The Atlantic",
+      "author": "Faith Hill",
+      "headline": "The unglamorous truth about the average tradwife",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
