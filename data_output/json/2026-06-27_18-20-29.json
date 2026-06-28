@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-27 18:20:29",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AqLV0RB9PSiGl9xhOQwjSnA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-27 18:20:29",
+      "pub_time": "2026-06-27 18:04:31",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon and Lara Seligman",
+      "headline": "U.S. carries out new strikes on Iran in response to tanker attack",
+      "article_headline": "U.S. carries out new strikes on Iran in response to tanker attack"
+    },
+    {
+      "link": "https://apple.news/A8f4suSKXSBmqFzbBywnd9w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-27 18:20:29",
+      "pub_time": "2026-06-27 18:04:58",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Time running out for trapped survivors as Venezuela quake toll reaches 1,430",
+      "article_headline": "Time running out for trapped survivors as Venezuela quake toll reaches 1,430"
+    },
+    {
+      "link": "https://apple.news/A8f4suSKXSBmqFzbBywnd9w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-27 18:20:29",
+      "pub_time": "2026-06-27 18:03:30",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Time running out for trapped survivors as Venezuela quake toll reaches 1,430",
+      "article_headline": "Time running out for trapped survivors as Venezuela quake toll reaches 1,430"
+    },
+    {
+      "link": "https://apple.news/An1Gl5TzzQ-6KQ7Hxjr5Mag",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-27 18:20:29",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Trump taps Oklahoma law-enforcement official to lead ICE",
+      "article_headline": "Trump taps Oklahoma law-enforcement official to lead ICE"
+    },
+    {
+      "link": "https://apple.news/AWfKfYEMjRNmWOlNHBQhJug",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-27 18:20:29",
+      "pub_time": "",
+      "publication": "The Salt Lake Tribune",
+      "author": "",
+      "headline": "Cottonwood Fire grows again, jumping to size of Philadelphia after extreme Utah weather fuels flames",
+      "article_headline": "Cottonwood Fire grows again, jumping to size of Philadelphia after extreme Utah weather fuels flames"
+    },
+    {
+      "link": "https://apple.news/A7iZ_eP3AQ-uBo7XEJLDn8A",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-27 18:20:29",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "World Cup 2026, England beats Panama 2-0 on goals by Bellingham and Kane to win its World Cup group",
+      "article_headline": "England beats Panama 2-0 on goals by Bellingham and Kane to win its World Cup group"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 18:20:29",
+      "pub_time": "2026-06-27 18:04:25",
+      "publication": "The Washington Post",
+      "author": "Michelle Lee and Chie Tanaka",
+      "headline": "It’s one of the world’s most sleep-deprived nations. Can these high-tech gadgets change that?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AtsTKV1OJSZSVzDMjruL5vA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-27 18:20:29",
+      "pub_time": "2026-06-26 18:23:31",
+      "publication": "People",
+      "author": "Paloma Chavez",
+      "headline": "Brother Wins the Lottery with His Sister, but Gets a Multi-Million Dollar Surprise After Putting on His Glasses",
+      "article_headline": "Brother Wins the Lottery with His Sister, but Gets a Multi-Million Dollar Surprise After Putting on His Glasses"
+    },
+    {
+      "link": "https://apple.news/AML16LqeQSZ6BaZiLvLIi1g",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-27 18:20:29",
+      "pub_time": "2026-06-27 16:24:04",
+      "publication": "BuzzFeed",
+      "author": "Dave Stopera",
+      "headline": "35 Things Literally Everyone Used To Have Inside Their Kitchen 30 Years Ago That Have Pretty Much Ceased To Exist Entirely",
+      "article_headline": "35 Things Literally Everyone Used To Have Inside Their Kitchen 30 Years Ago That Have Pretty Much Ceased To Exist Entirely"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-27 18:20:29",
+      "pub_time": "2026-06-26 18:24:32",
+      "publication": "",
+      "author": "Darren Orf",
+      "headline": "Scientists Believe They’ve Found a Groundbreaking New Energy Source–And It’s Virtually Unlimited",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AWQv7Gn8KTkyMPkQ_i3PquQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-27 18:20:29",
+      "pub_time": "2026-06-27 10:24:32",
+      "publication": "Fox News",
+      "author": "Zach Dean",
+      "headline": "Caitlin Clark fans unload on WNBA, Alyssa Thomas after violent sequence leaves Fever star battered",
+      "article_headline": "Caitlin Clark fans unload on WNBA, Alyssa Thomas after violent sequence leaves Fever star battered"
+    }
+  ]
+}

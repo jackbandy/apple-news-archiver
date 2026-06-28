@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-27 22:00:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Ag0yYZiejQGmEJrOCkmnHyg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-27 22:00:32",
+      "pub_time": "2026-06-27 21:48:34",
+      "publication": "Reuters",
+      "author": "Yomna Ehab and Phil Stewart",
+      "headline": "Iran, U.S. continue escalating attacks, recriminations over peace deal",
+      "article_headline": "Iran, U.S. continue escalating attacks, recriminations over peace deal"
+    },
+    {
+      "link": "https://apple.news/ApcT0PxgMT6WC10j6qtu0sA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-27 22:00:32",
+      "pub_time": "2026-06-27 21:49:01",
+      "publication": "Los Angeles Times",
+      "author": "Rong-Gong Lin II, Patrick J. McDonnell, and Mery Mogollón",
+      "headline": "Before Venezuela earthquakes, engineers warned tall buildings could collapse atop soft soil",
+      "article_headline": "Before Venezuela earthquakes, engineers warned tall buildings could collapse atop soft soil"
+    },
+    {
+      "link": "https://apple.news/ApcT0PxgMT6WC10j6qtu0sA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-27 22:00:32",
+      "pub_time": "2026-06-27 21:47:34",
+      "publication": "Los Angeles Times",
+      "author": "Rong-Gong Lin II, Patrick J. McDonnell, and Mery Mogollón",
+      "headline": "Before Venezuela earthquakes, engineers warned tall buildings could collapse atop soft soil",
+      "article_headline": "Before Venezuela earthquakes, engineers warned tall buildings could collapse atop soft soil"
+    },
+    {
+      "link": "https://apple.news/A45V57pN1Q4yXDMqCu6Wdpg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-27 22:00:32",
+      "pub_time": "",
+      "publication": "NOTUS",
+      "author": "",
+      "headline": "Trump-backed Julia Letlow wins primary runoff for Louisiana Senate seat",
+      "article_headline": "Trump-backed Julia Letlow wins primary runoff for Louisiana Senate seat"
+    },
+    {
+      "link": "https://apple.news/AnJlPtULkQFqwFg1_CCYkQA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-27 22:00:32",
+      "pub_time": "2026-06-27 21:48:29",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Disagreements between Supreme Court justices bubble into public view as major rulings loom",
+      "article_headline": "Disagreements between Supreme Court justices bubble into public view as major rulings loom"
+    },
+    {
+      "link": "https://apple.news/AnJlPtULkQFqwFg1_CCYkQA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-27 22:00:32",
+      "pub_time": "2026-06-27 21:48:03",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Disagreements between Supreme Court justices bubble into public view as major rulings loom",
+      "article_headline": "Disagreements between Supreme Court justices bubble into public view as major rulings loom"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 22:00:32",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "World Cup 2026, FIFA told stadium sponsors to get lost. They spun it into marketing gold.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AxIPt1gkcS1-cqdoH4ufC5Q",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-27 22:00:32",
+      "pub_time": "2026-06-27 21:04:20",
+      "publication": "BuzzFeed",
+      "author": "Ajani Bazile-Dutes",
+      "headline": "I Almost Pissed Myself Looking At These 21 Hilarious, Random Photos",
+      "article_headline": "I Almost Pissed Myself Looking At These 21 Hilarious, Random Photos"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-27 22:00:32",
+      "pub_time": "2026-06-27 06:04:47",
+      "publication": "",
+      "author": "Toria Sheffield",
+      "headline": "Boy, 11, Adopted by His Elementary School Teacher: ‘I Got a Mom!’",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-27 22:00:32",
+      "pub_time": "2026-06-26 22:05:04",
+      "publication": "",
+      "author": "Darren Orf",
+      "headline": "Scientists Believe They’ve Found a Groundbreaking New Energy Source–And It’s Virtually Unlimited",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AELarXLrKQ_6YJyDm_w7YHA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-27 22:00:32",
+      "pub_time": "2026-06-27 09:05:04",
+      "publication": "CNBC",
+      "author": "Cassandra Tresl, Contributor",
+      "headline": "American couple left NYC and bought a house in Italy for $13,000: 'We found a different way of life'",
+      "article_headline": "American couple left NYC and bought a house in Italy for $13,000: 'We found a different way of life'"
+    }
+  ]
+}

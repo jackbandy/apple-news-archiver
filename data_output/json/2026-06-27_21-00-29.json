@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-27 21:00:29",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ag0yYZiejQGmEJrOCkmnHyg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-27 21:00:29",
+      "pub_time": "2026-06-27 20:01:31",
+      "publication": "Reuters",
+      "author": "Jana Choukeir and Jasper Ward",
+      "headline": "U.S. carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities",
+      "article_headline": "U.S. carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities"
+    },
+    {
+      "link": "https://apple.news/ApcT0PxgMT6WC10j6qtu0sA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-27 21:00:29",
+      "pub_time": "2026-06-27 20:01:58",
+      "publication": "Los Angeles Times",
+      "author": "Rong-Gong Lin II, Patrick J. McDonnell, and Mery Mogollón",
+      "headline": "Before Venezuela earthquakes, engineers warned tall buildings could collapse atop soft soil",
+      "article_headline": "Before Venezuela earthquakes, engineers warned tall buildings could collapse atop soft soil"
+    },
+    {
+      "link": "https://apple.news/AnJlPtULkQFqwFg1_CCYkQA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-27 21:00:29",
+      "pub_time": "2026-06-27 20:02:26",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Disagreements between Supreme Court justices bubble into public view as major rulings loom",
+      "article_headline": "Disagreements between Supreme Court justices bubble into public view as major rulings loom"
+    },
+    {
+      "link": "https://apple.news/ApcT0PxgMT6WC10j6qtu0sA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-27 21:00:29",
+      "pub_time": "2026-06-27 20:01:58",
+      "publication": "Los Angeles Times",
+      "author": "Rong-Gong Lin II, Patrick J. McDonnell, and Mery Mogollón",
+      "headline": "Before Venezuela earthquakes, engineers warned tall buildings could collapse atop soft soil",
+      "article_headline": "Before Venezuela earthquakes, engineers warned tall buildings could collapse atop soft soil"
+    },
+    {
+      "link": "https://apple.news/AnJlPtULkQFqwFg1_CCYkQA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-27 21:00:29",
+      "pub_time": "2026-06-27 20:02:26",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Disagreements between Supreme Court justices bubble into public view as major rulings loom",
+      "article_headline": "Disagreements between Supreme Court justices bubble into public view as major rulings loom"
+    },
+    {
+      "link": "https://apple.news/AWfKfYEMjRNmWOlNHBQhJug",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-27 21:00:29",
+      "pub_time": "",
+      "publication": "The Salt Lake Tribune",
+      "author": "",
+      "headline": "Cottonwood Fire grows again, jumping to size of Philadelphia after extreme Utah weather fuels flames",
+      "article_headline": "Cottonwood Fire grows again, jumping to size of Philadelphia after extreme Utah weather fuels flames"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-27 21:00:29",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "World Cup 2026, FIFA told stadium sponsors to get lost. They spun it into marketing gold.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
