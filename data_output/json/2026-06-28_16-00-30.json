@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-28 16:00:30",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A2z1lH-DpTMSRFcd8gQnEpw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-28 16:00:30",
+      "pub_time": "2026-06-28 15:00:31",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "France reports around 1,000 additional deaths as extreme heat breaks European records",
+      "article_headline": "France reports around 1,000 additional deaths as extreme heat breaks European records"
+    },
+    {
+      "link": "https://apple.news/AQ-h-p4MISwGu-qCNIlca1Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-28 16:00:30",
+      "pub_time": "2026-06-28 15:00:58",
+      "publication": "NPR",
+      "author": "Willem Marx",
+      "headline": "U.S. and Iran exchange strikes underscoring the fragility of the ceasefire",
+      "article_headline": "U.S. and Iran exchange strikes underscoring the fragility of the ceasefire"
+    },
+    {
+      "link": "https://apple.news/A7eyMv24-RH-Io2TjWfCE7Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-28 16:00:30",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Julia Letlow’s victory in Louisiana completes Trump’s revenge on Cassidy",
+      "article_headline": "Julia Letlow’s victory in Louisiana completes Trump’s revenge on Cassidy"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 16:00:30",
+      "pub_time": "2026-06-28 15:01:58",
+      "publication": "The Washington Post",
+      "author": "Karen Tumulty",
+      "headline": "Why the nation’s founding document is marred by creases, stains, and a grimy handprint",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AfppBSONpQCuPzkYDpknJ5g?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RNMk5BclBsOFN4YWFRTktQTGNvZXZRI25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-28 16:00:30",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Health, How much should Americans worry about ultraprocessed foods?",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 16:00:30",
+      "pub_time": "2026-06-28 15:02:30",
+      "publication": "The Wall Street Journal",
+      "author": "Rachel Louise Ensign",
+      "headline": "It used to be America’s bargain-vacation spot. Not anymore.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AlxXvrcNUQqybaLEXUqg9VQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-28 16:00:30",
+      "pub_time": "",
+      "publication": "The little-known forces quietly killing the college degree",
+      "author": "",
+      "headline": "Is higher education still worth it?,  Play Now  24 min",
+      "article_headline": ""
+    }
+  ]
+}

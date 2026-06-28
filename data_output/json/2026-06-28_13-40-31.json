@@ -1,0 +1,120 @@
+{
+  "run_time": "2026-06-28 13:40:31",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/A2z1lH-DpTMSRFcd8gQnEpw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-28 13:40:31",
+      "pub_time": "2026-06-28 13:24:33",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "France records around 1,000 additional deaths as extreme heat breaks European records",
+      "article_headline": "France records around 1,000 additional deaths as extreme heat breaks European records"
+    },
+    {
+      "link": "https://apple.news/AQ-h-p4MISwGu-qCNIlca1Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-28 13:40:31",
+      "pub_time": "2026-06-28 13:25:00",
+      "publication": "NPR",
+      "author": "Willem Marx",
+      "headline": "U.S. and Iran exchange strikes, as violence escalates between Israel and Hezbollah",
+      "article_headline": "U.S. and Iran exchange strikes, as violence escalates between Israel and Hezbollah"
+    },
+    {
+      "link": "https://apple.news/AQ-h-p4MISwGu-qCNIlca1Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-28 13:40:31",
+      "pub_time": "2026-06-28 13:24:33",
+      "publication": "NPR",
+      "author": "Willem Marx",
+      "headline": "U.S. and Iran exchange strikes, as violence escalates between Israel and Hezbollah",
+      "article_headline": "U.S. and Iran exchange strikes, as violence escalates between Israel and Hezbollah"
+    },
+    {
+      "link": "https://apple.news/A7eyMv24-RH-Io2TjWfCE7Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-28 13:40:31",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Julia Letlow’s victory in Louisiana completes Trump’s revenge on Cassidy",
+      "article_headline": "Julia Letlow’s victory in Louisiana completes Trump’s revenge on Cassidy"
+    },
+    {
+      "link": "https://apple.news/AfppBSONpQCuPzkYDpknJ5g?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RNMk5BclBsOFN4YWFRTktQTGNvZXZRI25mZl9paWQ%3D",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-28 13:40:31",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Health, How much should Americans worry about ultraprocessed foods?",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A4J-ZUatEQ3-NK7cKZMNoyA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-28 13:40:31",
+      "pub_time": "",
+      "publication": "Formula 1",
+      "author": "",
+      "headline": "George Russell wins Austrian Grand Prix, heightening title race",
+      "article_headline": "George Russell wins Austrian Grand Prix, heightening title race"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 13:40:31",
+      "pub_time": "2026-06-28 13:24:28",
+      "publication": "The Wall Street Journal",
+      "author": "Rachel Louise Ensign",
+      "headline": "It used to be America’s bargain-vacation spot. Not anymore.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-06-28 13:40:31",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Ozempic may be reshaping the brain, Ariana Eunjung Cha",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-06-28 13:40:31",
+      "pub_time": "",
+      "publication": "Investopedia",
+      "author": "",
+      "headline": "How much money Americans think they need to retire — and what they actually spend, Peter Gratton",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-06-28 13:40:31",
+      "pub_time": "",
+      "publication": "TIME",
+      "author": "",
+      "headline": "Five symptoms neurologists say to never ignore, BY ANGELA HAUPT",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
