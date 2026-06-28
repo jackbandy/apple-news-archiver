@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-28 12:00:31",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AguLPQYZGSuuHnxlekj8ESA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-28 12:00:31",
+      "pub_time": "2026-06-28 11:00:32",
+      "publication": "NBC News",
+      "author": "Freddie Clayton",
+      "headline": "Iran strikes Kuwait and Bahrain as escalating attacks threaten to unravel peace efforts",
+      "article_headline": "Iran strikes Kuwait and Bahrain as escalating attacks threaten to unravel peace efforts"
+    },
+    {
+      "link": "https://apple.news/A9VSv9ZYSQMuDDdrgMtiq3Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-28 12:00:31",
+      "pub_time": "2026-06-28 11:01:00",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "2 boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "article_headline": "2 boys rescued from Venezuela earthquake rubble after days of being trapped"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 12:00:31",
+      "pub_time": "2026-06-28 11:01:33",
+      "publication": "The Washington Post",
+      "author": "Lauren Kaori Gurley, Mariana Alfaro, and Jarrell Dillard",
+      "headline": "Trump allows dairy farms a path for migrant labor, upsetting anti-immigration camp",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ANQGnBTaJSXSPN9YqfMMb9g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-28 12:00:31",
+      "pub_time": "2026-06-28 11:01:33",
+      "publication": "The Times of Israel",
+      "author": "",
+      "headline": "Bucking threats, hundreds in Gaza seen protesting Hamas for the first time in a year",
+      "article_headline": "Bucking threats, hundreds in Gaza seen protesting Hamas for the first time in a year"
+    },
+    {
+      "link": "https://apple.news/AmpqFLvOpQwGoLvG0GrTCvQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-28 12:00:31",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "World Cup 2026, Iran says “Thank you” to Mexico after being knocked out of World Cup",
+      "article_headline": "Iran says “Thank you” to Mexico after being knocked out of World Cup"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 12:00:31",
+      "pub_time": "2026-06-28 11:02:32",
+      "publication": "The Wall Street Journal",
+      "author": "Rachel Louise Ensign",
+      "headline": "It used to be America’s bargain vacation spot. Not anymore.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AIaSqF4IwRVmgWbAdFBT09A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-28 12:00:31",
+      "pub_time": "",
+      "publication": "NBC 5 Chicago",
+      "author": "",
+      "headline": "Local News, Chicago, 2026 Chicago Pride Parade: map, route, parking restrictions — plus huge crowds expected",
+      "article_headline": "2026 Chicago Pride Parade: map, route, parking restrictions — plus huge crowds expected"
+    },
+    {
+      "link": "https://apple.news/ALsmNRKPgQFi2k56CiVbVpw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-28 12:00:31",
+      "pub_time": "2026-06-28 06:03:11",
+      "publication": "HuffPost",
+      "author": "Ash Jurberg",
+      "headline": "Older Men Reveal The Things They've Completely Stopped Caring About — And They Have Zero Regrets",
+      "article_headline": "Older Men Reveal The Things They've Completely Stopped Caring About — And They Have Zero Regrets"
+    },
+    {
+      "link": "https://apple.news/AKsqRdQAQTMivE58aLlR3bA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-28 12:00:31",
+      "pub_time": "2026-06-27 21:03:39",
+      "publication": "BuzzFeed",
+      "author": "Dave Stopera",
+      "headline": "75 Extremely Rare Historical Pictures That Will Completely And Totally Change Your Perspective On The The Past",
+      "article_headline": "75 Extremely Rare Historical Pictures That Will Completely And Totally Change Your Perspective On The The Past"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-28 12:00:31",
+      "pub_time": "2026-06-27 12:04:06",
+      "publication": "",
+      "author": "Candace Buckner",
+      "headline": "The Caitlin Clark experience isn’t fun anymore — and that’s the WNBA’s biggest problem",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AOFJoouUvTzuHjOquwY_vSQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-28 12:00:31",
+      "pub_time": "2026-06-28 07:04:12",
+      "publication": "TheStreet",
+      "author": "Hillary Remy",
+      "headline": "Elon Musk, Tim Cook share warning on new crisis in America",
+      "article_headline": "Elon Musk, Tim Cook share warning on new crisis in America"
+    }
+  ]
+}

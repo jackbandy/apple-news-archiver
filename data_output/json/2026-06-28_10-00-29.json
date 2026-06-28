@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-28 10:00:29",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AguLPQYZGSuuHnxlekj8ESA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-28 10:00:29",
+      "pub_time": "2026-06-28 09:20:30",
+      "publication": "NBC News",
+      "author": "Freddie Clayton",
+      "headline": "Iran strikes Kuwait and Bahrain as escalating attacks threaten to unravel peace efforts",
+      "article_headline": "Iran strikes Kuwait and Bahrain as escalating attacks threaten to unravel peace efforts"
+    },
+    {
+      "link": "https://apple.news/A9VSv9ZYSQMuDDdrgMtiq3Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-28 10:00:29",
+      "pub_time": "2026-06-28 09:20:58",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "article_headline": "Two boys rescued from Venezuela earthquake rubble after days of being trapped"
+    },
+    {
+      "link": "https://apple.news/A9VSv9ZYSQMuDDdrgMtiq3Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-28 10:00:29",
+      "pub_time": "2026-06-28 09:20:30",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "article_headline": "Two boys rescued from Venezuela earthquake rubble after days of being trapped"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 10:00:29",
+      "pub_time": "2026-06-28 09:20:58",
+      "publication": "The Washington Post",
+      "author": "Lauren Kaori Gurley, Mariana Alfaro, and Jarrell Dillard",
+      "headline": "Trump allows dairy farms a path for migrant labor, upsetting anti-immigration camp",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ANQGnBTaJSXSPN9YqfMMb9g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-28 10:00:29",
+      "pub_time": "2026-06-28 09:20:58",
+      "publication": "The Times of Israel",
+      "author": "",
+      "headline": "Bucking threats, hundreds in Gaza seen protesting Hamas for first time in a year",
+      "article_headline": "Bucking threats, hundreds in Gaza seen protesting Hamas for first time in a year"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 10:00:29",
+      "pub_time": "2026-06-28 09:20:30",
+      "publication": "The Washington Post",
+      "author": "Lauren Kaori Gurley, Mariana Alfaro, and Jarrell Dillard",
+      "headline": "Trump allows dairy farms a path for migrant labor, upsetting anti-immigration camp",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ANQGnBTaJSXSPN9YqfMMb9g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-28 10:00:29",
+      "pub_time": "2026-06-28 09:20:30",
+      "publication": "The Times of Israel",
+      "author": "",
+      "headline": "Bucking threats, hundreds in Gaza seen protesting Hamas for first time in a year",
+      "article_headline": "Bucking threats, hundreds in Gaza seen protesting Hamas for first time in a year"
+    }
+  ]
+}
