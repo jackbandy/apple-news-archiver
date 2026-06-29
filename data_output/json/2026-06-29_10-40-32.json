@@ -1,0 +1,165 @@
+{
+  "run_time": "2026-06-29 10:40:32",
+  "story_count": 14,
+  "stories": [
+    {
+      "link": "https://apple.news/AlGFIMO5VRp69ndGH8v4DFg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-29 10:40:32",
+      "pub_time": "2026-06-29 10:12:33",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Supreme Court allows states to count mail-in ballots that arrive late, rejecting Republican-led challenge, MORE COVERAGE",
+      "article_headline": "Supreme Court allows states to count mail-in ballots that arrive late, rejecting RNC challenge"
+    },
+    {
+      "link": "https://apple.news/AQb2Jd3jHTWijf0PFJPcWFg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-29 10:40:32",
+      "pub_time": "2026-06-29 10:13:06",
+      "publication": "NPR",
+      "author": "Aya Batrawy",
+      "headline": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks",
+      "article_headline": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks"
+    },
+    {
+      "link": "https://apple.news/AuR6Ae7k_Q06npTunU5Y4Zw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-29 10:40:32",
+      "pub_time": "2026-06-29 10:13:33",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "A strong aftershock rattles Venezuela as rescue workers race to find survivors",
+      "article_headline": "A strong aftershock rattles Venezuela as rescue workers race to find survivors"
+    },
+    {
+      "link": "https://apple.news/AQb2Jd3jHTWijf0PFJPcWFg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-29 10:40:32",
+      "pub_time": "2026-06-29 10:13:06",
+      "publication": "NPR",
+      "author": "Aya Batrawy",
+      "headline": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks",
+      "article_headline": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks"
+    },
+    {
+      "link": "https://apple.news/AuR6Ae7k_Q06npTunU5Y4Zw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-29 10:40:32",
+      "pub_time": "2026-06-29 10:13:33",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "A strong aftershock rattles Venezuela as rescue workers race to find survivors",
+      "article_headline": "A strong aftershock rattles Venezuela as rescue workers race to find survivors"
+    },
+    {
+      "link": "https://apple.news/AthV1YbfbTFOtrHCN_pUl4w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-29 10:40:32",
+      "pub_time": "2026-06-29 10:13:00",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "4 women and 1 man shot dead at youth welfare center in northern Germany",
+      "article_headline": "Five dead in shooting at youth welfare centre in northern Germany"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-29 10:40:32",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Medicare is about to cover GLP-1 drugs for weight loss",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-06-29 10:40:32",
+      "pub_time": "",
+      "publication": "BBC Science Focus Magazine",
+      "author": "",
+      "headline": "GLP-1 users may face a hidden health problem, researchers warn",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-06-29 10:40:32",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The worst airport in America, Ellen Cushing",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-06-29 10:40:32",
+      "pub_time": "",
+      "publication": "Men’s Health",
+      "author": "",
+      "headline": "Warning signs of prostate trouble — and what can help, Kevin Dupzyk",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ahhn82FCkT0uvs7lNo5HQ7w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-29 10:40:32",
+      "pub_time": "2026-06-29 10:16:19",
+      "publication": "HuffPost",
+      "author": "Jamie Davis Smith",
+      "headline": "7 Items You Should Never, EVER Put In A TSA Bin At The Airport",
+      "article_headline": "7 Items You Should Never, EVER Put In A TSA Bin At The Airport"
+    },
+    {
+      "link": "https://apple.news/AqOIYEj_4SLSsoyxNJCMAcg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-29 10:40:32",
+      "pub_time": "2026-06-29 04:44:46",
+      "publication": "Travel + Leisure",
+      "author": "Olivia Young",
+      "headline": "A Former FBI Agent Shares the 1 Safety Gadget You Should Never Travel Solo Without—and It's on Sale",
+      "article_headline": "A Former FBI Agent Shares the 1 Safety Gadget You Should Never Travel Solo Without—and It's on Sale"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-29 10:40:32",
+      "pub_time": "2026-06-28 10:45:13",
+      "publication": "",
+      "author": "Julie Tremaine",
+      "headline": "8 Celebrity Couples Who Split After 30 Years Together",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aocqm3B3nTJyC_Ms5krAJEA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-29 10:40:32",
+      "pub_time": "2026-06-29 08:45:20",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Princess Kate completes remarkable mountain climb, hikers do double take",
+      "article_headline": "Princess Kate completes remarkable mountain climb, hikers do double take"
+    }
+  ]
+}

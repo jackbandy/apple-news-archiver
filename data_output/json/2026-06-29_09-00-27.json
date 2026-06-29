@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-29 09:00:27",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/APyxXJ8BfSNuqCw1Gs4N8oQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-29 09:00:27",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Supreme Court rebuffs Trump’s appeal in E. Jean Carroll case",
+      "article_headline": "Supreme Court rebuffs Trump’s appeal in E. Jean Carroll case"
+    },
+    {
+      "link": "https://apple.news/AYvckSSkrQOCg1hB6f2kzrg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-29 09:00:27",
+      "pub_time": "2026-06-29 08:50:56",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Benoit Faucon, and Robbie Gramer",
+      "headline": "U.S. and Iran agree to halt days of fighting over Strait of Hormuz",
+      "article_headline": "U.S. and Iran agree to halt days of fighting over Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/Ad_-ZA5jxTkmhrGkm7ZTgxQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-29 09:00:27",
+      "pub_time": "2026-06-29 08:51:23",
+      "publication": "NBC News",
+      "author": "Christine Rapp and Dennis Romero",
+      "headline": "Dangerous heat wave to scorch much of U.S. ahead of July Fourth",
+      "article_headline": "Dangerous heat wave to scorch much of U.S. ahead of July Fourth"
+    },
+    {
+      "link": "https://apple.news/AYvckSSkrQOCg1hB6f2kzrg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-29 09:00:27",
+      "pub_time": "2026-06-29 08:50:56",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Benoit Faucon, and Robbie Gramer",
+      "headline": "U.S. and Iran agree to halt days of fighting over Strait of Hormuz",
+      "article_headline": "U.S. and Iran agree to halt days of fighting over Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/Ad_-ZA5jxTkmhrGkm7ZTgxQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-29 09:00:27",
+      "pub_time": "2026-06-29 08:51:23",
+      "publication": "NBC News",
+      "author": "Christine Rapp and Dennis Romero",
+      "headline": "Dangerous heat wave to scorch much of U.S. ahead of July Fourth",
+      "article_headline": "Dangerous heat wave to scorch much of U.S. ahead of July Fourth"
+    },
+    {
+      "link": "https://apple.news/AuR6Ae7k_Q06npTunU5Y4Zw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-29 09:00:27",
+      "pub_time": "2026-06-29 08:51:50",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "A strong aftershock rattles Venezuela as rescue workers race to find survivors",
+      "article_headline": "A strong aftershock rattles Venezuela as rescue workers race to find survivors"
+    },
+    {
+      "link": "https://apple.news/AuR6Ae7k_Q06npTunU5Y4Zw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-29 09:00:27",
+      "pub_time": "2026-06-29 08:51:23",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "A strong aftershock rattles Venezuela as rescue workers race to find survivors",
+      "article_headline": "A strong aftershock rattles Venezuela as rescue workers race to find survivors"
+    },
+    {
+      "link": "https://apple.news/Ahhn82FCkT0uvs7lNo5HQ7w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-29 09:00:27",
+      "pub_time": "2026-06-29 06:04:25",
+      "publication": "HuffPost",
+      "author": "Jamie Davis Smith",
+      "headline": "7 Items You Should Never, EVER Put In A TSA Bin At The Airport",
+      "article_headline": "7 Items You Should Never, EVER Put In A TSA Bin At The Airport"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-29 09:00:27",
+      "pub_time": "2026-06-28 09:04:52",
+      "publication": "",
+      "author": "Kirsten Nunez",
+      "headline": "We Asked 3 Registered Dietitians Which Coffee Creamer Is Healthiest—Their Answer Was Unanimous",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AXMT0B4mHTgimpxp2iN3T7w",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-29 09:00:27",
+      "pub_time": "2026-06-29 05:04:58",
+      "publication": "Axios",
+      "author": "Carly Mallenbaum",
+      "headline": "The \"Barbie drug\" is back",
+      "article_headline": "The \"Barbie drug\" is back"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-29 09:00:27",
+      "pub_time": "2026-06-28 13:05:26",
+      "publication": "",
+      "author": "Joshua Coleman",
+      "headline": "Is familial estrangement a dating red flag? What a therapist thinks.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

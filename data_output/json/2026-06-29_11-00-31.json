@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-29 11:00:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AlGFIMO5VRp69ndGH8v4DFg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-29 11:00:31",
+      "pub_time": "2026-06-29 10:54:33",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Supreme Court allows states to count mail-in ballots that arrive late, rejecting Republican-led challenge, MORE COVERAGE",
+      "article_headline": "Supreme Court allows states to count mail-in ballots that arrive late, rejecting RNC challenge"
+    },
+    {
+      "link": "https://apple.news/AQb2Jd3jHTWijf0PFJPcWFg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-29 11:00:31",
+      "pub_time": "2026-06-29 10:55:05",
+      "publication": "NPR",
+      "author": "Aya Batrawy",
+      "headline": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks",
+      "article_headline": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks"
+    },
+    {
+      "link": "https://apple.news/AuR6Ae7k_Q06npTunU5Y4Zw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-29 11:00:31",
+      "pub_time": "2026-06-29 10:55:32",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "A strong aftershock rattles Venezuela as rescue workers race to find survivors",
+      "article_headline": "A strong aftershock rattles Venezuela as rescue workers race to find survivors"
+    },
+    {
+      "link": "https://apple.news/AQb2Jd3jHTWijf0PFJPcWFg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-29 11:00:31",
+      "pub_time": "2026-06-29 10:55:04",
+      "publication": "NPR",
+      "author": "Aya Batrawy",
+      "headline": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks",
+      "article_headline": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks"
+    },
+    {
+      "link": "https://apple.news/AuR6Ae7k_Q06npTunU5Y4Zw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-29 11:00:31",
+      "pub_time": "2026-06-29 10:55:31",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "A strong aftershock rattles Venezuela as rescue workers race to find survivors",
+      "article_headline": "A strong aftershock rattles Venezuela as rescue workers race to find survivors"
+    },
+    {
+      "link": "https://apple.news/AthV1YbfbTFOtrHCN_pUl4w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-29 11:00:31",
+      "pub_time": "2026-06-29 10:54:58",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Sixth person dies after shooting at youth welfare center in northern Germany",
+      "article_headline": "Sixth person dies after shooting at youth welfare centre in Germany"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-29 11:00:31",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Medicare is about to cover GLP-1 drugs for weight loss",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
