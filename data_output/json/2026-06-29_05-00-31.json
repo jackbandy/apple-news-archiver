@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-29 05:00:31",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Ag0yYZiejQGmEJrOCkmnHyg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-29 05:00:31",
+      "pub_time": "2026-06-29 00:00:32",
+      "publication": "Reuters",
+      "author": "Nandita Bose, Menna Alaaeldin, and Yomna Ehab",
+      "headline": "Iran and US agree to halt attacks and renew talks, US official says",
+      "article_headline": "Iran and US agree to halt attacks and renew talks, US official says"
+    },
+    {
+      "link": "https://apple.news/AyeJ36YFjR9qHt8EfwQLa3A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-29 05:00:31",
+      "pub_time": "2026-06-29 00:01:00",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Venezuela quake death toll rises to 1,450 as aftershocks hamper rescues",
+      "article_headline": "Venezuela quake death toll rises to 1,450 as aftershocks hamper rescues"
+    },
+    {
+      "link": "https://apple.news/APZ82bzNMRBe34p2rFlB1ng",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-29 05:00:31",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "A $55 billion safety net? Government tab to prop up American farms is rising.",
+      "article_headline": "A $55 billion safety net? Government tab to prop up American farms is rising."
+    },
+    {
+      "link": "https://apple.news/AUIYORL_kT86_dg37-bckww",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-29 05:00:31",
+      "pub_time": "2026-06-29 00:01:59",
+      "publication": "NPR",
+      "author": "Jude Joffe-Block",
+      "headline": "She posted about ICE. 5 months later, DHS agents told her to take her post down.",
+      "article_headline": "She posted about ICE. 5 months later, DHS agents told her to take her post down."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-29 05:00:31",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "World Cup 2026, European soccer fans enjoy a brief fling with America’s air-conditioned culture",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-29 05:00:31",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "He promised his clients their dream home. What they got was a never-ending nightmare., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AbSoNG6CRSmamKBMZGZYNIw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-29 05:00:31",
+      "pub_time": "2026-06-28 05:02:46",
+      "publication": "Tasting Table",
+      "author": "",
+      "headline": "Jimmy John's Vs Jersey Mike's: Which Chain Makes The Best Italian Sub?",
+      "article_headline": "Jimmy John's Vs Jersey Mike's: Which Chain Makes The Best Italian Sub?"
+    },
+    {
+      "link": "https://apple.news/AIa_W-wCpTkOT6FUUhke7IQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-29 05:00:31",
+      "pub_time": "2026-06-28 17:03:35",
+      "publication": "Southern Living",
+      "author": "Tessa Cooper",
+      "headline": "6 Things You Shouldn't Toss—Even If You're Serious About Decluttering",
+      "article_headline": "6 Things You Shouldn't Toss—Even If You're Serious About Decluttering"
+    },
+    {
+      "link": "https://apple.news/ARc1PdREJT9yAiN1qNoxGNA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-29 05:00:31",
+      "pub_time": "2026-06-28 17:04:03",
+      "publication": "People",
+      "author": "Bailey Richards",
+      "headline": "96-Year-Old Influencer Refuses to Stop Partying After Retirement Home Threatened to Kick Her Out",
+      "article_headline": "96-Year-Old Influencer Refuses to Stop Partying After Retirement Home Threatened to Kick Her Out"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-29 05:00:31",
+      "pub_time": "2026-06-28 13:04:30",
+      "publication": "",
+      "author": "Joshua Coleman",
+      "headline": "Is familial estrangement a dating red flag? What a therapist thinks.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AfQzkc_m6R9mMTYX1O49R2A",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-29 05:00:31",
+      "pub_time": "2026-06-28 09:04:37",
+      "publication": "Real Simple",
+      "author": "Wendy Rose Gould",
+      "headline": "7 Household Items You Should Always Unplug Before Bed, Electricians Warn",
+      "article_headline": "7 Household Items You Should Always Unplug Before Bed, Electricians Warn"
+    }
+  ]
+}
