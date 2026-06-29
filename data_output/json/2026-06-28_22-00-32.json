@@ -1,0 +1,119 @@
+{
+  "run_time": "2026-06-28 22:00:32",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/Ag0yYZiejQGmEJrOCkmnHyg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-28 22:00:32",
+      "pub_time": "2026-06-28 21:49:33",
+      "publication": "Reuters",
+      "author": "Nandita Bose, Menna Alaaeldin, and Yomna Ehab",
+      "headline": "Iran and US agree to halt attacks and renew talks, U.S. official says",
+      "article_headline": "Iran and US agree to halt attacks and renew talks, U.S. official says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 22:00:32",
+      "pub_time": "2026-06-28 21:50:01",
+      "publication": "The Wall Street Journal",
+      "author": "Kejal Vyas",
+      "headline": "Venezuela is desperately searching for 50,000 missing after earthquakes",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AUIYORL_kT86_dg37-bckww",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-28 22:00:32",
+      "pub_time": "2026-06-28 21:50:06",
+      "publication": "NPR",
+      "author": "Jude Joffe-Block",
+      "headline": "She posted about ICE. 5 months later, DHS agents told her to take her post down.",
+      "article_headline": "She posted about ICE. 5 months later, DHS agents told her to take her post down."
+    },
+    {
+      "link": "https://apple.news/AvtV4VP4ES3-at31oV0cSfg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-28 22:00:32",
+      "pub_time": "2026-06-28 21:50:34",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Inside NASA’s daring race to save a doomed space telescope from falling back to Earth",
+      "article_headline": "Inside NASA’s daring race to save a doomed space telescope from falling back to Earth"
+    },
+    {
+      "link": "https://apple.news/AUIYORL_kT86_dg37-bckww",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-28 22:00:32",
+      "pub_time": "2026-06-28 21:49:07",
+      "publication": "NPR",
+      "author": "Jude Joffe-Block",
+      "headline": "She posted about ICE. 5 months later, DHS agents told her to take her post down.",
+      "article_headline": "She posted about ICE. 5 months later, DHS agents told her to take her post down."
+    },
+    {
+      "link": "https://apple.news/AvtV4VP4ES3-at31oV0cSfg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-28 22:00:32",
+      "pub_time": "2026-06-28 21:49:34",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Inside NASA’s daring race to save a doomed space telescope from falling back to Earth",
+      "article_headline": "Inside NASA’s daring race to save a doomed space telescope from falling back to Earth"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 22:00:32",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "World Cup 2026, European soccer fans enjoy a brief fling with America’s air-conditioned culture",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AjUUwS-VBRduUCcXBX36UpA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-28 22:00:32",
+      "pub_time": "2026-06-28 06:03:46",
+      "publication": "HuffPost",
+      "author": "Jillian Wilson",
+      "headline": "Here's What You Should Know If You Use Your Hands To Clean Your Body In The Shower",
+      "article_headline": "Here's What You Should Know If You Use Your Hands To Clean Your Body In The Shower"
+    },
+    {
+      "link": "https://apple.news/Az6Jm9ixNRv-0NFw2BcoQLg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-28 22:00:32",
+      "pub_time": "2026-06-28 08:04:19",
+      "publication": "Money",
+      "author": "Marc Guberti",
+      "headline": "The Medicare Part B Penalty That Can Follow Retirees for Life",
+      "article_headline": "The Medicare Part B Penalty That Can Follow Retirees for Life"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-28 22:00:32",
+      "pub_time": "2026-06-27 22:04:47",
+      "publication": "",
+      "author": "Zoë Hecht",
+      "headline": "People Are Taking Daily Shots of Olive Oil for Their Health—Here’s What Doctors Say Actually Happens In Your Body",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-28 21:00:30",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A2-Rmr7jgSJOntBSE8aYolg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-28 21:00:30",
+      "pub_time": "2026-06-28 19:00:32",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Mark Hodge, and Jeremy Mikula",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/A2z1lH-DpTMSRFcd8gQnEpw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-28 21:00:30",
+      "pub_time": "2026-06-28 19:01:00",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "France reports around 1,000 additional deaths as extreme heat breaks European records",
+      "article_headline": "France reports around 1,000 additional deaths as extreme heat breaks European records"
+    },
+    {
+      "link": "https://apple.news/AxYBgOYPpQtKKfeBqvIZG0w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-28 21:00:30",
+      "pub_time": "2026-06-28 19:01:27",
+      "publication": "The Guardian",
+      "author": "Clavel Rangel and Tom Phillips",
+      "headline": "Mortuary in Caracas “overwhelmed” as Venezuela struggles to respond after earthquakes",
+      "article_headline": "Mortuary in Caracas “overwhelmed” as Venezuela struggles to respond after earthquakes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 21:00:30",
+      "pub_time": "2026-06-28 19:02:00",
+      "publication": "The Washington Post",
+      "author": "Steve Hendrix",
+      "headline": "King Charles reveals his personal tax bill. Spoiler alert: He’s very rich.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ANnHvrTl3S3mtdhfHhI44ZQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-28 21:00:30",
+      "pub_time": "",
+      "publication": "FOX Sports",
+      "author": "",
+      "headline": "World Cup 2026, Canada won its first-ever knockout-stage game with a last-minute goal",
+      "article_headline": "Canada won its first-ever knockout-stage game with a last-minute goal"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 21:00:30",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "He promised his clients their dream home. What they got was a never-ending nightmare., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AlxXvrcNUQqybaLEXUqg9VQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-28 21:00:30",
+      "pub_time": "",
+      "publication": "The little-known forces quietly killing the college degree",
+      "author": "",
+      "headline": "Is higher education still worth it?,  Play Now  24 min",
+      "article_headline": ""
+    }
+  ]
+}

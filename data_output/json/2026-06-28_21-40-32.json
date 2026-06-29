@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-28 21:40:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A2-Rmr7jgSJOntBSE8aYolg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-28 21:40:32",
+      "pub_time": "2026-06-28 21:02:34",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Mark Hodge, and Jeremy Mikula",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/Ag0yYZiejQGmEJrOCkmnHyg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-28 21:40:32",
+      "pub_time": "2026-06-28 21:03:02",
+      "publication": "Reuters",
+      "author": "Nandita Bose, Menna Alaaeldin, and Yomna Ehab",
+      "headline": "Iran and U.S. agree to halt attacks and renew talks, U.S. official says",
+      "article_headline": "Iran and U.S. agree to halt attacks and renew talks, U.S. official says"
+    },
+    {
+      "link": "https://apple.news/AxYBgOYPpQtKKfeBqvIZG0w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-28 21:40:32",
+      "pub_time": "2026-06-28 21:03:29",
+      "publication": "The Guardian",
+      "author": "Clavel Rangel and Tom Phillips",
+      "headline": "Mortuary in Caracas “overwhelmed” as Venezuela struggles to respond after earthquakes",
+      "article_headline": "Mortuary in Caracas “overwhelmed” as Venezuela struggles to respond after earthquakes"
+    },
+    {
+      "link": "https://apple.news/Ag0yYZiejQGmEJrOCkmnHyg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-28 21:40:32",
+      "pub_time": "2026-06-28 21:03:01",
+      "publication": "Reuters",
+      "author": "Nandita Bose, Menna Alaaeldin, and Yomna Ehab",
+      "headline": "Iran and U.S. agree to halt attacks and renew talks, U.S. official says",
+      "article_headline": "Iran and U.S. agree to halt attacks and renew talks, U.S. official says"
+    },
+    {
+      "link": "https://apple.news/AxYBgOYPpQtKKfeBqvIZG0w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-28 21:40:32",
+      "pub_time": "2026-06-28 21:03:28",
+      "publication": "The Guardian",
+      "author": "Clavel Rangel and Tom Phillips",
+      "headline": "Mortuary in Caracas “overwhelmed” as Venezuela struggles to respond after earthquakes",
+      "article_headline": "Mortuary in Caracas “overwhelmed” as Venezuela struggles to respond after earthquakes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 21:40:32",
+      "pub_time": "2026-06-28 21:02:56",
+      "publication": "The Washington Post",
+      "author": "Steve Hendrix",
+      "headline": "King Charles reveals his personal tax bill. Spoiler alert: He’s very rich.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 21:40:32",
+      "pub_time": "2026-06-28 21:02:01",
+      "publication": "The Washington Post",
+      "author": "Steve Hendrix",
+      "headline": "King Charles reveals his personal tax bill. Spoiler alert: He’s very rich.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

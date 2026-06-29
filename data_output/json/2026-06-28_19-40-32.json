@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-28 19:40:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A2-Rmr7jgSJOntBSE8aYolg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-28 19:40:32",
+      "pub_time": "2026-06-28 18:40:34",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Mark Hodge, and Jeremy Mikula",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/A2z1lH-DpTMSRFcd8gQnEpw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-28 19:40:32",
+      "pub_time": "2026-06-28 18:41:02",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "France reports around 1,000 additional deaths as extreme heat breaks European records",
+      "article_headline": "France reports around 1,000 additional deaths as extreme heat breaks European records"
+    },
+    {
+      "link": "https://apple.news/AxYBgOYPpQtKKfeBqvIZG0w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-28 19:40:32",
+      "pub_time": "2026-06-28 18:41:29",
+      "publication": "The Guardian",
+      "author": "Clavel Rangel and Tom Phillips",
+      "headline": "Mortuary in Caracas “overwhelmed” as Venezuela struggles to respond after earthquakes",
+      "article_headline": "Mortuary in Caracas “overwhelmed” as Venezuela struggles to respond after earthquakes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 19:40:32",
+      "pub_time": "2026-06-28 18:42:02",
+      "publication": "The Washington Post",
+      "author": "Steve Hendrix",
+      "headline": "King Charles reveals his personal tax bill. Spoiler alert: He’s very rich.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-28 19:40:32",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "He promised his clients their dream home. What they got was a never-ending nightmare., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A2HXnz6AqSmKZQK8JcnksFA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-28 19:40:32",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Khadijah Farrakhan, “first lady of Nation of Islam” as wife of famous pastor, dies at 90",
+      "article_headline": "Khadijah Farrakhan, “first lady of Nation of Islam” as wife of famous pastor, dies at 90"
+    },
+    {
+      "link": "https://apple.news/AlxXvrcNUQqybaLEXUqg9VQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-06-28 19:40:32",
+      "pub_time": "",
+      "publication": "The little-known forces quietly killing the college degree",
+      "author": "",
+      "headline": "Is higher education still worth it?,  Play Now  24 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AjUUwS-VBRduUCcXBX36UpA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-28 19:40:32",
+      "pub_time": "2026-06-28 06:43:54",
+      "publication": "HuffPost",
+      "author": "Jillian Wilson",
+      "headline": "Here's What You Should Know If You Use Your Hands To Clean Your Body In The Shower",
+      "article_headline": "Here's What You Should Know If You Use Your Hands To Clean Your Body In The Shower"
+    },
+    {
+      "link": "https://apple.news/Az6Jm9ixNRv-0NFw2BcoQLg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-28 19:40:32",
+      "pub_time": "2026-06-28 08:44:27",
+      "publication": "Money",
+      "author": "Marc Guberti",
+      "headline": "The Medicare Part B Penalty That Can Follow Retirees for Life",
+      "article_headline": "The Medicare Part B Penalty That Can Follow Retirees for Life"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-28 19:40:32",
+      "pub_time": "2026-06-27 19:44:55",
+      "publication": "",
+      "author": "Zoë Hecht",
+      "headline": "People Are Taking Daily Shots of Olive Oil for Their Health—Here’s What Doctors Say Actually Happens In Your Body",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AyjsEJAFsTcesoTV8vsxYQw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-28 19:40:32",
+      "pub_time": "2026-06-28 16:44:55",
+      "publication": "Autoblog",
+      "author": "Rex Sanchez",
+      "headline": "Chevy’s Biggest Production V8 Had One Weakness This Teardown Couldn’t Hide",
+      "article_headline": "Chevy’s Biggest Production V8 Had One Weakness This Teardown Couldn’t Hide"
+    }
+  ]
+}
