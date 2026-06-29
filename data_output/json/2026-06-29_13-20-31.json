@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-29 13:20:31",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AM9-X6V1JQbGNUOTPvGKx-Q?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-29 13:20:31",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Supreme Court expands presidential power but deals losses to Trump in other cases",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ARdOfmnRrSUSCfxTSvjnxOw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-29 13:20:31",
+      "pub_time": "2026-06-29 13:15:06",
+      "publication": "AccuWeather",
+      "author": "",
+      "headline": "Heat dome to bring 90- to 100-degree temperatures to 200 million in U.S. this week",
+      "article_headline": "Heat dome to bring 90- to 100-degree temperatures to 200 million in U.S. this week"
+    },
+    {
+      "link": "https://apple.news/Aabty17cXSwaJbrOh1R_zWw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-29 13:20:31",
+      "pub_time": "2026-06-29 13:15:33",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Mother and newborn baby rescued from earthquake rubble become symbols of hope in Venezuela",
+      "article_headline": "Mother and newborn baby rescued from earthquake rubble become symbols of hope in Venezuela"
+    },
+    {
+      "link": "https://apple.news/AoWJa03I3SCmPcPD7ZBWEEQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-29 13:20:31",
+      "pub_time": "2026-06-29 13:16:00",
+      "publication": "NBC News",
+      "author": "Sahil Kapur",
+      "headline": "Senate Ethics panel dismisses misconduct complaint against Ruben Gallego",
+      "article_headline": "Senate Ethics panel dismisses misconduct complaint against Ruben Gallego"
+    },
+    {
+      "link": "https://apple.news/AoWJa03I3SCmPcPD7ZBWEEQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-29 13:20:31",
+      "pub_time": "2026-06-29 13:15:33",
+      "publication": "NBC News",
+      "author": "Sahil Kapur",
+      "headline": "Senate Ethics panel dismisses misconduct complaint against Ruben Gallego",
+      "article_headline": "Senate Ethics panel dismisses misconduct complaint against Ruben Gallego"
+    },
+    {
+      "link": "https://apple.news/A6WjkCBtwQ42lom-bplyzBw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-29 13:20:31",
+      "pub_time": "",
+      "publication": "GMA",
+      "author": "",
+      "headline": "Former NFL star Chris Johnson reveals he has ALS",
+      "article_headline": "Former NFL star Chris Johnson reveals he has ALS"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-29 13:20:31",
+      "pub_time": "",
+      "publication": "TIME",
+      "author": "",
+      "headline": "This historic Southern town is getting swallowed by the sea",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ahhn82FCkT0uvs7lNo5HQ7w",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-29 13:20:31",
+      "pub_time": "2026-06-29 10:24:05",
+      "publication": "HuffPost",
+      "author": "Jamie Davis Smith",
+      "headline": "7 Items You Should Never, EVER Put In A TSA Bin At The Airport",
+      "article_headline": "7 Items You Should Never, EVER Put In A TSA Bin At The Airport"
+    },
+    {
+      "link": "https://apple.news/AXDFM91_vQHSzg1YTOB-hBg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-29 13:20:31",
+      "pub_time": "2026-06-29 07:24:39",
+      "publication": "BuzzFeed",
+      "author": "Ajani Bazile-Dutes",
+      "headline": "42 Brides And Grooms Who Forgot Everything They Knew About Human Decency",
+      "article_headline": "42 Brides And Grooms Who Forgot Everything They Knew About Human Decency"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-29 13:20:31",
+      "pub_time": "2026-06-28 14:25:06",
+      "publication": "",
+      "author": "Ashley Ziegler",
+      "headline": "I Tested the Nutrafol Women’s Hair Growth Supplement—Here Are My 3 Month Results + Review",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-29 13:20:31",
+      "pub_time": "2026-06-29 05:25:06",
+      "publication": "",
+      "author": "Olivia Young",
+      "headline": "A Former FBI Agent Shares the 1 Safety Gadget You Should Never Travel Solo Without—and It's on Sale",
+      "article_headline": ""
+    }
+  ]
+}
