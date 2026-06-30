@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-06-29 19:20:30",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AM9-X6V1JQbGNUOTPvGKx-Q?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-29 19:20:30",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Supreme Court expands presidential power but deals losses to Trump in other cases",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AfNQozOs6TvqQmyb0Mnx5Tg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-29 19:20:30",
+      "pub_time": "2026-06-29 18:48:15",
+      "publication": "The Washington Post",
+      "author": "Sarah Kaplan and Ben Noll",
+      "headline": "Severe heat, strong winds fuel raging wildfires in the West",
+      "article_headline": "Severe heat, strong winds fuel raging wildfires in the West"
+    },
+    {
+      "link": "https://apple.news/AfNQozOs6TvqQmyb0Mnx5Tg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-29 19:20:30",
+      "pub_time": "2026-06-29 18:47:47",
+      "publication": "The Washington Post",
+      "author": "Sarah Kaplan and Ben Noll",
+      "headline": "Severe heat, strong winds fuel raging wildfires in the West",
+      "article_headline": "Severe heat, strong winds fuel raging wildfires in the West"
+    },
+    {
+      "link": "https://apple.news/ACTc9__waSba1KMAgMzcGVA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-29 19:20:30",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "World Cup 2026, Paraguay advances to round of 16 in shock penalty-shootout win over Germany",
+      "article_headline": "Paraguay advances to round of 16 in shock penalty-shootout win over Germany"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-29 19:20:30",
+      "pub_time": "2026-06-29 18:48:43",
+      "publication": "Bloomberg Businessweek",
+      "author": "Brett Pulley and Jonnelle Marte",
+      "headline": "The “Southern squeeze” is gripping U.S. cities that were once known for affordability",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-29 19:20:30",
+      "pub_time": "2026-06-29 18:47:48",
+      "publication": "Bloomberg Businessweek",
+      "author": "Brett Pulley and Jonnelle Marte",
+      "headline": "The “Southern squeeze” is gripping U.S. cities that were once known for affordability",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-29 19:20:30",
+      "pub_time": "2026-06-29 14:22:57",
+      "publication": "The Athletic",
+      "author": "Ava Wallace",
+      "headline": "For Naomi Osaka’s latest Grand Slam fashion statement, Wimbledon white was no limit",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-06-29 18:20:29",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AM9-X6V1JQbGNUOTPvGKx-Q?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-29 18:20:29",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Supreme Court expands presidential power but deals losses to Trump in other cases",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AfNQozOs6TvqQmyb0Mnx5Tg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-29 18:20:29",
+      "pub_time": "2026-06-29 17:58:13",
+      "publication": "The Washington Post",
+      "author": "Sarah Kaplan and Ben Noll",
+      "headline": "Severe heat, strong winds fuel raging wildfires in the West",
+      "article_headline": "Severe heat, strong winds fuel raging wildfires in the West"
+    },
+    {
+      "link": "https://apple.news/AfNQozOs6TvqQmyb0Mnx5Tg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-29 18:20:29",
+      "pub_time": "2026-06-29 17:57:46",
+      "publication": "The Washington Post",
+      "author": "Sarah Kaplan and Ben Noll",
+      "headline": "Severe heat, strong winds fuel raging wildfires in the West",
+      "article_headline": "Severe heat, strong winds fuel raging wildfires in the West"
+    },
+    {
+      "link": "https://apple.news/AZyj656GLRzWNChfyh1N9qw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-29 18:20:29",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Another NBA player charged with rigging games for gamblers",
+      "article_headline": "Another NBA player charged with rigging games for gamblers"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-29 18:20:29",
+      "pub_time": "2026-06-29 17:58:41",
+      "publication": "Bloomberg Businessweek",
+      "author": "Brett Pulley and Jonnelle Marte",
+      "headline": "The “Southern squeeze” is gripping U.S. cities that were once known for affordability",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-29 18:20:29",
+      "pub_time": "2026-06-29 17:57:46",
+      "publication": "Bloomberg Businessweek",
+      "author": "Brett Pulley and Jonnelle Marte",
+      "headline": "The “Southern squeeze” is gripping U.S. cities that were once known for affordability",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AoOiBCcxiRs2svv6bKTeMtw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-29 18:20:29",
+      "pub_time": "2026-06-29 13:22:56",
+      "publication": "Us Weekly",
+      "author": "Paola Leva",
+      "headline": "Inside Jessica Simpson’s Romance With ‘Very Low-Key’ Boyfriend Tom Eisenhood (Exclusive)",
+      "article_headline": "Inside Jessica Simpson’s Romance With ‘Very Low-Key’ Boyfriend Tom Eisenhood (Exclusive)"
+    }
+  ]
+}
