@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-06-30 05:00:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AuZpnrurTT6W-gJXuhhWQ0Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-30 05:00:31",
+      "pub_time": "2026-06-30 01:00:33",
+      "publication": "NPR",
+      "author": "John Otis",
+      "headline": "Venezuela’s deadly quakes put its U.S.-backed government to the test",
+      "article_headline": "Venezuela’s deadly quakes put its U.S.-backed government to the test"
+    },
+    {
+      "link": "https://apple.news/AaZOLEBrzSYSnx8NDf_hQig",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-30 05:00:31",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "House passes children’s online-safety package, drawing warnings from digital rights groups",
+      "article_headline": "Kids online safety package clears House, drawing warnings from digital rights and tech groups"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 05:00:31",
+      "pub_time": "2026-06-30 01:01:33",
+      "publication": "The Christian Science Monitor",
+      "author": "Scott Peterson",
+      "headline": "In flare-up over Strait of Hormuz, a hint at the U.S.-Iran roller coaster to come",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AMavxjOE_QFe5FzffxpTM0g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-30 05:00:31",
+      "pub_time": "2026-06-30 01:01:33",
+      "publication": "The Guardian",
+      "author": "Melody Schreiber",
+      "headline": "The military is racing to vaccinate new recruits before flu shots expire",
+      "article_headline": "The military is racing to vaccinate new recruits before flu shots expire"
+    },
+    {
+      "link": "https://apple.news/APugd3m5mRICmhgetoqTGaw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-30 05:00:31",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Morocco inflict World Cup heartbreak on the Netherlands after chaotic penalty shootout",
+      "article_headline": "Morocco inflict World Cup heartbreak on the Netherlands after chaotic penalty shootout"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 05:00:31",
+      "pub_time": "2026-06-30 01:02:34",
+      "publication": "Bloomberg Businessweek",
+      "author": "Brett Pulley and Jonnelle Marte",
+      "headline": "The “Southern squeeze” is gripping U.S. cities that were once known for affordability",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 05:00:31",
+      "pub_time": "2026-06-29 12:02:49",
+      "publication": "Outside",
+      "author": "Megan Michelson",
+      "headline": "She Told Police She Was Raped by a Ski Patroller. The Case Was Dropped. Then She Posted a Final Message to Her Climbing Community.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

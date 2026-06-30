@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-30 00:20:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AuZpnrurTT6W-gJXuhhWQ0Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-30 00:20:32",
+      "pub_time": "2026-06-30 00:06:34",
+      "publication": "NPR",
+      "author": "John Otis",
+      "headline": "Venezuela’s deadly quakes put its U.S.-backed government to the test",
+      "article_headline": "Venezuela’s deadly quakes put its U.S.-backed government to the test"
+    },
+    {
+      "link": "https://apple.news/AaZOLEBrzSYSnx8NDf_hQig",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-30 00:20:32",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "House passes children’s online-safety package, drawing warnings from digital rights groups",
+      "article_headline": "House passes children’s online-safety package, drawing warnings from digital rights groups"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 00:20:32",
+      "pub_time": "2026-06-30 00:06:34",
+      "publication": "The Christian Science Monitor",
+      "author": "Scott Peterson",
+      "headline": "In flare-up over Strait of Hormuz, a hint at the U.S.-Iran roller coaster to come",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AMavxjOE_QFe5FzffxpTM0g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-30 00:20:32",
+      "pub_time": "2026-06-30 00:06:34",
+      "publication": "The Guardian",
+      "author": "Melody Schreiber",
+      "headline": "The military is racing to vaccinate new recruits before flu shots expire",
+      "article_headline": "The military is racing to vaccinate new recruits before flu shots expire"
+    },
+    {
+      "link": "https://apple.news/APugd3m5mRICmhgetoqTGaw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-30 00:20:32",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Morocco inflict World Cup heartbreak on the Netherlands after chaotic penalty shootout",
+      "article_headline": "Morocco inflict World Cup heartbreak on the Netherlands after chaotic penalty shootout"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 00:20:32",
+      "pub_time": "2026-06-30 00:06:36",
+      "publication": "Bloomberg Businessweek",
+      "author": "Brett Pulley and Jonnelle Marte",
+      "headline": "The “Southern squeeze” is gripping U.S. cities that were once known for affordability",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AvD-W7e6hSnyIQEw-4KQU8Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-30 00:20:32",
+      "pub_time": "2026-06-29 15:22:50",
+      "publication": "BuzzFeed",
+      "author": "Michaela Bramwell and Alexa Lisitza",
+      "headline": "The Internet Is Having A Field Day Over Donald Trump's Great American State Fair. Here Are 15 Of The Best Tweets",
+      "article_headline": "The Internet Is Having A Field Day Over Donald Trump's Great American State Fair. Here Are 15 Of The Best Tweets"
+    },
+    {
+      "link": "https://apple.news/AfLqDcgkiTzSxjLbSlEJBkA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-30 00:20:32",
+      "pub_time": "2026-06-29 14:23:38",
+      "publication": "The Guardian",
+      "author": "Edward Helmore",
+      "headline": "US man dies while discarding body of girlfriend he fatally strangled, officials say",
+      "article_headline": "US man dies while discarding body of girlfriend he fatally strangled, officials say"
+    },
+    {
+      "link": "https://apple.news/AD8AILNhqQ5m4IbqnMoZCeg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-30 00:20:32",
+      "pub_time": "2026-06-29 15:24:06",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Firefighters thought they were rescuing a drowning dog. It wasn't a dog.",
+      "article_headline": "Firefighters thought they were rescuing a drowning dog. It wasn't a dog."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-30 00:20:32",
+      "pub_time": "2026-06-29 21:24:40",
+      "publication": "",
+      "author": "Irin Carmon",
+      "headline": "The Today Show Goes Dark",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A5UXnkh5WSm-oiHezm_rRAQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-30 00:20:32",
+      "pub_time": "2026-06-29 15:24:40",
+      "publication": "House Beautiful",
+      "author": "Jessica Taverner",
+      "headline": "Florists Say the “1/3 Vase Rule” Instantly Makes Your Supermarket Flowers Look Expensive",
+      "article_headline": "Florists Say the “1/3 Vase Rule” Instantly Makes Your Supermarket Flowers Look Expensive"
+    }
+  ]
+}

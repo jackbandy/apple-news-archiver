@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-30 05:40:29",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A-2C6yYhsTHu4ObJqmVI1hw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-30 05:40:29",
+      "pub_time": "2026-06-30 05:19:31",
+      "publication": "The Washington Post",
+      "author": "Michael Birnbaum and Evan Halper",
+      "headline": "Iran’s leverage over Strait of Hormuz snarls Trump’s push for a deal",
+      "article_headline": "Iran’s leverage over Strait of Hormuz snarls Trump’s push for a deal"
+    },
+    {
+      "link": "https://apple.news/AbOLSyj4KT56A0ScBGFzKSg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-30 05:40:29",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Speaker Johnson says housing bill will become law, with or without Trump",
+      "article_headline": "Speaker Johnson says housing bill will become law, with or without Trump"
+    },
+    {
+      "link": "https://apple.news/AuZpnrurTT6W-gJXuhhWQ0Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-30 05:40:29",
+      "pub_time": "2026-06-30 05:18:31",
+      "publication": "NPR",
+      "author": "John Otis",
+      "headline": "Venezuela’s deadly quakes put its U.S.-backed government to the test",
+      "article_headline": "Venezuela’s deadly quakes put its U.S.-backed government to the test"
+    },
+    {
+      "link": "https://apple.news/AMavxjOE_QFe5FzffxpTM0g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-30 05:40:29",
+      "pub_time": "2026-06-30 05:18:59",
+      "publication": "The Guardian",
+      "author": "Melody Schreiber",
+      "headline": "The military is racing to vaccinate new recruits before flu shots expire",
+      "article_headline": "The military is racing to vaccinate new recruits before flu shots expire"
+    },
+    {
+      "link": "https://apple.news/AuZpnrurTT6W-gJXuhhWQ0Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-30 05:40:29",
+      "pub_time": "2026-06-30 05:18:33",
+      "publication": "NPR",
+      "author": "John Otis",
+      "headline": "Venezuela’s deadly quakes put its U.S.-backed government to the test",
+      "article_headline": "Venezuela’s deadly quakes put its U.S.-backed government to the test"
+    },
+    {
+      "link": "https://apple.news/AMavxjOE_QFe5FzffxpTM0g",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-30 05:40:29",
+      "pub_time": "2026-06-30 05:19:00",
+      "publication": "The Guardian",
+      "author": "Melody Schreiber",
+      "headline": "The military is racing to vaccinate new recruits before flu shots expire",
+      "article_headline": "The military is racing to vaccinate new recruits before flu shots expire"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 05:40:29",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Serena Williams’s Wimbledon comeback: how elite athletes in their 40s return to competition",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-30 05:40:29",
+      "pub_time": "2026-06-29 14:44:05",
+      "publication": "",
+      "author": "Jessica Taverner",
+      "headline": "Florists Say the “1/3 Vase Rule” Instantly Makes Your Supermarket Flowers Look Expensive",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AQ0gzA9B1Rj2RPBflYDfmuw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-30 05:40:29",
+      "pub_time": "2026-06-30 01:44:22",
+      "publication": "BuzzFeed",
+      "author": "Angelica Martinez",
+      "headline": "On This Episode Of \"Adult Things Nobody Taught Me,\" Here Are 27 Everyday, Unexpected Things That Can Kill You",
+      "article_headline": "On This Episode Of \"Adult Things Nobody Taught Me,\" Here Are 27 Everyday, Unexpected Things That Can Kill You"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-30 05:40:29",
+      "pub_time": "2026-06-29 21:44:49",
+      "publication": "",
+      "author": "Irin Carmon",
+      "headline": "The Today Show Goes Dark",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-30 05:40:29",
+      "pub_time": "2026-06-29 13:44:49",
+      "publication": "",
+      "author": "Michelle Falci",
+      "headline": "Experts Say This Anti-Inflammatory Food Can Also Improve Your Gut Health",
+      "article_headline": ""
+    }
+  ]
+}
