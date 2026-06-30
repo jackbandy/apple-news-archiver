@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-30 09:00:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A5T4S7GqCQ8Wm3kGesZMu-w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-30 09:00:32",
+      "pub_time": "",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "What to know about birthright citizenship ahead of the Supreme Court’s ruling",
+      "article_headline": "What to know about birthright citizenship ahead of the Supreme Court’s ruling"
+    },
+    {
+      "link": "https://apple.news/A8vXtFERVRhyQ3aRMC2VCjA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-30 09:00:32",
+      "pub_time": "2026-06-30 08:52:02",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. envoys arrive in Qatar for meetings on Iran, with tensions high over Hormuz",
+      "article_headline": "U.S. envoys arrive in Qatar for meetings on Iran, with tensions high over Hormuz"
+    },
+    {
+      "link": "https://apple.news/A8vXtFERVRhyQ3aRMC2VCjA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-30 09:00:32",
+      "pub_time": "2026-06-30 08:51:40",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. envoys arrive in Qatar for meetings on Iran, with tensions high over Hormuz",
+      "article_headline": "U.S. envoys arrive in Qatar for meetings on Iran, with tensions high over Hormuz"
+    },
+    {
+      "link": "https://apple.news/A_3KXOFjSQk2LprhqR1Tvcg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-30 09:00:32",
+      "pub_time": "2026-06-30 08:52:07",
+      "publication": "Video",
+      "author": "Kaia Hubbard and Caitlin Yilek",
+      "headline": "CBS News, Democratic primaries in Colorado mark latest fight over party’s direction",
+      "article_headline": "Democratic primaries in Colorado mark latest fight over party’s direction"
+    },
+    {
+      "link": "https://apple.news/A4kPyAZ2PSMmbDaNjIv1A-A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-30 09:00:32",
+      "pub_time": "2026-06-30 08:52:34",
+      "publication": "KFF Health News",
+      "author": "Noam N. Levey",
+      "headline": "These church members disagree on politics. Together they’re wiping out medical debt.",
+      "article_headline": "These church members disagree on politics. Together they’re wiping out medical debt."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 09:00:32",
+      "pub_time": "2026-06-30 08:53:01",
+      "publication": "Philadelphia Inquirer",
+      "author": "Dana Munro and Maggie Prosser",
+      "headline": "How Philly’s historical reenactors are preparing for their Super Bowl: The nation’s 250th",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A4kPyAZ2PSMmbDaNjIv1A-A",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-30 09:00:32",
+      "pub_time": "2026-06-30 08:52:07",
+      "publication": "KFF Health News",
+      "author": "Noam N. Levey",
+      "headline": "These church members disagree on politics. Together they’re wiping out medical debt.",
+      "article_headline": "These church members disagree on politics. Together they’re wiping out medical debt."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "run_time": "2026-06-30 08:00:30",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/A5T4S7GqCQ8Wm3kGesZMu-w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-30 08:00:30",
+      "pub_time": "",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "What to know about birthright citizenship ahead of the Supreme Court’s ruling",
+      "article_headline": "What to know about birthright citizenship ahead of the Supreme Court’s ruling"
+    },
+    {
+      "link": "https://apple.news/A-2C6yYhsTHu4ObJqmVI1hw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-30 08:00:30",
+      "pub_time": "2026-06-30 07:45:00",
+      "publication": "The Washington Post",
+      "author": "Michael Birnbaum and Evan Halper",
+      "headline": "Iran’s leverage over Strait of Hormuz snarls Trump’s push for a deal",
+      "article_headline": "Iran’s leverage over Strait of Hormuz snarls Trump’s push for a deal"
+    },
+    {
+      "link": "https://apple.news/AbOLSyj4KT56A0ScBGFzKSg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-30 08:00:30",
+      "pub_time": "2026-06-30 07:45:28",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Speaker Johnson says housing bill will become law, with or without Trump",
+      "article_headline": "Speaker Johnson says housing bill will become law, with or without Trump"
+    },
+    {
+      "link": "https://apple.news/A-2C6yYhsTHu4ObJqmVI1hw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-30 08:00:30",
+      "pub_time": "2026-06-30 07:45:01",
+      "publication": "The Washington Post",
+      "author": "Michael Birnbaum and Evan Halper",
+      "headline": "Iran’s leverage over Strait of Hormuz snarls Trump’s push for a deal",
+      "article_headline": "Iran’s leverage over Strait of Hormuz snarls Trump’s push for a deal"
+    },
+    {
+      "link": "https://apple.news/AbOLSyj4KT56A0ScBGFzKSg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-30 08:00:30",
+      "pub_time": "2026-06-30 07:45:28",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Speaker Johnson says housing bill will become law, with or without Trump",
+      "article_headline": "Speaker Johnson says housing bill will become law, with or without Trump"
+    },
+    {
+      "link": "https://apple.news/AQqNE5GEyShiFfDK4hGyVNA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-30 08:00:30",
+      "pub_time": "2026-06-30 07:44:56",
+      "publication": "Reuters",
+      "author": "Daria Smetanko and Anna Voitenko",
+      "headline": "Bird nests made of fiber-optic cables show war’s impact on Ukraine",
+      "article_headline": "Bird nests made of fiber-optic cables show war’s impact on Ukraine"
+    },
+    {
+      "link": "https://apple.news/AQqNE5GEyShiFfDK4hGyVNA",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-06-30 08:00:30",
+      "pub_time": "2026-06-30 07:44:29",
+      "publication": "Reuters",
+      "author": "Daria Smetanko and Anna Voitenko",
+      "headline": "Bird nests made of fiber-optic cables show war’s impact on Ukraine",
+      "article_headline": "Bird nests made of fiber-optic cables show war’s impact on Ukraine"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-06-30 08:00:30",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The worst airport in America, Ellen Cushing",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-06-30 08:00:30",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The biggest tell that something was written by AI, Eve Fairbanks",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-06-30 08:00:30",
+      "pub_time": "",
+      "publication": "Men’s Health",
+      "author": "",
+      "headline": "Warning signs of prostate trouble — and what can help, Kevin Dupzyk",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

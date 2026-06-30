@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-06-30 07:20:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A-2C6yYhsTHu4ObJqmVI1hw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-30 07:20:31",
+      "pub_time": "2026-06-30 06:35:33",
+      "publication": "The Washington Post",
+      "author": "Michael Birnbaum and Evan Halper",
+      "headline": "Iran’s leverage over Strait of Hormuz snarls Trump’s push for a deal",
+      "article_headline": "Iran’s leverage over Strait of Hormuz snarls Trump’s push for a deal"
+    },
+    {
+      "link": "https://apple.news/AbOLSyj4KT56A0ScBGFzKSg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-30 07:20:31",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Speaker Johnson says housing bill will become law, with or without Trump",
+      "article_headline": "Speaker Johnson says housing bill will become law, with or without Trump"
+    },
+    {
+      "link": "https://apple.news/A5T4S7GqCQ8Wm3kGesZMu-w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-30 07:20:31",
+      "pub_time": "2026-06-30 06:35:34",
+      "publication": "ABC News",
+      "author": "Devin Dwyer",
+      "headline": "What to know about birthright citizenship ahead of the Supreme Court’s ruling",
+      "article_headline": "What to know about birthright citizenship ahead of the Supreme Court’s ruling"
+    },
+    {
+      "link": "https://apple.news/AQqNE5GEyShiFfDK4hGyVNA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-30 07:20:31",
+      "pub_time": "2026-06-30 06:36:01",
+      "publication": "Reuters",
+      "author": "Daria Smetanko and Anna Voitenko",
+      "headline": "Bird nests made of fiber-optic cables show war’s impact on Ukraine",
+      "article_headline": "Bird nests made of fiber-optic cables show war’s impact on Ukraine"
+    },
+    {
+      "link": "https://apple.news/A5T4S7GqCQ8Wm3kGesZMu-w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-30 07:20:31",
+      "pub_time": "2026-06-30 06:35:34",
+      "publication": "ABC News",
+      "author": "Devin Dwyer",
+      "headline": "What to know about birthright citizenship ahead of the Supreme Court’s ruling",
+      "article_headline": "What to know about birthright citizenship ahead of the Supreme Court’s ruling"
+    },
+    {
+      "link": "https://apple.news/AQqNE5GEyShiFfDK4hGyVNA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-30 07:20:31",
+      "pub_time": "2026-06-30 06:36:02",
+      "publication": "Reuters",
+      "author": "Daria Smetanko and Anna Voitenko",
+      "headline": "Bird nests made of fiber-optic cables show war’s impact on Ukraine",
+      "article_headline": "Bird nests made of fiber-optic cables show war’s impact on Ukraine"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 07:20:31",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Serena Williams’s Wimbledon comeback: how elite athletes in their 40s return to competition",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

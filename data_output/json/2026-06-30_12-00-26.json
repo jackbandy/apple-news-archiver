@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-06-30 12:00:26",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AeCWTbbK-RDe8NqZ0kT1C1g?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-30 12:00:26",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Supreme Court upholds birthright citizenship but sides with GOP in 2 high-profile cases",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/APHVtO_phQSKhbPBKjL9ADw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-30 12:00:26",
+      "pub_time": "2026-06-30 11:55:01",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon and Summer Said",
+      "headline": "Iran’s diverging priorities are jeopardizing U.S. peace talks",
+      "article_headline": "Iran’s diverging priorities are jeopardizing U.S. peace talks"
+    },
+    {
+      "link": "https://apple.news/AmqhSy7USQQ6yx-bLZls4rQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-30 12:00:26",
+      "pub_time": "2026-06-30 11:55:28",
+      "publication": "AccuWeather",
+      "author": "",
+      "headline": "Fourth of July week furnace: Dangerous heat dome for 250 million people",
+      "article_headline": "Fourth of July week furnace: Dangerous heat dome for 250 million people"
+    },
+    {
+      "link": "https://apple.news/AdXZ_8ndRSKOyCZs9OCuo8w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-30 12:00:26",
+      "pub_time": "2026-06-30 11:55:56",
+      "publication": "NOTUS",
+      "author": "Jade Lozada",
+      "headline": "New Jersey Rep. Tom Kean Jr. says depression caused his monthslong House absence",
+      "article_headline": "New Jersey Rep. Tom Kean Jr. says depression caused his monthslong House absence"
+    },
+    {
+      "link": "https://apple.news/AdXZ_8ndRSKOyCZs9OCuo8w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-30 12:00:26",
+      "pub_time": "2026-06-30 11:55:29",
+      "publication": "NOTUS",
+      "author": "Jade Lozada",
+      "headline": "New Jersey Rep. Tom Kean Jr. says depression caused his monthslong House absence",
+      "article_headline": "New Jersey Rep. Tom Kean Jr. says depression caused his monthslong House absence"
+    },
+    {
+      "link": "https://apple.news/Af8U8Bh9iQhqRfjjgtAssEA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-06-30 12:00:26",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "LeBron James informs Lakers he plans to play elsewhere next season",
+      "article_headline": "LeBron James informs Lakers he plans to play elsewhere in 2026-27"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 12:00:26",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The new (and slightly smelly) center of the AI boom",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AgKDW4tbERBmepkBVL16lFw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-30 12:00:26",
+      "pub_time": "2026-06-29 16:04:02",
+      "publication": "Reader’s Digest",
+      "author": "Mariah Thomas",
+      "headline": "Found a Name Brand at TJ Maxx? This Secret Code on the Tag Reveals What You've Actually Been Buying",
+      "article_headline": "Found a Name Brand at TJ Maxx? This Secret Code on the Tag Reveals What You've Actually Been Buying"
+    },
+    {
+      "link": "https://apple.news/AQUTM2cExRHiF7PTKRwHR5Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-30 12:00:26",
+      "pub_time": "2026-06-30 11:36:34",
+      "publication": "HuffPost",
+      "author": "Caroline Bologna",
+      "headline": "People Have No Idea What CVS Stands For — But You're About To Find Out",
+      "article_headline": "People Have No Idea What CVS Stands For — But You're About To Find Out"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-30 12:00:26",
+      "pub_time": "2026-06-30 09:05:01",
+      "publication": "",
+      "author": "Christina Manian, RDN",
+      "headline": "Here’s What Happens When You Eat a Banana Every Day, According to Registered Dietitians",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AL2xPcydXTP2rspOYMMQBXw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-30 12:00:26",
+      "pub_time": "2026-06-30 08:05:01",
+      "publication": "BuzzFeed",
+      "author": "Jake Farrington",
+      "headline": "People Are Sharing The Subtle Signs That Someone Is Actually A Bad Person Underneath A Nice Exterior",
+      "article_headline": "People Are Sharing The Subtle Signs That Someone Is Actually A Bad Person Underneath A Nice Exterior"
+    }
+  ]
+}
