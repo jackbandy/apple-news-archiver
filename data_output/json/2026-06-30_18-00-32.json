@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-06-30 18:00:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AeCWTbbK-RDe8NqZ0kT1C1g?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-30 18:00:32",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Supreme Court upholds birthright citizenship but sides with GOP in 2 high-profile cases",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AL-AiVyZfQ92z_pGD1YnJxw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-30 18:00:32",
+      "pub_time": "2026-06-30 17:25:07",
+      "publication": "Fox News",
+      "author": "Adam Pack",
+      "headline": "House conservatives derail GOP agenda in showdown over SAVE America Act",
+      "article_headline": "House conservatives derail GOP agenda in showdown over SAVE America Act"
+    },
+    {
+      "link": "https://apple.news/A3vdKfVD7S7ed_-7LE2_JNw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-30 18:00:32",
+      "pub_time": "2026-06-30 17:25:34",
+      "publication": "NPR",
+      "author": "Sergio Martínez-Beltrán",
+      "headline": "Venezuelans deported from the U.S. were killed hours later in powerful quakes",
+      "article_headline": "Venezuelans deported from the U.S. were killed hours later in powerful quakes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 18:00:32",
+      "pub_time": "2026-06-30 17:26:02",
+      "publication": "The Wall Street Journal",
+      "author": "Miriam Gottfried",
+      "headline": "The U.S. added 1,200 new millionaires a day last year",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 18:00:32",
+      "pub_time": "2026-06-30 17:24:07",
+      "publication": "The Wall Street Journal",
+      "author": "Miriam Gottfried",
+      "headline": "The U.S. added 1,200 new millionaires a day last year",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A4bbHun7ZT4CMEC5q5fZ8Sw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-30 18:00:32",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Erling Haaland strikes late as Norway defeat Ivory Coast. But can they beat Brazil?",
+      "article_headline": "Erling Haaland strikes late as Norway defeat Ivory Coast. But can they beat Brazil?"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 18:00:32",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "It’s the fourth leading cancer type for women. This vaccine could change that.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AVE_LoYUASemI4lEsGh75tg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-30 18:00:32",
+      "pub_time": "2026-06-30 15:03:15",
+      "publication": "Delish",
+      "author": "Amanda Mactas",
+      "headline": "Most Store-Bought Ice Cream Isn't Technically Ice Cream—These Brands Make The Real Thing",
+      "article_headline": "Most Store-Bought Ice Cream Isn't Technically Ice Cream—These Brands Make The Real Thing"
+    },
+    {
+      "link": "https://apple.news/AFvh3lJ_QSRim_Bv__FxfVQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-30 18:00:32",
+      "pub_time": "2026-06-30 11:03:42",
+      "publication": "BuzzFeed",
+      "author": "Liz Richardson",
+      "headline": "People Who Were Stuck In Comas Are Sharing What It Was Actually Like, And I Truly Have No Words",
+      "article_headline": "People Who Were Stuck In Comas Are Sharing What It Was Actually Like, And I Truly Have No Words"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-30 18:00:32",
+      "pub_time": "2026-06-30 11:04:16",
+      "publication": "",
+      "author": "Susan Lahey",
+      "headline": "This Cheap, Tiny Device May Reverse Memory Loss—And Even Prevent Alzheimer’s, Scientists Say",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AGBrDDJvdRAeteJfW1WPEuw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-30 18:00:32",
+      "pub_time": "2026-06-30 12:04:16",
+      "publication": "HuffPost",
+      "author": "Rosi Golan",
+      "headline": "My Husband Died Abroad. As I Boarded The Plane Home, A Flight Attendant's Innocent Comment Broke Me.",
+      "article_headline": "My Husband Died Abroad. As I Boarded The Plane Home, A Flight Attendant's Innocent Comment Broke Me."
+    }
+  ]
+}

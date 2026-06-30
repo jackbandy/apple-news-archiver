@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-06-30 16:40:28",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AeCWTbbK-RDe8NqZ0kT1C1g?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-30 16:40:28",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Supreme Court upholds birthright citizenship but sides with GOP in 2 high-profile cases",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AL-AiVyZfQ92z_pGD1YnJxw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-30 16:40:28",
+      "pub_time": "2026-06-30 16:36:02",
+      "publication": "Fox News",
+      "author": "Adam Pack",
+      "headline": "House conservatives derail GOP agenda in showdown over SAVE America Act",
+      "article_headline": "House conservatives derail GOP agenda in showdown over SAVE America Act"
+    },
+    {
+      "link": "https://apple.news/A3vdKfVD7S7ed_-7LE2_JNw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-30 16:40:28",
+      "pub_time": "2026-06-30 16:36:29",
+      "publication": "NPR",
+      "author": "Sergio Martínez-Beltrán",
+      "headline": "Venezuelans deported from the U.S. were killed hours later in powerful quakes",
+      "article_headline": "Venezuelans deported from the U.S. were killed hours later in powerful quakes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 16:40:28",
+      "pub_time": "2026-06-30 16:36:56",
+      "publication": "The Wall Street Journal",
+      "author": "Miriam Gottfried",
+      "headline": "The U.S. added 1,200 new millionaires a day last year",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 16:40:28",
+      "pub_time": "2026-06-30 16:35:02",
+      "publication": "The Wall Street Journal",
+      "author": "Miriam Gottfried",
+      "headline": "The U.S. added 1,200 new millionaires a day last year",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AjCKlW0ugQgKjWJWM53f3Rg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-30 16:40:28",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "LeBron James will play next season — just not with the Lakers",
+      "article_headline": "LeBron James will play next season — just not with the Lakers"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 16:40:28",
+      "pub_time": "2026-06-30 16:35:30",
+      "publication": "National Geographic",
+      "author": "Alexandra Frost",
+      "headline": "It’s the fourth leading cancer type for women. This vaccine could change that.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AGBrDDJvdRAeteJfW1WPEuw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-30 16:40:28",
+      "pub_time": "2026-06-30 11:43:06",
+      "publication": "HuffPost",
+      "author": "Rosi Golan",
+      "headline": "My Husband Died Abroad. As I Boarded The Plane Home, A Flight Attendant's Innocent Comment Broke Me.",
+      "article_headline": "My Husband Died Abroad. As I Boarded The Plane Home, A Flight Attendant's Innocent Comment Broke Me."
+    },
+    {
+      "link": "https://apple.news/AL2xPcydXTP2rspOYMMQBXw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-30 16:40:28",
+      "pub_time": "2026-06-30 14:43:33",
+      "publication": "BuzzFeed",
+      "author": "Jake Farrington",
+      "headline": "People Are Sharing The Subtle Signs That Someone Is Actually A Bad Person Underneath A Nice Exterior",
+      "article_headline": "People Are Sharing The Subtle Signs That Someone Is Actually A Bad Person Underneath A Nice Exterior"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-30 16:40:28",
+      "pub_time": "2026-06-30 09:44:06",
+      "publication": "",
+      "author": "Christina Manian, RDN",
+      "headline": "Here’s What Happens When You Eat a Banana Every Day, According to Registered Dietitians",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A28Qw8PBgQq2JMDoEQVPccw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-30 16:40:28",
+      "pub_time": "2026-06-30 15:44:06",
+      "publication": "ABC News",
+      "author": "Meredith Deliso",
+      "headline": "USPS worker fatally shot while delivering mail on rural North Carolina route",
+      "article_headline": "USPS worker fatally shot while delivering mail on rural North Carolina route"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-06-30 15:40:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AeCWTbbK-RDe8NqZ0kT1C1g?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-30 15:40:32",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, Supreme Court upholds birthright citizenship but sides with GOP in 2 high-profile cases",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AL-AiVyZfQ92z_pGD1YnJxw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-30 15:40:32",
+      "pub_time": "2026-06-30 14:55:06",
+      "publication": "Fox News",
+      "author": "Adam Pack",
+      "headline": "House conservatives derail GOP agenda in showdown over SAVE America Act",
+      "article_headline": "House conservatives derail GOP agenda in showdown over SAVE America Act"
+    },
+    {
+      "link": "https://apple.news/A3vdKfVD7S7ed_-7LE2_JNw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-30 15:40:32",
+      "pub_time": "2026-06-30 14:55:34",
+      "publication": "NPR",
+      "author": "Sergio Martínez-Beltrán",
+      "headline": "Venezuelans deported from the U.S. were killed hours later in powerful quakes",
+      "article_headline": "Venezuelans deported from the U.S. were killed hours later in powerful quakes"
+    },
+    {
+      "link": "https://apple.news/AL-AiVyZfQ92z_pGD1YnJxw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-30 15:40:32",
+      "pub_time": "2026-06-30 14:55:12",
+      "publication": "Fox News",
+      "author": "Adam Pack",
+      "headline": "House conservatives derail GOP agenda in showdown over SAVE America Act",
+      "article_headline": "House conservatives derail GOP agenda in showdown over SAVE America Act"
+    },
+    {
+      "link": "https://apple.news/A3vdKfVD7S7ed_-7LE2_JNw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-06-30 15:40:32",
+      "pub_time": "2026-06-30 14:55:40",
+      "publication": "NPR",
+      "author": "Sergio Martínez-Beltrán",
+      "headline": "Venezuelans deported from the U.S. were killed hours later in powerful quakes",
+      "article_headline": "Venezuelans deported from the U.S. were killed hours later in powerful quakes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 15:40:32",
+      "pub_time": "",
+      "publication": "People",
+      "author": "",
+      "headline": "‘Indiana Jones’ star Michael Byrne dies at 82",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 15:40:32",
+      "pub_time": "2026-06-30 14:55:18",
+      "publication": "National Geographic",
+      "author": "Alexandra Frost",
+      "headline": "It’s the fourth leading cancer type for women. This vaccine could change that.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AhC7robSqTxiQtcwbQn9oow",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-06-30 15:40:32",
+      "pub_time": "2026-06-30 09:43:53",
+      "publication": "BuzzFeed",
+      "author": "Raven Ishak",
+      "headline": "People Are Revealing The One American City They Will Never Visit Again, And These Places Sound Awful",
+      "article_headline": "People Are Revealing The One American City They Will Never Visit Again, And These Places Sound Awful"
+    },
+    {
+      "link": "https://apple.news/AgKDW4tbERBmepkBVL16lFw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-06-30 15:40:32",
+      "pub_time": "2026-06-29 16:44:21",
+      "publication": "Reader’s Digest",
+      "author": "Mariah Thomas",
+      "headline": "Found a Name Brand at TJ Maxx? This Secret Code on the Tag Reveals What You've Actually Been Buying",
+      "article_headline": "Found a Name Brand at TJ Maxx? This Secret Code on the Tag Reveals What You've Actually Been Buying"
+    },
+    {
+      "link": "https://apple.news/AgKDW4tbERBmepkBVL16lFw",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-06-30 15:40:32",
+      "pub_time": "2026-06-29 15:44:54",
+      "publication": "Reader’s Digest",
+      "author": "Mariah Thomas",
+      "headline": "Found a Name Brand at TJ Maxx? This Secret Code on the Tag Reveals What You've Actually Been Buying",
+      "article_headline": "Found a Name Brand at TJ Maxx? This Secret Code on the Tag Reveals What You've Actually Been Buying"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-06-30 15:40:32",
+      "pub_time": "2026-06-30 09:45:21",
+      "publication": "",
+      "author": "Christina Manian, RDN",
+      "headline": "Here’s What Happens When You Eat a Banana Every Day, According to Registered Dietitians",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
