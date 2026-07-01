@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-07-01 15:20:34",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AMEftPDB8T8CNBwIvhfqovg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-01 15:20:34",
+      "pub_time": "2026-07-01 15:11:35",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "From Kansas to New York, historic heat wave bakes U.S. ahead of July 4 holiday, MORE COVERAGE",
+      "article_headline": "From Kansas to New York, historic heat wave bakes U.S. ahead of July 4 holiday"
+    },
+    {
+      "link": "https://apple.news/AxPpr2ME2QBuaA-4KNxDdiA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-01 15:20:34",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes",
+      "article_headline": "Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes"
+    },
+    {
+      "link": "https://apple.news/AFwnMjzbPS8KVmDYh3LTAuA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-01 15:20:34",
+      "pub_time": "2026-07-01 15:12:35",
+      "publication": "ABC News",
+      "author": "Emily Shapiro",
+      "headline": "Nearly 50,000 unaccounted for in Venezuela as earthquake death toll climbs",
+      "article_headline": "Nearly 50,000 unaccounted for in Venezuela as earthquake death toll climbs"
+    },
+    {
+      "link": "https://apple.news/AFwnMjzbPS8KVmDYh3LTAuA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-01 15:20:34",
+      "pub_time": "2026-07-01 15:12:08",
+      "publication": "ABC News",
+      "author": "Emily Shapiro",
+      "headline": "Nearly 50,000 unaccounted for in Venezuela as earthquake death toll climbs",
+      "article_headline": "Nearly 50,000 unaccounted for in Venezuela as earthquake death toll climbs"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-01 15:20:34",
+      "pub_time": "2026-07-01 15:12:36",
+      "publication": "The Wall Street Journal",
+      "author": "Marcus Weisgerber and Meridith McGraw",
+      "headline": "On board the new Qatari-gifted Air Force One for Trump’s maiden flight",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AmeoYgvFZTgC_nD4dIhbf0g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-01 15:20:34",
+      "pub_time": "2026-07-01 15:11:36",
+      "publication": "Fox News",
+      "author": "Alexandra Koch",
+      "headline": "2 people taken into custody after climbing to the top of Empire State Building with massive banner",
+      "article_headline": "Two people taken into custody after climbing to the top of Empire State Building with massive banner"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-01 15:20:34",
+      "pub_time": "2026-07-01 15:12:09",
+      "publication": "The Wall Street Journal",
+      "author": "Marcus Weisgerber and Meridith McGraw",
+      "headline": "On board the new Qatari-gifted Air Force One for Trump’s maiden flight",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

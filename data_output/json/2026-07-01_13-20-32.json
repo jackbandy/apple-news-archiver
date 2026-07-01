@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-07-01 13:20:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A5aUu-ynQTsik1m_1BwMkvw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-01 13:20:32",
+      "pub_time": "2026-07-01 13:14:33",
+      "publication": "POLITICO",
+      "author": "Declan Harty",
+      "headline": "Trump’s financial disclosures reveal second-term windfall: $1.4 billion in crypto earnings",
+      "article_headline": "Trump’s financial disclosures reveal second-term windfall: $1.4 billion in crypto earnings"
+    },
+    {
+      "link": "https://apple.news/Az-zS52wuTI2SxVV9IOnhnw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-01 13:20:32",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Former CIA Director John Brennan sues over Justice Department investigation",
+      "article_headline": "Former CIA Director John Brennan sues over Justice Department investigation"
+    },
+    {
+      "link": "https://apple.news/ArlcBJYUCRKOcHMyWQFezCg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-01 13:20:32",
+      "pub_time": "",
+      "publication": "CNBC",
+      "author": "",
+      "headline": "U.S. won’t renew North American trade pact, opening door for negotiations with Canada and Mexico",
+      "article_headline": "U.S. won’t renew North American trade pact, opening door for negotiations with Canada and Mexico"
+    },
+    {
+      "link": "https://apple.news/AYaI64-zxSEGMEX5rw3GUdw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-01 13:20:32",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Harvard professor known for polarizing alien theories to lead White House UFO council",
+      "article_headline": "Harvard professor known for polarizing alien theories to lead White House UFO council"
+    },
+    {
+      "link": "https://apple.news/A1eyjBON8Roq2xxsNd5-Hag",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-01 13:20:32",
+      "pub_time": "2026-07-01 13:13:36",
+      "publication": "NBC New York",
+      "author": "Julia Hecht",
+      "headline": "2 people in custody after climbing to top of Empire State Building for apparent proposal",
+      "article_headline": "Death-defying proposal? Two arrested after climbing Empire State Building"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-01 13:20:32",
+      "pub_time": "2026-07-01 13:14:03",
+      "publication": "The Wall Street Journal",
+      "author": "Jason Zweig",
+      "headline": "How a master of deception conned investors out of $50 million — in his own words",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AwBq3Og9dR76MZvhkXoENEA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-01 13:20:32",
+      "pub_time": "",
+      "publication": "Block Club Chicago",
+      "author": "",
+      "headline": "Local News, Chicago, The new laws taking effect in Illinois today",
+      "article_headline": "The new laws taking effect in Illinois today"
+    }
+  ]
+}

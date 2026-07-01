@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-07-01 12:20:31",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A5aUu-ynQTsik1m_1BwMkvw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-01 12:20:31",
+      "pub_time": "2026-07-01 12:12:32",
+      "publication": "POLITICO",
+      "author": "Declan Harty",
+      "headline": "Trump’s financial disclosures reveal second-term windfall: $1.4 billion in crypto earnings",
+      "article_headline": "Trump’s financial disclosures reveal second-term windfall: $1.4 billion in crypto earnings"
+    },
+    {
+      "link": "https://apple.news/AH19K6G1BRfKo3PLlBvatfA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-01 12:20:31",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Democratic socialist wins in Colorado as unrest within party spreads",
+      "article_headline": "Democratic socialist wins in Colorado as unrest within party spreads"
+    },
+    {
+      "link": "https://apple.news/ArlcBJYUCRKOcHMyWQFezCg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-01 12:20:31",
+      "pub_time": "",
+      "publication": "CNBC",
+      "author": "",
+      "headline": "U.S. won’t renew USMCA trade pact, opening door for negotiations with Canada and Mexico",
+      "article_headline": "U.S. won’t renew USMCA trade pact, opening door for negotiations with Canada and Mexico"
+    },
+    {
+      "link": "https://apple.news/Ahg1GCqErQtu7rC2TxAX11A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-01 12:20:31",
+      "pub_time": "2026-07-01 12:13:00",
+      "publication": "CBS New York",
+      "author": "Jesse Zanger",
+      "headline": "2 people climb to top of NYC’s Empire State Building, appear to get engaged",
+      "article_headline": "2 people climb to top of NYC's Empire State Building, appear to get engaged"
+    },
+    {
+      "link": "https://apple.news/Ahg1GCqErQtu7rC2TxAX11A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-01 12:20:31",
+      "pub_time": "2026-07-01 12:12:33",
+      "publication": "CBS New York",
+      "author": "Jesse Zanger",
+      "headline": "2 people climb to top of NYC’s Empire State Building, appear to get engaged",
+      "article_headline": "2 people climb to top of NYC's Empire State Building, appear to get engaged"
+    },
+    {
+      "link": "https://apple.news/AJJrSALSoSd-_zXRDm6CpMg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-01 12:20:31",
+      "pub_time": "2026-07-01 12:13:01",
+      "publication": "FOX Weather",
+      "author": "Kieran Sullivan",
+      "headline": "Not every Fourth of July will end with a bang: Wildfire danger spurs fireworks bans across the U.S.",
+      "article_headline": "Not every Fourth of July will end with a bang: Wildfire danger spurs fireworks bans across the U.S."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-01 12:20:31",
+      "pub_time": "2026-07-01 12:13:28",
+      "publication": "The Wall Street Journal",
+      "author": "Jason Zweig",
+      "headline": "How a master of deception conned investors out of $50 million — in his own words",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AnfTW3iOxTZ-pSUQFJwaSWQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-07-01 12:20:31",
+      "pub_time": "2026-07-01 05:23:34",
+      "publication": "EatingWell",
+      "author": "Joy Manning",
+      "headline": "This Vitamin May Cut Dementia Risk Almost in Half, New Study Says",
+      "article_headline": "This Vitamin May Cut Dementia Risk Almost in Half, New Study Says"
+    },
+    {
+      "link": "https://apple.news/A7YiZVFB1SyG7P-0KFr8PlA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-07-01 12:20:31",
+      "pub_time": "2026-07-01 10:24:07",
+      "publication": "BuzzFeed",
+      "author": "Kelley Greene",
+      "headline": "Non-Americans Are Sharing Their Biggest \"WTF\" Moments After Visiting The US For The First Time",
+      "article_headline": "Non-Americans Are Sharing Their Biggest \"WTF\" Moments After Visiting The US For The First Time"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-07-01 12:20:31",
+      "pub_time": "2026-06-30 12:24:35",
+      "publication": "",
+      "author": "Kelly Faircloth",
+      "headline": "6 archaeological discoveries reshaping what we know about the Bible",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/An_ScSVNPTfSr_8J1xifpdQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-07-01 12:20:31",
+      "pub_time": "2026-07-01 11:24:35",
+      "publication": "People",
+      "author": "Rachel McRady",
+      "headline": "FBI Makes Bombshell Discovery About Nancy Guthrie Ransom Notes: Report",
+      "article_headline": "FBI Makes Bombshell Discovery About Nancy Guthrie Ransom Notes: Report"
+    }
+  ]
+}

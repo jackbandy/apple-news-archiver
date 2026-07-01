@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-07-01 16:40:30",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AMEftPDB8T8CNBwIvhfqovg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-01 16:40:30",
+      "pub_time": "2026-07-01 16:24:32",
+      "publication": "Reuters",
+      "author": "Brad Brooks, P.J. Huffstutter, and Maria Tsvetkova",
+      "headline": "From Kansas to New York, historic heat wave bakes U.S. ahead of July 4 holiday",
+      "article_headline": "From Kansas to New York, historic heat wave bakes U.S. ahead of July 4 holiday"
+    },
+    {
+      "link": "https://apple.news/AxPpr2ME2QBuaA-4KNxDdiA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-01 16:40:30",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes",
+      "article_headline": "Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes"
+    },
+    {
+      "link": "https://apple.news/AFwnMjzbPS8KVmDYh3LTAuA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-01 16:40:30",
+      "pub_time": "2026-07-01 16:24:31",
+      "publication": "ABC News",
+      "author": "Emily Shapiro",
+      "headline": "Nearly 50,000 unaccounted for in Venezuela as earthquake death toll climbs",
+      "article_headline": "Nearly 50,000 unaccounted for in Venezuela as earthquake death toll climbs"
+    },
+    {
+      "link": "https://apple.news/ABsnh4lWJQO6P3K6xy_ughQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-01 16:40:30",
+      "pub_time": "2026-07-01 16:24:59",
+      "publication": "The Wall Street Journal",
+      "author": "Gavin Bade, Paul Vieira, and Santiago Pérez",
+      "headline": "U.S. plunges trade pact with Canada and Mexico into doubt",
+      "article_headline": "U.S. plunges trade pact with Canada and Mexico into doubt"
+    },
+    {
+      "link": "https://apple.news/AFwnMjzbPS8KVmDYh3LTAuA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-01 16:40:30",
+      "pub_time": "2026-07-01 16:24:32",
+      "publication": "ABC News",
+      "author": "Emily Shapiro",
+      "headline": "Nearly 50,000 unaccounted for in Venezuela as earthquake death toll climbs",
+      "article_headline": "Nearly 50,000 unaccounted for in Venezuela as earthquake death toll climbs"
+    },
+    {
+      "link": "https://apple.news/ABsnh4lWJQO6P3K6xy_ughQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-01 16:40:30",
+      "pub_time": "2026-07-01 16:25:00",
+      "publication": "The Wall Street Journal",
+      "author": "Gavin Bade, Paul Vieira, and Santiago Pérez",
+      "headline": "U.S. plunges trade pact with Canada and Mexico into doubt",
+      "article_headline": "U.S. plunges trade pact with Canada and Mexico into doubt"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-01 16:40:30",
+      "pub_time": "2026-07-01 16:25:27",
+      "publication": "The Washington Post",
+      "author": "Arelis R. Hernández",
+      "headline": "ICE’s arrest of nun heading to church fuels bipartisan backlash in South Texas",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-07-01 15:00:28",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A5aUu-ynQTsik1m_1BwMkvw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-01 15:00:28",
+      "pub_time": "2026-07-01 14:07:30",
+      "publication": "POLITICO",
+      "author": "Declan Harty",
+      "headline": "Trump’s financial disclosures reveal second-term windfall: $1.4 billion in crypto earnings",
+      "article_headline": "Trump’s financial disclosures reveal second-term windfall: $1.4 billion in crypto earnings"
+    },
+    {
+      "link": "https://apple.news/Az-zS52wuTI2SxVV9IOnhnw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-01 15:00:28",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Former CIA Director John Brennan sues over Justice Department investigation",
+      "article_headline": "Former CIA Director John Brennan sues over Justice Department investigation"
+    },
+    {
+      "link": "https://apple.news/Avx3LjgqOR3y8IeFvdagUgg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-01 15:00:28",
+      "pub_time": "2026-07-01 14:07:32",
+      "publication": "The Wall Street Journal",
+      "author": "Matthew Dalton",
+      "headline": "Europe is hot as hell. Why doesn’t it want air-conditioning?",
+      "article_headline": "Europe is hot as hell. Why doesn’t it want air-conditioning?"
+    },
+    {
+      "link": "https://apple.news/Azgu8pgf8REWXTHhZSlJZ5A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-01 15:00:28",
+      "pub_time": "",
+      "publication": "Yahoo Sports",
+      "author": "",
+      "headline": "World Cup 2026, Harry Kane’s late brilliance saves England from stunning upset against Congo",
+      "article_headline": "Harry Kane’s late brilliance saves England from stunning upset against Congo"
+    },
+    {
+      "link": "https://apple.news/Avx3LjgqOR3y8IeFvdagUgg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-01 15:00:28",
+      "pub_time": "2026-07-01 14:07:33",
+      "publication": "The Wall Street Journal",
+      "author": "Matthew Dalton",
+      "headline": "Europe is hot as hell. Why doesn’t it want air-conditioning?",
+      "article_headline": "Europe is hot as hell. Why doesn’t it want air-conditioning?"
+    },
+    {
+      "link": "https://apple.news/A1eyjBON8Roq2xxsNd5-Hag",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-01 15:00:28",
+      "pub_time": "2026-07-01 14:08:00",
+      "publication": "NBC New York",
+      "author": "Julia Hecht",
+      "headline": "2 people in custody after climbing to top of Empire State Building",
+      "article_headline": "Death-defying proposal? Two arrested after climbing Empire State Building"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-01 15:00:28",
+      "pub_time": "",
+      "publication": "Business Insider",
+      "author": "",
+      "headline": "The baby-boomer divorce boom is reshaping retirement and inheritance",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-07-01 15:40:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AMEftPDB8T8CNBwIvhfqovg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-01 15:40:32",
+      "pub_time": "2026-07-01 15:25:34",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "From Kansas to New York, historic heat wave bakes U.S. ahead of July 4 holiday, MORE COVERAGE",
+      "article_headline": "From Kansas to New York, historic heat wave bakes U.S. ahead of July 4 holiday"
+    },
+    {
+      "link": "https://apple.news/AxPpr2ME2QBuaA-4KNxDdiA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-01 15:40:32",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes",
+      "article_headline": "Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes"
+    },
+    {
+      "link": "https://apple.news/AFwnMjzbPS8KVmDYh3LTAuA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-01 15:40:32",
+      "pub_time": "2026-07-01 15:26:33",
+      "publication": "ABC News",
+      "author": "Emily Shapiro",
+      "headline": "Nearly 50,000 unaccounted for in Venezuela as earthquake death toll climbs",
+      "article_headline": "Nearly 50,000 unaccounted for in Venezuela as earthquake death toll climbs"
+    },
+    {
+      "link": "https://apple.news/AFwnMjzbPS8KVmDYh3LTAuA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-01 15:40:32",
+      "pub_time": "2026-07-01 15:25:06",
+      "publication": "ABC News",
+      "author": "Emily Shapiro",
+      "headline": "Nearly 50,000 unaccounted for in Venezuela as earthquake death toll climbs",
+      "article_headline": "Nearly 50,000 unaccounted for in Venezuela as earthquake death toll climbs"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-01 15:40:32",
+      "pub_time": "2026-07-01 15:25:34",
+      "publication": "The Wall Street Journal",
+      "author": "Marcus Weisgerber and Meridith McGraw",
+      "headline": "Onboard the new Qatari-gifted Air Force One for Trump’s maiden flight",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AmeoYgvFZTgC_nD4dIhbf0g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-01 15:40:32",
+      "pub_time": "2026-07-01 15:25:34",
+      "publication": "Fox News",
+      "author": "Alexandra Koch",
+      "headline": "2 people taken into custody after climbing to the top of Empire State Building with banner",
+      "article_headline": "Two people taken into custody after climbing to the top of Empire State Building with massive banner"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-01 15:40:32",
+      "pub_time": "2026-07-01 15:25:07",
+      "publication": "The Wall Street Journal",
+      "author": "Marcus Weisgerber and Meridith McGraw",
+      "headline": "Onboard the new Qatari-gifted Air Force One for Trump’s maiden flight",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AxhbDwHppSmymxVlJKsWdOw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-07-01 15:40:32",
+      "pub_time": "2026-07-01 12:43:13",
+      "publication": "People",
+      "author": "Victoria Edel",
+      "headline": "Kat Dennings Was Enjoying Disneyland with Her Family When She Suddenly Realized Why People Kept Waving at Her",
+      "article_headline": "Kat Dennings Was Enjoying Disneyland with Her Family When She Suddenly Realized Why People Kept Waving at Her"
+    },
+    {
+      "link": "https://apple.news/A7YiZVFB1SyG7P-0KFr8PlA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-07-01 15:40:32",
+      "pub_time": "2026-07-01 09:43:40",
+      "publication": "BuzzFeed",
+      "author": "Kelley Greene",
+      "headline": "Non-Americans Are Sharing Their Biggest \"WTF\" Moments After Visiting The US For The First Time",
+      "article_headline": "Non-Americans Are Sharing Their Biggest \"WTF\" Moments After Visiting The US For The First Time"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-07-01 15:40:32",
+      "pub_time": "2026-07-01 10:44:14",
+      "publication": "",
+      "author": "Stacey Leasca",
+      "headline": "This Is the Best City In The World For First-time Travelers—and No, It's Not London or Paris",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AdW9BlnXPRFO8Soqy7wlKjw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-07-01 15:40:32",
+      "pub_time": "2026-07-01 12:44:14",
+      "publication": "Real Simple",
+      "author": "Leslie Corona",
+      "headline": "The Ideal AC Temperature to Set During a Heat Wave, According to an HVAC Pro",
+      "article_headline": "The Ideal AC Temperature to Set During a Heat Wave, According to an HVAC Pro"
+    }
+  ]
+}

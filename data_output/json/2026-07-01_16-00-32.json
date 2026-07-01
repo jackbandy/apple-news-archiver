@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-07-01 16:00:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AMEftPDB8T8CNBwIvhfqovg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-01 16:00:32",
+      "pub_time": "2026-07-01 15:25:33",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "From Kansas to New York, historic heat wave bakes U.S. ahead of July 4 holiday, MORE COVERAGE",
+      "article_headline": "From Kansas to New York, historic heat wave bakes U.S. ahead of July 4 holiday"
+    },
+    {
+      "link": "https://apple.news/AxPpr2ME2QBuaA-4KNxDdiA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-01 16:00:32",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes",
+      "article_headline": "Former CIA Director John Brennan sues DOJ, Trump officials over criminal probes"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-01 16:00:32",
+      "pub_time": "2026-07-01 15:24:58",
+      "publication": "The Wall Street Journal",
+      "author": "Marcus Weisgerber and Meridith McGraw",
+      "headline": "Onboard the new Qatari-gifted Air Force One for Trump’s maiden flight",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AmeoYgvFZTgC_nD4dIhbf0g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-01 16:00:32",
+      "pub_time": "2026-07-01 15:24:58",
+      "publication": "Fox News",
+      "author": "Alexandra Koch",
+      "headline": "2 people taken into custody after climbing to the top of Empire State Building with banner",
+      "article_headline": "Two people taken into custody after climbing to the top of Empire State Building with massive banner"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-01 16:00:32",
+      "pub_time": "",
+      "publication": "Business Insider",
+      "author": "",
+      "headline": "The baby-boomer divorce boom is reshaping retirement and inheritance",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A00foN4bTSkCZSsINNPMC1g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-01 16:00:32",
+      "pub_time": "2026-07-01 12:02:45",
+      "publication": "Us Weekly",
+      "author": "Daniel Trainor",
+      "headline": "Phil Mickelson Makes Professional Move Amid Shocking Allegations of Cheating and Misconduct",
+      "article_headline": "Phil Mickelson Makes Professional Move Amid Shocking Allegations of Cheating and Misconduct"
+    },
+    {
+      "link": "https://apple.news/AF6UY-n7NTIS4c2NoeeTnlw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-01 16:00:32",
+      "pub_time": "2026-07-01 13:03:12",
+      "publication": "CNBC",
+      "author": "Mike Winters",
+      "headline": "The $20,000 new vehicle is gone—what the most affordable new car looks like now",
+      "article_headline": "The $20,000 new vehicle is gone—what the most affordable new car looks like now"
+    }
+  ]
+}
