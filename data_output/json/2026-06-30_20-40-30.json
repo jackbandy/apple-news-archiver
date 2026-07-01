@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-06-30 20:40:30",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A-Z8IzQW-SqGPQhRlfvu9Bg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-06-30 20:40:30",
+      "pub_time": "2026-06-30 19:44:31",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "5 takeaways from Supreme Court rulings on Trump’s power, elections, and LGBTQ+ rights, MORE COVERAGE",
+      "article_headline": "5 takeaways from Supreme Court rulings on Trump’s power, elections, and LGBTQ+ rights"
+    },
+    {
+      "link": "https://apple.news/Advhzg0faS_6DpL_R6-UA8w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-06-30 20:40:30",
+      "pub_time": "2026-06-30 19:45:04",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Forecasters cite “dangerous” conditions as heat scorches Midwest while on its way to the East",
+      "article_headline": "Forecasters cite “dangerous” conditions as heat scorches Midwest while on its way to the East"
+    },
+    {
+      "link": "https://apple.news/ASBetPjmlRHKa7yEbUS4CqQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-06-30 20:40:30",
+      "pub_time": "",
+      "publication": "Philadelphia Inquirer",
+      "author": "",
+      "headline": "New Jersey’s Tom Kean Jr. ends his monthslong absence from Congress, saying he was being treated for depression",
+      "article_headline": "New Jersey’s Tom Kean Jr. ends his monthslong absence from Congress, saying he was being treated for depression"
+    },
+    {
+      "link": "https://apple.news/Advhzg0faS_6DpL_R6-UA8w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-06-30 20:40:30",
+      "pub_time": "2026-06-30 19:45:04",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Forecasters cite “dangerous” conditions as heat scorches Midwest while on its way to the East",
+      "article_headline": "Forecasters cite “dangerous” conditions as heat scorches Midwest while on its way to the East"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 20:40:30",
+      "pub_time": "2026-06-30 19:45:31",
+      "publication": "The Wall Street Journal",
+      "author": "David Uberti and Vicky Ge Huang",
+      "headline": "Trump made more than $1 billion on crypto deals, part of 2025 windfall",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 20:40:30",
+      "pub_time": "",
+      "publication": "Sports Illustrated",
+      "author": "",
+      "headline": "Serena Williams didn’t win in her Wimbledon return — but she didn’t lose either",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-06-30 20:40:30",
+      "pub_time": "2026-06-30 19:44:36",
+      "publication": "The Wall Street Journal",
+      "author": "David Uberti and Vicky Ge Huang",
+      "headline": "Trump made more than $1 billion on crypto deals, part of 2025 windfall",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
