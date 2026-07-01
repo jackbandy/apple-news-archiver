@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-07-01 02:20:31",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AVgjpqTpPRKeM46skw9z0XQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-01 02:20:31",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Democratic socialist Melat Kiros defeats nearly 30-year House incumbent in Colorado primary",
+      "article_headline": "Democratic socialist Melat Kiros defeats longtime US House incumbent in Colorado"
+    },
+    {
+      "link": "https://apple.news/AtnJCOW-tR6qnKDCsYaIe1w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-01 02:20:31",
+      "pub_time": "2026-07-01 01:21:00",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Trump’s biggest wins and losses at the Supreme Court this term",
+      "article_headline": "Trump’s biggest wins and losses at the Supreme Court this term"
+    },
+    {
+      "link": "https://apple.news/AQ_JIfP01Rcquk090cyvwvg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-01 02:20:31",
+      "pub_time": "2026-07-01 01:21:27",
+      "publication": "The Wall Street Journal",
+      "author": "Yaroslav Trofimov",
+      "headline": "Putin faces a political crisis as fuel shortages ripple through Russia",
+      "article_headline": "Putin Faces a Political Crisis as Fuel Shortages Ripple Through Russia"
+    },
+    {
+      "link": "https://apple.news/APKwp9nnFQ-GFnAnteNlysQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-01 02:20:31",
+      "pub_time": "2026-07-01 01:22:00",
+      "publication": "POLITICO",
+      "author": "Gregory Svirnovskiy",
+      "headline": "Judge blocks Pentagon from requiring escorts for journalists",
+      "article_headline": "Judge blocks Pentagon from requiring escorts for journalists"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-01 02:20:31",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, The USMNT has a secret World Cup penalty-shootout weapon",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-01 02:20:31",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "A woman froze to death on Austria’s tallest mountain. Was her boyfriend to blame?, William Finnegan",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A5BxYE23FQB-vaFP6j2QNJQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-01 02:20:31",
+      "pub_time": "2026-06-30 18:22:47",
+      "publication": "Video",
+      "author": "Nightly News",
+      "headline": "NBC News, New details in deadly Florida alligator attack",
+      "article_headline": "New details in deadly Florida alligator attack"
+    },
+    {
+      "link": "https://apple.news/AhCvLgcXuQBOAR0kFOMkQoQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-07-01 02:20:31",
+      "pub_time": "2026-06-30 18:23:39",
+      "publication": "BuzzFeed",
+      "author": "Kelley Greene",
+      "headline": "\"I Make About $800 A Day\": People Are Sharing The Jobs That Might Seem Uninteresting At First, But Actually Make A LOT Of Money",
+      "article_headline": "\"I Make About $800 A Day\": People Are Sharing The Jobs That Might Seem Uninteresting At First, But Actually Make A LOT Of Money"
+    },
+    {
+      "link": "https://apple.news/AvlfIQZgfR0Kl8CG2kJc2dg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-07-01 02:20:31",
+      "pub_time": "2026-06-30 11:24:12",
+      "publication": "Popular Mechanics",
+      "author": "PopMech Editors",
+      "headline": "Your Brain Doesn’t Just Turn Off When You Die. What Really Happens Defies Our Understanding of Reality.",
+      "article_headline": "Your Brain Doesn’t Just Turn Off When You Die. What Really Happens Defies Our Understanding of Reality."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-07-01 02:20:31",
+      "pub_time": "2026-06-30 11:24:39",
+      "publication": "",
+      "author": "Kelly Faircloth",
+      "headline": "6 archaeological discoveries reshaping what we know about the Bible",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AS85wCnd_SfmIvwAroHff7g",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-07-01 02:20:31",
+      "pub_time": "2026-06-30 09:24:39",
+      "publication": "CNBC",
+      "author": "Farah Sharghi, Contributor",
+      "headline": "Ex-Google recruiter: This resume 'red flag' is often 'completely invisible' to most candidates",
+      "article_headline": "Ex-Google recruiter: This resume 'red flag' is often 'completely invisible' to most candidates"
+    }
+  ]
+}
