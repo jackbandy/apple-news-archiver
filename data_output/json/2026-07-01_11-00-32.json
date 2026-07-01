@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-07-01 11:00:32",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AABrr9a4VTqOOMB4rARJQeQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-01 11:00:32",
+      "pub_time": "2026-07-01 10:21:34",
+      "publication": "The Washington Post",
+      "author": "Clara Ence Morse, Natalie Allison, and Andrew Tran",
+      "headline": "Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures",
+      "article_headline": "Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures"
+    },
+    {
+      "link": "https://apple.news/AH19K6G1BRfKo3PLlBvatfA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-01 11:00:32",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Democratic socialist wins in Colorado as unrest within party spreads",
+      "article_headline": "Democratic socialist wins in Colorado as unrest within party spreads"
+    },
+    {
+      "link": "https://apple.news/AqfDjn-o2RkaHgV9EACh2qg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-01 11:00:32",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Medicare is now covering some GLP-1 weight-loss drugs for $50",
+      "article_headline": "Medicare is now covering some GLP-1 weight-loss drugs for $50"
+    },
+    {
+      "link": "https://apple.news/Ar7NxPiIYQVWtzfGd8t2rnw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-01 11:00:32",
+      "pub_time": "2026-07-01 10:22:00",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Most Supreme Court rulings are secretive votes with little justification",
+      "article_headline": "Most Supreme Court rulings are secretive votes with little justification"
+    },
+    {
+      "link": "https://apple.news/Ar7NxPiIYQVWtzfGd8t2rnw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-01 11:00:32",
+      "pub_time": "2026-07-01 10:21:32",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Most Supreme Court rulings are secretive votes with little justification",
+      "article_headline": "Most Supreme Court rulings are secretive votes with little justification"
+    },
+    {
+      "link": "https://apple.news/AhXRHELpVR3Olb7LLMxmpdA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-01 11:00:32",
+      "pub_time": "2026-07-01 10:21:59",
+      "publication": "Video",
+      "author": "Kiki Intarasuwan",
+      "headline": "CBS News, Millions of Americans could experience hottest July Fourth ever",
+      "article_headline": "Millions of Americans could experience hottest July Fourth ever"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-01 11:00:32",
+      "pub_time": "2026-07-01 10:22:27",
+      "publication": "The Wall Street Journal",
+      "author": "Jason Zweig",
+      "headline": "How a master of deception conned investors out of $50 million — in his own words",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AnfTW3iOxTZ-pSUQFJwaSWQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-07-01 11:00:32",
+      "pub_time": "2026-07-01 05:04:13",
+      "publication": "EatingWell",
+      "author": "Joy Manning",
+      "headline": "This Vitamin May Cut Dementia Risk Almost in Half, New Study Says",
+      "article_headline": "This Vitamin May Cut Dementia Risk Almost in Half, New Study Says"
+    },
+    {
+      "link": "https://apple.news/A7YiZVFB1SyG7P-0KFr8PlA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-07-01 11:00:32",
+      "pub_time": "2026-07-01 10:04:46",
+      "publication": "BuzzFeed",
+      "author": "Kelley Greene",
+      "headline": "Non-Americans Are Sharing Their Biggest \"WTF\" Moments After Visiting The US For The First Time",
+      "article_headline": "Non-Americans Are Sharing Their Biggest \"WTF\" Moments After Visiting The US For The First Time"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-07-01 11:00:32",
+      "pub_time": "2026-06-30 11:05:13",
+      "publication": "",
+      "author": "Kelly Faircloth",
+      "headline": "6 archaeological discoveries reshaping what we know about the Bible",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/APQ_wETgQR96aUnhm5I8f3w",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-07-01 11:00:32",
+      "pub_time": "2026-07-01 06:05:13",
+      "publication": "The New Yorker",
+      "author": "Hannah Jocelyn",
+      "headline": "Eight Great American Novels",
+      "article_headline": "Eight Great American Novels"
+    }
+  ]
+}

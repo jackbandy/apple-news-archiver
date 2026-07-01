@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-07-01 11:20:30",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AABrr9a4VTqOOMB4rARJQeQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-01 11:20:30",
+      "pub_time": "2026-07-01 10:21:31",
+      "publication": "The Washington Post",
+      "author": "Clara Ence Morse, Natalie Allison, and Andrew Tran",
+      "headline": "Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures",
+      "article_headline": "Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures"
+    },
+    {
+      "link": "https://apple.news/AH19K6G1BRfKo3PLlBvatfA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-01 11:20:30",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Democratic socialist wins in Colorado as unrest within party spreads",
+      "article_headline": "Democratic socialist wins in Colorado as unrest within party spreads"
+    },
+    {
+      "link": "https://apple.news/AqfDjn-o2RkaHgV9EACh2qg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-01 11:20:30",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Medicare is now covering some GLP-1 weight-loss drugs for $50",
+      "article_headline": "Medicare is now covering some GLP-1 weight-loss drugs for $50"
+    },
+    {
+      "link": "https://apple.news/Ar7NxPiIYQVWtzfGd8t2rnw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-01 11:20:30",
+      "pub_time": "2026-07-01 10:21:58",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Most Supreme Court rulings are secretive votes with little justification",
+      "article_headline": "Most Supreme Court rulings are secretive votes with little justification"
+    },
+    {
+      "link": "https://apple.news/AhXRHELpVR3Olb7LLMxmpdA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-01 11:20:30",
+      "pub_time": "2026-07-01 10:22:31",
+      "publication": "Video",
+      "author": "Kiki Intarasuwan",
+      "headline": "CBS News, Millions of Americans could experience hottest July Fourth ever",
+      "article_headline": "Millions of Americans could experience hottest July Fourth ever"
+    },
+    {
+      "link": "https://apple.news/Ak-vp1ecIRJuKWV3swlbAxQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-01 11:20:30",
+      "pub_time": "2026-07-01 10:22:59",
+      "publication": "The Wall Street Journal",
+      "author": "Jason Zweig",
+      "headline": "How a master of deception conned investors out of $50 million — in his own words",
+      "article_headline": "How a master of deception conned investors out of $50 million — in his own words"
+    },
+    {
+      "link": "https://apple.news/AAm58f6TATaGnKwQYtC4EPg",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-07-01 11:20:30",
+      "pub_time": "",
+      "publication": "Medicare will cover weight-loss drugs — but there’s a catch",
+      "author": "",
+      "headline": "Listen to today’s top stories.,  Play Now  16 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AnfTW3iOxTZ-pSUQFJwaSWQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-07-01 11:20:30",
+      "pub_time": "2026-07-01 05:24:04",
+      "publication": "EatingWell",
+      "author": "Joy Manning",
+      "headline": "This Vitamin May Cut Dementia Risk Almost in Half, New Study Says",
+      "article_headline": "This Vitamin May Cut Dementia Risk Almost in Half, New Study Says"
+    },
+    {
+      "link": "https://apple.news/A7YiZVFB1SyG7P-0KFr8PlA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-07-01 11:20:30",
+      "pub_time": "2026-07-01 10:24:31",
+      "publication": "BuzzFeed",
+      "author": "Kelley Greene",
+      "headline": "Non-Americans Are Sharing Their Biggest \"WTF\" Moments After Visiting The US For The First Time",
+      "article_headline": "Non-Americans Are Sharing Their Biggest \"WTF\" Moments After Visiting The US For The First Time"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-07-01 11:20:30",
+      "pub_time": "2026-06-30 11:24:58",
+      "publication": "",
+      "author": "Kelly Faircloth",
+      "headline": "6 archaeological discoveries reshaping what we know about the Bible",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AhYhNVZLbQ7GceIq-QyZMGQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-07-01 11:20:30",
+      "pub_time": "2026-07-01 07:25:03",
+      "publication": "Real Simple",
+      "author": "Leslie Corona",
+      "headline": "Zillow Found the Worst Paint Color for Home Value—and It Could Cost Sellers $18,000",
+      "article_headline": "Zillow Found the Worst Paint Color for Home Value—and It Could Cost Sellers $18,000"
+    }
+  ]
+}

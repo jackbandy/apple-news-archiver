@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-07-01 12:00:27",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AABrr9a4VTqOOMB4rARJQeQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-01 12:00:27",
+      "pub_time": "2026-07-01 11:56:29",
+      "publication": "The Washington Post",
+      "author": "Clara Ence Morse, Natalie Allison, and Andrew Tran",
+      "headline": "Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures",
+      "article_headline": "Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures"
+    },
+    {
+      "link": "https://apple.news/AH19K6G1BRfKo3PLlBvatfA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-01 12:00:27",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Democratic socialist wins in Colorado as unrest within party spreads",
+      "article_headline": "Democratic socialist wins in Colorado as unrest within party spreads"
+    },
+    {
+      "link": "https://apple.news/AqfDjn-o2RkaHgV9EACh2qg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-01 12:00:27",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Medicare is now covering some GLP-1 weight-loss drugs for $50",
+      "article_headline": "Medicare is now covering some GLP-1 weight-loss drugs for $50"
+    },
+    {
+      "link": "https://apple.news/Ahg1GCqErQtu7rC2TxAX11A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-01 12:00:27",
+      "pub_time": "2026-07-01 11:56:56",
+      "publication": "CBS New York",
+      "author": "Jesse Zanger",
+      "headline": "2 people climb to top of NYC’s Empire State Building for apparent wedding proposal",
+      "article_headline": "2 people climb to top of NYC's Empire State Building, appear to get engaged"
+    },
+    {
+      "link": "https://apple.news/Ahg1GCqErQtu7rC2TxAX11A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-01 12:00:27",
+      "pub_time": "2026-07-01 11:56:29",
+      "publication": "CBS New York",
+      "author": "Jesse Zanger",
+      "headline": "2 people climb to top of NYC’s Empire State Building for apparent wedding proposal",
+      "article_headline": "2 people climb to top of NYC's Empire State Building, appear to get engaged"
+    },
+    {
+      "link": "https://apple.news/AJJrSALSoSd-_zXRDm6CpMg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-01 12:00:27",
+      "pub_time": "2026-07-01 11:56:56",
+      "publication": "FOX Weather",
+      "author": "Kieran Sullivan",
+      "headline": "Not every Fourth of July will end with a bang: Wildfire danger spurs fireworks bans across the U.S.",
+      "article_headline": "Not every Fourth of July will end with a bang: Wildfire danger spurs fireworks bans across the U.S."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-01 12:00:27",
+      "pub_time": "2026-07-01 11:57:23",
+      "publication": "The Wall Street Journal",
+      "author": "Jason Zweig",
+      "headline": "How a master of deception conned investors out of $50 million — in his own words",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
