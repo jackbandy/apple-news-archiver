@@ -1,0 +1,73 @@
+{
+  "run_time": "2026-07-02 09:20:33",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/A4Q5acZu-TheNiDpodfLkZA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-02 09:20:33",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The labor market grew less than expected in June",
+      "article_headline": "The labor market grew less than expected in June"
+    },
+    {
+      "link": "https://apple.news/ApcS9tIC0TkuMmZq-_Cocwg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-02 09:20:33",
+      "pub_time": "2026-07-02 08:44:03",
+      "publication": "ABC News",
+      "author": "Will Gretsky, Chris Boccia, Jack Moore, Britt Clennett, Dada Jovanovic, and Kevin Shalvey",
+      "headline": "20 dead, dozens injured in Kyiv as Ukraine hit with “massive” Russian strike",
+      "article_headline": "20 dead, dozens injured in Kyiv as Ukraine hit with “massive” Russian strike"
+    },
+    {
+      "link": "https://apple.news/AhmQaZGwyTY6OH8BwonTMwQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-02 09:20:33",
+      "pub_time": "2026-07-02 08:44:31",
+      "publication": "Reuters",
+      "author": "David Hood-Nuño, Maria Tsvetkova, Bianca Flowers, and Kristina Cooke",
+      "headline": "As deportation protections end, Haitians confront fear and uncertainty",
+      "article_headline": "As deportation protections end, Haitians confront fear and uncertainty"
+    },
+    {
+      "link": "https://apple.news/ApcS9tIC0TkuMmZq-_Cocwg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-02 09:20:33",
+      "pub_time": "2026-07-02 08:44:04",
+      "publication": "ABC News",
+      "author": "Will Gretsky, Chris Boccia, Jack Moore, Britt Clennett, Dada Jovanovic, and Kevin Shalvey",
+      "headline": "20 dead, dozens injured in Kyiv as Ukraine hit with “massive” Russian strike",
+      "article_headline": "20 dead, dozens injured in Kyiv as Ukraine hit with “massive” Russian strike"
+    },
+    {
+      "link": "https://apple.news/AhmQaZGwyTY6OH8BwonTMwQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-02 09:20:33",
+      "pub_time": "2026-07-02 08:44:32",
+      "publication": "Reuters",
+      "author": "David Hood-Nuño, Maria Tsvetkova, Bianca Flowers, and Kristina Cooke",
+      "headline": "As deportation protections end, Haitians confront fear and uncertainty",
+      "article_headline": "As deportation protections end, Haitians confront fear and uncertainty"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-02 09:20:33",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "World Cup 2026, Instant replay just cost Team USA its top goalscorer at the World Cup",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-07-02 07:20:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ApcS9tIC0TkuMmZq-_Cocwg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-02 07:20:31",
+      "pub_time": "2026-07-02 06:34:33",
+      "publication": "ABC News",
+      "author": "Will Gretsky, Chris Boccia, Jack Moore, Britt Clennett, Dada Jovanovic, and Kevin Shalvey",
+      "headline": "18 dead, dozens injured in Kyiv as Ukraine hit with massive Russian strike",
+      "article_headline": "18 dead, dozens injured in Kyiv as Ukraine hit with massive Russian strike"
+    },
+    {
+      "link": "https://apple.news/AG80McodCRMKBYf5U_FoDAA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-02 07:20:31",
+      "pub_time": "2026-07-02 06:35:00",
+      "publication": "NBC News",
+      "author": "Steve Kopack",
+      "headline": "June jobs report likely to show stable hiring, but economists see plenty of warning signs",
+      "article_headline": "June jobs report likely to show stable hiring, but economists see plenty of warning signs"
+    },
+    {
+      "link": "https://apple.news/Az5eX_DkITfGvddssa2VmJQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-02 07:20:31",
+      "pub_time": "2026-07-02 06:35:29",
+      "publication": "The Washington Post",
+      "author": "Rachel Lerman",
+      "headline": "Companies will donate 53 million eggs to settle price-inflation allegations",
+      "article_headline": "Companies will donate 53 million eggs to settle price-inflation allegations"
+    },
+    {
+      "link": "https://apple.news/AG80McodCRMKBYf5U_FoDAA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-02 07:20:31",
+      "pub_time": "2026-07-02 06:35:02",
+      "publication": "NBC News",
+      "author": "Steve Kopack",
+      "headline": "June jobs report likely to show stable hiring, but economists see plenty of warning signs",
+      "article_headline": "June jobs report likely to show stable hiring, but economists see plenty of warning signs"
+    },
+    {
+      "link": "https://apple.news/Az5eX_DkITfGvddssa2VmJQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-02 07:20:31",
+      "pub_time": "2026-07-02 06:35:29",
+      "publication": "The Washington Post",
+      "author": "Rachel Lerman",
+      "headline": "Companies will donate 53 million eggs to settle price-inflation allegations",
+      "article_headline": "Companies will donate 53 million eggs to settle price-inflation allegations"
+    },
+    {
+      "link": "https://apple.news/AhmQaZGwyTY6OH8BwonTMwQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-02 07:20:31",
+      "pub_time": "2026-07-02 06:34:57",
+      "publication": "Reuters",
+      "author": "David Hood-Nuño, Maria Tsvetkova, Bianca Flowers, and Kristina Cooke",
+      "headline": "As deportation protections end, Haitians confront fear and uncertainty",
+      "article_headline": "As deportation protections end, Haitians confront fear and uncertainty"
+    },
+    {
+      "link": "https://apple.news/AhmQaZGwyTY6OH8BwonTMwQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-07-02 07:20:31",
+      "pub_time": "2026-07-02 06:34:29",
+      "publication": "Reuters",
+      "author": "David Hood-Nuño, Maria Tsvetkova, Bianca Flowers, and Kristina Cooke",
+      "headline": "As deportation protections end, Haitians confront fear and uncertainty",
+      "article_headline": "As deportation protections end, Haitians confront fear and uncertainty"
+    }
+  ]
+}
