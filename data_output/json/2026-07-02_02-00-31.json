@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-07-02 02:00:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ARydTKLE5Q1-W2TxO0DLUhg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-02 02:00:31",
+      "pub_time": "2026-07-02 00:00:33",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Russian launches large-scale attack on Kyiv, killing at least 8 people and injuring dozens",
+      "article_headline": "Russian attack kills at least 13, injures scores and causes damage across Ukraine capital"
+    },
+    {
+      "link": "https://apple.news/AsQLeDXnbTOaWafJZTgee8Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-02 02:00:31",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, USMNT defeats Bosnia-Herzegovina for first World Cup knockout win in 24 years",
+      "article_headline": "USMNT defeats Bosnia-Herzegovina for first World Cup knockout win in 24 years"
+    },
+    {
+      "link": "https://apple.news/A7J-h3dATTlikiXp0lxV7uQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-02 02:00:31",
+      "pub_time": "2026-07-02 00:01:32",
+      "publication": "Reuters",
+      "author": "Andrew Mills, Parisa Hafezi, and Jacob Bogage",
+      "headline": "Latest round of U.S.-Iran talks concludes in Qatar, as major questions linger",
+      "article_headline": "US, Iran talks conclude in Doha, focused on Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AuxBJ10B4Qzmu0kWpXb2VlQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-02 02:00:31",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "“We are screwed”: People near data centers dread heat-wave pollution",
+      "article_headline": "“We are screwed”: People near data centers dread heat-wave pollution"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-02 02:00:31",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "West Nile virus is surging earlier than it has in decades. Here’s how to protect yourself.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-02 02:00:31",
+      "pub_time": "2026-07-02 00:02:33",
+      "publication": "Popular Mechanics",
+      "author": "David Howard",
+      "headline": "Does the head of the White House’s new UFO council know something we don’t?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AG377_CgfSIKMLaSZxLu7fA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-02 02:00:31",
+      "pub_time": "2026-07-01 14:02:47",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Baby American mink rescued in Northern California yard",
+      "article_headline": "Baby American mink rescued in Northern California yard"
+    }
+  ]
+}
