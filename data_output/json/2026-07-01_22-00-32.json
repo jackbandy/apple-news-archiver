@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-07-01 22:00:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AsQLeDXnbTOaWafJZTgee8Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-01 22:00:32",
+      "pub_time": "",
+      "publication": "World Cup 2026",
+      "author": "",
+      "headline": "The Athletic, USMNT defeats Bosnia-Herzegovina to reach World Cup round of 16",
+      "article_headline": "USMNT defeats Bosnia-Herzegovina to reach World Cup round of 16"
+    },
+    {
+      "link": "https://apple.news/ALUzMjEjCSmWaXyvglYQLyQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-01 22:00:32",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Trump’s wealth grew on a scale without modern presidential precedent",
+      "article_headline": "Trump’s wealth grew on a scale without modern presidential precedent"
+    },
+    {
+      "link": "https://apple.news/A7J-h3dATTlikiXp0lxV7uQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-01 22:00:32",
+      "pub_time": "2026-07-01 21:54:36",
+      "publication": "Reuters",
+      "author": "Andrew Mills, Parisa Hafezi, and Jacob Bogage",
+      "headline": "Latest round of U.S.-Iran talks concludes in Qatar, as major questions linger",
+      "article_headline": "US, Iran talks conclude in Doha, focused on Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AEdfg_u72QsaNxw1OMINj3w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-01 22:00:32",
+      "pub_time": "2026-07-01 21:55:03",
+      "publication": "The Guardian",
+      "author": "Angela Giuffrida",
+      "headline": "Fears of Catholic schism as defiant sect ordains ultraconservative bishops",
+      "article_headline": "Fears of Catholic schism as defiant sect ordains ultraconservative bishops"
+    },
+    {
+      "link": "https://apple.news/A7J-h3dATTlikiXp0lxV7uQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-01 22:00:32",
+      "pub_time": "2026-07-01 21:54:37",
+      "publication": "Reuters",
+      "author": "Andrew Mills, Parisa Hafezi, and Jacob Bogage",
+      "headline": "Latest round of U.S.-Iran talks concludes in Qatar, as major questions linger",
+      "article_headline": "US, Iran talks conclude in Doha, focused on Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AEdfg_u72QsaNxw1OMINj3w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-01 22:00:32",
+      "pub_time": "2026-07-01 21:55:04",
+      "publication": "The Guardian",
+      "author": "Angela Giuffrida",
+      "headline": "Fears of Catholic schism as defiant sect ordains ultraconservative bishops",
+      "article_headline": "Fears of Catholic schism as defiant sect ordains ultraconservative bishops"
+    },
+    {
+      "link": "https://apple.news/AuxBJ10B4Qzmu0kWpXb2VlQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-07-01 22:00:32",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "“We are screwed”: People near data centers dread heat-wave pollution",
+      "article_headline": "“We are screwed”: People near data centers dread heat-wave pollution"
+    }
+  ]
+}
