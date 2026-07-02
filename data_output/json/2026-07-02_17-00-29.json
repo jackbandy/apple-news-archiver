@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-07-02 17:00:29",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AFOjprRzjRPGIRllyek6vIA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-02 17:00:29",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Brutal heatwave scorches East Coast ahead of Fourth of July weekend",
+      "article_headline": "Brutal heatwave scorches East Coast ahead of Fourth of July weekend"
+    },
+    {
+      "link": "https://apple.news/AHovlesxTRLCHOYeBi5MjbQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-02 17:00:29",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Appeals court prevents Trump administration from firing intelligence officers assigned to DEI programs",
+      "article_headline": "Appeals court prevents Trump administration from firing intelligence officers assigned to DEI programs"
+    },
+    {
+      "link": "https://apple.news/AayPEZ7nIQziAN4pNPHgNOg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-02 17:00:29",
+      "pub_time": "2026-07-02 16:48:31",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "ICE arrests 10,000 people in 5 days, a sharp late-June surge in Trump’s deportation push",
+      "article_headline": "ICE arrests 10,000 people in 5 days, a sharp late-June surge in Trump’s deportation push"
+    },
+    {
+      "link": "https://apple.news/A8Mai9CUCTceQ8-CGs_SfvA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-02 17:00:29",
+      "pub_time": "2026-07-02 16:48:59",
+      "publication": "The Washington Post",
+      "author": "Salvador Rizzo, Perry Stein, and Jeremy Roebuck",
+      "headline": "Former Olympian faces felony charge over alleged Reflecting Pool vandalism",
+      "article_headline": "Former Olympian faces felony charge over alleged Reflecting Pool vandalism"
+    },
+    {
+      "link": "https://apple.news/AayPEZ7nIQziAN4pNPHgNOg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-02 17:00:29",
+      "pub_time": "2026-07-02 16:48:31",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "ICE arrests 10,000 people in 5 days, a sharp late-June surge in Trump’s deportation push",
+      "article_headline": "ICE arrests 10,000 people in 5 days, a sharp late-June surge in Trump’s deportation push"
+    },
+    {
+      "link": "https://apple.news/A8Mai9CUCTceQ8-CGs_SfvA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-02 17:00:29",
+      "pub_time": "2026-07-02 16:48:59",
+      "publication": "The Washington Post",
+      "author": "Salvador Rizzo, Perry Stein, and Jeremy Roebuck",
+      "headline": "Former Olympian faces felony charge over alleged Reflecting Pool vandalism",
+      "article_headline": "Former Olympian faces felony charge over alleged Reflecting Pool vandalism"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-02 17:00:29",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "On Wimbledon’s slippery grass, the art of falling is as important as any tennis shot",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A3IQ_Hh8UTJKZlgPD2G--_A",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-07-02 17:00:29",
+      "pub_time": "2026-07-02 11:04:04",
+      "publication": "BuzzFeed",
+      "author": "Raven Ishak",
+      "headline": "\"I’m 37, And I’m Beyond Over It\": Older Adults Are Revealing The Things They're \"Too Old To Deal With\" Anymore",
+      "article_headline": "\"I’m 37, And I’m Beyond Over It\": Older Adults Are Revealing The Things They're \"Too Old To Deal With\" Anymore"
+    },
+    {
+      "link": "https://apple.news/AuHga4HFWS0W3b1SJ7P9X4w",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-07-02 17:00:29",
+      "pub_time": "2026-07-02 15:04:37",
+      "publication": "Fox News",
+      "author": "Michael Ruiz",
+      "headline": "Nancy Guthrie 'imposter' behind phony ransom notes pleads guilty to federal charges",
+      "article_headline": "Nancy Guthrie 'imposter' behind phony ransom notes pleads guilty to federal charges"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-07-02 17:00:29",
+      "pub_time": "2026-07-02 08:05:05",
+      "publication": "",
+      "author": "Stacey Leasca",
+      "headline": "These U.S. Airports Require the Longest Walks—and No. 1 Is Nearly 1.5 Miles",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-07-02 17:00:29",
+      "pub_time": "2026-07-02 05:05:05",
+      "publication": "Reuters",
+      "author": "Hannah Seligson",
+      "headline": "An All-American Tragedy: The Story of Brandon and Candice Miller",
+      "article_headline": "Appeals court prevents Trump administration from firing intelligence officers assigned to DEI programs"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-07-02 17:20:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AFOjprRzjRPGIRllyek6vIA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-02 17:20:32",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Brutal heatwave scorches East Coast ahead of Fourth of July weekend",
+      "article_headline": "Brutal heatwave scorches eastern US ahead of Fourth of July weekend"
+    },
+    {
+      "link": "https://apple.news/AHovlesxTRLCHOYeBi5MjbQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-02 17:20:32",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Appeals court prevents Trump administration from firing intelligence officers assigned to DEI programs",
+      "article_headline": "Appeals court prevents Trump administration from firing intelligence officers assigned to DEI programs"
+    },
+    {
+      "link": "https://apple.news/AayPEZ7nIQziAN4pNPHgNOg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-02 17:20:32",
+      "pub_time": "2026-07-02 16:48:35",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "ICE arrests 10,000 people in 5 days, a sharp late-June surge in Trump’s deportation push",
+      "article_headline": "ICE arrests 10,000 people in 5 days, a sharp late-June surge in Trump’s deportation push"
+    },
+    {
+      "link": "https://apple.news/A8Mai9CUCTceQ8-CGs_SfvA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-02 17:20:32",
+      "pub_time": "2026-07-02 16:49:02",
+      "publication": "The Washington Post",
+      "author": "Salvador Rizzo, Perry Stein, and Jeremy Roebuck",
+      "headline": "Former Olympian faces felony charge over alleged Reflecting Pool vandalism",
+      "article_headline": "Former Olympian faces felony charge over alleged Reflecting Pool vandalism"
+    },
+    {
+      "link": "https://apple.news/AayPEZ7nIQziAN4pNPHgNOg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-02 17:20:32",
+      "pub_time": "2026-07-02 16:48:35",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "ICE arrests 10,000 people in 5 days, a sharp late-June surge in Trump’s deportation push",
+      "article_headline": "ICE arrests 10,000 people in 5 days, a sharp late-June surge in Trump’s deportation push"
+    },
+    {
+      "link": "https://apple.news/A8Mai9CUCTceQ8-CGs_SfvA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-02 17:20:32",
+      "pub_time": "2026-07-02 16:49:03",
+      "publication": "The Washington Post",
+      "author": "Salvador Rizzo, Perry Stein, and Jeremy Roebuck",
+      "headline": "Former Olympian faces felony charge over alleged Reflecting Pool vandalism",
+      "article_headline": "Former Olympian faces felony charge over alleged Reflecting Pool vandalism"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-02 17:20:32",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "On Wimbledon’s slippery grass, the art of falling is as important as any tennis shot",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

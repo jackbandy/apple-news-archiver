@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-07-02 12:20:30",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A3cxWK50BTWKMmxn2j8S3ww",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-02 12:20:30",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "U.S. snaps hiring hot streak with only 57,000 jobs added in June",
+      "article_headline": "U.S. snaps hiring hot streak with only 57,000 jobs added in June"
+    },
+    {
+      "link": "https://apple.news/AZYrrNuPdRTqpndw3BJRVNg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-02 12:20:30",
+      "pub_time": "",
+      "publication": "WIRED",
+      "author": "",
+      "headline": "Heat domes are dangerous. July Fourth activities will make things worse.",
+      "article_headline": "Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse"
+    },
+    {
+      "link": "https://apple.news/AbJ747ileS1Wlg7yKPAuXWg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-02 12:20:30",
+      "pub_time": "2026-07-02 12:12:32",
+      "publication": "The Guardian",
+      "author": "Shaun Walker",
+      "headline": "At least 21 dead as Russia launches massive drone and missile attack on Kyiv",
+      "article_headline": "At least 21 dead as Russia launches massive drone and missile attack on Kyiv"
+    },
+    {
+      "link": "https://apple.news/Ax9oYNUBZR3eaNpqc39hBKw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-02 12:20:30",
+      "pub_time": "2026-07-02 12:13:00",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Vatican excommunicates schismatic bishops and priests, and warns their followers",
+      "article_headline": "Vatican excommunicates schismatic bishops and priests, and warns their followers"
+    },
+    {
+      "link": "https://apple.news/AbJ747ileS1Wlg7yKPAuXWg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-02 12:20:30",
+      "pub_time": "2026-07-02 12:12:33",
+      "publication": "The Guardian",
+      "author": "Shaun Walker",
+      "headline": "At least 21 dead as Russia launches massive drone and missile attack on Kyiv",
+      "article_headline": "At least 21 dead as Russia launches massive drone and missile attack on Kyiv"
+    },
+    {
+      "link": "https://apple.news/Ax9oYNUBZR3eaNpqc39hBKw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-02 12:20:30",
+      "pub_time": "2026-07-02 12:13:01",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Vatican excommunicates schismatic bishops and priests, and warns their followers",
+      "article_headline": "Vatican excommunicates schismatic bishops and priests, and warns their followers"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-02 12:20:30",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Kane, Messi, Mbappé, and other stars are dominating this World Cup. That is not normal.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
