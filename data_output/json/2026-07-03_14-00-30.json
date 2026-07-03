@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-07-03 14:00:30",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A3PpPFGicTnGRDeP6tY7cHg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-03 14:00:30",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Extreme heat bears down as America 250 celebrations ramp up",
+      "article_headline": "Extreme heat bears down as America 250 celebrations ramp up"
+    },
+    {
+      "link": "https://apple.news/AW69yuKe4RtCsbuB3hyRO3w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-03 14:00:30",
+      "pub_time": "2026-07-03 13:00:59",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon and Sune Engel Rasmussen",
+      "headline": "Iran begins Khamenei’s funeral in show of defiance against the U.S.",
+      "article_headline": "Iran begins Khamenei’s funeral in show of defiance against the U.S."
+    },
+    {
+      "link": "https://apple.news/AJwma5R_SSlatr-LvIuBuRQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-03 14:00:30",
+      "pub_time": "2026-07-03 13:01:26",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "U.N. issues “red alert” over “catastrophe” in Sudan’s El-Obeid",
+      "article_headline": "U.N. issues “red alert” over “catastrophe” in Sudan’s El-Obeid"
+    },
+    {
+      "link": "https://apple.news/AiiTztnQNSVeq3t1GYUERTA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-03 14:00:30",
+      "pub_time": "2026-07-03 13:01:58",
+      "publication": "The Guardian",
+      "author": "Ed Pilkington",
+      "headline": "An archaic execution method on the rise as Idaho opens a new death chamber",
+      "article_headline": "An archaic execution method on the rise as Idaho opens a new death chamber"
+    },
+    {
+      "link": "https://apple.news/AiiTztnQNSVeq3t1GYUERTA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-03 14:00:30",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Djokovic wins 105th match at Wimbledon to equal Federer record",
+      "article_headline": "An archaic execution method on the rise as Idaho opens a new death chamber"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-03 14:00:30",
+      "pub_time": "2026-07-03 13:02:59",
+      "publication": "The Wall Street Journal",
+      "author": "Glenn Ruffenach",
+      "headline": "The high-stakes effort to repair the American retirement system",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-03 14:00:30",
+      "pub_time": "2026-07-03 13:03:13",
+      "publication": "Delish",
+      "author": "Anya Ptacek",
+      "headline": "These 10 ‘Salad Cocktails’ Make Any Occasion Feel Like A Garden Party",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

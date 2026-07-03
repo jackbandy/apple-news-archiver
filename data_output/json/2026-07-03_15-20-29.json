@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-07-03 15:20:29",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A3PpPFGicTnGRDeP6tY7cHg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-03 15:20:29",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Extreme heat bears down as America 250 celebrations ramp up",
+      "article_headline": "Extreme heat bears down as America 250 celebrations ramp up"
+    },
+    {
+      "link": "https://apple.news/AW69yuKe4RtCsbuB3hyRO3w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-03 15:20:29",
+      "pub_time": "2026-07-03 14:55:59",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon and Sune Engel Rasmussen",
+      "headline": "Iran begins Khamenei’s funeral in show of defiance against the U.S.",
+      "article_headline": "Iran begins Khamenei’s funeral in show of defiance against the U.S."
+    },
+    {
+      "link": "https://apple.news/AJwma5R_SSlatr-LvIuBuRQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-03 15:20:29",
+      "pub_time": "2026-07-03 14:56:26",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "U.N. issues “red alert” over “catastrophe” in Sudan’s El-Obeid",
+      "article_headline": "U.N. issues “red alert” over “catastrophe” in Sudan’s El-Obeid"
+    },
+    {
+      "link": "https://apple.news/AW69yuKe4RtCsbuB3hyRO3w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-03 15:20:29",
+      "pub_time": "2026-07-03 14:55:59",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon and Sune Engel Rasmussen",
+      "headline": "Iran begins Khamenei’s funeral in show of defiance against the U.S.",
+      "article_headline": "Iran begins Khamenei’s funeral in show of defiance against the U.S."
+    },
+    {
+      "link": "https://apple.news/AJwma5R_SSlatr-LvIuBuRQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-03 15:20:29",
+      "pub_time": "2026-07-03 14:56:26",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "U.N. issues “red alert” over “catastrophe” in Sudan’s El-Obeid",
+      "article_headline": "U.N. issues “red alert” over “catastrophe” in Sudan’s El-Obeid"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-03 15:20:29",
+      "pub_time": "2026-07-03 14:55:53",
+      "publication": "Philadelphia Inquirer",
+      "author": "Aliya Schneider",
+      "headline": "Pope Leo XIV celebrates immigrants in speech to Philadelphia crowd",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aq6ZU1UFzTlWFtKtd-ScQow",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-03 15:20:29",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Djokovic wins 105th match at Wimbledon to equal Federer record",
+      "article_headline": "Djokovic wins 105th match at Wimbledon to equal Federer record"
+    }
+  ]
+}
