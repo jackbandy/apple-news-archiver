@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-07-03 07:40:30",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AkiuSKysOQVSqFGCk2bb1JA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-03 07:40:30",
+      "pub_time": "",
+      "publication": "AccuWeather",
+      "author": "",
+      "headline": "Extreme heat, severe storms, and wildfires highlight July Fourth weather hazards",
+      "article_headline": "Extreme heat, severe storms and wildfires highlight July Fourth weather hazards"
+    },
+    {
+      "link": "https://apple.news/AMYsxMbFST8C-TPKx-sqNiQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-03 07:40:30",
+      "pub_time": "2026-07-03 06:40:59",
+      "publication": "NBC News",
+      "author": "Babak Dehghanpisheh",
+      "headline": "Millions expected at delayed Khamenei funeral as Iran seeks to project strength",
+      "article_headline": "Millions expected at delayed Khamenei funeral as Iran seeks to project strength"
+    },
+    {
+      "link": "https://apple.news/Af06HzwzNRBqDxQGh3FusRw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-03 07:40:30",
+      "pub_time": "2026-07-03 06:41:27",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "DOJ defends decision to withhold millions of Epstein documents",
+      "article_headline": "DOJ defends decision to withhold millions of Epstein documents"
+    },
+    {
+      "link": "https://apple.news/AeHWHkDHkTrCvxQwYZ90TpQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-03 07:40:30",
+      "pub_time": "2026-07-03 06:41:59",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Rare copy of the Declaration of Independence found by volunteer in U.K. archives",
+      "article_headline": "Rare copy of the Declaration of Independence found by volunteer in U.K. archives"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-03 07:40:30",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Could Messi break the ultimate World Cup goals record? He just might.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-03 07:40:30",
+      "pub_time": "2026-07-03 06:42:31",
+      "publication": "The Atlantic",
+      "author": "Gary Taubes",
+      "headline": "Does the war on ultraprocessed foods make any sense?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-03 07:40:30",
+      "pub_time": "2026-07-03 07:00:45",
+      "publication": "The Verge",
+      "author": "Andrew Webster",
+      "headline": "Apple TV is hitting its stride",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

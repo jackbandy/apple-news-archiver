@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-07-03 07:20:30",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AkiuSKysOQVSqFGCk2bb1JA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-03 07:20:30",
+      "pub_time": "",
+      "publication": "AccuWeather",
+      "author": "",
+      "headline": "Extreme heat, severe storms, and wildfires highlight July Fourth weather hazards",
+      "article_headline": "Extreme heat, severe storms and wildfires highlight July Fourth weather hazards"
+    },
+    {
+      "link": "https://apple.news/AMYsxMbFST8C-TPKx-sqNiQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-03 07:20:30",
+      "pub_time": "2026-07-03 06:23:59",
+      "publication": "NBC News",
+      "author": "Babak Dehghanpisheh",
+      "headline": "Millions expected at delayed Khamenei funeral as Iran seeks to project strength",
+      "article_headline": "Millions expected at delayed Khamenei funeral as Iran seeks to project strength"
+    },
+    {
+      "link": "https://apple.news/Af06HzwzNRBqDxQGh3FusRw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-03 07:20:30",
+      "pub_time": "2026-07-03 06:24:27",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "DOJ defends decision to withhold millions of Epstein documents",
+      "article_headline": "DOJ defends decision to withhold millions of Epstein documents"
+    },
+    {
+      "link": "https://apple.news/AMYsxMbFST8C-TPKx-sqNiQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-03 07:20:30",
+      "pub_time": "2026-07-03 06:24:00",
+      "publication": "NBC News",
+      "author": "Babak Dehghanpisheh",
+      "headline": "Millions expected at delayed Khamenei funeral as Iran seeks to project strength",
+      "article_headline": "Millions expected at delayed Khamenei funeral as Iran seeks to project strength"
+    },
+    {
+      "link": "https://apple.news/Af06HzwzNRBqDxQGh3FusRw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-03 07:20:30",
+      "pub_time": "2026-07-03 06:24:27",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "DOJ defends decision to withhold millions of Epstein documents",
+      "article_headline": "DOJ defends decision to withhold millions of Epstein documents"
+    },
+    {
+      "link": "https://apple.news/AeHWHkDHkTrCvxQwYZ90TpQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-03 07:20:30",
+      "pub_time": "2026-07-03 06:23:55",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Rare copy of the Declaration of Independence found by volunteer in U.K. archives",
+      "article_headline": "Rare copy of the Declaration of Independence found by volunteer in U.K. archives"
+    },
+    {
+      "link": "https://apple.news/AeHWHkDHkTrCvxQwYZ90TpQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-07-03 07:20:30",
+      "pub_time": "2026-07-03 06:23:27",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Rare copy of the Declaration of Independence found by volunteer in U.K. archives",
+      "article_headline": "Rare copy of the Declaration of Independence found by volunteer in U.K. archives"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-07-03 07:20:30",
+      "pub_time": "2026-07-02 13:24:23",
+      "publication": "",
+      "author": "Elizabeth Shaw, M.S., RDN, CPT",
+      "headline": "We Asked Physical Therapists the Core Exercise They Wish People Did Most Days —They All Picked the Same One",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ANLhELSlKQj28c95Vs1WxoA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-07-03 07:20:30",
+      "pub_time": "2026-07-02 23:24:40",
+      "publication": "People",
+      "author": "Madison E. Goldberg",
+      "headline": "Arizona Toddler Discovered Alive in Hospital Morgue Hours After Being Pronounced Dead: Reports",
+      "article_headline": "Arizona Toddler Discovered Alive in Hospital Morgue Hours After Being Pronounced Dead: Reports"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-07-03 07:20:30",
+      "pub_time": "2026-07-02 13:25:07",
+      "publication": "",
+      "author": "Rachel Tavel PT, DPT, CSCS",
+      "headline": "Experts Say This Type of Exercise is the 'Fountain Of Youth'— Especially If You're Over 50",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AT-_-Uz9nR7uOIYINPRMB3A",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-07-03 07:20:30",
+      "pub_time": "2026-07-02 16:25:13",
+      "publication": "ABC News",
+      "author": "Mary Kekatos and Megan Fahrney",
+      "headline": "'Large and growing' parasitic infection outbreak spreading in Michigan",
+      "article_headline": "'Large and growing' parasitic infection outbreak spreading in Michigan"
+    }
+  ]
+}
