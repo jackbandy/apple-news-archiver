@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-07-04 00:00:30",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A6huDsQuFSgCalB-gr_ih6A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-04 00:00:30",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump extols America and rails against communism in remarks at Mount Rushmore",
+      "article_headline": "Trump extols America and rails against communism in remarks at Mount Rushmore"
+    },
+    {
+      "link": "https://apple.news/As_kQ5EJlQf2rpZOvnLsQzA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-04 00:00:30",
+      "pub_time": "2026-07-03 23:34:59",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war",
+      "article_headline": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war"
+    },
+    {
+      "link": "https://apple.news/AF7HaPqcZRwiRPOLkzzIpCg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-04 00:00:30",
+      "pub_time": "2026-07-03 23:35:27",
+      "publication": "KFF Health News",
+      "author": "David Hilzenrath and Holly K. Hacker",
+      "headline": "A mom said infant formula killed her baby. The manufacturer closed the file.",
+      "article_headline": "A mom said infant formula killed her baby. The manufacturer closed the file."
+    },
+    {
+      "link": "https://apple.news/As_kQ5EJlQf2rpZOvnLsQzA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-04 00:00:30",
+      "pub_time": "2026-07-03 23:35:00",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war",
+      "article_headline": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war"
+    },
+    {
+      "link": "https://apple.news/AF7HaPqcZRwiRPOLkzzIpCg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-04 00:00:30",
+      "pub_time": "2026-07-03 23:35:27",
+      "publication": "KFF Health News",
+      "author": "David Hilzenrath and Holly K. Hacker",
+      "headline": "A mom said infant formula killed her baby. The manufacturer closed the file.",
+      "article_headline": "A mom said infant formula killed her baby. The manufacturer closed the file."
+    },
+    {
+      "link": "https://apple.news/AJbphpXZrShGNMfdUeTQTIw?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RZOWtyS0FsdFNGbXViQVY1aFdPWHl3I25mZl9paWQ%3D",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-04 00:00:30",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Entertainment, Taylor Swift and Travis Kelce wed at Madison Square Garden in ceremony officiated by Adam Sandler",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-04 00:00:30",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "World Cup 2026, The World Cup’s smallest team just scared the champions — until Messi saved Argentina",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A-N_eiUDlR16Pdfc-xEb6rg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-07-04 00:00:30",
+      "pub_time": "2026-07-03 22:04:14",
+      "publication": "The Washington Post",
+      "author": "Juliet Eilperin",
+      "headline": "50 years ago, The Post pictured life in 2026. Here’s what it got right.",
+      "article_headline": "50 years ago, The Post pictured life in 2026. Here’s what it got right."
+    },
+    {
+      "link": "https://apple.news/A21cQWJwRR1iMtgVgyxr6tg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-07-04 00:00:30",
+      "pub_time": "2026-07-03 21:04:42",
+      "publication": "BuzzFeed",
+      "author": "Arsheen Kaur Sahni",
+      "headline": "30 Spectacular Photos From The 1950s That Show Just How UNHINGED \"The Fabulous Fifties\" Really Were",
+      "article_headline": "30 Spectacular Photos From The 1950s That Show Just How UNHINGED \"The Fabulous Fifties\" Really Were"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-07-04 00:00:30",
+      "pub_time": "2026-07-03 13:05:15",
+      "publication": "",
+      "author": "Kristen Wong",
+      "headline": "Caitlin Clark Leaves No Room for Hate With Powerful Statement on Alyssa Thomas Foul, Backlash",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AuXjUvs7hQlu9ZQv-yQ9wlA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-07-04 00:00:30",
+      "pub_time": "2026-07-03 23:31:15",
+      "publication": "NBC News",
+      "author": "Rebecca Cohen",
+      "headline": "Taylor Swift and Travis Kelce say ‘I do’ at star-studded bash",
+      "article_headline": "Taylor Swift and Travis Kelce say ‘I do’ at star-studded bash"
+    }
+  ]
+}
