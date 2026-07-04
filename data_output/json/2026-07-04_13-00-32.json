@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-07-04 13:00:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Af62xRtEKTpelKQvMs1nEqA?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-04 13:00:32",
+      "pub_time": "",
+      "publication": "Politics",
+      "author": "",
+      "headline": "Apple News Spotlight, As U.S. celebrates 250th birthday, political divisions test the country",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AV8u7ODyqQ5OhdD8Nu5LbSA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-04 13:00:32",
+      "pub_time": "2026-07-04 12:32:02",
+      "publication": "The Hill",
+      "author": "Finya Swai",
+      "headline": "Trump’s $1,000 investment accounts roll out for eligible newborns",
+      "article_headline": "Trump’s $1,000 investment accounts roll out for eligible newborns"
+    },
+    {
+      "link": "https://apple.news/AOX4dVOMtQGa673ah0eqftQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-04 13:00:32",
+      "pub_time": "2026-07-04 12:32:30",
+      "publication": "The Washington Post",
+      "author": "Molly Hennessy-Fiske",
+      "headline": "Beyond Camp Mystic, survivors of Texas floods struggle to move forward",
+      "article_headline": "Beyond Camp Mystic, survivors of Texas floods struggle to move forward"
+    },
+    {
+      "link": "https://apple.news/AV8u7ODyqQ5OhdD8Nu5LbSA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-04 13:00:32",
+      "pub_time": "2026-07-04 12:32:03",
+      "publication": "The Hill",
+      "author": "Finya Swai",
+      "headline": "Trump’s $1,000 investment accounts roll out for eligible newborns",
+      "article_headline": "Trump’s $1,000 investment accounts roll out for eligible newborns"
+    },
+    {
+      "link": "https://apple.news/AOX4dVOMtQGa673ah0eqftQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-04 13:00:32",
+      "pub_time": "2026-07-04 12:32:30",
+      "publication": "The Washington Post",
+      "author": "Molly Hennessy-Fiske",
+      "headline": "Beyond Camp Mystic, survivors of Texas floods struggle to move forward",
+      "article_headline": "Beyond Camp Mystic, survivors of Texas floods struggle to move forward"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-04 13:00:32",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Serena and Venus Williams withdraw from Wimbledon doubles",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-04 13:00:32",
+      "pub_time": "2026-07-04 12:31:08",
+      "publication": "The Wall Street Journal",
+      "author": "Alison Sider and Benjamin Katz",
+      "headline": "Airlines are installing new luxury seats — but no one is allowed to sit in them",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
