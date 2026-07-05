@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-07-05 17:00:29",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AdZXLvCNQRFmd2CSp1FfFVA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-05 17:00:29",
+      "pub_time": "2026-07-05 16:39:30",
+      "publication": "TIME",
+      "author": "Rebecca Schneid",
+      "headline": "Khamenei’s funeral is meant to project strength. But Iran’s new leader has yet to appear.",
+      "article_headline": "Khamenei’s funeral is meant to project strength. But Iran’s new leader has yet to appear."
+    },
+    {
+      "link": "https://apple.news/A4-WfW0fuSfaWquW1Ci567g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-05 17:00:29",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "World Cup 2026, FIFA sparks World Cup furor after Trump intervenes over U.S. striker’s red card",
+      "article_headline": "FIFA sparks World Cup furor after Trump intervenes over U.S. striker’s red card"
+    },
+    {
+      "link": "https://apple.news/AIakEhpdFTtuLNB5-DTgY5g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-05 17:00:29",
+      "pub_time": "2026-07-05 16:39:30",
+      "publication": "Detroit Free Press",
+      "author": "",
+      "headline": "State Sen. Mallory McMorrow drops out of Michigan’s closely watched U.S. Senate primary",
+      "article_headline": "Mallory McMorrow drops out of Michigan's US Senate race"
+    },
+    {
+      "link": "https://apple.news/Apdx959OdTf6n-6HbENX-bA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-05 17:00:29",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "At least 25 people have died in a weeklong heat wave across the U.S.",
+      "article_headline": "At least 25 people have died in a weeklong heat wave across the U.S."
+    },
+    {
+      "link": "https://apple.news/AIakEhpdFTtuLNB5-DTgY5g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-05 17:00:29",
+      "pub_time": "2026-07-05 16:39:31",
+      "publication": "Detroit Free Press",
+      "author": "",
+      "headline": "State Sen. Mallory McMorrow drops out of Michigan’s closely watched U.S. Senate primary",
+      "article_headline": "Mallory McMorrow drops out of Michigan's US Senate race"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-05 17:00:29",
+      "pub_time": "2026-07-05 16:39:59",
+      "publication": "The Washington Post",
+      "author": "Cole Reynolds",
+      "headline": "Each Independence Day, this small town becomes the center of its own American story",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-05 17:00:29",
+      "pub_time": "2026-07-05 16:39:59",
+      "publication": "Los Angeles Times",
+      "author": "Alex Wigglesworth",
+      "headline": "This California city banned yoga classes at beaches and parks. One local is fighting back.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

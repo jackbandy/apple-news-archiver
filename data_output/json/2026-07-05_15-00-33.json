@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-07-05 15:00:33",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AB3qox7tKR9CLdVb5lzZ8Jw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-05 15:00:33",
+      "pub_time": "2026-07-05 14:39:34",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Trump blends history, military, and politics: 7 takeaways from America’s 250th celebration",
+      "article_headline": "Trump blends history, military, and politics: 7 takeaways from America’s 250th celebration"
+    },
+    {
+      "link": "https://apple.news/ARkyZGVwAQF2ZBnJZ18vxnQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-05 15:00:33",
+      "pub_time": "2026-07-05 14:40:02",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Trump holds separate calls with Putin and Zelenskyy on ending Ukraine war",
+      "article_headline": "Trump holds separate calls with Putin and Zelenskyy on ending Ukraine war"
+    },
+    {
+      "link": "https://apple.news/ARkyZGVwAQF2ZBnJZ18vxnQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-05 15:00:33",
+      "pub_time": "2026-07-05 14:39:35",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Trump holds separate calls with Putin and Zelenskyy on ending Ukraine war",
+      "article_headline": "Trump holds separate calls with Putin and Zelenskyy on ending Ukraine war"
+    },
+    {
+      "link": "https://apple.news/Apdx959OdTf6n-6HbENX-bA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-05 15:00:33",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "At least 25 people have died in a weeklong heat wave across the U.S.",
+      "article_headline": "At least 25 people have died in a weeklong heat wave across the U.S."
+    },
+    {
+      "link": "https://apple.news/AjNSwFmn6SCSvbowz_Meidg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-05 15:00:33",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Folarin Balogun available for USMNT vs. Belgium as red-card ban suspended",
+      "article_headline": "Folarin Balogun available for USMNT vs. Belgium as red card ban suspended"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-05 15:00:33",
+      "pub_time": "2026-07-05 14:39:04",
+      "publication": "The Wall Street Journal",
+      "author": "Angela Owens and Jim Carlton",
+      "headline": "Remote Montana town battles a luxury developer over land, water, and identity",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-05 15:00:33",
+      "pub_time": "2026-07-05 14:39:04",
+      "publication": "Los Angeles Times",
+      "author": "Alex Wigglesworth",
+      "headline": "This California city banned yoga classes at beaches and parks. One local is fighting back.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ArXwOg7alSRu2sspN9DTn8g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-07-05 15:00:33",
+      "pub_time": "2026-07-05 06:03:51",
+      "publication": "HuffPost",
+      "author": "Caroline Bologna",
+      "headline": "'Bare Beating' Is The Rudest Public Behavior — And You Are Likely Guilty Of It",
+      "article_headline": "'Bare Beating' Is The Rudest Public Behavior — And You Are Likely Guilty Of It"
+    },
+    {
+      "link": "https://apple.news/A8IR6MnvsRKuc5nxWfxe8gw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-07-05 15:00:33",
+      "pub_time": "2026-07-05 11:04:24",
+      "publication": "Fox News",
+      "author": "Amber Harding",
+      "headline": "German World Cup fan breaks down in tears after being blown away by kindness of Americans",
+      "article_headline": "German World Cup fan breaks down in tears after being blown away by kindness of Americans"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-07-05 15:00:33",
+      "pub_time": "2026-07-04 15:04:52",
+      "publication": "",
+      "author": "Lindsey Bever",
+      "headline": "6 surprising tips for how to hydrate better",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A8dVa1jzVTjSywZCJspsayA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-07-05 15:00:33",
+      "pub_time": "2026-07-05 12:04:52",
+      "publication": "BuzzFeed",
+      "author": "Jamie Ko",
+      "headline": "15 \"Old Person\" Habits Millennials Used To Mock Before Realizing Everyone Should Actually Be Doing Them",
+      "article_headline": "15 \"Old Person\" Habits Millennials Used To Mock Before Realizing Everyone Should Actually Be Doing Them"
+    }
+  ]
+}
