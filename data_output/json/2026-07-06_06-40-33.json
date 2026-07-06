@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-07-06 06:40:33",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AhqghaOb6Rnu_DCG4TNQ3Tg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-06 06:40:33",
+      "pub_time": "2026-07-06 06:36:34",
+      "publication": "The Washington Post",
+      "author": "David Stern and Anastacia Galouchka",
+      "headline": "Deadly Russian strikes hit Ukraine’s capital ahead of key NATO meeting",
+      "article_headline": "Deadly Russian strikes hit Ukraine’s capital ahead of key NATO meeting"
+    },
+    {
+      "link": "https://apple.news/AkHN_66DUTLK9hfCgprMzqg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-06 06:40:33",
+      "pub_time": "2026-07-06 06:37:02",
+      "publication": "The Guardian",
+      "author": "Josh Butler and Dan Jervis-Bardy",
+      "headline": "China tests long-range missile in South Pacific in move condemned as “destabilizing” to the region",
+      "article_headline": "China tests long-range missile in South Pacific in move condemned as “destabilizing” to the region"
+    },
+    {
+      "link": "https://apple.news/AkHN_66DUTLK9hfCgprMzqg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-06 06:40:33",
+      "pub_time": "2026-07-06 06:36:36",
+      "publication": "The Guardian",
+      "author": "Josh Butler and Dan Jervis-Bardy",
+      "headline": "China tests long-range missile in South Pacific in move condemned as “destabilizing” to the region",
+      "article_headline": "China tests long-range missile in South Pacific in move condemned as “destabilizing” to the region"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-06 06:40:33",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "World Cup 2026, Belgium granted right to appeal against FIFA’s Folarin Balogun ban decision",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AFcF3ZSIcScyMJi7U8VgYKQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-06 06:40:33",
+      "pub_time": "2026-07-06 06:37:04",
+      "publication": "NPR",
+      "author": "Joel Rose",
+      "headline": "National Guard troops fatally shoot a man in downtown Memphis",
+      "article_headline": "National Guard troops fatally shoot a man in downtown Memphis"
+    },
+    {
+      "link": "https://apple.news/AFcF3ZSIcScyMJi7U8VgYKQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-06 06:40:33",
+      "pub_time": "2026-07-06 06:36:36",
+      "publication": "NPR",
+      "author": "Joel Rose",
+      "headline": "National Guard troops fatally shoot a man in downtown Memphis",
+      "article_headline": "National Guard troops fatally shoot a man in downtown Memphis"
+    },
+    {
+      "link": "https://apple.news/ALEqkSIybSqmkfmXtFnaDpA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-06 06:40:33",
+      "pub_time": "2026-07-06 06:37:04",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Young Castro in first U.S. interview says he’s ready to lead Cuba and negotiate its future with Trump",
+      "article_headline": "Young Castro in first U.S. interview says he’s ready to lead Cuba and negotiate its future with Trump"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-07-06 06:20:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AVQM3eYGCTKi_7WvPt6bMMA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-06 06:20:31",
+      "pub_time": "",
+      "publication": "World Cup 2026",
+      "author": "",
+      "headline": "Reuters, Trump intervention sparks World Cup storm as FIFA clears Balogun to face Belgium",
+      "article_headline": "Trump intervention sparks World Cup storm as FIFA clears Balogun to face Belgium"
+    },
+    {
+      "link": "https://apple.news/AvS27AvsyToWLPi4ll8nP6Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-06 06:20:31",
+      "pub_time": "2026-07-06 05:21:00",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "Russian strike kills 14 around Kyiv on eve of NATO summit",
+      "article_headline": "Russian strike kills 14 around Kyiv on eve of NATO summit"
+    },
+    {
+      "link": "https://apple.news/AkHN_66DUTLK9hfCgprMzqg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-06 06:20:31",
+      "pub_time": "2026-07-06 05:21:28",
+      "publication": "The Guardian",
+      "author": "Josh Butler and Dan Jervis-Bardy",
+      "headline": "China tests long-range missile in South Pacific in move condemned as “destabilizing” to the region",
+      "article_headline": "China tests long-range missile in South Pacific in move condemned as “destabilizing” to the region"
+    },
+    {
+      "link": "https://apple.news/AFcF3ZSIcScyMJi7U8VgYKQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-06 06:20:31",
+      "pub_time": "2026-07-06 05:22:01",
+      "publication": "NPR",
+      "author": "Joel Rose",
+      "headline": "National Guard troops fatally shoot a man in downtown Memphis",
+      "article_headline": "National Guard troops fatally shoot a man in downtown Memphis"
+    },
+    {
+      "link": "https://apple.news/A7JQtG1J4QV-3oK_FCvtFLg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-06 06:20:31",
+      "pub_time": "2026-07-06 05:22:34",
+      "publication": "New York Post",
+      "author": "Steven Vago, Joe Marino, and Ronny Reyes",
+      "headline": "Harrowing video captures moment inside seaplane as it crashes into NYC’s East River carrying 8 passengers",
+      "article_headline": "Harrowing video captures moment inside seaplane as it crashes into NYC’s East River carrying 8 passengers"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-06 06:20:31",
+      "pub_time": "2026-07-06 05:23:01",
+      "publication": "The Wall Street Journal",
+      "author": "Dave Michaels and Patrick Thomas",
+      "headline": "Inside the egg price-fixing scandal that spiked American grocery bills",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-06 06:20:31",
+      "pub_time": "",
+      "publication": "FOOD & WINE",
+      "author": "",
+      "headline": "Why American Wagyu Is the Luxury Beef More Chefs Are Choosing, Adam H. Callaghan",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-07-06 08:20:29",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AAbo1-QxDQXCARy76gisgIg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-06 08:20:29",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "A zombie Congress is threatening Trump’s agenda",
+      "article_headline": "A zombie Congress is threatening Trump’s agenda"
+    },
+    {
+      "link": "https://apple.news/AhqghaOb6Rnu_DCG4TNQ3Tg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-06 08:20:29",
+      "pub_time": "2026-07-06 08:16:58",
+      "publication": "The Washington Post",
+      "author": "David Stern and Anastacia Galouchka",
+      "headline": "Deadly Russian strikes hit Ukraine’s capital ahead of key NATO meeting",
+      "article_headline": "Deadly Russian strikes hit Ukraine’s capital ahead of key NATO meeting"
+    },
+    {
+      "link": "https://apple.news/AhqghaOb6Rnu_DCG4TNQ3Tg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-06 08:20:29",
+      "pub_time": "2026-07-06 08:16:31",
+      "publication": "The Washington Post",
+      "author": "David Stern and Anastacia Galouchka",
+      "headline": "Deadly Russian strikes hit Ukraine’s capital ahead of key NATO meeting",
+      "article_headline": "Deadly Russian strikes hit Ukraine’s capital ahead of key NATO meeting"
+    },
+    {
+      "link": "https://apple.news/A465qq0omRKycP5OZprw9DA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-06 08:20:29",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "World Cup 2026, The U.S. to face Belgium in the World Cup on the heels of Trump-Infantino red-card call",
+      "article_headline": "The U.S. to face Belgium in the World Cup on the heels of Trump-Infantino red-card call"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-06 08:20:29",
+      "pub_time": "2026-07-06 08:17:26",
+      "publication": "Los Angeles Times",
+      "author": "Rong-Gong Lin II",
+      "headline": "Brewing El Niño and roasting oceans push planet into “uncharted territory” for heat",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-07-06 08:20:29",
+      "pub_time": "2026-07-06 08:16:32",
+      "publication": "Los Angeles Times",
+      "author": "Rong-Gong Lin II",
+      "headline": "Brewing El Niño and roasting oceans push planet into “uncharted territory” for heat",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ALEqkSIybSqmkfmXtFnaDpA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-06 08:20:29",
+      "pub_time": "2026-07-06 08:16:32",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Young Castro in first U.S. interview says he’s ready to lead Cuba and negotiate its future with Trump",
+      "article_headline": "Young Castro in first U.S. interview says he’s ready to lead Cuba and negotiate its future with Trump"
+    }
+  ]
+}
