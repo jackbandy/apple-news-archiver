@@ -1,0 +1,119 @@
+{
+  "run_time": "2026-07-05 20:00:30",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/A4-WfW0fuSfaWquW1Ci567g",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-07-05 20:00:30",
+      "pub_time": "",
+      "publication": "World Cup 2026",
+      "author": "",
+      "headline": "The Wall Street Journal, FIFA sparks World Cup furor after Trump intervenes over U.S. striker’s red card",
+      "article_headline": "FIFA sparks World Cup furor after Trump intervenes over U.S. striker’s red card"
+    },
+    {
+      "link": "https://apple.news/A6QhZ42h-Q9a8rEJyBPQyEg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-07-05 20:00:30",
+      "pub_time": "2026-07-05 19:24:00",
+      "publication": "ABC News",
+      "author": "Kyle Reiman and Bill Hutchinson",
+      "headline": "25 suspected heat deaths in New Jersey from record-breaking July 4 weekend temperatures",
+      "article_headline": "25 suspected heat deaths in New Jersey from record-breaking July 4 weekend temperatures"
+    },
+    {
+      "link": "https://apple.news/A929cDXxDRKuVQHnLYnCpPQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-07-05 20:00:30",
+      "pub_time": "2026-07-05 19:24:27",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Khamenei’s other sons appear at his funeral in Iran as new supreme leader remains in hiding",
+      "article_headline": "Khamenei’s other sons appear at his funeral in Iran as new supreme leader remains in hiding"
+    },
+    {
+      "link": "https://apple.news/A6QhZ42h-Q9a8rEJyBPQyEg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-07-05 20:00:30",
+      "pub_time": "2026-07-05 19:23:59",
+      "publication": "ABC News",
+      "author": "Kyle Reiman and Bill Hutchinson",
+      "headline": "25 suspected heat deaths in New Jersey from record-breaking July 4 weekend temperatures",
+      "article_headline": "25 suspected heat deaths in New Jersey from record-breaking July 4 weekend temperatures"
+    },
+    {
+      "link": "https://apple.news/A929cDXxDRKuVQHnLYnCpPQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-07-05 20:00:30",
+      "pub_time": "2026-07-05 19:24:27",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Khamenei’s other sons appear at his funeral in Iran as new supreme leader remains in hiding",
+      "article_headline": "Khamenei’s other sons appear at his funeral in Iran as new supreme leader remains in hiding"
+    },
+    {
+      "link": "https://apple.news/A9vPHMqIXTwii9yicvFBsgQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-07-05 20:00:30",
+      "pub_time": "2026-07-05 19:24:54",
+      "publication": "The Washington Post",
+      "author": "Brianna Sacks",
+      "headline": "“So frustrated I could cry”: As wildfires rip across the West, federal firefighters describe burnout and staff cuts",
+      "article_headline": "‘I’m so frustrated I could cry’: Federal firefighters describe burnout, staff cuts"
+    },
+    {
+      "link": "https://apple.news/A9vPHMqIXTwii9yicvFBsgQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-07-05 20:00:30",
+      "pub_time": "2026-07-05 19:24:27",
+      "publication": "The Washington Post",
+      "author": "Brianna Sacks",
+      "headline": "“So frustrated I could cry”: As wildfires rip across the West, federal firefighters describe burnout and staff cuts",
+      "article_headline": "‘I’m so frustrated I could cry’: Federal firefighters describe burnout, staff cuts"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-07-05 20:00:30",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The new rules for wearing leggings, Ashley Fetters Maloy",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-07-05 20:00:30",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The tech-company retreat that went horribly wrong, Ellen Gamerman",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-07-05 20:00:30",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "The surprising symptoms that may appear years before an Alzheimer’s diagnosis, Meryl Davids Landau",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
